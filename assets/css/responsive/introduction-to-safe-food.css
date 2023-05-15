@@ -1,0 +1,37 @@
+@media screen and (max-width: 600px) {
+    .section1 {
+        flex-direction: column !important;
+    }
+    .section-simple-way h3, .left-content h3 {
+        font-size: 25px !important;
+        text-transform: capitalize;
+    }
+    .didyouknow h3 {
+        font-size: 25px !important;
+    }
+    .px-4 {
+        padding-right: 30px !important;
+        padding-left: 30px !important;
+    }
+    .offset-md-3{
+        margin-top: 50px;
+    }
+    .didyouknow_2culumn .px-4 {
+        width: 17rem !important;
+    }
+    .padr-60px {
+        padding-right: 0px !important;
+        padding: 0px 0px !important;
+    }
+    .section4 .right-content, .section4 .left-content {
+        padding: 30px 30px 0px !important;
+        width: 100% !important;
+    }
+    .img_class_down{
+        margin-bottom: 20px;
+    }
+   
+
+
+
+}

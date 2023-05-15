@@ -1,0 +1,370 @@
+﻿.ruler {
+  position: relative;
+  width: 100%;
+  margin: 20px auto;
+  height: 14px;
+}
+
+.ruler .cm {
+  position: absolute;
+  border-left: 2px solid #555;
+  height: 20px;
+  width: 6.451612903225806%;
+}
+
+.ruler .mm {
+  position: absolute;
+  border-left: 2px solid #555;
+  height: 20px;
+  width: 10%;
+}
+
+.ruler .cm:after {
+  position: absolute;
+  bottom: -19px;
+  left: 3px;
+  font: 11px;
+}
+
+.sec-1-content {
+  margin-top: 2rem;
+  margin-left: 1rem;
+}
+
+.ruler .mm {
+  height: 10px;
+  margin-top: 5px;
+}
+
+.ruler .mm:nth-of-type(5) {
+  height: 10px;
+}
+
+/*FIRST*/
+
+.ruler .cm:nth-of-type(1) {
+  left: 0%;
+}
+
+.ruler .cm:nth-of-type(1):after {
+  content: "0";
+}
+
+/*SECOND*/
+
+.ruler .cm:nth-of-type(2) {
+  left: 6.45%;
+}
+
+.ruler .cm:nth-of-type(2):after {
+  content: "1";
+}
+
+/*THIRD*/
+.ruler .cm:nth-of-type(3) {
+  left: 12.9%;
+}
+
+.ruler .cm:nth-of-type(3):after {
+  content: "2";
+}
+
+/*FOURTH*/
+.ruler .cm:nth-of-type(4) {
+  left: 19.35%;
+}
+
+.ruler .cm:nth-of-type(4):after {
+  content: "3";
+}
+
+/*fifth*/
+.ruler .cm:nth-of-type(5) {
+  left: 25.8%;
+}
+
+.ruler .cm:nth-of-type(5):after {
+  content: "4";
+}
+
+/*sixth*/
+.ruler .cm:nth-of-type(6) {
+  left: 32.25%;
+}
+
+.ruler .cm:nth-of-type(6):after {
+  content: "5";
+}
+
+/*seventh*/
+
+.ruler .cm:nth-of-type(7) {
+  left: 38.7%;
+}
+
+.ruler .cm:nth-of-type(7):after {
+  content: "6";
+}
+
+/*eighth*/
+.ruler .cm:nth-of-type(8) {
+  left: 45.15%;
+}
+
+.ruler .cm:nth-of-type(8):after {
+  content: "7";
+}
+
+/*nith*/
+
+.ruler .cm:nth-of-type(9) {
+  left: 51.6%;
+}
+
+.ruler .cm:nth-of-type(9):after {
+  content: "8";
+}
+
+/*tenth*/
+
+.ruler .cm:nth-of-type(10) {
+  left: 58.05%;
+}
+
+.ruler .cm:nth-of-type(10):after {
+  content: "9";
+}
+
+/*eleventh*/
+.ruler .cm:nth-of-type(11) {
+  left: 64.5%;
+}
+
+.ruler .cm:nth-of-type(11):after {
+  content: "10";
+}
+
+/*twelvth*/
+.ruler .cm:nth-of-type(12) {
+  left: 70.95%;
+}
+
+.ruler .cm:nth-of-type(12):after {
+  content: "11";
+}
+
+/*thirteenth*/
+.ruler .cm:nth-of-type(13) {
+  left: 77.4%;
+}
+
+.ruler .cm:nth-of-type(13):after {
+  content: "12";
+}
+
+/*fourteenth*/
+.ruler .cm:nth-of-type(14) {
+  left: 83.85%;
+}
+
+.ruler .cm:nth-of-type(14):after {
+  content: "13";
+}
+
+/*fifteenth*/
+.ruler .cm:nth-of-type(15) {
+  left: 90.3%;
+}
+
+.ruler .cm:nth-of-type(15):after {
+  content: "14";
+}
+
+/*sisteenth*/
+.ruler .cm:nth-of-type(16) {
+  left: 96.75%;
+}
+
+.ruler .cm:nth-of-type(16):after {
+  content: "15";
+}
+
+/*---------*/
+.ruler .mm:nth-of-type(1) {
+  left: 10%;
+}
+
+.ruler .mm:nth-of-type(2) {
+  left: 20%;
+}
+
+.ruler .mm:nth-of-type(3) {
+  left: 30%;
+}
+
+.ruler .mm:nth-of-type(4) {
+  left: 40%;
+}
+
+.ruler .mm:nth-of-type(5) {
+  left: 50%;
+  height: 15px;
+  margin-top: 2px;
+}
+
+.ruler .mm:nth-of-type(6) {
+  left: 60%;
+}
+
+.ruler .mm:nth-of-type(7) {
+  left: 70%;
+}
+
+.ruler .mm:nth-of-type(8) {
+  left: 80%;
+}
+
+.ruler .mm:nth-of-type(9) {
+  left: 90%;
+}
+
+.ruler .mm:nth-of-type(10) {
+  left: 100%;
+}
+/*----------------*/
+.swiper-slide-inner {
+  width: 16rem;
+  height: 16rem;
+  display: block;
+  background-color: white;
+  color: black;
+  font-size: 26px;
+  line-height: 16rem;
+  vertical-align: middle;
+  border-radius: 8rem;
+  font-weight: bold;
+  outline: 50px solid #ffe500;
+}
+
+.nbtn {
+  right: 10px !important;
+}
+.pbtn {
+  left: 10px !important;
+}
+
+.vegetables-inner,
+.fruits-inner {
+  height: 16rem;
+  line-height: 16rem;
+  vertical-align: middle;
+}
+
+/*Thermometer sectiom*/
+
+.thm-section {
+  background-color: #ffe500;
+  padding: 2rem;
+}
+
+.thermometer-wrapper {
+  display: block;
+  width: 100%;
+  height: 4rem;
+}
+
+.thermometer-inner {
+  background-color: #fff49a;
+  height: 4rem;
+  height: 100%;
+  border-radius: 3rem;
+  display: block;
+}
+
+.thm-inner-sec-1 {
+  width: 5%;
+  height: 4rem;
+  display: block;
+  position: relative;
+  float: left;
+}
+
+.thm-inner-sec-2 {
+  width: 90%;
+  height: 4rem;
+  position: relative;
+  position: relative;
+  display: block;
+  float: left;
+  /*margin-left: 2rem;*/
+}
+
+.thm-inner-sec-3 {
+  width: 1%;
+  height: 4rem;
+  display: block;
+  position: relative;
+  float: left;
+}
+
+.th-content-wrapper {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-top: 2rem;
+}
+
+.th-list-wrapper {
+}
+
+.th-list-inner {
+  width: 100%;
+  height: auto;
+}
+
+.th-list-fruits {
+  width: 50%;
+  display: block;
+  position: relative;
+  float: left;
+}
+
+.th-list-vegetables {
+  width: 50%;
+  display: block;
+  position: relative;
+  float: left;
+}
+
+.red-line {
+  display: block;
+  position: absolute;
+  width: 12.90322580645161%;
+  height: 4px;
+  border-left-width: 2px;
+  border-bottom-left-radius: 2px;
+  background-color: red;
+  top: 1.8rem;
+}
+
+.list-icon1 {
+  width: 8rem;
+}
+
+.fruit-list-container {
+  background-image: url("images/thermometer/fruits-lower-bg.svg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  display: block;
+  height: 19rem;
+  margin-top: -8rem;
+}
+
+.vegetable-list-container {
+  background-image: url("images/thermometer/vegetables-lower-bg.svg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  display: block;
+  height: 19rem;
+  margin-top: -8rem;
+}

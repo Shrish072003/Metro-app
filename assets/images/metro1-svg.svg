@@ -1,0 +1,569 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 608 372" width="608" height="372">
+	<title>metro1-svg</title>
+	<style>
+		.s0 { fill: #515151 } 
+		.s1 { fill: #4d4d4d } 
+		.s2 { fill: #8c8c8c } 
+		.s3 { fill: #686969 } 
+		.s4 { opacity: .2;fill: #9a5a96 } 
+		.s5 { opacity: .5;fill: #9fdae6 } 
+		.s6 { opacity: .5;fill: #ffffff } 
+		.s7 { opacity: .4;fill: #5f7485 } 
+		.s8 { fill: #424242 } 
+		.s9 { fill: #8b8a8b } 
+		.s10 { fill: #b3b3b3 } 
+		.s11 { fill: #717171 } 
+		.s12 { fill: #a9a8a8 } 
+		.s13 { fill: #979797 } 
+		.s14 { fill: #c2c1c1 } 
+		.s15 { fill: #4e4e4d } 
+		.s16 { fill: #676868 } 
+		.s17 { fill: #353635 } 
+		.s18 { fill: #313131 } 
+		.s19 { fill: #464646 } 
+		.s20 { fill: #939393 } 
+	</style>
+	<g id="XMLID_20424_">
+		<g id="XMLID_20545_">
+			<g id="XMLID_2341_">
+				<g id="XMLID_2342_">
+					<g id="XMLID_2356_">
+						<path id="XMLID_2357_" class="s0" d="m473.6 94.7v16l-3.7 2.2 0.1-16.1z"/>
+					</g>
+					<g id="XMLID_2354_">
+						<path id="XMLID_2355_" class="s1" d="m471.9 96.5l3.7-2.1-0.9 0.8-3.6 2.1z"/>
+					</g>
+					<g id="XMLID_2352_">
+						<path id="XMLID_2353_" class="s2" d="m476 93.6l-3.7 2.1-0.2-0.1 0.2-0.2h0.2l3.3-2z"/>
+					</g>
+					<g id="XMLID_2350_">
+						<path id="XMLID_2351_" class="s0" d="m473.2 96.2l3.7-2.1v1l-3.7 2.1z"/>
+					</g>
+					<g id="XMLID_2347_">
+						<path id="XMLID_2349_" class="s3" d="m468.2 97.8l1.8-1-0.1 16.1-1.8-1.1z"/>
+						<path id="XMLID_2348_" class="s3" d="m473.2 95.8v0.4 1l-1.3-0.7-0.8 0.8-1-0.5 2-1.2 0.2 0.1v-0.3-0.1l0.2 0.1z"/>
+					</g>
+					<g id="XMLID_2345_">
+						<path id="XMLID_2346_" class="s0" d="m473.2 95.8l3.7-2.1v0.4l-3.7 2.1z"/>
+					</g>
+					<g id="XMLID_2343_">
+						<path id="XMLID_2344_" class="s2" d="m472.3 95.3l3.7-2.1 0.9 0.5-3.7 2.1z"/>
+					</g>
+				</g>
+			</g>
+			<path id="XMLID_2340_" class="s4" d="m478.4 113.6l-3.4 2-5.1-2.9 3.6-1.9z"/>
+			<g id="XMLID_2377_">
+				<g id="XMLID_2378_">
+					<g id="XMLID_2392_">
+						<path id="XMLID_2393_" class="s0" d="m340 172.7l-0.1 16-3.6 2.1v-16z"/>
+					</g>
+					<g id="XMLID_2390_">
+						<path id="XMLID_2391_" class="s1" d="m338.3 174.4l3.6-2.1-0.8 0.9-3.7 2.1z"/>
+					</g>
+					<g id="XMLID_2388_">
+						<path id="XMLID_2389_" class="s2" d="m342.3 171.5l-3.6 2.1-0.2-0.1 0.2-0.1 0.1-0.1 3.3-1.9z"/>
+					</g>
+					<g id="XMLID_2386_">
+						<path id="XMLID_2387_" class="s0" d="m339.6 174.1l3.6-2.1v1.1l-3.6 2.1z"/>
+					</g>
+					<g id="XMLID_2383_">
+						<path id="XMLID_2385_" class="s3" d="m334.5 175.8l1.8-1v16l-1.8-1z"/>
+						<path id="XMLID_2384_" class="s3" d="m339.6 173.8v0.3 1.1l-1.3-0.8-0.9 0.9-1-0.6 2.1-1.2 0.2 0.1v-0.2-0.2l0.1 0.1z"/>
+					</g>
+					<g id="XMLID_2381_">
+						<path id="XMLID_2382_" class="s0" d="m339.6 173.8l3.6-2.2v0.4l-3.6 2.1z"/>
+					</g>
+					<g id="XMLID_2379_">
+						<path id="XMLID_2380_" class="s2" d="m338.7 173.2l3.6-2.1 0.9 0.5-3.6 2.2z"/>
+					</g>
+				</g>
+			</g>
+			<path id="XMLID_2376_" class="s4" d="m344.8 191.6l-3.5 2-5-2.9 3.5-2z"/>
+			<g id="XMLID_2395_">
+				<g id="XMLID_2396_">
+					<g id="XMLID_2410_">
+						<path id="XMLID_2411_" class="s0" d="m289.9 201.8l-0.1 16-3.6 2.2v-16.1z"/>
+					</g>
+					<g id="XMLID_2408_">
+						<path id="XMLID_2409_" class="s1" d="m288.2 203.6l3.6-2.1-0.8 0.8-3.6 2.1z"/>
+					</g>
+					<g id="XMLID_2406_">
+						<path id="XMLID_2407_" class="s2" d="m292.2 200.7l-3.6 2.1-0.2-0.1 0.2-0.1 0.1-0.1 3.4-1.9z"/>
+					</g>
+					<g id="XMLID_2404_">
+						<path id="XMLID_2405_" class="s0" d="m289.5 203.3l3.7-2.1v1l-3.7 2.1z"/>
+					</g>
+					<g id="XMLID_2401_">
+						<path id="XMLID_2403_" class="s3" d="m284.4 204.9l1.8-1v16.1l-1.8-1.1z"/>
+						<path id="XMLID_2402_" class="s3" d="m289.5 202.9v0.4 1l-1.3-0.7-0.8 0.8-1-0.5 2-1.2 0.2 0.1v-0.2-0.2l0.1 0.1z"/>
+					</g>
+					<g id="XMLID_2399_">
+						<path id="XMLID_2400_" class="s0" d="m289.5 202.9l3.7-2.1v0.4l-3.7 2.1z"/>
+					</g>
+					<g id="XMLID_2397_">
+						<path id="XMLID_2398_" class="s2" d="m288.6 202.4l3.6-2.1 1 0.5-3.7 2.1z"/>
+					</g>
+				</g>
+			</g>
+			<path id="XMLID_2394_" class="s4" d="m294.7 220.7l-3.5 2-5-2.9 3.6-1.9z"/>
+			<g id="XMLID_2413_">
+				<g id="XMLID_2414_">
+					<g id="XMLID_2428_">
+						<path id="XMLID_2429_" class="s0" d="m237.5 231.5l-0.1 16-3.6 2.1 0.1-16z"/>
+					</g>
+					<g id="XMLID_2426_">
+						<path id="XMLID_2427_" class="s1" d="m235.8 233.2l3.7-2.1-0.9 0.9-3.6 2.1z"/>
+					</g>
+					<g id="XMLID_2424_">
+						<path id="XMLID_2425_" class="s2" d="m239.8 230.3l-3.6 2.1-0.2-0.1 0.2-0.1h0.2l3.3-2z"/>
+					</g>
+					<g id="XMLID_2422_">
+						<path id="XMLID_2423_" class="s0" d="m237.1 233l3.7-2.1v1l-3.7 2.1z"/>
+					</g>
+					<g id="XMLID_2419_">
+						<path id="XMLID_2421_" class="s3" d="m232.1 234.6l1.8-1-0.1 16-1.8-1z"/>
+						<path id="XMLID_2420_" class="s3" d="m237.1 232.6v0.4 1l-1.3-0.8-0.8 0.9-1-0.6 2-1.2 0.2 0.1v-0.2-0.1l0.2 0.1z"/>
+					</g>
+					<g id="XMLID_2417_">
+						<path id="XMLID_2418_" class="s0" d="m237.1 232.6l3.7-2.1v0.4l-3.7 2.1z"/>
+					</g>
+					<g id="XMLID_2415_">
+						<path id="XMLID_2416_" class="s2" d="m236.2 232.1l3.6-2.1 1 0.5-3.7 2.1z"/>
+					</g>
+				</g>
+			</g>
+			<path id="XMLID_2412_" class="s4" d="m242.3 250.4l-3.4 2-5.1-2.9 3.5-2z"/>
+			<g id="XMLID_2431_">
+				<g id="XMLID_2432_">
+					<g id="XMLID_2446_">
+						<path id="XMLID_2447_" class="s0" d="m184.1 262.2l-0.1 16-3.6 2.2v-16.1z"/>
+					</g>
+					<g id="XMLID_2444_">
+						<path id="XMLID_2445_" class="s1" d="m182.4 264l3.7-2.1-0.9 0.8-3.6 2.2z"/>
+					</g>
+					<g id="XMLID_2442_">
+						<path id="XMLID_2443_" class="s2" d="m186.4 261.1l-3.6 2.1-0.2-0.1 0.2-0.1 0.1-0.1 3.4-1.9z"/>
+					</g>
+					<g id="XMLID_2440_">
+						<path id="XMLID_2441_" class="s0" d="m183.7 263.7l3.7-2.1-0.1 1-3.6 2.1z"/>
+					</g>
+					<g id="XMLID_2437_">
+						<path id="XMLID_2439_" class="s3" d="m178.7 265.4l1.7-1.1v16.1l-1.8-1.1z"/>
+						<path id="XMLID_2438_" class="s3" d="m183.7 263.3v0.4 1l-1.3-0.7-0.8 0.9-1.1-0.6 2.1-1.2 0.2 0.1v-0.2-0.2l0.1 0.1z"/>
+					</g>
+					<g id="XMLID_2435_">
+						<path id="XMLID_2436_" class="s0" d="m183.7 263.3l3.7-2.1v0.4l-3.7 2.1z"/>
+					</g>
+					<g id="XMLID_2433_">
+						<path id="XMLID_2434_" class="s2" d="m182.8 262.8l3.6-2.1 1 0.5-3.7 2.1z"/>
+					</g>
+				</g>
+			</g>
+			<path id="XMLID_2430_" class="s4" d="m188.9 281.2l-3.4 1.9-5.1-2.9 3.5-1.9z"/>
+			<g id="XMLID_2449_">
+				<g id="XMLID_2450_">
+					<g id="XMLID_2464_">
+						<path id="XMLID_2465_" class="s0" d="m132.2 292.7v16l-3.7 2.1 0.1-16z"/>
+					</g>
+					<g id="XMLID_2462_">
+						<path id="XMLID_2463_" class="s1" d="m130.5 294.4l3.7-2.1-0.9 0.9-3.6 2.1z"/>
+					</g>
+					<g id="XMLID_2460_">
+						<path id="XMLID_2461_" class="s2" d="m134.6 291.5l-3.7 2.1-0.2-0.1 0.2-0.1 0.2-0.1 3.3-1.9z"/>
+					</g>
+					<g id="XMLID_2458_">
+						<path id="XMLID_2459_" class="s0" d="m131.9 294.2l3.6-2.2v1.1l-3.6 2.1z"/>
+					</g>
+					<g id="XMLID_2455_">
+						<path id="XMLID_2457_" class="s3" d="m126.8 295.8l1.8-1-0.1 16-1.8-1z"/>
+						<path id="XMLID_2456_" class="s3" d="m131.9 293.8v0.4 1l-1.4-0.8-0.8 0.9-1-0.6 2-1.2 0.2 0.1v-0.2-0.1h0.2z"/>
+					</g>
+					<g id="XMLID_2453_">
+						<path id="XMLID_2454_" class="s0" d="m131.9 293.8l3.6-2.1v0.3l-3.6 2.2z"/>
+					</g>
+					<g id="XMLID_2451_">
+						<path id="XMLID_2452_" class="s2" d="m130.9 293.3l3.7-2.2 0.9 0.6-3.6 2.1z"/>
+					</g>
+				</g>
+			</g>
+			<path id="XMLID_2448_" class="s4" d="m137 311.6l-3.4 2-5.1-2.9 3.6-2z"/>
+			<g id="XMLID_2467_">
+				<g id="XMLID_2468_">
+					<g id="XMLID_2482_">
+						<path id="XMLID_2483_" class="s0" d="m78.3 324.4l-0.1 16-3.6 2.1 0.1-16z"/>
+					</g>
+					<g id="XMLID_2480_">
+						<path id="XMLID_2481_" class="s1" d="m76.6 326.1l3.7-2.1-0.9 0.9-3.6 2.1z"/>
+					</g>
+					<g id="XMLID_2478_">
+						<path id="XMLID_2479_" class="s2" d="m80.6 323.2l-3.6 2.1-0.2-0.1 0.2-0.1 0.1-0.1 3.4-1.9z"/>
+					</g>
+					<g id="XMLID_2476_">
+						<path id="XMLID_2477_" class="s0" d="m77.9 325.8l3.7-2v1l-3.7 2.1z"/>
+					</g>
+					<g id="XMLID_2473_">
+						<path id="XMLID_2475_" class="s3" d="m72.8 327.5l1.9-1-0.1 16-1.8-1z"/>
+						<path id="XMLID_2474_" class="s3" d="m77.9 325.5v0.3 1.1l-1.3-0.8-0.8 0.9-1-0.6 2-1.2 0.2 0.1v-0.2-0.1h0.1z"/>
+					</g>
+					<g id="XMLID_2471_">
+						<path id="XMLID_2472_" class="s0" d="m77.9 325.5l3.7-2.1v0.4l-3.7 2z"/>
+					</g>
+					<g id="XMLID_2469_">
+						<path id="XMLID_2470_" class="s2" d="m77 325l3.6-2.2 1 0.6-3.7 2.1z"/>
+					</g>
+				</g>
+			</g>
+			<path id="XMLID_2466_" class="s4" d="m83.1 343.3l-3.4 2-5.1-2.9 3.5-2z"/>
+			<g id="XMLID_2485_">
+				<g id="XMLID_2486_">
+					<g id="XMLID_2500_">
+						<path id="XMLID_2501_" class="s0" d="m32.9 351.1l-0.1 16.1-3.6 2.1v-16z"/>
+					</g>
+					<g id="XMLID_2498_">
+						<path id="XMLID_2499_" class="s1" d="m31.2 352.9l3.6-2.1-0.8 0.8-3.6 2.2z"/>
+					</g>
+					<g id="XMLID_2496_">
+						<path id="XMLID_2497_" class="s2" d="m35.2 350l-3.6 2.1-0.2-0.1 0.2-0.1 0.1-0.1 3.4-1.9z"/>
+					</g>
+					<g id="XMLID_2494_">
+						<path id="XMLID_2495_" class="s0" d="m32.5 352.6l3.7-2.1v1l-3.7 2.2z"/>
+					</g>
+					<g id="XMLID_2491_">
+						<path id="XMLID_2493_" class="s3" d="m27.4 354.3l1.8-1v16l-1.8-1.1z"/>
+						<path id="XMLID_2492_" class="s3" d="m32.5 352.3v0.3 1.1l-1.3-0.8-0.8 0.9-1-0.6 2-1.2 0.2 0.1v-0.2-0.2l0.1 0.1z"/>
+					</g>
+					<g id="XMLID_2489_">
+						<path id="XMLID_2490_" class="s0" d="m32.5 352.3l3.7-2.1v0.3l-3.7 2.1z"/>
+					</g>
+					<g id="XMLID_2487_">
+						<path id="XMLID_2488_" class="s2" d="m31.6 351.7l3.6-2.1 1 0.6-3.7 2.1z"/>
+					</g>
+				</g>
+			</g>
+			<path id="XMLID_2484_" class="s4" d="m37.7 370.1l-3.5 2-5-2.9 3.5-2z"/>
+			<g id="XMLID_2359_">
+				<g id="XMLID_2360_">
+					<g id="XMLID_2374_">
+						<path id="XMLID_2375_" class="s0" d="m415.3 128.7v16.1l-3.7 2.1 0.1-16.1z"/>
+					</g>
+					<g id="XMLID_2372_">
+						<path id="XMLID_2373_" class="s1" d="m413.6 130.5l3.7-2.1-0.9 0.9-3.6 2.1z"/>
+					</g>
+					<g id="XMLID_2370_">
+						<path id="XMLID_2371_" class="s2" d="m417.7 127.6l-3.7 2.1-0.2-0.1 0.2-0.1 0.2-0.1 3.3-1.9z"/>
+					</g>
+					<g id="XMLID_2368_">
+						<path id="XMLID_2369_" class="s0" d="m414.9 130.2l3.7-2.1v1.1l-3.7 2.1z"/>
+					</g>
+					<g id="XMLID_2365_">
+						<path id="XMLID_2367_" class="s3" d="m409.9 131.9l1.8-1.1-0.1 16.1-1.8-1z"/>
+						<path id="XMLID_2366_" class="s3" d="m414.9 129.9v0.3 1.1l-1.3-0.8-0.8 0.9-1-0.6 2-1.2 0.2 0.1v-0.2-0.2l0.2 0.1z"/>
+					</g>
+					<g id="XMLID_2363_">
+						<path id="XMLID_2364_" class="s0" d="m414.9 129.9l3.7-2.2v0.4l-3.7 2.1z"/>
+					</g>
+					<g id="XMLID_2361_">
+						<path id="XMLID_2362_" class="s2" d="m414 129.3l3.7-2.1 0.9 0.5-3.7 2.2z"/>
+					</g>
+				</g>
+			</g>
+			<path id="XMLID_2358_" class="s4" d="m420.1 147.7l-3.4 2-5.1-2.9 3.6-2z"/>
+			<path id="XMLID_22097_" class="s5" d="m586.1 6v8.5l-12.6 7.2v-8.4l9.6-5.6 2.1-1.2z"/>
+			<path id="XMLID_22096_" class="s6" d="m585.1 6.5l-11.7 11.6v-0.9l9.6-9.5z"/>
+			<path id="XMLID_22095_" class="s6" d="m573.4 21l12.6-12.6v0.6l-12.6 12.5z"/>
+			<path id="XMLID_22083_" class="s7" d="m574.7 51.3l12.3-1.1-1.4 0.9-11.3 1z"/>
+			<path id="XMLID_22058_" fill-rule="evenodd" class="s8" d="m588.5 0.7l-0.1 13.5-18.2 10.6v-13.5zm-2.4 5.3l-0.9 0.5-2 1.2-9.6 5.6v8.4l12.5-7.2z"/>
+			<g id="XMLID_22061_">
+				<g id="XMLID_22062_">
+					<g id="XMLID_22081_">
+						<path id="XMLID_22082_" class="s9" d="m0.2 363.4l601.9-350.5 0.8-0.2-601.9 350.5z"/>
+					</g>
+					<g id="XMLID_22079_">
+						<path id="XMLID_22080_" class="s10" d="m1 362.8l601.9-350.6 0.6 0.4-601.9 350.5z"/>
+					</g>
+					<g id="XMLID_22077_">
+						<path id="XMLID_22078_" class="s11" d="m4.5 364.3l601.9-350.5v0.5l-601.9 350.5z"/>
+					</g>
+					<g id="XMLID_22075_">
+						<path id="XMLID_22076_" class="s11" d="m5.9 366.6l601.9-350.5v0.5l-601.9 350.5z"/>
+					</g>
+					<g id="XMLID_22073_">
+						<path id="XMLID_22074_" class="s12" d="m5.1 365.6l601.9-350.5 0.8 1-601.9 350.5z"/>
+					</g>
+					<g id="XMLID_22071_">
+						<path id="XMLID_22072_" class="s10" d="m4.5 364.8l601.9-350.5 0.6 0.3-601.9 350.6z"/>
+					</g>
+					<g id="XMLID_22069_">
+						<path id="XMLID_22070_" class="s11" d="m5.1 365.2l601.9-350.6v0.5l-601.9 350.5z"/>
+					</g>
+					<g id="XMLID_22067_">
+						<path id="XMLID_22068_" class="s11" d="m5.3 364.1l601.9-350.5v0.6l-601.9 350.5z"/>
+					</g>
+					<g id="XMLID_22065_">
+						<path id="XMLID_22066_" class="s13" d="m5.3 364.1v0.6l-0.8-0.4v0.5l0.6 0.4v0.4l0.8 1v0.5l-5.7-3.3v-0.4l0.8-0.2v-0.4l0.6 0.3v-0.5l-0.7-0.4v-0.6z"/>
+					</g>
+					<g id="XMLID_22063_">
+						<path id="XMLID_22064_" class="s14" d="m0.9 361.6l601.8-350.5 4.5 2.5-601.9 350.5z"/>
+					</g>
+				</g>
+			</g>
+			<path id="XMLID_22057_" class="s5" d="m573.4 12.9v1.1 12.6l-2.8-1.5-0.2-0.4v-13.5h0.1l1 0.5 0.5 0.3 0.4 0.3 0.7 0.4h0.1z"/>
+			<path id="XMLID_22056_" class="s6" d="m573.2 12.7l0.2 0.2v1.1l-3 9.5v-2.4l2.7-8.4z"/>
+			<path id="XMLID_22055_" class="s6" d="m572.4 12.3l-2 6.1v-1.3l1.6-5.1z"/>
+			<path id="XMLID_22054_" class="s15" d="m579.5 15.8l-0.6 0.3-8.5-5-0.2 0.2v13.5q0.1 0.2 0.2 0.4l3.7 2.1v0.6l-3.9-2.3-0.1-0.1c-0.1-0.2-0.2-0.4-0.4-0.6l-0.1-0.1 0.1-14.1 0.5-0.3z"/>
+			<g id="XMLID_20608_">
+				<g id="XMLID_20609_">
+					<g id="XMLID_20623_">
+						<path id="XMLID_20624_" class="s0" d="m517 69.2l-0.1 16-3.6 2.1v-16z"/>
+					</g>
+					<g id="XMLID_20621_">
+						<path id="XMLID_20622_" class="s1" d="m515.3 70.9l3.6-2.1-0.8 0.9-3.7 2.1z"/>
+					</g>
+					<g id="XMLID_20619_">
+						<path id="XMLID_20620_" class="s2" d="m519.3 68l-3.6 2.1-0.2-0.1 0.2-0.1 0.1-0.1 3.3-1.9z"/>
+					</g>
+					<g id="XMLID_20617_">
+						<path id="XMLID_20618_" class="s0" d="m516.6 70.7l3.7-2.2-0.1 1.1-3.6 2.1z"/>
+					</g>
+					<g id="XMLID_20614_">
+						<path id="XMLID_20616_" class="s3" d="m511.5 72.3l1.8-1v16l-1.8-1z"/>
+						<path id="XMLID_20615_" class="s3" d="m516.6 70.3v0.4 1l-1.3-0.8-0.9 0.9-1-0.6 2.1-1.2 0.2 0.1v-0.2-0.1h0.1z"/>
+					</g>
+					<g id="XMLID_20612_">
+						<path id="XMLID_20613_" class="s0" d="m516.6 70.3l3.7-2.1v0.3l-3.7 2.2z"/>
+					</g>
+					<g id="XMLID_20610_">
+						<path id="XMLID_20611_" class="s2" d="m515.7 69.8l3.6-2.2 1 0.6-3.7 2.1z"/>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_20591_">
+				<g id="XMLID_20592_">
+					<g id="XMLID_20606_">
+						<path id="XMLID_20607_" class="s0" d="m554 47.8l-0.1 16-3.6 2.1v-16z"/>
+					</g>
+					<g id="XMLID_20604_">
+						<path id="XMLID_20605_" class="s1" d="m552.3 49.6l3.7-2.1-0.9 0.8-3.6 2.1z"/>
+					</g>
+					<g id="XMLID_20602_">
+						<path id="XMLID_20603_" class="s2" d="m556.3 46.7l-3.6 2.1-0.2-0.1 0.2-0.1 0.1-0.1 3.4-1.9z"/>
+					</g>
+					<g id="XMLID_20600_">
+						<path id="XMLID_20601_" class="s0" d="m553.6 49.3l3.6-2.1v1l-3.6 2.1z"/>
+					</g>
+					<g id="XMLID_20597_">
+						<path id="XMLID_20599_" class="s3" d="m548.5 51l1.8-1.1v16l-1.8-1z"/>
+						<path id="XMLID_20598_" class="s3" d="m553.6 48.9v0.4 1l-1.3-0.7-0.8 0.8-1.1-0.6 2.1-1.1 0.2 0.1v-0.2-0.2l0.1 0.1z"/>
+					</g>
+					<g id="XMLID_20595_">
+						<path id="XMLID_20596_" class="s0" d="m553.6 48.9l3.6-2.1v0.4l-3.6 2.1z"/>
+					</g>
+					<g id="XMLID_20593_">
+						<path id="XMLID_20594_" class="s2" d="m552.7 48.4l3.6-2.1 0.9 0.5-3.6 2.1z"/>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_20574_">
+				<g id="XMLID_20575_">
+					<g id="XMLID_20589_">
+						<path id="XMLID_20590_" class="s0" d="m591 26.4l-0.1 16.1-3.6 2.1v-16.1z"/>
+					</g>
+					<g id="XMLID_20587_">
+						<path id="XMLID_20588_" class="s1" d="m589.3 28.2l3.6-2.1-0.8 0.8-3.7 2.2z"/>
+					</g>
+					<g id="XMLID_20585_">
+						<path id="XMLID_20586_" class="s2" d="m593.3 25.3l-3.6 2.1-0.2-0.1 0.2-0.1 0.1-0.1 3.4-1.9z"/>
+					</g>
+					<g id="XMLID_20583_">
+						<path id="XMLID_20584_" class="s0" d="m590.6 27.9l3.7-2.1v1l-3.7 2.1z"/>
+					</g>
+					<g id="XMLID_20580_">
+						<path id="XMLID_20582_" class="s3" d="m585.5 29.6l1.8-1.1v16.1l-1.8-1.1z"/>
+						<path id="XMLID_20581_" class="s3" d="m590.6 27.6v0.3 1l-1.3-0.7-0.9 0.9-0.9-0.6 2-1.2 0.2 0.1v-0.2-0.2l0.1 0.1z"/>
+					</g>
+					<g id="XMLID_20578_">
+						<path id="XMLID_20579_" class="s0" d="m590.6 27.6l3.7-2.2v0.4l-3.7 2.1z"/>
+					</g>
+					<g id="XMLID_20576_">
+						<path id="XMLID_20577_" class="s2" d="m589.7 27l3.6-2.1 1 0.5-3.7 2.2z"/>
+					</g>
+				</g>
+			</g>
+			<path id="XMLID_20428_" class="s4" d="m521.8 88.1l-3.5 2-5-2.9 3.5-2z"/>
+		</g>
+		<path id="XMLID_20544_" class="s8" d="m575.1 51.6l-0.8 0.5-0.8-1 10.6-17 1.6-0.1v0.6l-1.2 0.7z"/>
+		<g id="XMLID_20443_">
+			<g id="XMLID_20444_">
+				<g id="XMLID_20542_">
+					<path id="XMLID_20543_" class="s16" d="m574.3 52.1l-2.5-1.5z"/>
+				</g>
+				<g id="XMLID_20540_">
+					<path id="XMLID_20541_" class="s16" d="m575.2 50.1l-2.5-1.4 0.3-0.3 2.6 1.5z"/>
+				</g>
+				<g id="XMLID_20538_">
+					<path id="XMLID_20539_" class="s17" d="m575.2 50.6l-2.6-1.4 0.1-0.5 2.5 1.4z"/>
+				</g>
+				<g id="XMLID_20536_">
+					<path id="XMLID_20537_" class="s16" d="m576.4 47.9l-2.5-1.4 0.4-0.2 2.5 1.4z"/>
+				</g>
+				<g id="XMLID_20534_">
+					<path id="XMLID_20535_" class="s17" d="m576.4 48.4l-2.5-1.4v-0.5l2.5 1.4z"/>
+				</g>
+				<g id="XMLID_20532_">
+					<path id="XMLID_20533_" class="s16" d="m577.7 45.8l-2.5-1.5 0.3-0.2 2.6 1.5z"/>
+				</g>
+				<g id="XMLID_20530_">
+					<path id="XMLID_20531_" class="s17" d="m577.7 46.3l-2.5-1.5v-0.5l2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20528_">
+					<path id="XMLID_20529_" class="s17" d="m578.9 44.1l-2.5-1.5v-0.5l2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20526_">
+					<path id="XMLID_20527_" class="s16" d="m578.9 43.6l-2.5-1.5 0.4-0.2 2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20524_">
+					<path id="XMLID_20525_" class="s17" d="m580.2 41.9l-2.5-1.4v-0.5l2.5 1.4z"/>
+				</g>
+				<g id="XMLID_20522_">
+					<path id="XMLID_20523_" class="s16" d="m580.2 41.4l-2.5-1.4 0.4-0.2 2.5 1.4z"/>
+				</g>
+				<g id="XMLID_20520_">
+					<path id="XMLID_20521_" class="s16" d="m574.7 50.9l-2.5-1.5 0.4-0.2 2.6 1.4z"/>
+				</g>
+				<g id="XMLID_20518_">
+					<path id="XMLID_20519_" class="s18" d="m574.7 51.3l-2.5-1.4v-0.5l2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20516_">
+					<path id="XMLID_20517_" class="s16" d="m581.5 39.3l-2.6-1.5 0.4-0.2 2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20514_">
+					<path id="XMLID_20515_" class="s17" d="m581.4 39.8l-2.5-1.5v-0.5l2.6 1.5z"/>
+				</g>
+				<g id="XMLID_20512_">
+					<path id="XMLID_20513_" class="s18" d="m574.3 52.1l-2.5-1.5v-0.5l2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20510_">
+					<path id="XMLID_20511_" class="s16" d="m574.3 51.6l-2.5-1.5 0.4-0.2 2.5 1.4z"/>
+				</g>
+				<g id="XMLID_20508_">
+					<path id="XMLID_20509_" class="s18" d="m576 49.2l-2.5-1.5v-0.5l2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20506_">
+					<path id="XMLID_20507_" class="s16" d="m576 48.7l-2.5-1.5 0.4-0.2 2.5 1.4z"/>
+				</g>
+				<g id="XMLID_20504_">
+					<path id="XMLID_20505_" class="s17" d="m582.7 37.6l-2.5-1.5v-0.5l2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20502_">
+					<path id="XMLID_20503_" class="s16" d="m582.7 37.1l-2.5-1.5 0.4-0.2 2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20500_">
+					<path id="XMLID_20501_" class="s16" d="m575.5 49.4l-2.5-1.5 0.5-0.2 2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20498_">
+					<path id="XMLID_20499_" class="s18" d="m575.6 49.9l-2.6-1.5v-0.5l2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20496_">
+					<path id="XMLID_20497_" class="s16" d="m577.2 46.5l-2.5-1.4 0.5-0.3 2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20494_">
+					<path id="XMLID_20495_" class="s18" d="m577.2 47l-2.5-1.5v-0.4l2.5 1.4z"/>
+				</g>
+				<g id="XMLID_20492_">
+					<path id="XMLID_20493_" class="s16" d="m576.8 47.2l-2.5-1.4 0.4-0.3 2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20490_">
+					<path id="XMLID_20491_" class="s18" d="m576.8 47.7l-2.5-1.4v-0.5l2.5 1.4z"/>
+				</g>
+				<g id="XMLID_20488_">
+					<path id="XMLID_20489_" class="s16" d="m578.5 44.3l-2.5-1.4 0.4-0.3 2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20486_">
+					<path id="XMLID_20487_" class="s18" d="m578.5 44.8l-2.5-1.4v-0.5l2.5 1.4z"/>
+				</g>
+				<g id="XMLID_20484_">
+					<path id="XMLID_20485_" class="s16" d="m578.1 45.1l-2.6-1.5 0.5-0.2 2.5 1.4z"/>
+				</g>
+				<g id="XMLID_20482_">
+					<path id="XMLID_20483_" class="s18" d="m578.1 45.6l-2.6-1.5v-0.5l2.6 1.5z"/>
+				</g>
+				<g id="XMLID_20480_">
+					<path id="XMLID_20481_" class="s16" d="m579.7 42.2l-2.5-1.5 0.5-0.2 2.5 1.4z"/>
+				</g>
+				<g id="XMLID_20478_">
+					<path id="XMLID_20479_" class="s18" d="m579.7 42.6l-2.5-1.4v-0.5l2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20476_">
+					<path id="XMLID_20477_" class="s18" d="m579.3 43.4l-2.5-1.5v-0.4l2.5 1.4z"/>
+				</g>
+				<g id="XMLID_20474_">
+					<path id="XMLID_20475_" class="s16" d="m579.3 42.9l-2.5-1.4 0.4-0.3 2.5 1.4z"/>
+				</g>
+				<g id="XMLID_20472_">
+					<path id="XMLID_20473_" class="s16" d="m581 40l-2.5-1.5 0.4-0.2 2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20470_">
+					<path id="XMLID_20471_" class="s18" d="m581 40.5l-2.5-1.5v-0.5l2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20468_">
+					<path id="XMLID_20469_" class="s18" d="m580.6 41.2l-2.5-1.4v-0.5l2.5 1.4z"/>
+				</g>
+				<g id="XMLID_20466_">
+					<path id="XMLID_20467_" class="s16" d="m580.6 40.7l-2.5-1.4 0.4-0.3 2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20464_">
+					<path id="XMLID_20465_" class="s16" d="m582.2 37.8l-2.5-1.4 0.5-0.3 2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20462_">
+					<path id="XMLID_20463_" class="s18" d="m582.2 38.3l-2.5-1.4v-0.5l2.5 1.4z"/>
+				</g>
+				<g id="XMLID_20460_">
+					<path id="XMLID_20461_" class="s16" d="m583.9 34.9l-2.5-1.4 2-1.1 2.5 1.4z"/>
+				</g>
+				<g id="XMLID_20458_">
+					<path id="XMLID_20459_" class="s18" d="m583.9 35.4l-2.5-1.5v-0.4l2.5 1.4z"/>
+				</g>
+				<g id="XMLID_20456_">
+					<path id="XMLID_20457_" class="s16" d="m581.8 38.5l-2.5-1.4 0.4-0.2 2.5 1.4z"/>
+				</g>
+				<g id="XMLID_20454_">
+					<path id="XMLID_20455_" class="s18" d="m581.8 39.1l-2.5-1.5v-0.5l2.5 1.4z"/>
+				</g>
+				<g id="XMLID_20452_">
+					<path id="XMLID_20453_" class="s18" d="m583.5 36.1l-2.5-1.4v-0.5l2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20450_">
+					<path id="XMLID_20451_" class="s16" d="m583.5 35.7l-2.5-1.5 0.4-0.3 2.5 1.5z"/>
+				</g>
+				<g id="XMLID_20448_">
+					<path id="XMLID_20449_" class="s16" d="m583.1 36.4l-2.5-1.5 0.4-0.2 2.5 1.4z"/>
+				</g>
+				<path id="XMLID_20447_" class="s19" d="m584 35.4l-0.5 0.3v0.5l-0.4 0.2v0.5l-0.4 0.2v0.5l-0.4 0.3v0.4l-0.4 0.3v0.5l-0.4 0.2v0.5l-0.5 0.2v0.5l-0.4 0.2v0.6l-0.4 0.2v0.5l-0.4 0.2v0.5l-0.4 0.2v0.5l-0.5 0.3v0.4l-0.4 0.3v0.4l-0.4 0.3v0.5l-0.4 0.2v0.5l-0.4 0.2v0.5l-0.4 0.3v0.5l-0.5 0.2v0.5l-0.4 0.2v0.5l-0.4 0.2v0.5l-0.4 0.3v0.4l-0.4 0.3v0.5l-0.4 0.2v0.5h-0.1v-0.5l0.4-0.3v-0.4l0.5-0.3v-0.5l0.4-0.2-0.1-0.5 0.5-0.2v-0.5l0.4-0.3v-0.5l0.4-0.2v-0.5l0.4-0.2v-0.5l0.5-0.2v-0.5l0.4-0.2v-0.5l0.4-0.3v-0.5l0.4-0.2v-0.5l0.4-0.2v-0.5l0.4-0.3v-0.4l0.5-0.3v-0.5l0.4-0.2v-0.5l0.4-0.2v-0.5l0.4-0.2 0.1-0.5 0.3-0.2v-0.6l0.4-0.2v-0.5l0.5-0.2v-0.5l0.4-0.2v-0.5l0.4-0.3v-0.4l0.4-0.3v-0.5l2-1.1-1.9 1.2z"/>
+				<g id="XMLID_20445_">
+					<path id="XMLID_20446_" class="s18" d="m583.1 36.9l-2.5-1.5v-0.5l2.5 1.5z"/>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_20439_">
+			<path id="XMLID_20440_" fill-rule="evenodd" class="s15" d="m585.6 33.7l-1.8-1.1v-8.1l1.8 1.1zm-1.8-1.1l1.7 0.9v-7.9l-1.6-1z"/>
+		</g>
+		<g id="XMLID_20434_">
+			<g id="XMLID_20437_">
+				<path id="XMLID_20438_" class="s20" d="m574.1 52.2q-0.1 0-0.1-0.1v-4.2q0 0 0 0l9.8-17.3q0.1-0.1 0.1-0.1 0.1 0 0.1 0.1v4.2q0 0.1-0.1 0.1-0.1 0-0.1-0.1v-3.9l-9.6 17v4.2c0 0-0.1 0.1-0.1 0.1z"/>
+			</g>
+			<g id="XMLID_20435_">
+				<path id="XMLID_20436_" class="s20" d="m583.9 30.7q0 0-0.1-0.1c0 0 0 0 0.1-0.1l1.9-1.1c0 0 0 0 0.1 0.1 0 0 0 0-0.1 0.1l-1.8 1.1z"/>
+			</g>
+		</g>
+		<g id="XMLID_20429_">
+			<g id="XMLID_20432_">
+				<path id="XMLID_20433_" class="s20" d="m571.8 50.9q0 0 0-0.1v-4.2q0 0 0 0l9.8-17.3q0-0.1 0.1-0.1c0 0.1 0 0.1 0 0.1v4.2q0 0.1-0.1 0.1 0 0 0-0.1v-3.9l-9.7 17v4.2c0 0 0 0.1-0.1 0.1z"/>
+			</g>
+			<g id="XMLID_20430_">
+				<path id="XMLID_20431_" class="s20" d="m581.7 29.4q-0.1 0-0.1-0.1c-0.1 0 0 0 0-0.1l1.9-1.1c0 0 0.1 0 0.1 0.1 0 0 0 0 0 0.1l-1.9 1.1q0 0 0 0z"/>
+			</g>
+		</g>
+		<path id="XMLID_20427_" class="s4" d="m558.7 66.6l-3.5 2-4.9-2.8 3.6-1.9z"/>
+		<path id="XMLID_20426_" class="s4" d="m595.6 45.2l-3.4 2-4.9-2.8 3.6-1.9z"/>
+	</g>
+</svg>

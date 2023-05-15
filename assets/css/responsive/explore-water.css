@@ -1,0 +1,47 @@
+@media screen and (max-width: 600px) {
+    .con-gk .row{
+        margin-left: 10%;
+    }
+    .icon-box-1 {
+        width: 85% !important;
+        margin-top: 20% !important;
+    }
+    .simple-way-title {
+        font-size: 28px !important;
+    }
+    .container-fully {
+        margin: 55px 30px !important;
+    }
+    .wrap-2 {
+        padding: 0px 30px !important;
+    }
+    .page-3_stage .section1 .left-content {
+        margin-top: 32px !important;
+    }
+    .banner-img {
+        margin-left: 0rem !important;
+        margin-bottom: 20px !important;
+    }
+    .bg_yellow .col-md-4{
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    .track-and_talk_discr p {
+        padding-right: 0px !important;
+    }
+    .prless-2r {
+        padding-right: 0rem !important;
+    }
+    .track-and_talk_discr h3 {
+        font-size: 28px !important;
+        margin-top: 5px !important;
+    }
+    .track-and_talk_discr p {
+        font-size: 16px !important;
+    }
+    .success-img {
+        margin-left: 0rem !important;
+    }
+}

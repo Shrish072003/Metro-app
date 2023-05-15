@@ -1,0 +1,586 @@
+/*Slider css start here*/
+.section-container{width:100%;margin-left:40px!important;margin-right:40px!important}
+.sw-container{height:30rem}
+.section-div>.container-fluid{margin:0!important}
+.sw-btn-prev-container{display:block;width:3rem;position:relative;float:left}
+.swholder1{display:block;position:relative;margin-top: 3rem;}
+.sw-btn-next-container{display:block;width:3rem}
+.slimg-holder>img{width:8rem;height:auto}
+.sl-image-5>.slimg-holder>img{width:11rem;height:auto;transition:.5s}
+.sl-image-3>.slimg-holder>img{width:18rem;height:auto;transition:.5s}
+.sl-image-4>.slimg-holder>img{width:15rem;height:auto;transition:.5s}
+.sl-image-2>.slimg-holder>img{width:16rem;height:auto;transition:.5s}
+.sl-image-1>.slimg-holder>img{width:14rem;height:auto;transition:.5s}
+.sl-text-1{margin-top:1rem}
+.sl-text-2{margin-top:.8rem}
+.sl-text-4{margin-top:2rem}
+.sl-box{background-color:#f2f2f2;padding:1rem;width:27rem;min-width:25rem;height:22rem;margin-left:1rem;margin-right:1rem;position:relative}
+.sltext-holder{font-size:22px;font-weight:700;color:#003b7e;text-transform:uppercase;font-family:GothamBold}
+.sl-text-3{margin-top:2rem}
+.swiper-button-prev:after,.swiper-rtl .swiper-button-next:after{font-size:16px;color:#003b7e}
+.swiper-button-next:after,.swiper-rtl .swiper-button-prev:after{font-size:16px;color:#003b7e}
+.btn-y{width:2rem;height:2rem;background-color:#ffe500;border-radius:1rem;position:relative;top:14rem}
+sw-btn-prev-container{width:3rem;display:block}
+.pbtn{left:22px!important}
+.nbtn{right:22px!important}
+.swholder-pg{display:block;width:90%;height:2rem;position:absolute}
+.three-step_food_safety button.read-more-btn{position:absolute;left:50%;bottom:30px;transform:translate(-50%,-10px)}
+.swx>.swiper-wrapper>.swiper-slide-active .sl-image-5>.slimg-holder>img{width:16rem;height:auto;transition:.5s}
+.swiper.swx.swiper-initialized.swiper-horizontal.swiper-pointer-events.swiper-backface-hidden{width:inherit}
+.swx>.swiper-wrapper>div.swiper-slide:not(.swiper-slide-active){margin-top:3rem}
+.swx>.swiper-wrapper>div.swiper-slide-active>.slide-inner>.sl-text>.sltext-holder{font-size:28px}
+.swx>.swiper-wrapper>div.swiper-slide-active>.slide-inner>.sl-text{margin-top:4rem!important}
+.swx>.swiper-wrapper>div.swiper-slide-active>.slide-inner>.sl-text-5{margin-top:1rem!important}
+.swx>.swiper-wrapper>div.swiper-slide-active>.slide-inner>.sl-button-5{margin-top:0!important}
+.swx>.swiper-wrapper>div.swiper-slide-active>.slide-inner>.sl-text-6{margin-top:1rem!important}
+.swx>.swiper-wrapper>div.swiper-slide-active>.slide-inner>.sl-button{margin-top:2rem}
+.swx>.swiper-wrapper>.swiper-slide-active{width:34rem!important;height:28rem!important}
+.swx>.swiper-wrapper>.swiper-slide-active .sl-image-4>.slimg-holder>img{width:26rem;height:auto;margin-top:2rem!important;transition:.5s}
+.swx>.swiper-wrapper>.swiper-slide-active .sl-image-3>.slimg-holder>img{width:24rem;height:auto;transition:.5s}
+.swx>.swiper-wrapper>.swiper-slide-active .sl-image-2>.slimg-holder>img{width:20rem;height:auto;transition:.5s}
+.swx>.swiper-wrapper>.swiper-slide-active .sl-image-1>.slimg-holder>img{width:17rem;height:auto;transition:.5s}
+.swholder-pg>.swiper-pagination>.swiper-pagination-bullet{width:20px;height:8px;background-color:#fff;border:2px solid #003b7e;margin-left:2px;margin-right:2px}
+.swholder-pg>.swiper-pagination>.swiper-pagination-bullet-active{width:30px;height:8px!important;background-color:#003b7e!important;border:2px solid #003b7e}
+
+.swholder1.slider_2 .sl-image-5>.slimg-holder>img{width:11rem;height:auto;transition:.5s}
+.swholder1.slider_2 .sl-image-3>.slimg-holder>img{width:12rem;height:auto;transition:.5s}
+.swholder1.slider_2 .sl-image-4>.slimg-holder>img{width:15rem;height:auto;transition:.5s}
+.swholder1.slider_2 .sl-image-2>.slimg-holder>img{width:10rem;height:auto;transition:.5s}
+.swholder1.slider_2 .sl-image-1>.slimg-holder>img{width:10rem;height:auto;transition:.5s}
+.swholder1.slider_2 .swx>.swiper-wrapper>.swiper-slide-active{width:34rem!important;height:28rem!important}
+.swholder1.slider_2 .swx>.swiper-wrapper>.swiper-slide-active .sl-image-4>.slimg-holder>img{width:12rem;height:auto;margin-top:2rem!important;transition:.5s;margin-bottom:1rem !important;}
+.swholder1.slider_2 .swx>.swiper-wrapper>.swiper-slide-active .sl-image-3>.slimg-holder>img{width: 18rem;height: auto;transition: .5s;margin-bottom: 2rem !important;}
+.swholder1.slider_2 .swx>.swiper-wrapper>.swiper-slide-active .sl-image-2>.slimg-holder>img{width:15rem;height:auto;transition:.5s}
+.swholder1.slider_2 .swx>.swiper-wrapper>.swiper-slide-active .sl-image-1>.slimg-holder>img{width:17rem;height:auto;transition:.5s}
+.swholder1.slider_2 .swx>.swiper-wrapper>div.swiper-slide-active>.slide-inner>.sl-text {margin-top: 0rem!important;}
+.swholder1.slider_2 .sl-img-6 .slimg-holder>img{width:10rem;transition:.5s height: auto}
+.swholder1.slider_2 .sl-image-6 .slimg-holder>img{width:15rem;transition:.5s height: auto;margin-bottom:2rem!important}
+.swholder1.slider_2 .sl-img-4.sl-image-4>.slimg-holder>img{width:10rem;transition:.5s; height: auto;margin-bottom:-1rem!important}
+
+.sl-image.sl-image-6.sl-imgs-6.text-center img{width:9rem;transition:.5s;margin-bottom: 1rem!important}
+.swholder1.slider_2 .swx>.swiper-wrapper>div.swiper-slide-active .sl-image.sl-image-6.sl-imgs-6.text-center img{width:14rem;transition:.5s;margin-bottom: 1rem!important}
+.sl-image.sl-image-6.sl-images_6.text-center img{width:10rem;transition:.5s}
+.swholder1.slider_2 .swx>.swiper-wrapper>div.swiper-slide-active .sl-image.sl-image-6.sl-images_6.text-center img{width:16rem;transition:.5s}
+.sl-image.sl-image-6.slider_3-1.text-center img{width:11rem;transition:.5s;margin-bottom: 4rem!important}
+.swx>.swiper-wrapper>.swiper-slide-active .sl-image.sl-image-6.text-center.slider_3-2 img{width:23rem;transition:.5s;margin-bottom: 2rem!important}
+.sl-image.sl-image-6.text-center.slider_3-3 .slimg-holder>img{width:15rem;transition:.5s;margin-bottom:3rem !important;}
+.swholder1.slider_3 .sl-text.sl-text-6.text-center{margin:-22px 5px 0}
+.swx>.swiper-wrapper>.swiper-slide-active .sl-image.sl-image-6.text-center.slider_3-3 .slimg-holder>img{width:24rem;transition:.5s;margin-bottom: 1rem!important}
+.sl-image.sl-image-6.text-center.slider_3-4 img{width:14rem;transition:.5s;margin-bottom: 1rem!important}
+.sl-image.sl-image-6.text-center.slider_3-2 img{width:13rem;transition:.5s;margin-bottom: 3rem!important}
+.swx>.swiper-wrapper>.swiper-slide-active .sl-image.sl-image-6.text-center.slider_3-4 img{width:24rem;transition:.5s;margin-bottom: -2rem!important}
+.swx>.swiper-wrapper>.swiper-slide-active .sl-image.sl-image-6.slider_3-1.text-center img{width:17rem;transition:.5s;margin-bottom: 2rem!important}
+.sl-image.sl-image-6.text-center.slider_3-5 img {width: 5rem;margin-bottom: 2rem !important;transition:.5s;}
+.swx>.swiper-wrapper>.swiper-slide-active .sl-image.sl-image-6.text-center.slider_3-5 img {width: 8rem;margin-bottom: 1rem !important;transition:.5s;}
+
+.sl-image.sl-image-6.slider_3-1.sf-slider-1.text-center img{width:16rem;margin-bottom:3rem!important}
+.swx>.swiper-wrapper>.swiper-slide-active .sl-image.sl-image-6.text-center.slider_3-2.sf-slider-2 img{width:16rem;margin-bottom:0!important}
+.sl-image.sl-image-6.text-center.slider_3-3.sf-slider-3 img{width:13.5rem}
+.sl-image.sl-image-6.text-center.slider_3-4.sf-slider-4 img{width:13rem;margin-bottom:1.5rem!important}
+.sl-image.sl-image-6.text-center.slider_3-5.sf-slider-5 img{width:8.5rem}
+.sl-image.sl-image-6.text-center.slider_3-5.sf-slider-6 img{width:14rem;margin-bottom:3.5rem!important}
+.sl-image.sl-image-6.text-center.slider_3-5.sf-slider-7 img{width:7rem}
+.sl-image.sl-image-6.text-center.slider_3-2.sf-slider-2 img{width:13rem;transition:.5s;margin-bottom:2rem!important}
+
+.swx>.swiper-wrapper>.swiper-slide-active .sl-image.sl-image-6.text-center.slider_3-5.sf-slider-7 img{width:8.5rem;margin-bottom:0!important;transition:.5s}
+.swx>.swiper-wrapper>.swiper-slide-active .sl-image.sl-image-6.text-center.slider_3-5.sf-slider-6 img{width:20rem;margin-bottom:0!important;transition:.5s}
+.swx>.swiper-wrapper>.swiper-slide-active .sl-image.sl-image-6.text-center.slider_3-5.sf-slider-5 img{width:12rem;margin-bottom:-2rem!important;transition:.5s}
+.swx>.swiper-wrapper>.swiper-slide-active .sl-image.sl-image-6.text-center.slider_3-4.sf-slider-4 img{width:15rem;transition:.5s;margin-bottom:0!important}
+.swx>.swiper-wrapper>.swiper-slide-active .sl-image.sl-image-6.text-center.slider_3-3.sf-slider-3 .slimg-holder>img{width:19rem;transition:.5s;margin-bottom:0!important}
+.swx>.swiper-wrapper>.swiper-slide-active .sl-image.sl-image-6.slider_3-1.text-center.sf-slider-1 img{width:21rem;transition:.5s;margin-bottom:1rem!important}
+
+
+.food_wasteSlide .sltext-holder {
+    font-size: 20px;
+    font-weight: 700;
+    color: #003b7e;
+    text-transform: uppercase;
+    font-family: GothamBold;
+}
+.sl-image.sl-image-1.plastic_waste_slider1.text-center img {
+    width: 16rem;    margin-bottom: 2rem!important;
+}
+.swiper-slide.sl-box.swiper-slide-active .sl-image.sl-image-2.plastic_waste_slider2.text-center img {
+    width: 20rem;
+    margin-bottom: -2rem !important;
+}
+
+.food_wasteSlide button.read-more-btn {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0px);
+}
+.swiper-slide.sl-box.swiper-slide-active button.read-more-btn
+{
+     position: absolute;
+    left: 50%;
+    transform: translate(-50%, -30px);
+    bottom: 0;
+}
+.swiper-slide.sl-box.swiper-slide-active .sl-image.sl-image-1.plastic_waste_slider1.text-center img {
+    width: 25rem;    margin-bottom: -1rem !important;
+}
+
+.swiper-slide.sl-box.swiper-slide-active .sl-image.sl-image-3.plastic_waste_slider3.text-center img {
+    width: 14rem;
+    margin-bottom: -3rem !important;
+}
+.sl-image.sl-image-3.plastic_waste_slider3.text-center img {
+    width: 9rem;
+}
+.swiper-slide.sl-box.swiper-slide-active .sl-image.sl-image-4.plastic_waste_slider4.text-center img {
+    width: 16rem;
+    margin-bottom: -3rem !important;
+}
+.sl-image.sl-image-4.plastic_waste_slider4.text-center img {
+    margin-bottom: -2rem !important;
+}
+.swiper-slide.sl-box.swiper-slide-active .sl-image.sl-image-5.plastic_waste_slider5.text-center img {
+    width: 9rem;
+}
+.sl-image.sl-image-5.plastic_waste_slider5.text-center img {
+    width: 7rem;
+    margin-bottom: 1rem !important;
+}
+button.read-more-btn.plasticWaste_btn-1 {
+    transform: translate(-50%, 38px);
+}
+
+
+
+.modalx {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: hsla(0, 0%, 0%, 0.5);
+    
+}
+.modalx-content {
+    background-color: #003b7e;
+    color: white;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 65rem;
+    position: relative;
+}
+.modalx>.modalx-content>a {
+    cursor: pointer;
+    color: white !important;
+    border-color: white !important;
+        position: absolute;
+    top: -10px;
+    right: 0;
+}
+.modalx-content h4
+{
+font-family: GothamBold;
+}
+.modalx-content p {
+    padding-right: 30px;
+    text-align: justify;
+    margin-bottom: 0;
+    font-size: 14px;
+}
+
+
+/*Slider css End here*/
+
+
+
+/*Intruction to safe food css start here*/
+.didyouknow h3{color:#003b7e;font-size:50px;font-family:GothamBold;text-transform:capitalize}
+section.didyouknow{padding-top:100px;background:#f2f2f2;padding-bottom:50px}
+.didyouknow_para{color:#000;font-size:28px;font-family:GothamBold;text-align:center}
+.didyouknow_2culumn{text-align:center}
+.didyouknow_2culumn img.px-4{width:40%;padding-top:40px}
+.didyouknow_2culumn h4{font-family:Gotham Medium;font-size:26px;margin-top:20px;line-height:34px}
+.didyouknow_2culumn img.dis_img2{width:51%}
+.didyouknow_contents{margin-top:65px}
+.border-right{border-right:1px solid #000!important}
+.border-top{border-top:1px solid #000!important}
+.big_issues{margin-top:55px!important}
+.big_issues h3{color:#003b7e;font-size:78px;font-family:GothamBold;text-transform:uppercase;text-align:right}
+.big_issues p{font-size:28px}
+.section3-inner .left-content h3,.section3-inner3 .left-content h3{font-family:GothamBold;font-weight:100;font-size:60px;margin-top:0}
+.section3-inner .right-content p,.section3-inner3 .right-content p{font-size:26px;font-family:gothambook;line-height:34px}
+.section3-inner,.section3-inner3{display:flex;align-items:flex-start;justify-content:center;max-width:1200px;margin:0 auto}
+.section4 .left-content h3,.section4 .left-content h3 a{color:#000;font-size:52px;padding:0 0 20px;text-align:left;line-height:1.2;text-decoration:none}
+.section4 .left-content p{line-height:1.25;font-size:22px;text-align:left}
+.section3-grid ul:first-child li:nth-child(1){font-weight:500;font-family:GothamBold;font-size:33px}
+.section3-grid ul li p {font-size: 20px;line-height: 25px;}
+.w50-per {width: 50% !important;}
+/*Intruction to safe food css End here*/
+
+
+/*Explore safe food css Start here*/
+.bg_yellow{background-color:#ffe500}
+.import_box p{font-family:gothambook;line-height:1.5;text-align:justify}
+.bg_yellow h4{text-align:center;font-family:GothamBold;font-size:20px}
+.bg_yellow{background-color:#ffe500;padding-top:50px;padding-bottom:20px}
+.soFood_importants{margin-bottom:50px}
+.good_to_know_box{text-align:center;border:2px solid #003b7e;min-height:448px}
+.good_to_know_box img.img-fluid{width:40%;margin-top:-75px}
+section.good_to_know{background:#f2f2f2;padding:50px 30px;margin-top: -5px;}
+.good_to_know_box p{margin-top:12px}
+section.good_to_know h3{font-size:40px;margin-bottom:80px;text-align:center;font-family:GothamBold;color:#003b7e}
+.margin_top{margin-top:80px}
+.three-step_food_safety{background-color:#003b7e;padding:50px 30px}
+.three-step_food_safety h3{color:#fff;font-size:58px;font-family:GothamBold;text-align:center;margin-bottom:50px}
+.step_safty_para p{color:#fff;font-size:18px;text-align:justify;padding:0 30px}
+.tab-container-one,.tab-container-three,.tab-container-two{border:0}
+.tab-content{padding:0!important}
+.tab-content .tab-pane,.tab-content .tab-pane.active{border-radius:0!important;border-top:0!important;border-left:0 solid #000!important;border-right:0px solid #000!important;border-bottom:0 solid #000!important;padding:25px}
+.tab-content .tab-pane.active{background-color:rgb(255 255 255)!important;margin-left:0}
+.nav-tabs{padding-left:0;background-color:transparent!important;border-bottom:0 solid #000!important}
+.nav-tabs .nav-item{float:left!important;position:relative!important;margin-right:-1px}
+.nav-tabs .nav-link{float:left!important;padding:25px 15px!important;text-decoration:none!important;color:#fff!important;background-color:transparent!important;-webkit-border-top-left-radius:15px!important;-webkit-border-top-right-radius:15px!important;-moz-border-radius-topleft:15px!important;-moz-border-radius-topright:15px!important;border-top-left-radius:0!important;border-top-right-radius:0!important;border-top:0 solid #000!important;border-bottom:0 solid #000!important;border-left:0 solid #000!important;border-right:0px solid #000!important;width:100%;text-align:center;font-size:20px;font-family:GothamBold}
+.nav-tabs .nav-item.active{z-index:30!important}
+.nav-tabs .nav-link.active{background-color:rgb(255 255 255 / 95%)!important;color:#003b7e!important;border-top:0 solid #000!important;border-bottom:0 solid rgba(233,236,239,.95)!important;border-top-left-radius:15px!important;border-top-right-radius:15px!important}
+.nav-tabs .nav-link:focus,.nav-tabs .nav-link:hover{isolation:unset!important;outline:0}
+.nav-tabs .nav-item:after,.nav-tabs .nav-item:before,.nav-tabs .nav-link:after,.nav-tabs .nav-link:before{position:absolute!important;bottom:0!important}
+.nav-tabs .nav-item .nav-link.active:after,.nav-tabs .nav-item .nav-link.active:before,.nav-tabs .nav-item.active:after,.nav-tabs .nav-item.active:before,.nav-tabs .nav-item:first-child .nav-link:before,.nav-tabs .nav-item:first-child:before,.nav-tabs .nav-item:last-child .nav-link:after,.nav-tabs .nav-item:last-child:after{content:&#34}
+.nav-tabs .nav-item.active:after,.nav-tabs .nav-item.active:after:hover,.nav-tabs .nav-item.active:before:hover{background-color:green!important;z-index:10!important}
+.nav-tabs .nav-item:after,.nav-tabs .nav-item:before{background-color:rgba(233,236,239,.95)!important;width:20px!important;height:20px!important;z-index:10!important;bottom:-1px!important}
+.nav-tabs .nav-item:before{left:-19px!important}
+.nav-tabs .nav-item:after{right:-19px!important}
+.nav-tabs .nav-item:after:hover,.nav-tabs .nav-item:before:hover,.nav-tabs .nav-item:hover:after,.nav-tabs .nav-item:hover:before{z-index:10!important}
+.nav-tabs .nav-item .nav-link:after,.quarter-circle-bottom-left{width:20px;height:20px;background:#cdc7c7!important;border-radius:0 0 0 20px;-moz-border-radius:0 0 0 20px;-webkit-border-radius:0 0 0 20px;border-left:1px solid #000!important;border-bottom:1px solid #000!important}
+.nav-tabs .nav-item .nav-link:before,.quarter-circle-bottom-right{width:20px!important;height:20px!important;background:#cdc7c7!important;border-radius:0 0 20px 0!important;-moz-border-radius:0 0 20px 0!important;-webkit-border-radius:0 0 20px 0!important;border-right:1px solid #000!important;border-bottom:1px solid #000!important}
+.nav-tabs .nav-item .nav-link:after,.nav-tabs .nav-item .nav-link:before{z-index:20!important;bottom:-1px!important}
+.nav-tabs .nav-item.active .nav-link.active:after,.nav-tabs .nav-item.active .nav-link.active:before{background-color:#cdc7c7!important}
+.nav-tabs .nav-item:first-child.active .nav-link.active:before,.nav-tabs .nav-item:last-child.active .nav-link.active:after{background-color:transparent!important}
+.nav-tabs .nav-item .nav-link:before{left:-19px!important}
+.nav-tabs .nav-item .nav-link:after{right:-19px!important}
+.nav-tabs .nav-item:first-child .nav-link:before,.nav-tabs .nav-item:first-child:before,.nav-tabs .nav-item:last-child .nav-link:after,.nav-tabs .nav-item:last-child:after{background-color:transparent!important;border:0!important}
+.swiper-pagination-bullet-active{background-color:#003b7e!important;width:45px!important}
+.modal{display:none;position:fixed;z-index:1;padding-top:100px;left:0;top:0;width:100%;height:100%;overflow:auto;background-color:#000;background-color:rgba(0,0,0,.4)}
+.modal-content{background-color:#fefefe;margin:auto;padding:20px;border:1px solid #888;width:80%}
+.close{color:#aaa;float:right;font-size:28px;font-weight:700}
+.close:focus,.close:hover{color:#000;text-decoration:none;cursor:pointer}
+.three-step_para p{font-size:18px;margin-top:60px}
+b,strong{font-weight:bolder;font-family:GothamBold}
+.swiper-slide-active .slider-card{transform:scale(1.5);margin-left:36px!important;margin-right:105px!important}
+.container-fluid{margin:0rem!important}
+.container-fully{margin:55px 45px}
+.track-and_talk_discr h3{font-size:38px;font-family:GothamBold;color:#003b7e;margin-top:115px}
+.track-and_talk_discr p{font-size:17px;text-align:justify;margin:35px 0;padding-right:100px}
+.top-content h3{color:#003b7e;font-size:58px;font-family:GothamBold;font-weight:500}
+.mid-content.cation-plan-section ul{align-items:stretch;padding:30px 40px 40px;margin:0 auto;max-width:965px;background-color:#ffe500}
+.mid-content.cation-plan-section li p{padding:0 20px 0 40px;font-size:21px;color:#000;font-family:GothamBold;font-weight:500;max-width:100%;text-align:left;height:100%;display:flex}
+.checkmark{position:absolute;top:0;left:0;height:30px;width:30px}
+.checkmark:after{left:9px;top:2px;width:7px;height:16px}
+button.no-print{font-size:26px!important}
+.swiper-button-prev,.swiper-rtl .swiper-button-next{width:40px!important;height:40px!important;background-color:#ffe500;border-radius:25px;left:5px!important;color:#000!important}
+.swiper-button-next::after,.swiper-button-prev::after{color:#003b7e;font-size:18px!important;font-weight:bolder}
+.swiper-button-next,.swiper-rtl .swiper-button-prev{width:40px!important;height:40px!important;background-color:#ffe500;border-radius:25px;right:5px!important}
+.left-content .read-more-btn{color:#ffe500}
+.read-more-btn{transition:all .3s;border:0;border-radius:0;background-color:#003b7e;color:#fff;text-transform:uppercase;font-family:GothamBold;text-transform:uppercase;display:inline-block;padding:6px 15px;margin:15px 0 0;font-size:16px;text-decoration:none}
+.three-step_img{margin-top:70px}
+.yellow_discription{text-align:center;background:#ffe500;padding:35px 180px 0}
+.yellow_discription img{width:10%;margin-top:-90px}
+.nextStepCta a{background:#003b7e;color:#ffe500;text-decoration:none;padding:10px 30px;border-radius:30px}
+/*Explore safe food css End here*/
+
+/*Explore safe food ENG css Start here*/
+.safeFoodl4_banner{margin-top:5rem}
+h1.banner_title{color:#003b7e;font-size:50px;font-family:GothamBold;text-transform:uppercase}
+.banner_l4_title h6{font-size:1.3rem;margin-bottom:1rem}
+.banner_l4_title p{font-size:18px;text-align:justify}
+.good_to_know_box.p-4.safe_foodBox_l4{margin-bottom:5rem!important;min-height:170px;margin:35px}
+.benefit_box{margin-bottom:81px!important;min-height:420px;margin:35px;background:#003b7e;text-align:center;padding:40px;display:flex;flex-direction:row;align-items:center;justify-content:center;color:#fff;font-family:GothamBold}
+.benefit_box h4{font-size:40px}
+.good_to_know_box.p-4.safe_foodBox_l4 img{width:60%}
+.exploreFood_discripsn{text-align:center;font-size:16px;padding:0 12rem;margin-bottom:3rem;font-weight:600}
+.food_wasteTitle{margin-bottom:25px!important;margin-top:2rem!important;font-size:40px!important;text-align:center!important;font-family:GothamBold!important;color:#003b7e!important}
+.advance_way{background:#ffe500;margin-top:-4rem;padding:25px;text-align:center}
+.advance_way h3{font-size:60px;font-family:GothamBold;margin-bottom:1.5rem}
+.advance_way p{font-size:21px;font-family:GothamBold;margin-bottom:0}
+.media{margin-top:15px}
+.media-body,.media-left,.media-right{display:table-cell;vertical-align:top}
+.media-left,.media>.pull-left{padding-right:10px}
+.media-object{display:block}
+.media-body,.media-left,.media-right{display:table-cell;vertical-align:top}
+.media-body{width:100%;padding:2px 10px}
+.media-heading{margin-top:0;margin-bottom:5px}
+.media-body p{font-size:16px;font-weight:600;margin-bottom:0;padding-top:15px}
+.compost_wasteFood_listing{margin-top:1rem}
+section.compost_wasteFood{padding-top:2rem;background:#f2f2f2}
+.safeFoodl4_paragraphs{background:#f2f2f2}
+.safeFoodl4_paragraphs_bgwhite{background:#fff}
+.compost_wasteFood_img{margin-top:5rem}
+.read-more-btn{transition:all .3s;border:0;border-radius:0;background-color:#003b7e;color:#ffe500;text-transform:uppercase;font-family:GothamBold;text-transform:uppercase;display:inline-block;padding:12px 30px;margin:50px 0;font-size:16px;text-decoration:none;font-size:18px}
+.safeFoodl4_paragraphs_bgwhite h4{font-size:1.7rem;font-family:GothamBold}
+.safeFoodl4_paragraphs_bgwhite p{font-size:15px;font-weight:600;text-align:justify}
+.learn_to_make img{width:70%;margin:0 auto;text-align:center}
+.compost_wasteFood_img img.img-fluid {
+    width: 47rem;
+}
+.mtcsutom
+{
+    margin-top: -35px !important;
+}
+.safeFoodl4_paragraphs{display: none;}
+.learn_to_make p{font-size:16px;font-weight:600;margin-bottom:0}
+.compost_wasteFood_img.learn_to_make{margin-top:0}
+h1.banner_title2{color:#003b7e;font-size:40px;font-family:GothamBold;text-transform:capitalize}
+.banner_l4_title p{text-align:justify;font-size:15px;font-weight:600;text-align:justify}
+.banner_l4_img.talk_prog_img{margin-top:-120px}
+.mid-content.cation-plan-section{padding:0 0 30px;margin:0 auto}
+.mid-content.cation-plan-section ul{align-items:stretch;padding:30px 40px 40px;margin:0 auto;max-width:965px;list-style:none;background-color:#ffe500}
+.mid-content.cation-plan-section li{border:0;width:100%;background-color:#ffe500;padding:20px 20px 10px;position:relative}
+label.check-wrap{position:absolute;width:93%;display:inline-block;height:100%;pointer-events:none}
+.mid-content.cation-plan-section li p{padding:0 20px 0 40px;font-size:21px;color:#000;font-family:GothamBold;font-weight:500;max-width:100%;text-align:left;height:100%;margin-bottom:0;display:flex}
+input[type=checkbox]{position:absolute;opacity:0;cursor:pointer;height:80%;width:100%;height:0;width:0;pointer-events:none}
+input:checked~.checkmark{background-color:#003b7e}
+.checkmark:after{content:"";position:absolute;display:block}
+.mid-content ul{display:flex;flex-wrap:wrap}
+.mid-content{padding:0 40px;list-style:none}
+.checkmark:after{left:5px;top:2px;width:5px;height:10px;border:solid #ffe500;border-width:0 3px 3px 0;-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg)}
+.checkmark:after{left:12px;top:5px;width:7px;height:16px}
+input:checked~.checkmark:after{display:block}
+button.no-print{transition:all .3s;border:0;border-radius:0;background-color:#003b7e;color:#fff;text-transform:uppercase;font-family:GothamBold;text-transform:uppercase;display:inline-block;padding:10px 20px;margin:15px 0 0;font-size:18px;text-decoration:none}
+.top-content{text-align:center}
+.section4-6 .top-content h3{padding:0 0 20px}
+@media print{
+.no-print,button.no-print{display:none}
+}
+
+/*Explore safe food ENG css End here*/
+
+
+
+/*Introduction to safe food ENG css start here*/
+.banner_l3_img img{width:80%}
+.Banner_l3_title{margin-top:10rem}
+.didyouknow_2culumn{text-align:center;padding:35px 0 38px 0}
+.didyouknow_2culumn h4{font-size:26px;margin-top:20px;line-height:34px;font-weight:600;font-family:unset}
+.didyouknow_2culumn h4 strong{font-size:32px}
+section.didyouknow_contents.waste_foot_l3{background-color:#f2f2f2;margin-top:-70px;padding-bottom:60px}
+section.didyouknow_contents.waste_foot_l3 img{width:75%;height:290px;object-fit:contain}
+.didyouknow_contents.waste_foot_l3 h3{color:#003b7e;font-size:50px;font-family:GothamBold;text-transform:capitalize;margin-top:4rem;margin-bottom:3rem}
+.align-normal{align-items:unset!important}
+.section3-inner,.section3-inner3{display:flex;align-items:center;justify-content:center;max-width:100%;margin:0 auto}
+.section3-inner .left-content,.section3-inner3 .left-content{text-align:right;padding-left:0}
+.section3-inner .right-content,.section3-inner3 .right-content{padding-left:30px}
+.right-content{width:60%}
+.section3-inner .left-content h3,.section3-inner3 .left-content h3{font-family:GothamBold;font-weight:100;font-size:60px;margin-top:0}
+.section3-inner .right-content p,.section3-inner3 .right-content p{font-size:24px;font-family:unset;line-height:34px}
+.section3-grid{padding:40px 0;max-width:1110px;margin:0 auto}
+.section3-grid ul{display:flex;flex-wrap:wrap}
+.section3-grid ul:first-child li:nth-child(1){font-weight:500;font-family:GothamBold;font-size:34px;letter-spacing:0;text-align:left;padding-left:20px;color:#003b7e}
+.section3-grid ul li{width:16.6667%;background:#f2f2f2;list-style:none;text-align:center;padding:20px 20px;font-size:18px;word-break:break-word;font-family:gothambook;display:flex;align-items:center;line-height:1.1;justify-content:center;min-height:170px}
+.font-size-30px{font-size:30px!important}
+.section3-grid ul:first-child li:nth-child(2),.section3-grid ul:first-child li:nth-child(4),.section3-grid ul:first-child li:nth-child(6){background-color:#fff}
+.section3-grid ul li p{font-size:20px;line-height:25px}
+.section3-grid ul li:nth-child(11),.section3-grid ul li:nth-child(14),.section3-grid ul li:nth-child(16),.section3-grid ul li:nth-child(18),.section3-grid ul li:nth-child(19),.section3-grid ul li:nth-child(21),.section3-grid ul li:nth-child(23),.section3-grid ul li:nth-child(7),.section3-grid ul li:nth-child(9){background:#fff}
+.padr-60px{padding-right:60px!important}
+.section4{background:#ffe500;padding:50px 0 60px 40px;display:flex;width:100%;align-items:center;justify-content:space-between}
+.w90-per{width:95%;margin:0 auto;position:relative}
+.left-content{padding-left:40px}
+.noalign{text-align:unset!important}
+.w60-per{width:60%!important}
+.section4 .left-content{width:50%;padding-right:65px;text-align:justify;font-family:gothambook;font-weight:500}
+.section4 .left-content h3,.section4 .left-content h3 a{color:#000;font-size:51px;padding:0 0 20px;text-align:left;line-height:1.3;text-decoration:none;font-family:GothamBold;text-transform:uppercase}
+.section4 .left-content p{line-height:1.4;font-size:18px}
+.read-wrap a{background-color:#003b7e;border-radius:0;padding:10px 22px;display:inline-block;color:#ffe500;text-decoration:none;margin-top:20px;font-family:GothamBold;text-transform:uppercase;transition:all .3s;font-size:18px}
+.l3-5img.mr-4 img{width:80%;margin-top:-45px}
+.l3-5img{text-align:center}
+.l3-5img h3{color:#003b7e;font-size:34px;font-family:GothamBold;text-transform:capitalize}
+/*Introduction to safe food ENG css END here*/
+
+
+
+
+
+/* Explore to Food Waste css start here*/
+.section1{display:flex;align-items:center;width:100%;justify-content:space-between}
+.page-4_stage .left-content{width:45%;padding:50px 0 60px 40px}
+.page-4_stage .left-content h3{margin-bottom:20px;text-transform:capitalize;font-size:36px;color:#003b7e;font-family:GothamBold}
+.page-4_stage .left-content h4{font-family:GothamBold;font-size:20px;padding:0 0 10px}
+.read-more-btn{transition:all .3s;border:0;border-radius:0;background-color:#003b7e;color:#ffe500;text-transform:uppercase;font-family:GothamBold;text-transform:uppercase;display:inline-block;padding:10px 20px;margin:15px 0 0;font-size:18px;text-decoration:none}
+.page-3_stage .section1 .right-content{width:54%}
+.right-content img{display:block;padding-right:60px}
+img{max-width:unset;width:100%}
+.plastic_waste{margin-top:4rem}
+.page-4_stage .left-content p{font-family:gothambook;text-align:justify;line-height:1.5;max-width:100%}
+.plastic-waste_yellow{padding:30px;margin-top:-31px;padding-bottom:0;margin-bottom: 2rem;}
+.plastic-waste_yellow h3{font-family:GothamBold;font-size:20px;padding:0 0 10px 40px}
+.plastic-waste_yellow p{font-family:gothambook;text-align:justify;line-height:1.5;max-width:100%;padding-left:40px}
+.plastic-waste_goodToKnow_box{background-color:#f2f2f2;padding:50px;text-align:center;margin:0 30px;height:440px;overflow:hidden}
+.plastic-waste_goodToKnow_box img{width:40%}
+.plastic-waste_goodToKnow_box p{font-family:gothambook;line-height:1.5;max-width:100%;font-weight:600;font-size:15px;text-align:center;margin:20px 20px 0}
+.plastic-waste_goodToKnow_box p span{font-size:24px;font-family:GothamBold}
+h3.good_to_know_l4{color:#003b7e;font-size:38px;font-family:GothamBold;font-weight:500;margin-bottom:40px;margin-top:30px}
+.plastic_waste_expl{margin-top:3rem!important}
+.plastic_waste_expl p{font-size:21px;font-family:GothamBold;margin-bottom:0;padding:0 7rem}
+.plastic_waste_l4_page .container-fluid{margin:0!important}
+section.plastic-waste_productRecycle{background:#f2f2f2;padding:20px 0 50px}
+.plastic-wasteStep h2{font-size:55px;font-family:GothamBold;color:#ffe500}
+.plastic-wasteStep h4{font-size:24px;font-family:GothamBold;margin-top:0}
+.plastic-wasteStep p{padding-right:5rem;font-weight:600;font-size:14px}
+.plastic-wasteStep{position:relative;top:65px;left:15px}
+.plastic-wasteStepLastRow .plastic-wasteStep{position:relative;top:-70px;left:15px}
+img.no_banimg{width:60%;margin-top: -30px;}
+.howTopreventPlastic .bg_blue{background:#003b7e;padding:50px 0;margin:0 18px}
+.first_row h3{font-size:38px;color:#ffe500;font-family:GothamBold}
+.first_row p{font-size:14px;color:#fff;padding-right:3rem;text-align:justify}
+.good_to_know.plastic_waste_blue .good_to_know_box{text-align:center;border:2px solid #ffe500;min-height:448px;margin-bottom:1.5rem!important;min-height:495px;margin:0;padding:20px!important}
+.good_to_know.plastic_waste_blue .good_to_know_box p{color:#fff}
+.good_to_know.plastic_waste_blue .good_to_know_box h4{font-size:20px;color:#fff;font-family:GothamBold;margin-top:15px}
+.plastic_ble{color:#fff}
+.simple_waste_audit ul.list-unstyled.d-flex.mt-5 {
+    margin-bottom: -12px;
+}
+.plastic_ble{margin-bottom:5rem!important;color:#fff!important;font-size:24px!important}
+.good_to_know.plastic_waste_blue .good_to_know_box.p-4.safe_foodBox_l4 img{width:45%;background:#003b7e;padding:0 30px;margin-bottom:1rem}
+.simple_waste_audit{background:#fff;border-radius:30px;box-shadow:0 0 8px 4px #00000003;margin:1rem 0 2rem;padding:30px}
+.simple_waste_audit h5{text-align:center;font-size:24px;font-family:Gotham}
+.simple_waste_audit h3{text-align:center;font-family:GothamBold;font-size:40px;color:#003b7e}
+.simple_waste_audit p{padding:0 14rem;text-align:center;font-size:18px}
+.simple_waste_audit ul li{width:18%;text-align:center}
+.simple_waste_audit ul li img{width:40%}
+.simple_waste_audit ul li p{text-align:center;padding:0;margin-top:15px;font-size:20px;font-family:GothamBold;color:#003b7e}
+.simple_waste_audit ul li:first-child{width:11%;text-align:center;padding:0;margin-top:0;font-size:20px;font-family:GothamBold;color:#003b7e;display:flex;flex-direction:row;justify-content:center;align-items:end;padding:0;margin-bottom:18px}
+td{width:245px;text-align:left;background:#f2f2f2!important;font-size:14px;font-weight:600;padding:20px!important;border:5px solid #fff}
+td:first-child{width:170px}
+section.waste_food_l4_slider {margin-bottom: 8rem !important;}
+.waste_food_l4_slider .sw-holder {
+    overflow: hidden;
+    width: 90%;
+    margin: 0 auto;
+}
+section.didyouknow p.text-center img {
+    width: 40rem;
+}
+.didyouknow_para {
+    color: #000;
+    font-size: 26px;
+    text-align: center;    font-family: 'gothambook';
+}
+.didyouknow_2culumn h4 {
+    font-size: 20px;
+    margin-top: 20px;
+    line-height: 28px;
+    font-family: unset;font-weight: 600;
+}
+.section3-inner .right-content p, .section3-inner3 .right-content p {
+    font-size: 20px;
+    font-family: unset;
+    line-height: 28px;
+}   
+.section3-grid ul li p {
+    font-size: 18px;
+    line-height: 25px;
+}
+.section3-inner .left-content h3, .section3-inner3 .left-content h3 {
+    font-family: GothamBold;
+    font-weight: 100;
+    font-size: 50px;
+    margin-top: 0;
+}
+.section3-grid ul li:nth-child(20), .section3-grid ul li:nth-child(22), .section3-grid ul li:nth-child(24), .section3-grid ul li:nth-child(8), .section3-grid ul li:nth-child(10), .section3-grid ul li:nth-child(12) {
+    background: #f2f2f2;
+}
+.section4 .left-content h3, .section4 .left-content h3 a {
+    color: #000;
+    font-size: 40px;
+    padding: 0 0 20px;
+    text-align: left;
+    line-height: 1.3;
+    text-decoration: none;
+    font-family: GothamBold;
+    text-transform: uppercase;
+}
+.plastic-waste_yellow{display: none;}
+#more {display: none;}
+button.mybtncss {
+    background-color: #003b7e;
+    border-radius: 0;
+    padding: 10px 22px;
+    display: inline-block;
+    color: #ffe500;
+    text-decoration: none;
+    margin-top: 10px;
+    font-family: GothamBold;
+    text-transform: uppercase;
+    transition: all .3s;
+    font-size: 18px;
+}
+button.mybtncss:hover {
+    background-color:#ffe500;
+    border-radius: 0;
+    padding: 10px 22px;
+    display: inline-block;
+    color: #003b7e ;
+    text-decoration: none;
+    margin-top: 10px;
+    font-family: GothamBold;
+    text-transform: uppercase;
+    transition: all .3s;
+    font-size: 18px;
+}
+
+.soFood_importants {
+    margin-bottom: 50px;
+    margin-top: -5px;
+    display: none;
+}
+.read-more-btn:hover {
+   
+    color: #003b7e !important;
+}
+
+.plastic_waste .read-more-btn:hover{background: #ffe500 !important; color: #003b7e !important;}
+
+.bg_blue1 {
+    background: #003b7e;
+    
+}
+.compost_wasteFood_img.learn_to_make img {
+    width: 36rem;
+}
+.simple_wayTo_preventing {
+    background-color: #f2f2f2;
+    padding: 50px;
+    margin-top: 55px;
+    margin-bottom: -50px;
+}
+.simple_wayTo_preventing .sl-box {
+    background-color: #fff;}
+.wayT0Title
+{    color: #003b7e;
+    font-size: 38px;
+    font-family: GothamBold;
+    font-weight: 500;
+    margin-bottom: 40px;
+    margin-top: 30px;
+        text-align: center;
+}
+.disc
+{
+    text-align: center;
+}
+section.action_plan.mt-5 .checkmark:after {
+    left: 8px;
+    top: 2px;
+    width: 7px;
+    height: 16px;
+}
+.bg_yellow img {
+    margin-top: -35px;
+}
+
+
+/* Explore to Food Waste css End here*/
+
+
+
+
+

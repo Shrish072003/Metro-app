@@ -1,0 +1,93 @@
+@media screen and (max-width: 600px) {
+    .section1 {
+        flex-direction: column !important;
+        margin-top: 10% !important;
+    }
+    .section1 .left-content h3{
+        font-size: 25px !important;
+    }
+    .left-content{
+        width: 100% !important;
+    padding: 20px !important;
+    text-align: center !important;
+    }
+    .right-content img {
+        width: 85% !important;
+        align-items: center !important;
+        display: block !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        padding-right: 0px !important;
+    }
+    .section2 {
+        padding: 13px 20px !important;
+    }
+    .mid-content {
+        padding: 0 20px !important;
+        list-style: none;
+    }
+    .mid-content p {
+        margin-top: 20px !important;
+    }
+    .section3-inner3 .right-content p, .section3-inner .right-content p {
+        font-weight: bolder !important;
+    }
+    .section3-inner3 .left-content h3, .section3-inner .left-content h3 {
+        font-size: 25px !important;
+    }
+    .section3-inner3 .left-content h3, .section3-inner .left-content h3 {
+        padding-bottom: 0px !important;
+        text-align: center;
+    }
+    .section3-grid ul {
+        display: block !important;
+        flex-wrap: wrap;
+    }
+    .section3-grid ul li {
+        width: 100% !important;
+        
+    }
+    .section3-outersection {
+        padding: 30px 30px !important;
+    }
+    .section4 .right-content, .section4 .left-content {
+        padding: 30px !important;
+        width: 100%;
+    }
+    .section4 {
+        padding: 40px 0px !important;
+        flex-direction: column-reverse !important;
+    }
+    .read-wrap a{
+        border-radius: 50px !important;
+        color: #fff !important;
+    }
+    .right-img-back{
+        position: absolute;
+    margin-top: -50%;
+    opacity: 0.3;
+    transform: rotate(-90deg);
+    margin-bottom: 100%;
+    margin-left: 30%;
+    }
+    .disable-desptop{
+        display: none;
+    }
+    .section3-inner3 .right-content p, .section3-inner .right-content p {
+        font-size: 14px !important;
+    }
+    .section4 .left-content p {
+        font-size: 14px !important;
+    }
+    .section4 .left-content ul {
+        font-size: 15px !important;
+    }
+    .section4 ul li {
+        font-size: 15px !important;
+    }
+}
+@media screen and (min-width: 800px){
+.disable-mobile{
+    display: none;
+}
+}

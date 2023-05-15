@@ -1,0 +1,114 @@
+@media screen and (max-width: 600px) {
+    .section1 {
+        margin-top: 31px !important;
+    }  
+    .page-4_stage .left-content h4 {
+        font-family: "GothamBold";
+        font-size: 17px !important;
+        padding: 20px 0 13px;
+    }
+    .section-white-full-width {
+        position: relative;
+        padding: 30px 30px !important;
+    }
+    .justify1 {
+        text-align: justify !important;
+        font-weight: bolder;
+    }
+    .displayno-print {
+        flex-direction: column-reverse !important;
+    }
+    .protrace-frame {
+        height: 11rem !important;
+        width: auto !important;
+        line-height: 11rem;
+        /* text-align: center; */
+        margin-left: 0rem !important;
+    }
+    .section-heading-blue {
+        font-size: 25px !important;
+    }
+    .section-heading-blue-small {
+        font-size: 25px !important;
+    }
+    .desk-fri{
+        display: none !important;
+    }
+    .msr-img-holder2 {
+        width: auto;
+        height: auto !important;
+    }
+    .section2 {
+        padding: 0px 0 !important;
+    }
+    .con50 {
+        padding: 30px 30px !important;
+    }
+    .msr-img-holder7>.msr-img-holder-inner7>img {
+        margin-top: 0rem !important;
+    }
+    .pageSlider-slide.swiper-slide-active {
+        margin-left: 0rem !important;
+        margin-right: 0rem !important;
+        height: 40rem !important;
+        width: 23rem !important;
+    }
+    .pageSlider-container-inner {
+        margin-left: 0rem !important;
+        margin-right: 0rem !important;
+    }
+    .pageSlider {
+        width: 98% !important;
+        height: auto !important;
+        float: left;
+        position: relative;
+    }
+    .swiper-horizontal > .swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+        bottom: -197px !important;
+    }
+    .top-highlight p {
+     padding: 0px !important;
+    }
+    
+.top-highlight {
+    background: #ffe500;
+    padding: 20px 30px;
+}
+.section-text-withimages {
+    margin: 0px 30px 0px 30px !important;
+}
+.left-content9 {
+    width: 100% !important;
+}
+.right-content9{
+    display: none;
+}
+.h3v2 {
+    font-size: 25px !important;
+}
+.section4-6 .top-content h3 {
+    font-size: 30px !important;
+}
+.more-text p {
+    font-weight: bolder;
+    font-size: 14px !important;
+    margin-top: 20px !important;
+}
+button.no-print {
+    font-size: 18px !important;
+}
+.tracktalk-iconbox {
+    width: 4rem !important;
+    margin-left: 0rem !important;
+    margin-top: 3rem !important;
+}
+.right-side{
+    margin-left: 30%;
+}
+
+}
+@media screen and (min-width: 800px){
+    .mobile-fri{
+        display: none !important;
+    }
+}

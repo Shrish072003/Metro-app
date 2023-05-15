@@ -1,0 +1,41 @@
+@media screen and (max-width: 600px) {
+
+    .page-2_stage{
+        display: none;
+    }
+    .main_scroll{
+        height: 100%;
+    }
+    .scrollmenu{
+        margin-top: 70%;
+    }
+    div.scrollmenu {
+        overflow: auto;
+        white-space: nowrap;
+      }
+      
+      div.scrollmenu a {
+        display: inline-block;
+        color: white;
+        text-align: center;
+        padding: 14px;
+        text-decoration: none;
+      }
+      
+      div.scrollmenu a:hover {
+        background-color: #777;
+      }
+      .active {
+        transform: scale(3);
+      }
+      
+            
+      
+      
+}
+
+@media screen and (min-width: 600px){
+.main_scroll{
+    display: none;
+}
+}

@@ -1,0 +1,20 @@
+Page like process-flow:
+When a user hit the 'Like' button, the application send IP Address with Page title to the defined MySQL database along with timestamp of like. To configure MySQL database to the application, follow steps given below:
+
+Step 1: Create a MySQL database to the hosting server
+Step 2: Create/map database user to the database
+Step 3: Execute the script given in 'dbscript.txt' inside Instruction folder, into newly created database
+Step 4: Find the file named 'dbconfig.php', from application root folder
+Step 5: Open file with text/code editor, follow update as given below:
+
+	$servername = "HOSTING_SERVER";
+
+	$username = "DB_USERNAME"; 
+
+	$password = "PASSWORD"; 
+
+	$dbname = "DATABASE_NAME"; 
+
+Step 6: Save the file
+
+Now, application is ready to accept page likes.

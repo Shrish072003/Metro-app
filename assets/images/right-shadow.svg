@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 758" width="1024" height="758">
+	<title>New Project</title>
+	<defs>
+		<linearGradient id="g1" x1="1116.2" y1="-97.4" x2="550" y2="349" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#f7f9fb"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { opacity: .2;fill: url(#g1) } 
+	</style>
+	<path id="Path 405" class="s0" d="m1023.1 70.4v617.2c0 38.7-33.5 70.1-74.9 70.1h-31.2c-32.3-709.9-702.7-706.8-916.1-687.7 0.2-38.5 33.7-69.7 74.9-69.7h872.4c41.4 0 74.9 31.4 74.9 70.1z"/>
+</svg>

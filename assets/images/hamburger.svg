@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 26" width="36" height="26">
+	<title>New Project</title>
+	<style>
+		.s0 { fill: #003b7e } 
+	</style>
+	<g id="&lt;Group&gt;">
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="s0" d="m0 0.6h36v5.3h-36z"/>
+			<path id="&lt;Path&gt;" class="s0" d="m0 10.4h36v5.2h-36z"/>
+			<path id="&lt;Path&gt;" class="s0" d="m0 20.1h36v5.3h-36z"/>
+		</g>
+	</g>
+</svg>

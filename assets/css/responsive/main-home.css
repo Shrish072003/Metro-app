@@ -1,0 +1,27 @@
+@media screen and (max-width: 600px) {
+.article__title--strong {
+    padding: 10px 30px !important;
+}
+.main-img-metro{
+    width: 760px !important;
+    max-width: 900px !important;
+    object-fit: cover;
+    object-position: -364px 0;
+    margin-bottom: 20px;
+}
+.artcle-top-wrap {
+    top: 80%;
+}
+.overlay{
+    display: none;
+}
+.footer-wrap {
+    margin-top: 388px;
+}
+
+}
+@media screen and (min-width: 800px){
+    .main-img-metro{
+        display: none;
+    }
+}

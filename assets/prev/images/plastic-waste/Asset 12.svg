@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 146 146">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #003b7e;
+        font-family: Gotham-Bold, Gotham;
+        font-size: 35px;
+      }
+
+      .cls-2 {
+        fill: #ffe500;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <circle class="cls-2" cx="73" cy="73" r="73"/>
+      <text class="cls-1" transform="translate(37.6 85.25)"><tspan x="0" y="0">EPS</tspan></text>
+    </g>
+  </g>
+</svg>

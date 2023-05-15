@@ -1,0 +1,77 @@
+@media screen and (max-width: 600px) {
+    .safeFoodl4_banner{
+        margin-top: 2rem !important;
+    }
+    .Banner_l3_title{
+        margin-top: 0px !important;
+    }
+    .banner_title{
+        font-size: 32px !important;
+    }
+    .banner_l3_img img{
+        width: 100% !important;
+    }
+    .text-center{
+        font-size: 29px;
+    }
+    .didyouknow_2culumn h4{
+        margin: 2px 2px;
+    }
+    .left-content h3 {
+        font-size: 28px !important;
+    }
+    .right-content{
+        padding: 10px 10px !important;
+    }
+    .right-content p{
+        font-weight: bold;
+    }
+    .section3-grid ul{
+        display: block !important;
+    }
+    .section3-grid ul:nth-child(1) li:nth-child(1){
+        width: 100%;
+    }
+    .section3-grid ul li{
+        width: auto !important;
+    }
+    .border-right{
+        border-right: none !important;
+    }
+    .section4{
+        padding: 10px 10px !important;
+    }
+    .padr-60px{
+        padding-right: 10px !important;
+    }
+    h3{
+        font-size: 28px !important;
+    }
+    .read-wrap .read-more{
+        border-radius: 50px;
+        margin-right: auto;
+        margin-left: auto;
+        display: table;
+    }
+    .section4 .left-content p{
+        font-weight: bold;
+    }
+    .food-rec {
+        margin-bottom: -5rem;
+        margin-left: 3rem;
+        margin-top: 2rem;
+    }
+    .l3-5img.mr-4 img {
+        width: 100%;
+        margin-top: 10px;
+    }.l3-5img{
+        margin-left: 0px !important;
+    }
+    .food-rec{
+        margin-left: 0px !important;
+    }
+    li p{
+        font-size: 20px !important;
+    }
+    
+}

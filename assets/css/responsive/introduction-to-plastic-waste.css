@@ -1,0 +1,63 @@
+@media screen and (max-width: 600px) {
+    .banner-section {
+        margin-top: 50px !important;
+        margin-bottom: -234px;
+    }
+    .h3v {
+        font-size: 28px !important;
+        text-transform: uppercase;
+    }
+    .mt-2 {
+        text-align: center !important;
+    }
+    .px-5 {
+        padding-right: 0rem !important;
+        padding-left: 0rem !important;
+    }
+    .mt-12 {
+        margin-top: 0rem !important;
+    }
+    .banner-image {
+        width: 85% !important;
+        position: revert !important;
+    }
+    .border-r {
+        border-right: none !important;
+    }
+    
+    .border-b {
+        border-bottom: 1px solid black !important;
+    }
+    .border-m {
+        border-bottom: 1px solid black !important;
+    }
+    .h3v3 {
+        font-size: 25px !important;
+    }
+    .container-full .row {
+        padding: 0px 40px;
+    }
+    .desk-dis{
+        display: none;
+    }
+    .heirarchy-image {
+        width: 100%;
+        height: auto;
+    }
+    .mx-3 {
+        margin-right: 0rem !important;
+        margin-left: 0rem !important;
+    }
+
+
+
+
+
+}
+@media screen and (min-width: 800px){
+    .mobile-dis{
+        display: none;
+    }
+
+
+}

@@ -1,0 +1,57 @@
+@media screen and (max-width: 600px) {
+.section1 {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+.left-contentimg{
+    margin-bottom: 20px;
+}
+section.good_to_know h3 {
+    font-size: 28px !important;
+}
+.good_to_know .container {
+    padding: 0 20px 0 !important;
+}
+section.good_to_know.no-print.mtcsutom.energy_page.waste_l4-page .good_to_know_box.p-4.safe_foodBox_l4 {
+    min-height: 260px;
+    margin-bottom: 10px !important;
+}
+.simple_wayTo_preventing {
+    padding: 20px !important;
+}
+.wayT0Title {
+    font-size: 28px !important;
+}
+.plastic_waste_expl p {
+    font-size: 16px !important;
+    padding: 0 0rem !important;
+}
+.advance_way h3 {
+    font-size: 28px !important;
+}
+.track-and_talk_discr p {
+    font-size: 16px !important;
+    padding-right: 0px !important;
+}
+.container-fully {
+    margin: 10px 30px !important;
+}
+.track-and_talk_discr h3 {
+    font-size: 28px !important;
+    margin-top: 0px !important;
+}
+.track-and_talk_discr p {
+    font-size: 14px !important;
+    font-weight: bolder !important;
+}
+.mt-5 {
+    margin-top: 0rem !important;
+}
+.mb-4 {
+    margin-bottom: 0rem !important;
+}
+
+}

@@ -1,0 +1,81 @@
+.banner-h3 {
+  color: #003b7e;
+  font-size: 50px;
+  font-family: "GothamBold";
+  text-transform: uppercase;
+}
+
+.mt-7 {
+  margin-top: 7rem;
+}
+
+.mt-12 {
+  margin-top: 12rem;
+}
+
+.banner-image {
+  width: 47.5rem;
+  position: absolute;
+  z-index: 2;
+}
+
+.banner-section {
+  height: 28rem;
+}
+
+.heirarchy-image {
+  width: 500px;
+  height: auto;
+}
+
+.section4 .right-content img {
+  transform: unset !important;
+}
+
+.diduknow-img {
+  width: 24rem;
+  margin-bottom: 1rem;
+}
+
+.diduknow-p {
+  text-align: center;
+  color: #000;
+  max-width: 380px;
+  margin: 0 auto;
+  font-family: "Gotham";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.diduknow-content {
+  padding: 1rem;
+}
+
+.img-w12rem {
+  width: 12rem !important;
+}
+
+.img-w23rem {
+  width: 23rem !important;
+}
+
+.img-w27rem {
+  width: 27rem !important;
+}
+
+.img-w25rem {
+  width: 27rem !important;
+}
+
+.border-b {
+  border-bottom: 1px solid black !important ;
+}
+.border-r {
+  border-right: 1px solid black !important ;
+}
+
+.text-bold-16p {
+  font-weight: bold;
+  font-size: 16px;
+}

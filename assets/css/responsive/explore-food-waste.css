@@ -1,0 +1,174 @@
+@media screen and (max-width: 600px) {
+    .px-4 {
+        padding-right: 20px !important;
+        padding-left: 20px !important;
+    }
+    .container-fluid {
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+        width: 100%;
+    }
+    h1.banner_title {
+        text-align: center;
+        font-size: 25px !important;
+    }
+    .desk-show{
+        display: none;
+    }
+    .banner_l4_title{
+        margin-top: -36px !important;
+    }
+    .banner_l4_title h6 {
+        margin-top: 1.8rem;
+        margin-bottom: 1.8rem;
+    }
+    .food_wasteTitle{
+        font-size: 25px !important;
+    }
+    .container {
+        padding: 0 0px 0 !important;
+    }
+    .col-md-4{
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+    }
+    .benefit_box_mob{
+        display: none;
+    }.benefit_box h4 {
+        font-size: 28px;
+    }.benefit_box {
+        margin-bottom: 81px !important;
+        min-height: 225px !important;
+        margin: -22px !important;
+        background: #003b7e;
+        text-align: center;
+        padding: 4px !important;
+    }.margin-top-imgg {
+        margin-top: 100px !important;
+    }.thermo-inner {
+        padding-left: 30px !important;
+        padding-right: 30px !important;
+    }.h3v {
+        font-size: 28px !important;
+    }.c-para1 {
+        font-size: 16px !important;
+        font-weight: bold;
+    }
+    .swiper-slide-inner{
+        width: 16rem !important;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .swiper-slide{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .list-box1 {
+        height: 18rem !important;
+        overflow-y: inherit !important;
+        width: 19rem;
+        margin-left: 1.5rem;
+    }
+    .veg12 {
+        padding-bottom: 19rem !important;
+        margin-top: 4rem !important;
+    }
+    /* .col-md-3 .vegetables-inner .img-fluid{
+        display: none;
+    } */
+    .mt-4 .zdiv{
+        position: relative;
+    }
+    .fruits-inner {
+        z-index: 2;
+    }
+    .vegetables-inner, .fruits-inner {
+        height: 17rem !important;
+    }
+    .mobile_nonedis {
+        display: none !important;
+    }
+    .zdiv .vegetables-inner{
+        margin-top: -13rem;
+    }
+    .wayT0Title {
+        font-size: 28px !important;
+    }
+    .pageSlider-container-inner {
+        /* margin-left: 0rem !important;
+        margin-right: 0rem !important; */
+    }
+    .pageSlider {
+        width: 98% !important;
+    }
+    .swiper-pagination-bullet {
+        width: 8px !important;
+        height: 8px !important;
+    }
+    .section-div > .container-fluid {
+        height: 50rem !important;
+    }
+    .advance_way h3 {
+        font-size: 28px !important;
+        font-family: GothamBold;
+        margin-bottom: 1.5rem;
+    }
+    .advance_way p {
+        font-size: 16px !important;
+    }
+    .exploreFood_discripsn {
+        /* margin-bottom: 1rem !important; */
+    }
+    .media-body {
+        padding: 0 0 !important;
+    }
+    .compost_wasteFood_listing {
+        margin-top: 0rem !important;
+    }
+    .downimg{
+        display: none;
+    }
+    .container-fluid .row .img-fluid {
+        margin-bottom: 30px !important;
+    }
+    .two-column {
+        column-count: 1 !important;
+        column-gap: 2rem;
+    }
+    .learn_to_make p {
+        padding-left: 5px !important;
+    }
+    .media-body {
+        width: 85% !important;
+    }
+    .media-object {
+        display: block;
+        margin-top: 18px;
+    }
+    h1.banner_title2 {
+        font-size: 28px !important;
+    }
+    .banner_l4_title p {
+        text-align: unset !important;
+        font-size: 14px !important;
+        font-weight: bolder;
+    }
+    .banner_l4_img.talk_prog_img img {
+        width: 40rem;
+        margin-top: 126px !important;
+    }
+    button.no-print {
+        font-size: 18px !important;
+    }
+}
+
+@media screen and (min-width: 800px){
+    .mobile-show ,.benefit_box_desk ,.downimgdownimg{
+        display: none !important;
+    }
+    .vegetables-inner, .fruits-inner {
+        display: none;
+    }
+}

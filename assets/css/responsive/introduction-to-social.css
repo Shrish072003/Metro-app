@@ -1,0 +1,71 @@
+@media screen and (max-width: 600px) {
+    h1.banner_title {
+        font-size: 25px !important;
+        text-align: center !important;
+    }
+    .safeFoodl4_banner .no-print{
+        margin-left: 0px !important;
+    }
+    .banner_l3_img.energy_banner img {
+        width: 100%;
+        margin-left: auto !important;
+        margin-right: auto;
+        display: block;
+    }
+    .banner_l4_title.Banner_l3_title.cst_mar {
+        margin-top: 2.5rem;
+    }
+    .container-fluid .px-4{
+            padding-right: 10px !important;
+            padding-left: 10px !important;
+    }
+    .didyouknow_2culumn .px-4{
+        width: 85% !important;
+}
+.didyouknow_contents.waste_foot_l3 h3 {
+        font-size: 28px !important;
+}
+.didyouknow_2culumn h4 {
+    font-size: 16px !important;
+    margin-right: 30px !important;
+    margin-left: 30px !important;
+}
+.section3-inner, .section3-inner3 {
+    margin: 30px !important;
+    font-weight: bolder !important;
+}
+.section3-inner3 .left-content h3, .section3-inner .left-content h3 {
+    font-size: 25px !important;
+}
+.section4 .left-content h3 a, .section4 .left-content h3 {
+    font-size: 20px !important;
+}
+.padr-60px {
+    padding-right: 30px !important;
+}
+    .desk_show{
+        display: none;
+    }
+    .l3-5img.mr-4 img {
+        width: 70%;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .read-wrap a{
+        margin-left: auto;
+        margin-right: auto;
+        display: table;
+        color: #fff;
+        border-radius: 50px;
+    }
+
+
+
+
+}
+
+@media screen and (min-width: 800px){
+.mobile_show{
+    display: none;
+}
+}
