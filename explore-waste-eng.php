@@ -469,8 +469,85 @@
                     </div>
                 </div>
             </section>
+            <section class="advance_way no-print plastic_waste_expl mobile_show" id="option4" data-scrl="How to maximise sorting waste">
+                <div class="container">
+                    <div class="row">
+                        <h3>How to maximise sorting waste</h3>
+                        <p>When waste is sorted, it is easier to identify and you canstart<br> to address where processes can be
 
-            <section class="advance_way no-print plastic_waste_expl" id="option4" data-scrl="How to maximise sorting waste">
+                            made more efficient. <br>Here are some tips to maximise the process:</p>
+                    </div>
+                </div>
+            </section>
+            <div class="row">
+                        <div class="plastic-wasteStepImg">
+                            <img src="assets/images/plastic-waste/Asset 19.svg">
+                        </div>
+                    </div>
+
+
+            <section class="plastic-waste_productRecycle no-print mobile_show">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-4 offset-md-2">
+                            <div class="plastic-wasteStep">
+                            <h2>01</h2>
+
+<p>Place waste containers in all
+    areas where waste is generated</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 offset-md-1">
+                            <div class="plastic-wasteStep">
+                                
+                        
+                        <h2>02</h2>
+
+<p>Ensure containers have lids that are easy
+    to open, for example, with a foot paddle,
+    to avoid hand contact</p></div>
+                    </div>
+
+                    <div class="row plastic-wasteStepLastRow">
+                        <div class="col-md-4">
+                            <div class="plastic-wasteStep">
+                            <h2>03</h2>
+
+<p>Containers should be easily washable</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="plastic-wasteStep" style="left: 60px;">
+                            <h2>04</h2>
+
+<p>Areas where waste is kept must be easily
+    accessible for maintenance (washing, cleaning,
+    disinfection) and set up in a way to keep pests
+    or rodents out, ideally located outside the area
+    where food is received and handled</p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="plastic-wasteStep">
+                                <h2>05</h2>
+
+                                <p>Good hygienic practice is to remove
+                                    cartons before placing food into
+                                    storage. This also helps organise
+                                    food better and to be able to check
+                                    its condition easily</p>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+                </div>
+            </section>
+
+            <section class="advance_way no-print plastic_waste_expl desk_show" id="option4" data-scrl="How to maximise sorting waste">
                 <div class="container">
                     <div class="row">
                         <h3>How to maximise sorting waste</h3>
@@ -483,7 +560,7 @@
 
 
 
-            <section class="plastic-waste_productRecycle no-print">
+            <section class="plastic-waste_productRecycle no-print desk_show">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-4 offset-md-2">

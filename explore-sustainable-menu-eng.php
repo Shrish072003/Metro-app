@@ -783,8 +783,99 @@
 
       </section>
 
+      <section class="section-highlight-withimages  section4-5 no-print mobile_show" id="option5" data-scrl="Highlight your sustainable menu">
+        <div class="top-highlight text-center">
+          <h3>Highlight your Sustainable Menu </h3>
+          <p>It’s crucial that customers understand what you are doing. There are some things you can do to make your philosophy clear:</p>
+        </div>
+        <div class="mid-highlight container ">
+        <div class="circle-setting-mobile">
+            <img src="assets/prev/images/circle-icon.svg" />
+            
+          </div>
+          <ul>
+            <li>
+              <div class="circle-content more-text">
+              <span class="text-num">01</span>
+                <h5>Explain sustainable <br> ingredients on your menu</h5>
+                <p>Show where your ingredients are from and who has produced them. Explain the sustainability labels of your ingredients (check first that the label scheme owner allows this and make sure you have the certificates available). Let your customers know how the ingredient is produced. Explain when it is from a local farmer who follows sustainable principles but has decided not to be certified. It is important to make this clear to your customers. Highlight dishes with vegetables and wholegrains. Generally explain your sustainability philosophy and tell your dishes’ sustainable story wherever possible.
+                </p>
+              </div>
+            </li>
+            <li>
+              <div class="circle-content more-text">
+              <span class="text-num">02</span>
+                <h5>Highlight your <br> sustainable actions</h5>
+                <p>Use your menu as an opportunity to show what you are doing as a restaurant to be more sustainable for example the way you manage food waste, food donations, involvement in your community. Invite customers to take food that they have not eaten home with them. In sustainable packaging of course!
+                </p>
+              </div>
+            </li>
+            <li>
+              <div class="circle-content more-text">
+              <span class="text-num">03</span>
+                <h5>Note allergies <br> and intolerances</h5>
+                <p>Increasingly there are people with allergies and intolerances. The legal requirements to note these on the menu should be applied.
 
-      <section class="section-highlight-withimages  section4-5 no-print" id="option5" data-scrl="Highlight your sustainable menu">
+                </p>
+              </div>
+            </li>
+
+          </ul>
+
+          <div class="circle-setting">
+            <img src="assets/prev/images/circle-icon.svg" />
+
+          </div>
+          <ul>
+            <li>
+              <div class="circle-content more-text">
+              <span class="text-num">04</span>
+                <h5>Describe the dishes <br> in an enticing way</h5>
+                <div class="more-text">
+                  <p>Consider that many consumers are used to choosing on the basis of taste and price. Sustainable ingredients often come after that. So focus on describing the taste first. Add descriptions depending on what would appeal to the type of customers you want to attract. For example :</p>
+                  </p>
+                  <div id="more6">
+                    <ul>
+                      <li>“Slow roasted smokey bean bowl”
+                        (house made casserole with mixed organic beans, organic tomato and smoked pimento. Served with a side of wild rice. A delicious and filling protein fix!)
+                      </li>
+                      <li>“Lemony fish cakes”
+                        (house made with certified cod and served with salad and organic mayonnaise. A fresh burst of the ocean!)
+                      </li>
+                      <li>“Slow roasted smokey bean bowl”
+                        (house made casserole with mixed organic beans, organic tomato and smoked pimento. Served with a side of wild rice. A delicious and filling protein fix!)
+                      </li>
+
+                    </ul>
+                  </div>
+                  </p>
+
+                  <button href="#" class="read-text" id="myBtn6">READ MORE</button>
+
+              </div>
+            </li>
+            <li>
+              <div class="circle-content more-text">
+              <span class="text-num">05</span>
+                <h5>Add information on the <br> origin of your ingredients</h5>
+                <p>Consider adding information on the origin of your ingredients to your website and social media pages as well as in print or on your menu display. It will save space in the individual dish descriptions.
+
+                </p>
+                </div>
+            </li>
+            <li>
+              <div class="circle-content more-text">
+                <span class="text-num">06</span>
+                <h5>Brief your serving staff </h5>
+                <p>Ensure that they can deliver the information in a knowledgeable and convincing way.</p>
+              </div>
+            </li>
+
+          </ul>
+
+        </div>
+      </section>
+      <section class="section-highlight-withimages  section4-5 no-print desk_show" id="option5" data-scrl="Highlight your sustainable menu">
         <div class="top-highlight text-center">
           <h3>Highlight your Sustainable Menu </h3>
           <p>It’s crucial that customers understand what you are doing. There are some things you can do to make your philosophy clear:</p>

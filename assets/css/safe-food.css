@@ -1078,7 +1078,7 @@ h1.banner_title {
   text-align: justify;
 }
 .good_to_know_box.p-4.safe_foodBox_l4 {
-  margin-bottom: 5rem !important;
+  margin-bottom: 5rem ;
   height: 185px;
   margin: 35px;
 }

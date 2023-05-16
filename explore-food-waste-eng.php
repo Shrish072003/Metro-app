@@ -350,8 +350,27 @@
                             <img src="assets/images/safe_food/Asset 8.1.svg" class="img-fluid">
                             <p>Has a positive impact on your local environment</p>
                         </div>
+                        <div class="benefit_box benefit_box_mob mobile_show" style="min-height: 28.1rem;">
+                            <h4>Benefits of reducing food waste are enormous</h4>
+                        </div>
+                        <div class="good_to_know_box p-4 safe_foodBox_l4 mobile_show">
+                            <img src="assets/images/safe_food/Asset 9.1.svg" class="img-fluid">
+                            <p>You differentiate yourself by standing out as responsible </p>
+                        </div>
+                        <div class="good_to_know_box p-4 safe_foodBox_l4 mobile_show">
+                            <img src="assets/images/safe_food/Asset 4.1.svg" class="img-fluid">
+                            <p>Improves your business operation practices and efficiency</p>
+                        </div>
+                        <div class="good_to_know_box p-4 safe_foodBox_l4 mobile_show">
+                            <img src="assets/images/safe_food/Asset 7.1.svg" class="img-fluid">
+                            <p>Has a positive impact on your work ethics </p>
+                        </div>
+                        <div class="good_to_know_box p-4 safe_foodBox_l4 mobile_show">
+                            <img src="assets/images/safe_food/Asset 10.svg" class="img-fluid">
+                            <p>You will be ready to comply with new laws</p>
+                        </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4 desk_show">
                         <div class="benefit_box benefit_box_mob" style="min-height: 28.1rem;">
                             <h4>Benefits of reducing food waste are enormous</h4>
                         </div>
@@ -360,7 +379,7 @@
                             <p>You differentiate yourself by standing out as responsible </p>
                         </div>
                     </div>
-                    <div class="col-md-4 px-4">
+                    <div class="col-md-4 px-4 desk_show">
                         <div class="good_to_know_box p-4 safe_foodBox_l4">
                             <img src="assets/images/safe_food/Asset 4.1.svg" class="img-fluid">
                             <p>Improves your business operation practices and efficiency</p>

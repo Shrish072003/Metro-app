@@ -9,11 +9,11 @@
     }
     .section-white-full-width {
         position: relative;
-        padding: 30px 30px !important;
+        padding: 15px 30px !important;
     }
     .justify1 {
-        text-align: justify !important;
-        font-weight: bolder;
+        text-align: left !important;
+        font-weight: bolder !important;
     }
     .displayno-print {
         flex-direction: column-reverse !important;
@@ -30,6 +30,7 @@
     }
     .section-heading-blue-small {
         font-size: 25px !important;
+        text-align: center;
     }
     .desk-fri{
         display: none !important;
@@ -104,6 +105,16 @@ button.no-print {
 }
 .right-side{
     margin-left: 30%;
+}
+.icon-box-1 {
+    margin-top: 1.8rem !important;
+}
+.text-center {
+    text-align: center;
+    margin-bottom: -33px;
+}
+.mb-5 {
+    margin-bottom: 0rem !important;
 }
 
 }

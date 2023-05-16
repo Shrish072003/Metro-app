@@ -27,6 +27,29 @@
     <meta name="mssmarttagspreventparsing" content="true">
     <meta name="IE=edge,chrome=1" content="X-UA-Compatible">
     <meta name="msapplication-starturl" content="">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="assets/prev/css/page2_style.css">
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script src="assets/prev/jquery/custom.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="likebtn.css">
+
+  <link rel="stylesheet" href="assets/css/navigation.css">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/normalize.min.css" rel="stylesheet">
+  <link href="assets/css/style1.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="stylesheet" href="assets\css\responsive.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-waste.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-energy.css">
+  <link rel="stylesheet" href="assets\css\pageslider.css">
     <!--current page url-->
     <meta name="msapplication-tooltip" content="METRO">
     <meta http-equiv="cleartype" content="on">
@@ -150,6 +173,15 @@
         span#myBtn_readmore:hover {
             color: #ffe500;
         }
+        .custom__select:before{
+            background:#ffe500;
+        }
+        nav.navbar {
+      height: 60px;
+      top: 0;
+    }
+        .search-btn{    margin-right: -16px;
+     }
     </style>
 </head>
 
@@ -167,6 +199,7 @@
             <section class="section1 no-print plastic_waste no-print" id="option1" data-scrl="How to use energy efficiently">
                 <div class="left-content no-print">
                     <h3>How to use energy efficiently</h3>
+                    <img src="assets/images/safe_food/eng-1.svg" class="mobile_show">
                     <h4>Energy usage and your business</h4>
                     <p>Energy is a major expense for your business, and you need a lot of it. With
                         rising energy costs and the scarcity of fossil resources, as well as
@@ -178,7 +211,7 @@
                     <!-- <button class="read-more-btn" id="myBtn_cust-a" href="#clickTohide" target="#more">Read more</button> -->
                 </div>
                 <div class="right-content no-print">
-                    <img src="assets/images/safe_food/eng-1.svg">
+                    <img src="assets/images/safe_food/eng-1.svg" class="desk_show">
                 </div>
             </section>
 
@@ -201,8 +234,14 @@
                 <div class="container">
                     <div class="row">
                         <h3 class="food_wasteTitle">Good to know</h3>
+                        <div class="good_to_know_box p-4 safe_foodBox_l4 engery_box mobile_show">
+                                <img src="assets/images/safe_food/eng-3.svg" class="img-fluid">
+                                <p class="good_to_know_box114"><a href="https://www.mpulse.de/en/innovation/the-question-of-the-day-gas-or-induction" target="_blank">Induction is faster, safer, cleaner, and more efficient than either gas or electric.</a> Food being cooked with induction will receive <strong>90%</strong> of the heat generated, as opposed
+                                    to only 40 – 55% for gas.
+                                </p>
+                            </div>
                         <p class="exploreFood_discripsn mb-5"></p>
-                        <div class="col-md-4 px-4">
+                        <div class="col-md-4 px-4 margin_bottom_main">
                             <div class="good_to_know_box p-4 safe_foodBox_l4">
                                 <img src="assets/images/safe_food/eng-2.svg" class="img-fluid">
                                 <p>On an induction cooktop, you can boil water in under half the time it takes for water to boil on a <br>gas cooktop.</p>
@@ -215,7 +254,7 @@
                         </div>
 
                         <div class="col-md-4 px-4">
-                            <div class="good_to_know_box p-4 safe_foodBox_l4 engery_box">
+                            <div class="good_to_know_box p-4 safe_foodBox_l4 engery_box desk_show">
                                 <img src="assets/images/safe_food/eng-3.svg" class="img-fluid">
                                 <p><a href="https://www.mpulse.de/en/innovation/the-question-of-the-day-gas-or-induction" target="_blank">Induction is faster, safer, cleaner, and more efficient than either gas or electric.</a> Food being cooked with induction will receive <strong>90%</strong> of the heat generated, as opposed
                                     to only 40 – 55% for gas.
@@ -568,8 +607,98 @@
                 </div>
             </section>
 
+            <section class="plastic-waste_productRecycle no-print energy_page_img mobile-show">
+            <div class="row">
+                        <div class="plastic-wasteStepImg">
+                            <img src="assets/images/safe_food/eng-p.svg">
+                        </div>
+                    </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-4 top-margin">
+                            <div class="plastic-wasteStep">
+                            <h2>01</h2>
+                                <h4>Install compact<br>fluorescent bulbs/lamps (CFL)</h4>
+                                <p>Did you know that compact fluorescent bulbs/lamps, or short CFL, use 75% less energy
+                                    and last 10 times longer than incandescent
+                                    bulbs? In the long term, they represent a strong
+                                    environmental and economic advantage.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="plastic-wasteStep">
+                            <h2>02</h2>
+                                <h4>Change your equipment</h4>
+                                <p>Go for energy-efficient equipment
+                                    such as ENERGY STAR equipment for
+                                    small domestic style electronics or
+                                    Label ABCDEFG for kitchen machinery
+                                    where A is the best quality.</p>
+                            </div>
+                        </div>
 
-            <section class="plastic-waste_productRecycle no-print energy_page_img">
+                        <div class="col-md-4">
+                            <div class="plastic-wasteStep">
+                            <h2>03</h2>
+                                <h4>Reduce ambient<br>temperatures<br> in your kitchen</h4>
+                                <p>Use equipment that doesn’t heat up the kitchen unnecessarily. Reduce instead ambient
+                                    temperatures in your kitchen e.g. by using induction equipment (such as induction cooktops),
+                                    condensate hoods or spot air conditioners.</p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    
+
+                    <div class="row plastic-wasteStepLastRow energy_img_row_main">
+                        <div class="col-md-4">
+                            <div class="plastic-wasteStep energy_img_row_main1">
+                            <h2>04</h2>
+                                <h4>Change the ventilation</h4>
+                                <p>By changing the ventilation to
+                                    anti-stratification fans (heating energy
+                                    saving), electronic control fans or free
+                                    cooling in AC you can save energy.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="plastic-wasteStep energy_img_row_main2" style="left: 60px;">
+                            <h2>05</h2>
+                                <h4>Source renewable energy</h4>
+                                <p>Using renewable energy will help to save the planet but also will give
+                                    you economic advantages in the long term. Contact your local
+                                    service provider and town facilities management to see what they
+                                    can offer and if they give financial assistance.<span id="dots"></span><span id="moreless"><br class="mb-4">
+                                        Here are some ways to use renewable energies:<br>
+                                        <i class="fa fa-caret-right"></i> Install solar panels. The thermal panels can heat water and the
+                                        system could pay for itself within 2 or 3 years<br class="mb-4">
+                                        <i class="fa fa-caret-right"></i> Use solar-powered outdoor lights that are self-charging<br class="mb-4">
+                                        <i class="fa fa-caret-right"></i> Build in PV facade elements<br class="mb-4">
+                                        <i class="fa fa-caret-right"></i> Introduce electric vehicle chargers</span>
+                                </p>
+                                <span class="read-more-btn33" id="myBtn_readmore" onclick="myFunction()"><b>Read more</b></span>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 downlow">
+                            <div class="plastic-wasteStep energy_img_row_main3 " style="left: 105px;padding-left: 58px;">
+                            <h2>06</h2>
+                                <h4>Improve isolation</h4>
+                                <p>Save energy by improving isolation in
+                                    your business so that your room
+                                    temperature is affected as little as
+                                    possible. You can do so by installing
+                                    automatic doors, night blinds or
+                                    heavy curtains around the entry door.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="plastic-waste_productRecycle no-print energy_page_img desk_show">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-4">
@@ -673,6 +802,7 @@
                         <div class="col-md-5">
                             <div class="banner_l4_title" style="padding-left: 3rem;">
                                 <h1 class="banner_title2">Track and Talk <br>About Your Progress</h1>
+                                <img src="assets/images/safe_food/Asset 44.svg" class="img-fluid pl-5 mobile_show">
 
                                 <p>Once you have taken some steps, check the change in energy consumption and
                                     keep track of it. Look out for simple tracking solutions that don’t need too much
@@ -687,7 +817,7 @@
                         </div>
                         <div class="col-md-5 offset-md-1">
                             <div class="banner_l4_img talk_prog_img">
-                                <img src="assets/images/safe_food/Asset 44.svg" class="img-fluid pl-5">
+                                <img src="assets/images/safe_food/Asset 44.svg" class="img-fluid pl-5 desk_show">
                             </div>
                         </div>
                     </div>
@@ -936,7 +1066,7 @@
         //pageSlider swiper
         function openPopUp(Id) {
             //alert(Id);
-            $("#pop" + Id).css("display", "block");
+            $("#pop" + Id).css("display", "inline-block");
         }
 
         function closePopUp(Id) {

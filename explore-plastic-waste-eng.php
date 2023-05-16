@@ -275,7 +275,7 @@
                                 <h5>Start with analysing your plastic waste</h5>
                                 <h3>SIMPLE WASTE AUDIT</h3>
                                 <p>A simple waste audit will show you what plastics you have and where you could focus your plastic reduction actions. <br>Check out some examples that will guide you: </p>
-                                <ul class="list-unstyled d-flex mt-5">
+                                <ul class="list-unstyled d-flex mt-5 desk_show">
                                     <li>Product </li>
                                     <li>
                                         <img src="assets/images/plastic-waste/Asset 4.svg">
@@ -300,7 +300,29 @@
                                 </ul>
 
                                 <div class="scrollonthetable"><table class="table">
-                                    <tbody><tr>
+                                    <tbody>
+
+
+                                    <tr class="mobile_show">
+                                    <td><img src="assets/images/plastic-waste/Asset 4.svg" style="visibility: hidden;">
+                                        Product </td>
+                                        <td><img src="assets/images/plastic-waste/Asset 4.svg">
+                                        Delivery Wrapping</td>
+                                        <td><img src="assets/images/plastic-waste/Asset 5.svg">
+                                         Food Packaging</td>
+                                        <td><img src="assets/images/plastic-waste/Asset 6.svg">
+                                        Water Bottles</td>
+                                        <td><img src="assets/images/plastic-waste/Asset 7.svg">
+                                        Takeaway Packaging</td>
+                                        <td><img src="assets/images/plastic-waste/Asset 8.svg">
+                                        Gloves, Masks</td>
+                                </tr>
+                                        
+                                    
+                                    
+                                    
+                                    
+                                    <tr>
                                         <td><b>What is the packaging?</b></td>
                                         <td>PVC / PVDC</td>
                                         <td>Plastic PET, rPET</td>
@@ -409,7 +431,7 @@
                             <h3 class="good_to_know_l4">Good to know</h3>
                         </div>
                         <div class="col-md-6">
-                            <div class="plastic-waste_goodToKnow_box">
+                            <div class="plastic-waste_goodToKnow_box small_boxc">
                                 <img src="assets/images/plastic-waste/Asset 21-8.png">
                                 <p style="margin-top: 35px;"><span>Since 2021</span>, many<a href="https://www.mpulse.de/en/movinggoods/different-packaging-different-decomposition-times" target="_blank"> single-use plastic items</a> have been banned in the EU. Be aware of the new regulations and find solutions for avoiding plastic waste ahead of time that suit you best.</p>
                             </div>
@@ -780,9 +802,71 @@
             </section>
 
 
+            <section class="advance_way no-print plastic_waste_expl mobile_show" id="option5" data-scrl="Advanced ways to save plastic waste">
+                <div class="container">
+                    <div class="row">
+                    <h3>Advanced ways to save plastic waste</h3>
+                        <p>Once you have managed to implement first steps to reduce your plastic use you can consider investing in more advanced ways to prevent plastic:</p>
+                    </div>
+                </div>
+            </section>
+           
 
 
-            <section class="advance_way no-print plastic_waste_expl" id="option5" data-scrl="Advanced ways to save plastic waste">
+            <section class="plastic-waste_productRecycle no-print mobile_show">
+            <div class="row">
+                        <div class="plastic-wasteStepImg">
+                            <img src="assets/images/plastic-waste/Asset 19.svg">
+                        </div>
+                    </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-4 offset-md-2">
+                            <div class="plastic-wasteStep">
+                            <h2>01</h2>
+                                <h4>Install plastic disposal <br>and collection services</h4>
+                                <p>Ask your local authority to install plastic disposal and collection services where there are none</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 offset-md-1">
+                            <div class="plastic-wasteStep">
+                            <h2>02</h2>
+                                <h4>Purchase products<br> in bulk</h4>
+                                <p>Your wholesaler can give you information on what can be purchased in bulk, for example, detergents, oils and dry ingredients<br> like flour</p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="plastic-wasteStep">
+                            <h2>03</h2>
+                                <h4>Ask your wholesaler and <br>suppliers what they are doing</h4>
+                                <p>Ask them what they are doing to improve their packaging and if they have a collection scheme or a recycling station at their premises. Talk with your fellow gastronomers about what you are doing and ask them to jointly work together to lobby for change</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="plastic-wasteStep">
+                            <h2>04</h2>
+                                <h4>Join recycling programmes</h4>
+                                <p>To collect your hard-to-recycle waste you can join recycling programmes, such as TerraCycle</p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="plastic-wasteStep" >
+                            <h2>05</h2>
+                                <h4>Ask your suppliers for reusable packaging</h4>
+                                <p>Ask your suppliers for products in refillable, reusable containers, for example, the LOOP scheme</p>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+                </div>
+            </section>
+
+            <section class="advance_way no-print plastic_waste_expl desk_show" id="option5" data-scrl="Advanced ways to save plastic waste">
                 <div class="container">
                     <div class="row">
                         <h3>Advanced ways to save plastic waste</h3>
@@ -792,7 +876,7 @@
             </section>
 
 
-            <section class="plastic-waste_productRecycle no-print">
+            <section class="plastic-waste_productRecycle no-print desk_show">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-4 offset-md-2">

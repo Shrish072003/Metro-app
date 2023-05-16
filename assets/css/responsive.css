@@ -3,6 +3,13 @@
      width: 100%;
      overflow-x: hidden;
     }
+    p {
+        font-size: 14px !important;
+        font-weight: bolder !important;
+    }
+    h3{
+        font-size: 23px !important;
+    }
      nav.navbar{
          height: 80px !important;
          position: fixed;

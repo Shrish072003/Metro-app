@@ -41,7 +41,7 @@ section.good_to_know.no-print.mtcsutom.energy_page.waste_l4-page .good_to_know_b
 }
 .track-and_talk_discr h3 {
     font-size: 28px !important;
-    margin-top: 0px !important;
+    margin-top: 1.8rem !important;
 }
 .track-and_talk_discr p {
     font-size: 14px !important;
@@ -53,5 +53,42 @@ section.good_to_know.no-print.mtcsutom.energy_page.waste_l4-page .good_to_know_b
 .mb-4 {
     margin-bottom: 0rem !important;
 }
-
+.track-and_talk_discr p {
+    margin: 1.8rem 0 !important;
+    text-align: left;
+}
+section.good_to_know.no-print.mtcsutom.energy_page .good_to_know_box.p-4.safe_foodBox_l4 img {
+    width: 40%;
+    padding: 0 20px;
+    background: #f2f2f2;
+}
+.exploreFood_discripsn {
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 0rem !important;
+}
+.plastic_waste_expl p {
+    font-size: 14px !important;
+}
+.advance_way h3 {
+    font-size: 25px !important;
+}
+.plastic-wasteStep {
+    top: 0px !important;
+    left: 0px !important;
+}
+.plastic-wasteStep p {
+    padding-right: 0rem !important;
+}
+    .plastic-wasteStepImg img{
+        width: 85% !important;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        padding: 20px;
+    }
+    section.plastic-waste_productRecycle {
+        background: #f2f2f2;
+        padding: 20px 30px 50px;
+    }
 }

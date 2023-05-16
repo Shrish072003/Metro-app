@@ -20,7 +20,8 @@
     }
     .banner_l4_title h6 {
         margin-top: 1.8rem;
-        margin-bottom: 1.8rem;
+    text-align: center;
+    margin-bottom: 15px;
     }
     .food_wasteTitle{
         font-size: 25px !important;
@@ -35,10 +36,10 @@
     .benefit_box_mob{
         display: none;
     }.benefit_box h4 {
-        font-size: 28px;
+        font-size: 25px;
     }.benefit_box {
         margin-bottom: 81px !important;
-        min-height: 225px !important;
+        min-height: 180px !important;
         margin: -22px !important;
         background: #003b7e;
         text-align: center;
@@ -68,7 +69,7 @@
     .list-box1 {
         height: 18rem !important;
         overflow-y: inherit !important;
-        width: 19rem;
+        width: 17rem;
         margin-left: 1.5rem;
     }
     .veg12 {
@@ -139,13 +140,14 @@
     }
     .learn_to_make p {
         padding-left: 5px !important;
+        text-align: left !important;
     }
     .media-body {
         width: 85% !important;
     }
     .media-object {
         display: block;
-        margin-top: 18px;
+        margin-top: 3px;
     }
     h1.banner_title2 {
         font-size: 28px !important;
@@ -162,6 +164,50 @@
     button.no-print {
         font-size: 18px !important;
     }
+    .banner_l4_title h6 {
+        font-size: 17px !important;
+    }
+    .exploreFood_discripsn {
+        text-align: center;
+        font-size: 14px;
+        padding: 0 15px;
+        margin-bottom: 3rem;
+        font-weight: bolder;
+    }
+    .food_wasteTitle {
+        margin-bottom: 15px !important;
+        margin-top: -1rem !important;
+        text-align: center !important;
+        font-family: GothamBold !important;
+        color: #003b7e !important;
+    }
+    .good_to_know_box.p-4.safe_foodBox_l4 {
+        margin-bottom: 5rem;
+        height: 185px;
+        margin: 70px;
+        margin-left: 15px !important;
+        margin-right: 15px !important;
+    }
+    .thermometer-wrapper{
+        display: none !important;
+    }
+    .thermo-fruits {
+        font-size: 16px !important;
+        font-weight: bolder;
+    }
+    .thermo-fruits {
+        font-size: 16px !important;
+        font-weight: bolder;
+    }
+    .advance_way h3 {
+        font-size: 20px !important;
+    }
+    .media-body p {
+        padding-top: 0px !important;
+    }
+    .media-body .mt-3 {
+        margin-top: 0rem !important;
+    }
 }
 
 @media screen and (min-width: 800px){
@@ -170,5 +216,13 @@
     }
     .vegetables-inner, .fruits-inner {
         display: none;
+    }
+    .swiper-slide-inner {
+        width: 16rem;
+        margin-left: 1rem;
+    }
+    .swiper-slide-inner {
+        width: 16rem;
+        margin-left: auto !important;
     }
 }

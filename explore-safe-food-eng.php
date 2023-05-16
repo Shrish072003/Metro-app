@@ -27,6 +27,28 @@
     <meta name="mssmarttagspreventparsing" content="true">
     <meta name="IE=edge,chrome=1" content="X-UA-Compatible">
     <meta name="msapplication-starturl" content="">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="assets/prev/css/page2_style.css">
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script src="assets/prev/jquery/custom.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="likebtn.css">
+
+  <link rel="stylesheet" href="assets/css/navigation.css">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/normalize.min.css" rel="stylesheet">
+  <link href="assets/css/style1.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="stylesheet" href="assets\css\responsive.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-waste.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-safe-food.css">
     <!--current page url-->
     <meta name="msapplication-tooltip" content="METRO">
     <meta http-equiv="cleartype" content="on">
@@ -379,6 +401,15 @@
             width: 17rem;
             transition: .5s;
         }
+        .custom__select:before{
+            background:#ffe500;
+        }
+        nav.navbar {
+      height: 60px;
+      top: 0;
+    }
+        .search-btn{    margin-right: -16px;
+     }
     </style>
 </head>
 
@@ -392,6 +423,7 @@
             <section class="section1 no-print" id="option1" data-scrl="How to ensure safe food">
                 <div class="left-content no-print">
                     <h3>How to ensure safe food</h3>
+                    <img src="assets/images/safe_food/L3-banner.png" class="img-fluid mt-4" />
                     <h4>Safe food is the foundation</h4>
                     <p> As a restaurateur, you want to delight your guests with delicious food. However, you definitely don’t want to go out of business because you made a customer severely ill or failed a hygiene inspection. Well-known frameworks and methodologies already exist to help restaurants produce safe food. There are few, if any, that support managing a sustainable restaurant. If a restaurant implements a robust and systematic food safety management system, an approach with its checks and balances is already there and can be adjusted to include sustainability aspects. </p>
                     <button class="read-more-btn" id="hide_show_content" href="#clickTohide">Read more</button>
@@ -463,7 +495,7 @@
                             </div>
                         </div>
                         <div class="col-md-4 px-4">
-                            <div class="good_to_know_box p-1">
+                            <div class="good_to_know_box p-1 bigggg">
                                 <img src="assets/images/safe_food/Asset 38.png" class="img-fluid">
                                 <p>Hazards present a risk to food safety. They may be found in the original raw material but they can also be introduced by poor transport, handling and preparing food, or storage conditions.</p>
                                 <p>
@@ -501,7 +533,1041 @@
 
 
 
-                    <div class="row mt-5">
+
+                    <div class="accordion mobile_show">
+    <div class="accordion-item">
+      <div class="accordion-header">Food Safety Management System (FSMS)</div>
+      <div class="accordion-content">
+        <div class="mainfoot">
+          
+          <div class="row">
+            <div class="col-md-3 offset-md-1">
+                <div class="three-step_img">
+                    <img src="assets/images/safe_food/Asset 9.png" class="img-fluid">
+                </div>
+            </div>
+            <div class="col-md-6 offset-md-1">
+                <div class="three-step_para">
+                    <p>A <strong>food safety management system (FSMS)</strong> will cover every aspect of your food handling and purchasing and will have the necessary checks, records, and reviews in place to make sure your procedures are being followed. The system should be documented – not only for you to know what is happening - but also for your staff to be briefed properly and to have proof that you are managing your processes safely for your local authority inspector. Ensuring food safety also means organising your premises and processes appropriately. This exercise helps the organisation to operate sustainably. Many of the documentation and recording systems used in food safety management can be adapted and introduced systematically for sustainability. </p>
+                    <p class="mt-0">
+                        <strong> If you do the following activities to manage food safety, you will also be implementing sustainability:</strong>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 mb-5">
+              <div class="pageSlider-container">
+                  <div class="pageSlider-container-inner">
+                      <div class="pageSlider-prev">
+                          <div class="pageSlider-prev-inner">
+                              <div class="swiper-button-prev pageSwiper1PrevBtn" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-33d4df2b0723f2d6" aria-disabled="false"></div>
+                          </div>
+                      </div>
+                      <div class="pageSlider">
+                          <div class="pageSlider-inner">
+                              <div class="row">
+                                  <div class="col-md-12">
+                                      <div class="pageSlider-holder">
+                                          <div class="swiper pageSwiper1 swiper-initialized swiper-horizontal">
+                                              <div class="swiper-wrapper" id="swiper-wrapper-33d4df2b0723f2d6" aria-live="polite" style="transition-duration: 0ms; transform: translate3d(-619px, 0px, 0px);">
+                                                  <div class="swiper-slide pageSlider-slide text-center swiper-slide-prev" role="group" aria-label="1 / 16">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg01">
+                                                                      <img src="assets/images/safe_food/sf-1.svg" class="img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText01">
+                                                                      People
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn01">
+                                                                      <button class="read-more-btn" onclick="openPopUp(1);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+                                                  <div class="swiper-slide pageSlider-slide text-center swiper-slide-active" role="group" aria-label="2 / 16">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg02">
+                                                                      <img src="assets/images/safe_food/sf-2.svg" class="img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText02">
+                                                                      PURCHASING
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn02">
+                                                                      <button class="read-more-btn" onclick="openPopUp(2);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+                                                  <div class="swiper-slide pageSlider-slide text-center swiper-slide-next" role="group" aria-label="3 / 16">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg03">
+                                                                      <img src="assets/images/safe_food/sf-3.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText03">
+                                                                      Restaurant designs
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn03">
+                                                                      <button class="read-more-btn" onclick="openPopUp(3);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="4 / 16">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg04">
+                                                                      <img src="assets/images/safe_food/sf-4.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText04">
+                                                                      Separation
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn04">
+                                                                      <button class="read-more-btn" onclick="openPopUp(4);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="5 / 16">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg05">
+                                                                      <img src="assets/images/safe_food/safe-2.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText05">
+                                                                      Equipment
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn04">
+                                                                      <button class="read-more-btn" onclick="openPopUp(5);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="6 / 16">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg06">
+                                                                      <img src="assets/images/safe_food/safe-3.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText06">
+                                                                      Cold chain
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn06">
+                                                                      <button class="read-more-btn" onclick="openPopUp(6);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="7 / 16">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg07">
+                                                                      <img src="assets/images/safe_food/safe-4.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText07">
+                                                                      Receiving and storing food
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn07">
+                                                                      <button class="read-more-btn" onclick="openPopUp(7);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="8 / 16">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg08">
+                                                                      <img src="assets/images/safe_food/safe-5.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText08">
+                                                                      Maintenance
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn08">
+                                                                      <button class="read-more-btn" onclick="openPopUp(8);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="9 / 16">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg09">
+                                                                      <img src="assets/images/safe_food/safe-7.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText09">
+                                                                      Preservation
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn09">
+                                                                      <button class="read-more-btn" onclick="openPopUp(9);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="10 / 16">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg10">
+                                                                      <img src="assets/images/safe_food/safe-8.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText10">
+                                                                      Food allergies
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn10">
+                                                                      <button class="read-more-btn" onclick="openPopUp(10);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="11 / 16">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg11">
+                                                                      <img src="assets/images/safe_food/safe-9.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText11">
+                                                                      Waste
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn11">
+                                                                      <button class="read-more-btn" onclick="openPopUp(11);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="12 / 16">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg12">
+                                                                      <img src="assets/images/safe_food/safe-12.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText12">
+                                                                      Delivery and take-away
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn11">
+                                                                      <button class="read-more-btn" onclick="openPopUp(12);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="13 / 16">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg13">
+                                                                      <img src="assets/images/safe_food/safe-11.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText13">
+                                                                      Sub-contractors
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn13">
+                                                                      <button class="read-more-btn" onclick="openPopUp(13);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="14 / 16">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg14">
+                                                                      <img src="assets/images/safe_food/safe-13.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText14">
+                                                                      Accountability and documentation
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn14">
+                                                                      <button class="read-more-btn" onclick="openPopUp(14);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="15 / 16">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg15">
+                                                                      <img src="assets/images/safe_food/safe-14.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText15">
+                                                                      Independent check
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn15">
+                                                                      <button class="read-more-btn" onclick="openPopUp(15);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="16 / 16">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg16">
+                                                                      <img src="assets/images/safe_food/sf-5.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText16">
+                                                                      Dirty areas
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn16">
+                                                                      <button class="read-more-btn" onclick="openPopUp(16);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+
+
+
+                                              </div>
+                                          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                      </div>
+                                  </div>
+                                  <div class="col-md-12">
+                                      <div class="pageSlider-pagination">
+                                          <div class="pageSlider-pagination-inner">
+                                              <div class="swiper-pagination pageSwiper1Pagination swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" aria-current="true"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
+                                          </div>
+                                      </div>
+
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="pageSlider-next">
+                          <div class="pageSlider-next-inner">
+                              <div class="swiper-button-next pageSwiper1NextBtn" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-33d4df2b0723f2d6" aria-disabled="false"></div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+      </div>
+
+        </div>
+      </div>
+    </div>
+    <div class="accordion-item">
+      <div class="accordion-header">7 principles of HACCP </div>
+      <div class="accordion-content">
+        <div class="mainfoot">
+
+          <div class="row">
+            <div class="col-md-3 offset-md-1">
+                <div class="three-step_img">
+                    <img src="assets/images/safe_food/safood_7prin.svg" class="img-fluid">
+                </div>
+            </div>
+            <div class="col-md-6 offset-md-1">
+                <div class="three-step_para">
+                    <p>
+                        <strong>HACCP (Hazard Analysis and Critical Control Points)</strong> is a methodology that can guide your restaurant towards better food safety practices. In some countries, for example, in Europe, it is already a legal requirement but generally, restaurants are not expected to have a fully comprehensive HACCP system. It is based around seven basic principles of mitigating risk and preventing adverse outcomes. By being aware of what could go wrong, you and your staff can manage your business in a way to prevent things going wrong and have a way to deal with it if something does happen. This risk-based approach can also help you manage sustainability hazards, for example, preventing used cooking oil from leaking into the drain system instead of collecting it separately as required. HACCP indicates you to identify, evaluate, and control all food hazards.
+                    </p>
+                    <p class="mt-4">
+                        <strong>The seven main principles are:</strong>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 mb-5">
+              <div class="pageSlider-container">
+                  <div class="pageSlider-container-inner">
+                      <div class="pageSlider-prev">
+                          <div class="pageSlider-prev-inner">
+                              <div class="swiper-button-prev pageSwiper2PrevBtn" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-87ab933df4b75c6f" aria-disabled="false"></div>
+                          </div>
+                      </div>
+                      <div class="pageSlider">
+                          <div class="pageSlider-inner">
+                              <div class="row">
+                                  <div class="col-md-12">
+                                      <div class="pageSlider-holder">
+                                          <div class="swiper pageSwiper2 swiper-initialized swiper-horizontal swiper-backface-hidden">
+                                              <div class="swiper-wrapper" id="swiper-wrapper-87ab933df4b75c6f" aria-live="polite" style="transition-duration: 0ms; transform: translate3d(-619px, 0px, 0px);">
+                                                  <div class="swiper-slide pageSlider-slide text-center swiper-slide-prev" role="group" aria-label="1 / 7">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg21">
+                                                                      <img src="assets/images/safe_food/sf-6.svg" class="img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText21">
+                                                                      1. Identify all risks <br>and hazards
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn21">
+                                                                      <button class="read-more-btn" onclick="openPopUp(21);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+                                                  <div class="swiper-slide pageSlider-slide text-center swiper-slide-active" role="group" aria-label="2 / 7">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg22">
+                                                                      <img src="assets/images/safe_food/sf-7.svg" class="img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText22">
+                                                                      2. Identify the critical <br>control points (CCPs)
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn22">
+                                                                      <button class="read-more-btn" onclick="openPopUp(22);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+                                                  <div class="swiper-slide pageSlider-slide text-center swiper-slide-next" role="group" aria-label="3 / 7">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg23">
+                                                                      <img src="assets/images/safe_food/sf-8.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText23">
+                                                                      3. Establish the standards
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn23">
+                                                                      <button class="read-more-btn" onclick="openPopUp(23);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="4 / 7">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg24">
+                                                                      <img src="assets/images/safe_food/sf-9.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText24">
+                                                                      4. Establish effective <br>monitoring procedures
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn24">
+                                                                      <button class="read-more-btn" onclick="openPopUp(24);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="5 / 7">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg25">
+                                                                      <img src="assets/images/safe_food/sf-10.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText25">
+                                                                      5. Define the corrective actions
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn25">
+                                                                      <button class="read-more-btn" onclick="openPopUp(25);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="6 / 7">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg26">
+                                                                      <img src="assets/images/safe_food/sf-11.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText26">
+                                                                      6. Implement <br>verification procedures
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn26">
+                                                                      <button class="read-more-btn" onclick="openPopUp(26);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="7 / 7">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg27">
+                                                                      <img src="assets/images/safe_food/esta.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText27">
+                                                                      7. Establish written <br>documents and records
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn27">
+                                                                      <button class="read-more-btn" onclick="openPopUp(27);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+
+
+                                              </div>
+                                          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                      </div>
+                                  </div>
+                                  <div class="col-md-12">
+                                      <div class="pageSlider-pagination">
+                                          <div class="pageSlider-pagination-inner">
+                                              <div class="swiper-pagination pageSwiper2Pagination swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" aria-current="true"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
+                                          </div>
+                                      </div>
+
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="pageSlider-next">
+                          <div class="pageSlider-next-inner">
+                              <div class="swiper-button-next pageSwiper2NextBtn" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-87ab933df4b75c6f" aria-disabled="false"></div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+      </div>
+      <div class="row">
+        <div class="yellow_discription">
+            <img src="assets/images/safe_food/Asset 61.png" class="img-fluid">
+            <p>You can start by looking at each aspect of your operation and identifying the risks caused by contamination from micro-organisms, for example, bacteria like salmonella, physical objects such as shards of glass from broken glass, chemicals such as cleaning agents that might come from poorly rinsed mixing equipment, and allergens such as nuts.</p>
+        </div>
+        <p class="text-center nextStepCta mt-4">
+            <a id="nextBtn2" href="#">Next Step <i class="fa fa-long-arrow-right"></i>
+            </a>
+        </p>
+    </div>
+
+
+        </div>
+      </div>
+    </div>
+    <div class="accordion-item">
+      <div class="accordion-header">Food Safety Culture </div>
+      <div class="accordion-content">
+        <div class="mainfoot">
+
+          <div class="row">
+            <div class="col-md-3 offset-md-1">
+                <div class="three-step_img">
+                    <img src="assets/images/safe_food/Asset 24.png" class="img-fluid">
+                </div>
+            </div>
+            <div class="col-md-6 offset-md-1">
+                <div class="three-step_para">
+                    <p>When well-trained and informed staff is involved in setting up a food safety management system, they are more likely to be fully committed to making it work. This is called a <strong>food safety culture</strong>. It is a relatively new concept in gastronomy and one that you can embrace as a way to really embed food safety into your business and be sure not to have unwanted incidents. As you read through these steps you will see how this process is as systematic as it is sustainable. </p>
+                    <p class="mt-4">
+                        <strong>Check out the following simple steps to create a food safety culture:</strong>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 mb-5">
+              <div class="pageSlider-container">
+                  <div class="pageSlider-container-inner">
+                      <div class="pageSlider-prev">
+                          <div class="pageSlider-prev-inner">
+                              <div class="swiper-button-prev pageSwiper3PrevBtn" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-10daeb95912a3d221" aria-disabled="false"></div>
+                          </div>
+                      </div>
+                      <div class="pageSlider">
+                          <div class="pageSlider-inner">
+                              <div class="row">
+                                  <div class="col-md-12">
+                                      <div class="pageSlider-holder">
+                                          <div class="swiper pageSwiper3 swiper-initialized swiper-horizontal swiper-backface-hidden">
+                                              <div class="swiper-wrapper" id="swiper-wrapper-10daeb95912a3d221" aria-live="polite" style="transition-duration: 0ms; transform: translate3d(-619px, 0px, 0px);">
+                                                  <div class="swiper-slide pageSlider-slide text-center swiper-slide-prev" role="group" aria-label="1 / 9">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg31">
+                                                                      <img src="assets/images/safe_food/sf-13.svg" class="img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText31">
+                                                                      Show your leadership
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn31">
+                                                                      <button class="read-more-btn" onclick="openPopUp(31);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+                                                  <div class="swiper-slide pageSlider-slide text-center swiper-slide-active" role="group" aria-label="2 / 9">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg32">
+                                                                      <img src="assets/images/safe_food/sf-14.svg" class="img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText32">
+                                                                      Explain <br>why you have the rules
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn32">
+                                                                      <button class="read-more-btn" onclick="openPopUp(32);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+                                                  <div class="swiper-slide pageSlider-slide text-center swiper-slide-next" role="group" aria-label="3 / 9">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg33">
+                                                                      <img src="assets/images/safe_food/sf-15.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText33">
+                                                                      Train and educate your staff
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn33">
+                                                                      <button class="read-more-btn" onclick="openPopUp(33);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="4 / 9">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg34">
+                                                                      <img src="assets/images/safe_food/sf-16.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText34">
+                                                                      Provide <br>the right equipment
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn34">
+                                                                      <button class="read-more-btn" onclick="openPopUp(34);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="5 / 9">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg35">
+                                                                      <img src="assets/images/safe_food/sf-17.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText35">
+                                                                      Make record keeping routine
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn35">
+                                                                      <button class="read-more-btn" onclick="openPopUp(35);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="6 / 9">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg36">
+                                                                      <img src="assets/images/safe_food/sf-18.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText36">
+                                                                      EMPOWER YOUR EMPLOYEES
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn36">
+                                                                      <button class="read-more-btn" onclick="openPopUp(36);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="7 / 9">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg37">
+                                                                      <img src="assets/images/safe_food/sf-19.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText37">
+                                                                      CONDUCT INSPECTIONS
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn37">
+                                                                      <button class="read-more-btn" onclick="openPopUp(37);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="8 / 9">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg38">
+                                                                      <img src="assets/images/safe_food/sf-20.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText38">
+                                                                      DON’T MAKE ASSUMPTIONS
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn38">
+                                                                      <button class="read-more-btn" onclick="openPopUp(38);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+
+                                                  <div class="swiper-slide pageSlider-slide text-center" role="group" aria-label="9 / 9">
+                                                      <div class="row">
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-image">
+                                                                  <span class="sldImg39">
+                                                                      <img src="assets/images/safe_food/sf-21.svg" class=" img-fluid">
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-text">
+                                                                  <span class="sldText39">
+                                                                      CHECK FOR HELP FROM<br>LOCAL AUTHORITIES AND SERVICES
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                          <div class="col-md-12">
+                                                              <div class="pageSlider-slide-button">
+                                                                  <span class="sldBtn39">
+                                                                      <button class="read-more-btn" onclick="openPopUp(39);">Read more</button>
+                                                                  </span>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+
+
+                                              </div>
+                                          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                      </div>
+                                  </div>
+                                  <div class="col-md-12">
+                                      <div class="pageSlider-pagination">
+                                          <div class="pageSlider-pagination-inner">
+                                              <div class="swiper-pagination pageSwiper3Pagination swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" aria-current="true"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
+                                          </div>
+                                      </div>
+
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="pageSlider-next">
+                          <div class="pageSlider-next-inner">
+                              <div class="swiper-button-next pageSwiper3NextBtn" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-10daeb95912a3d221" aria-disabled="false"></div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+      </div>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+                    <div class="row mt-5 desk_show">
                         <div class="test">
                             <div class="tab-container-one">
                                 <ul class="nav nav-tabs" id="myTab" role="tablist">
@@ -2239,6 +3305,24 @@
             return false;
         });
     </script>
+    <script>
+const accordionItems = document.querySelectorAll('.accordion-item');
+
+accordionItems.forEach(item => {
+  item.addEventListener('click', () => {
+    // Toggle active class on the clicked item
+    item.classList.toggle('active');
+
+    // Hide all other accordion items
+    accordionItems.forEach(otherItem => {
+      if (otherItem !== item) {
+        otherItem.classList.remove('active');
+      }
+    });
+  });
+});
+
+</script>
 </body>
 
 </html>
