@@ -1,0 +1,143 @@
+@media screen and (max-width: 600px) {
+section.good_to_know.no-print.mtcsutom.energy_page .good_to_know_box.p-4.safe_foodBox_l4 {
+    margin-top: 90px !important;
+    margin-bottom: 70px;
+}
+.good_to_know_box{
+    width: 100% !important;
+}
+
+.wayT0Title {
+    color: #003b7e;
+    margin-bottom: 20px !important;
+    margin-top: 20px !important;
+}
+.banner_l4_title{
+    padding-left: 0px !important;
+}
+.safeFoodl4_banner .container-fluid .px-4 {
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+}
+.banner_l4_title p{
+    font-weight: bolder;
+}
+.banner_title2{
+    font-size: 28px !important;
+}
+.mobile_show {
+    margin-bottom: 1.8rem;
+    margin-top: 0.28rem;
+    margin-bottom: 1.8rem !important;
+}
+.good_to_know_box.p-4.safe_foodBox_l4.engery_box img.img-fluid {
+    width: 11rem !important;
+}
+.good_to_know_box.p-4.safe_foodBox_l4.engery_box p {
+    font-size: 14px !important;
+    font-family: gothambook;
+    font-weight: 600;
+}
+.good_to_know_box114 {
+    margin-top: 1.8rem !important;
+    font-size: 17px;
+}
+section.good_to_know.no-print.mtcsutom.energy_page .good_to_know_box.p-4.safe_foodBox_l4 img {
+    width: 45% !important;
+}
+.good_to_know_box p {
+    margin-top: 0px;
+    font-size: 14px;
+    font-weight: bolder;
+}.px-4 {
+    margin-top: -70px;
+}
+.margin_bottom_main {
+    margin-top: -114px !important;
+}
+.wayT0Title {
+    font-size: 25px !important;
+}
+body{
+    scroll-behavior: smooth;
+}
+.disc {
+    font-weight: bolder;
+    font-size: 14px;
+}
+.advance_way h3 {
+    font-size: 20px !important;
+    margin-bottom: 0.2rem !important;
+}
+.plastic_waste_expl p {
+    padding: 10px !important;
+}
+
+ .banner_l4_title .mobile_show {
+    margin-top: 1.8rem;
+    margin-bottom: 1.8rem !important;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 85%;
+}
+.banner_l4_title p {
+    text-align: justify;
+    font-size: 14px;
+    text-align: left !important;
+    font-weight: bolder;
+}
+.safeFoodl4_banner {
+    margin-top: 5rem;
+    margin-bottom: 40px;
+}
+.energy_page_img .plastic-wasteStep {
+    
+    left: 0px !important;
+    padding: 0 0rem !important;
+}
+.plastic-wasteStepLastRow{
+    margin-top: 0px;
+}
+section.plastic-waste_productRecycle {
+    background: #f2f2f2;
+    padding: 20px 25px 50px !important;
+}
+.energy_page_img .plastic-wasteStep p {
+    font-weight: bolder !important;
+}
+.downlow{
+    height: 185px !important;
+}
+.top-margin{
+    margin-top: -42px !important;
+}
+.plastic-wasteStepImg img {
+    width: 100% !important;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    /* padding: 12px; */
+}
+    section.plastic-waste_productRecycle {
+        background: #f2f2f2;
+        padding: 20px 30px 50px;
+    }
+    .plastic-wasteStepImg {
+        margin-top: 10px;
+    margin-bottom: 60px;
+    }
+.section1{
+        margin-top: 35px !important;
+    }
+    .wrap {
+        background: transparent !important;
+        margin-bottom: -9px !important;
+    }
+    .wrap {
+        padding-top: 71px !important;
+        padding-bottom: 30px !important;
+    }
+
+
+}

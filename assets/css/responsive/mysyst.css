@@ -1,0 +1,99 @@
+
+ nav.navbar{
+    height:60px;
+}
+div.tooltip{
+    opacity:1;
+}
+.sec-banner.b6 {
+    top: 125px;
+    left: 850px;
+}
+.image-drag{
+    display:none;
+}
+nav.navbar {
+height: 12.5rem !important;
+}
+.container-fluid {
+margin: 0rem !important;
+}
+.container-fluid {
+margin-left: 30px !important;
+margin-right: 30px !important;
+width: 100%;
+}
+.brand1 {
+width: 7rem;
+min-width: 17rem;
+height: auto;
+}
+.navbar-collapse {
+flex-basis: auto !important;
+flex-grow: 0 !important;
+align-items: center;
+}
+.search-btn {
+font-size: 30px;
+padding-top: 0px;
+}
+.custom__select select {
+border: 0;
+background: transparent;
+font-size: 50px;
+line-height: 44px;
+color: #ffe500;
+font-family: "GothamBold";
+-webkit-appearance: none;
+padding: 10px 22px;
+font-weight: 500;
+outline: 0;
+}
+.custom__select:before {
+background: #ffe500!important;
+width: 5px !important;
+height: 61px !important;
+position: absolute;
+right: 5px;
+top: 3px;
+}
+.custom__select, .menu-ham {
+float: right;
+position: relative;
+margin-right: 27px !important;
+}
+#nav-icon4 span {
+display: block;
+position: absolute;
+height: 6px;
+width: 110%;
+background: #ffe500;
+border-radius: 2px;
+opacity: 1;
+left: 0;
+-webkit-transform: rotate(0);
+-moz-transform: rotate(0);
+-o-transform: rotate(0);
+transform: rotate(0);
+-webkit-transition: 0.25s ease-in-out;
+-moz-transition: 0.25s ease-in-out;
+-o-transition: 0.25s ease-in-out;
+transition: 0.25s ease-in-out;
+}
+#nav-icon4 span:nth-child(2) {
+top: 19px;
+-webkit-transform-origin: left center;
+-moz-transform-origin: left center;
+-o-transform-origin: left center;
+transform-origin: left center;
+}
+#nav-icon4 span:nth-child(3) {
+top: 40px;
+-webkit-transform-origin: left center;
+-moz-transform-origin: left center;
+-o-transform-origin: left center;
+transform-origin: left center;
+}#nav-icon4 {
+width: 70px !important;
+margin-right: 45px;
+}

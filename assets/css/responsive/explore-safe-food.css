@@ -1,0 +1,147 @@
+@media screen and (max-width: 600px) {
+    .good_to_know .container-fluid{
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+    }
+    .good_to_know .container-fluid .row .col-md-4{
+        padding-right: 0rem !important;
+        padding-left: 0rem !important;
+        margin-top: 5rem;
+    }
+    .good_to_know_box ol {
+        text-align: left;
+        padding-left: 20px;
+    }
+    .bigggg{
+        height: 570px !important;
+    }
+    .three-step_food_safety .container-fluid {
+        margin-left: 0px !important;
+        margin-right: 00px !important;
+        margin: 0rem !important;
+    }
+    .three-step_food_safety .container-fluid .row h3{
+        font-size: 28px !important;
+    }
+    .step_safty_para p {
+        font-size: 16px !important;
+        padding: 0 0px !important;
+    }
+    .three-step_food_safety .px-4 {
+        padding-right: 0rem !important;
+        padding-left: 0rem !important;
+    }.good_to_know_box img.img-fluid {
+        width: 40%;
+        margin-top: -46px !important;
+    }
+    .soFood_importants .container-fluid {
+        margin-left: 0px !important;
+        margin-right: 10px !important;
+        width: 100%;
+    }
+    .mt-4 {
+        margin-top: 1.8rem !important;
+        margin-bottom: 1.8rem !important;
+    }
+    section.good_to_know h3 {
+        margin-bottom: 0px !important;
+    }
+    .good_to_know_box {
+        text-align: center;
+        border: 2px solid #003b7e;
+        height: auto !important;
+    }
+    .step_safty_para p {
+        font-size: 14px !important;
+        padding: 0 0px !important;
+        text-align: left;
+    }
+    .margin_top{
+        margin-top: -48px;
+    }
+
+
+    .accordion-item {
+        margin-bottom: 0px;
+        margin-bottom: 20px;
+      }
+      
+      .accordion-header {
+        background-color: #fff;
+        padding: 10px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        font-size: 18px;
+        text-align: center;
+        font-weight: bolder;
+      }
+      
+      .accordion-content {
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.3s ease;
+      }
+      
+      .accordion-item.active .accordion-header {
+        height: auto;
+      }
+      
+      .accordion-item.active .accordion-content {
+        max-height: 100%; /* Set the maximum height to accommodate your content */
+      }
+      .mainfoot{
+        height: 100%;
+      }
+      .accordion-item:nth-child(1) .accordion-header, .accordion-content{
+        background-color: #e5d17e !important;
+      }
+      
+      .accordion-item:nth-child(2) .accordion-header, .accordion-content{
+        background-color: #b4dbdb !important;
+      }
+      
+      .accordion-item:nth-child(3) .accordion-header, .accordion-content{
+        background-color: #e5d17e !important;
+      }
+      
+      .accordion-item.active .accordion-header {
+        background-color: #ccc;
+      }
+      .track-and_talk_discr p {
+        font-size: 14px !important;
+        font-weight: bolder !important;
+        text-align: left;
+    }
+    .good_to_know_box ol{
+      font-size: 14px !important;
+    font-weight: bolder !important;
+    }
+    .active .accordion-content, .accordion-header{
+      background-color: #fff !important;
+    }
+    .three-step_img {
+      margin-top: 0px !important;
+  }
+  .accordion-content .mainfoot{
+    padding: 20px;
+  }
+  .left-content .read-more-btn {
+    color: #fff;
+    margin-bottom: 20px;
+}
+section.good_to_know {
+  background: #f2f2f2;
+  padding: 30px 30px;
+  margin-top: -10px;
+}
+
+
+
+
+
+   
+      
+      
+      
+
+}

@@ -1,0 +1,65 @@
+@media screen and (max-width: 600px) {
+    .section1 {
+        flex-direction: column !important;
+    }
+    .didyouknow_contents {
+        margin-top: 0px;
+        padding: 30px !important;
+    }
+    .border-right {
+        border-right: none !important;
+    }.section3-inner3 .left-content h3, .section3-inner .left-content h3 {
+        padding-bottom: 20px;
+        text-align: center;
+        font-size: 25px !important;
+    }
+    .section3-inner, .section3-inner3 {
+        flex-direction: column;
+        padding: 30px;
+    }
+    .big_issues {
+        margin-top: 0px!important;
+    }
+    .section3-inner3 .right-content, .section3-inner .right-content {
+        text-align: left;
+        padding-left: 0;
+    }
+    .section4 ul li {
+        font-size: 14px !important;
+    }
+    .padr-60px {
+        padding-right: 30px!important;
+    }
+    .spacerx-top {
+        margin-top: 0rem !important;
+    }
+    .know-more-img {
+        width: 15rem !important;
+        margin-bottom: 30px !important;
+        margin-left: auto !important;
+    margin-right: auto;
+    display: block;
+    }
+    section.didyouknow {
+        padding-top: 50px !important;
+    }
+    .read-wrap a {
+        display: table;
+        color: #fff;
+        margin-left: auto !important;
+    margin-right: auto;
+    border-radius: 50px;
+    }
+    h3{
+        font-size: 25px !important;
+    }
+    .section-simple-way h3, .left-content h3 {
+        font-size: 25px !important;
+    }
+    .didyouknow h3 {
+        font-size: 25px !important;
+    }
+    .know-more-img {
+        margin-top: 0rem !important;
+    }
+}

@@ -1,0 +1,78 @@
+@media screen and (max-width: 600px) {
+    h1.banner_title {
+        font-size: 25px !important;
+    }
+    .banner_l4_title.Banner_l3_title.cst_mar {
+        margin-top: 0rem !important;
+        text-align: center;
+    }
+    .safeFoodl4_banner .container-fluid{
+        margin-left: 0px !important;
+    margin-right: 0px !important;
+    padding-top: 35px !important;
+    }
+    .banner_l3_img img{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .banner_l3_img.energy_banner img {
+        width: 100%;
+        margin-left: 0rem !important;
+    }
+    .didyouknow_2culumn {
+        padding: 30px 30px 38px 30px !important;
+    }
+    .didyouknow_2culumn h4 {
+        font-size: 14px !important;
+        font-weight: bolder !important;
+        line-height: 20px !important;
+    }
+    section.didyouknow_contents.waste_foot_l3 {
+        padding-bottom: 0px !important;
+    }
+    section.didyouknow_contents.waste_foot_l3 img {
+        width: 75%;
+        height: auto;
+        object-fit: contain;
+    }
+    .didyouknow_2culumn img.px-4 {
+        width: 40%;
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+    .section3-inner .left-content h3{
+        font-size: 25px !important;
+    }
+    .section3-inner .right-content{
+        font-size: 14px !important;
+        font-weight: bolder;
+        padding: 0px 30px 30px 30px !important;
+        text-align: left;
+    }
+    .section3-inner .right-content p{
+        font-size: 14px !important;
+        font-weight: bolder;
+        text-align: left;
+    }.section4 {
+        padding: 30px 30px 30px 30px !important;
+        flex-direction: column;
+    }.section4 .left-content h3 a, .section4 .left-content h3 {
+        font-size: 25px !important;
+        text-align: center;
+    }.section4 .left-content ul {
+        padding: 0px 0 20px !important;
+        
+    }.section4 ul li {
+        font-size: 14px !important;
+        font-weight: bolder !important;
+    }
+    .read-wrap a {
+        border-radius: 50px !important;
+        color: #fff;
+    }
+    .read-wrap {
+        display: flex;
+  justify-content: center;
+    }
+}

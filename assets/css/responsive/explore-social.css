@@ -1,0 +1,116 @@
+@media screen and (max-width: 600px) {
+    .page-4_stage .left-content h4 {
+        margin-top: 20px !important;
+    }
+    section.good_to_know {
+        background: #f2f2f2;
+        padding: 50px 0px !important;
+        margin-top: -10px;
+    }
+    section.good_to_know.no-print.social_box {
+        padding-top: 0px !important;
+    }
+    section.good_to_know.no-print.social_box h3 {
+        margin-top: 2.8rem !important;
+        margin-bottom: 2.8rem !important;
+    }
+    section.good_to_know.no-print.social_box .good_to_know_box.p-4 {
+        height: 20rem;
+        margin-bottom: 50px;
+    }
+    .margin_top {
+        margin-top: -44px !important;
+    }
+    section.good_to_know.no-print.social_box .good_to_know_box.p-4 {
+        height: auto !important;
+    }
+    .container-fluid .text-center img{
+        width: 100% !important;
+    margin-top: -9rem !important;
+    }
+    .wayT0Title {
+        margin-bottom: 40px !important;
+
+    }
+    .simple_wayTo_preventing{
+        padding: 0px !important;
+    }
+    .three-step_food_safety {
+        padding: 50px 0px !important;
+    }
+    .three-step_food_safety .container-fluid{
+        margin-left: 0px !important;
+    margin-right: 0px !important;
+    }
+    .accordion-item {
+        margin-bottom: 0px;
+      }
+      
+      .accordion-header {
+        background-color: #e0e0e0;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+      }
+      
+      .accordion-content {
+        margin-top: 0px;
+        max-height: 0;
+        overflow: hidden;
+        background-color: #f5f5f5;
+        transition: max-height 0.3s ease;
+      }
+      
+      .accordion-item.active .accordion-header {
+        background-color: #ccc;
+      }
+      
+      .accordion-item.active .accordion-content {
+        max-height: 200px; /* Set the maximum height to accommodate your content */
+      }
+      .accordion-item{
+          margin-bottom: 20px;
+          width: 90%;
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+      }
+      .accordion-item.active .accordion-content {
+        max-height: 100%;
+        padding: 20px;
+    }
+    .tab-text-holder1-inner {
+        margin-top: 0rem !important;
+        margin-left: 0rem !important;
+    }
+    .simple_wayTo_preventing .container-fluid .text-center img {
+        width: 80% !important;
+        margin-top: -6rem !important;
+    }
+    .bg_yellow img {
+        margin-top: 0rem !important;
+        height: auto !important;
+    }
+    .track-and_talk_discr h3 {
+        margin-top: 0px !important;
+    }
+    .track-and_talk_discr p {
+        font-size: 14px !important;
+        text-align: left;
+        margin: 20px 0;
+        padding-right: 0px !important;
+    }
+    .tntImg {
+        height: auto !important;
+        width: auto;
+    }
+    .page-3_stage .section1 .left-content {
+        margin-top: 30px !important;
+    }
+    .container-fully {
+        margin: 40px 25px !important;
+    }
+    .section-slider1 {
+        border-top: 1px solid #fff;
+        background: none !important;
+    }
+}

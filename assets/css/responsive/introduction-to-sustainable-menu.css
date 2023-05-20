@@ -1,0 +1,15 @@
+@media screen and (max-width: 600px) {
+    .section-slider-center h3, .top-content h3 {
+        text-transform: capitalize;
+        font-size: 25px !important;
+    }
+    .section3-inner3 .right-content, .section3-inner .right-content {
+        text-align: left !important;
+        padding-left: 0;
+    }
+    .section3-grid {
+        padding: 0px 0 !important;
+    }
+    
+    
+}

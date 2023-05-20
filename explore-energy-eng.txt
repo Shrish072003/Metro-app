@@ -1,0 +1,20 @@
+explore-energy-eng.php                               done
+explore-food-waste-eng.php                           done
+explore-plastic-waste-eng.php                        done
+explore-responsible-sourcing-eng.php                 done
+explore-safe-food-eng.php                            need
+explore-social-eng.php                               need
+explore-sustainable-menu-eng.php                     done
+explore-waste-eng.php                                done
+index.php                                            done
+introduction-to-energy-eng.php                       need
+introduction-to-food-waste-eng.php                   done
+introduction-to-plastic-waste-eng.php                done
+introduction-to-responsible-sourcing-eng.php         done
+introduction-to-safe-food-eng.php                    done
+introduction-to-social-eng.php                       done
+introduction-to-sustainable-menu-eng.php             done
+introduction-to-waste-eng.php                        need
+introduction-to-water-eng.php                        need
+my-sustainable-restaurant-eng.php                    need ask
+the-msr-chapter-guide-eng.php                        done

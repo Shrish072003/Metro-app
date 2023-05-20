@@ -1,0 +1,24 @@
+@media screen and (max-width: 600px) {
+    h1.banner_title {
+        font-size: 25px !important;
+    }
+    .noalign ul{
+        margin-top: 0px !important;
+    }
+    .l3-5img.mr-4 img {
+        width: 70%;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    h1.banner_title {
+        font-size: 25px !important;
+        margin-top: -3.4rem !important;
+    }
+    .didyouknow_contents.waste_foot_l3 h3 {
+        margin-top: 1.8rem !important;
+        margin-bottom: 1.8rem !important;
+    }
+    .big_issues {
+        margin-top: 30px !important;
+    }
+}

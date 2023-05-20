@@ -1,0 +1,88 @@
+@media screen and (max-width: 600px) {
+    .section-simple-way h3, .left-content h3 {
+        font-size: 25px !important;
+    }.page-3_stage .section1 .left-content {
+        width: 100%;
+        padding: 30px;
+        text-align: center;
+    }
+    .nowrap1 {
+        white-space: revert !important;
+    }
+    .section1 {
+        flex-direction: column !important;
+        margin-top: 33px !important;
+    }
+    .page-3_stage .section1 .right-content {
+        display: block !important;
+    }
+    .right-content img {
+        padding-right: 0px !important;
+    }
+    .right-content img {
+        height: auto !important;
+        width: 85%;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 25px !important;
+    }
+    .section2 {
+        background: #f2f2f2;
+        margin-top: -2px;
+        position: relative;
+        padding: 10px 0 !important;
+    }
+    .section3-inner3 .left-content h3, .section3-inner .left-content h3 {
+        padding-bottom: 10px !important;
+        text-align: center;
+    }
+    .section-slider-center h3, .top-content h3 {
+        text-transform: capitalize;
+        font-size: 25px !important;
+    }
+    .section3-inner3 .right-content p, .section3-inner .right-content p {
+        text-align: left !important;
+    }
+    .section3-inner, .section3-inner3 {
+        padding: 30px !important;
+    }
+    .section4 .right-content, .section4 .left-content {
+        padding: 0 0 0px !important;
+    }
+    .section3 {
+        padding: 0px 0px !important;
+    }
+    .w60-per {
+        width: 100% !important;
+    }
+    .read-wrap a {
+        background-color: #003b7e;
+        border-radius: 50px;
+        padding: 10px 22px;
+        display: inline-block;
+        color: #fff;
+        text-decoration: none;
+        font-family: "GothamBold";
+        text-transform: uppercase;
+        transition: all 0.3s;
+        font-size: 18px;
+        margin-right: auto;
+        margin-left: auto;
+        display: table;
+
+    }
+    .read-wrap a {
+        color: #fff !important;
+    }
+    .p60b img{
+        width: 85%;
+        margin-bottom: 20px !important;
+        margin-right: auto;
+        margin-left: auto;
+        display: table;
+    }
+    .p60b {
+        padding-right: 0px !important;
+    }
+}

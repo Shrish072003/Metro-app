@@ -1,0 +1,119 @@
+@media screen and (max-width: 600px) {
+    .seller-cap {
+        width: 100% !important;
+    }
+    .collapsible--open .collapsible__content {
+        max-height: 100% !important;
+        height: 1160px !important;
+    }
+    .seller-cap {
+        margin-top: 1rem !important;
+        margin-bottom: -1.5rem !important;
+    }
+    .yellow-block {
+        background-color: #ffe500;
+        text-align: left !important;
+        padding: 20px !important;
+    }
+    .fruit-bowl {
+        padding-left: 0rem !important;
+    }
+    .msr-img-holder-inner3 {
+        height: auto !important;
+        vertical-align: middle;
+    }
+    p{
+        text-align: left !important;
+    }
+    .justify1 {
+        text-align: left !important;
+    }
+    .justify1 img{
+        margin-top: 1rem !important;
+        margin-bottom: 1rem !important;
+    }
+    .hen-egg {
+        padding-left: 00rem !important;
+        margin-top: 0rem;
+    }
+    img.et2 {
+        margin-left: 0rem !important;
+    }
+    .etemp1 {
+        padding-left: 0rem !important;
+    }
+    
+    /* .accordian5 {
+        background-color: #91d0b8;
+    }
+    .accordian6 {
+        background-color: #F266AB;
+    }
+    .accordian7 {
+        background-color: #A459D1;
+    }
+    .accordian8 {
+        background-color: #2CD3E1;
+    }
+    .accordian9 {
+        background-color: #CBB279;
+    }
+    .accordian10 {
+        background-color: #E08E6D;
+    }
+    .accordian11 {
+        background-color: #F99B7D;
+    }
+    .accordian12 {
+        background-color: #E06469;
+    }
+    .accordian13 {
+        background-color: #8294C4;
+    } */
+    /* .collapsible__content{
+        display: contents !important;
+    } */
+    .sectionmainn {
+        margin-bottom: 30px;
+    }
+    .accor{
+        margin-bottom: 20px;
+        width: 90%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    }
+    .salad-bowl {
+        margin-left: 0rem !important;
+        margin-top: 0rem !important;
+    }
+    .read-wrap img{
+        margin-top: 30px;
+    }
+    .read-wrap a{
+        border-radius: 50px;
+        color: #fff;
+    }
+    .msr-img-holder6>.msr-img-holder-inner6>img {
+        margin-top: -2rem !important;
+    }
+    .mt-5 {
+        margin-top: 0rem !important;
+    }
+    .collapsible__header{
+        height: 67px !important;
+    }
+    .msr-img-holder-inner3 img{
+        margin-right: 0rem !important;
+    margin-left: 0rem !important;
+    }
+    .org-farming {
+        padding-left: 0rem !important;
+    }
+    .bbht{
+        margin-top: 50px;
+    }
+    .msr-img-holder9>.msr-img-holder-inner9>img{
+        margin-top: 0rem !important;
+    }
+}
