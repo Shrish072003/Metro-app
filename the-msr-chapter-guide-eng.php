@@ -63,7 +63,35 @@
 			padding-top: 0px;
 			padding-bottom: 0px;
 			height: 78px;
-		}
+		}.custom__select:before{
+            background:#ffe500;
+        }
+        nav.navbar {
+      height: 60px;
+      top: 0;
+    }
+        .search-btn{    margin-right: -16px;
+     }
+     .wrap {
+    background: #fff !important;
+}
+.section-slider2 .slick-slide:before {
+
+    background: none !important;
+}
+.section3-inner3 .left-content h3, .section3-inner .left-content h3 {
+    font-size: 25px !important;
+    text-align: center;
+}
+.section-slider2 .inner-item button {
+    padding-top: 0;
+    color: #000;
+    font-size: 25px;
+}
+.inner-item {
+    background-color: #dbdada;
+    background-image: none !important;
+}
 	</style>
 </head>
 
@@ -590,19 +618,10 @@
 			</div>
 		</div>
 	</div>
-<div class="main_scroll">
-	<div class="scrollmenu">
-	<img src="assets/prev/images/updated-menu-l2.svg">
-	<img src="assets/prev/images/updated-menu-l2.svg">
-	<img src="assets/prev/images/updated-menu-l2.svg">
-	<img src="assets/prev/images/updated-menu-l2.svg">
-	<img src="assets/prev/images/updated-menu-l2.svg">
-	<img src="assets/prev/images/updated-menu-l2.svg">
-	<img src="assets/prev/images/updated-menu-l2.svg">
-	<img src="assets/prev/images/updated-menu-l2.svg">
-	<img src="assets/prev/images/updated-menu-l2.svg">
-	</div>
-</div>
+
+<section class="mobile_show">
+        <?php include "includes/scroll/scrollmsr.php"; ?>
+        </section>
 	<div id="myModal" class="modal">
 
 		<!-- Modal content -->

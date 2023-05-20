@@ -64,6 +64,26 @@
     }
         .search-btn{    margin-right: -16px;
      }
+     .wrap {
+    background: #fff !important;
+}
+.section-slider2 .slick-slide:before {
+
+    background: none !important;
+}
+.section3-inner3 .left-content h3, .section3-inner .left-content h3 {
+    font-size: 25px !important;
+    text-align: center;
+}
+.section-slider2 .inner-item button {
+    padding-top: 0;
+    color: #000;
+    font-size: 25px;
+}
+.inner-item {
+    background-color: #dbdada;
+    background-image: none !important;
+}
      </style>
 </head>
 
@@ -147,9 +167,11 @@
                 </div>
             </div>
         </section>
+        <section class="mobile_show">
+        <?php include "includes/scroll/scroll6.php"; ?>
+        </section>
 
-
-        <section class="section3-grid no-print" id="option4" data-scrl="Benefits">
+        <section class="section3-grid no-print desk_show" id="option4" data-scrl="Benefits">
             <ul>
                 <li>
                     <p class="font-size-30px">Benefits</p>
@@ -267,7 +289,7 @@
         <section class="section4 padr-60px no-print" id="option6" data-scrl="Steps to act socially">
             <div class="left-content noalign col-md-6">
                 <h3>
-                    KNOW HOW – STEPS TO<br>ACT SOCIALLY
+                    KNOW HOW – STEPS TO <br>ACT SOCIALLY
                 </h3>
                 <div class="l3-5img mr-4 col-md-6 mobile_show">
 

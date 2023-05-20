@@ -45,6 +45,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
   <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
   <link rel="stylesheet" href="assets\css\responsive.css">
+  <link rel="stylesheet" href="assets\css\responsive\introduction-to-sustainable-menu.css">
   <!--META TAGS-->
   <meta name="msapplication-TileColor" content="#603cba">
   <meta name="theme-color" content="#ffffff">
@@ -83,6 +84,26 @@
     }
         .search-btn{    margin-right: -16px;
      }
+     .wrap {
+    background: #fff !important;
+}
+.section-slider2 .slick-slide:before {
+
+    background: none !important;
+}
+.section3-inner3 .left-content h3, .section3-inner .left-content h3 {
+    font-size: 25px !important;
+    text-align: center;
+}
+.section-slider2 .inner-item button {
+    padding-top: 0;
+    color: #000;
+    font-size: 25px;
+}
+.inner-item {
+    background-color: #dbdada;
+    background-image: none !important;
+}
     </style>
 </head>
 
@@ -144,8 +165,10 @@
                 </div>
             </div>
         </section>
-
-        <section id="option4" data-scrl="Benefits">
+        <section class="mobile_show">
+        <?php include "includes/scroll/scroll7.php"; ?>
+        </section>
+        <section id="option4" class="desk_show" data-scrl="Benefits">
             <div class="section3-grid">
                 <ul>
                     <li>

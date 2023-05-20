@@ -31,6 +31,28 @@
     <meta name="msapplication-tooltip" content="METRO">
     <meta http-equiv="cleartype" content="on">
     <meta name="canonical" content="">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="assets/prev/css/page2_style.css">
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script src="assets/prev/jquery/custom.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="likebtn.css">
+
+  <link rel="stylesheet" href="assets/css/navigation.css">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/normalize.min.css" rel="stylesheet">
+  <link href="assets/css/style1.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="stylesheet" href="assets\css\responsive.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-social.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-safe-food.css">
     <!--current page url-->
     <style>
         .swiper.pageSwiper2>.swiper-wrapper>.swiper-slide.pageSlider-slide>div.row>div.col-md-12>.pageSlider-slide-text>p {
@@ -60,6 +82,11 @@
         .tntImg {
             height: 35rem;
             width: auto;
+            height: 35rem;
+    width: 85%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
         }
 
         .tab-text-holder1-inner {
@@ -325,6 +352,25 @@
         .noalign {
             text-align: unset !important;
         }
+        .custom__select:before{
+            background:#ffe500;
+        }
+        nav.navbar {
+      height: 60px;
+      top: 0;
+    }
+        .search-btn{    margin-right: -16px;
+     }
+     iframe {
+    border: 0;
+    width: 100%;
+    margin-top: 10px;
+    height:430px;
+}.tab-text-holder1 {
+    height: 48rem;
+}
+
+
     </style>
 </head>
 
@@ -340,6 +386,7 @@
                     <div class="left-content no-print">
                         <h3>How to engage socially<br>
                             as a restaurateur</h3>
+                            <img src="assets/images/safe_food/s-1.svg" class="img-fluid mobile_show">
                         <h4>Social engagement and your business</h4>
                         <p>As a restaurateur, you have a huge impact on social matters. Social engagement not
                             only applies to a restaurant’s staff, but also includes how the restaurant acts in the
@@ -418,6 +465,9 @@
             <section class="good_to_know no-print social_box" style="padding-bottom: 12rem;" id="option2" data-scrl="Good to know">
                 <div class="container">
                     <div class="row mb-5">
+                    <div class="col-md-4 px-4 mobile_show">
+                            <h3>Good to know</h3>
+                        </div>
                         <div class="col-md-4 px-4">
                             <div class="good_to_know_box p-4">
                                 <img src="assets/images/safe_food/s-3.svg" class="img-fluid">
@@ -428,7 +478,7 @@
                                     rights requirements for all businesses. </p>
                             </div>
                         </div>
-                        <div class="col-md-4 px-4">
+                        <div class="col-md-4 px-4 desk_show">
                             <h3>Good to know</h3>
                         </div>
 
@@ -479,9 +529,13 @@
                         <p class="text-center"><img src="assets/images/safe_food/s-new.svg" style="width: 30rem;margin-top: -15rem;"></p>
                         <h3 class="wayT0Title" style="color:#000;margin-top: 0;">The 7 Basic Human Rights</h3>
 
+                        <section class="mobile_show">
 
 
-                        <div class="row">
+<?php include "includes/scroll/bigscroll6.php"; ?>
+</section>
+
+                        <div class="row desk_show">
                             <div class="col-md-12 mb-5">
                                 <div class="pageSlider-container">
                                     <div class="pageSlider-container-inner">
@@ -725,7 +779,99 @@
                         <p class="text-center">There are three main ways to be a socially engaged business. This is through your<br>staff, your suppliers and your local community.</p>
 
                     </div>
-                    <div class="row mt-5">
+<section class="mobile_show">
+  <div class="accordion">
+    <div class="accordion-item">
+      <div class="accordion-header">Engage with your employees</div>
+      <div class="accordion-content">
+        <div>
+          
+          <div class="row">
+            <div class="col-md-3 offset-md-1">
+                <div class="three-step_img">
+                    <img src="assets/images/safe_food/Asset 9.png" class="img-fluid">
+                </div>
+            </div>
+            <div class="col-md-6 offset-md-1">
+                <div class="three-step_para">
+                    <p>A <strong>food safety management system (FSMS)</strong> will cover every aspect of your food handling and purchasing and will have the necessary checks, records, and reviews in place to make sure your procedures are being followed. The system should be documented – not only for you to know what is happening - but also for your staff to be briefed properly and to have proof that you are managing your processes safely for your local authority inspector. Ensuring food safety also means organising your premises and processes appropriately. This exercise helps the organisation to operate sustainably. Many of the documentation and recording systems used in food safety management can be adapted and introduced systematically for sustainability. </p>
+                    <p class="mt-0">
+                        <strong> If you do the following activities to manage food safety, you will also be implementing sustainability:</strong>
+<iframe src="includes/scroll/bigscroll7.php" height="430px"></iframe>
+                    </p>
+                </div>
+            </div>
+        </div>
+        
+
+        </div>
+      </div>
+    </div>
+    <div class="accordion-item ">
+      <div class="accordion-header">Engage with your suppliers </div>
+      <div class="accordion-content">
+        <div>
+
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="img-holder1">
+                        <div class="img-holder1-inner">
+                            <img src="assets/images/safe_food/s-11.svg" class="tabc-image1">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="tab-text-holder1">
+                        <div class="tab-text-holder1-inner">
+                            <p>
+                                Workers’ rights in the supply chain are an issue in almost all countries. You can make a
+                                difference by asking your suppliers to ensure fair working conditions. By recognising this and
+                                asking your suppliers how they guarantee workers’ rights is an aspect of responsible sourcing
+                                through which you can make an impact on another level of the food system.
+                            </p>
+                            <p class="mt-0"><strong>Here are some simple steps to engage with your suppliers:</strong></p>
+                            <iframe src="includes/scroll/bigscroll8.php" style="height:460px !important;"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    
+        </div>
+        </div>
+
+    <div class="accordion-item">
+      <div class="accordion-header">Connect with your community  </div>
+      <div class="accordion-content">
+        <div>
+
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="img-holder1">
+                        <div class="img-holder1-inner">
+                            <img src="assets/images/safe_food/s-16.svg" class="tabc-image1">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="tab-text-holder1">
+                        <div class="tab-text-holder1-inner">
+                            <p>Connecting with the local community is crucial and can help you to become resilient to difficult
+                                times. People who are engaged in your business will be more likely to support it, especially
+                                when your restaurant is a regular part of their lives. </p>
+                            <p class="mt-4">
+                                <strong>When you want to be fully integrated and wish to actively contribute to your community,
+                                    here are some steps you can take:</strong>
+                            </p>
+                            <iframe src="includes/scroll/bigscroll9.php" ></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+</section>
+                    <div class="row mt-5 desk_show">
                         <div class="test">
                             <div class="tab-container-one">
                                 <ul class="nav nav-tabs" id="myTab" role="tablist">
@@ -774,6 +920,7 @@
                                             </div>
                                         </div>
 
+                                  
 
                                         <div class="row">
                                             <div class="col-md-12 mb-5">
@@ -1235,6 +1382,9 @@
                         <div class="col-md-6">
                             <div class="track-and_talk_discr">
                                 <h3>Track and Talk <br>About Your Progress </h3>
+                                <div class="img-holder2-inner mobile_show">
+                                    <img src="assets/images/safe_food/Asset 30.png" class="tntImg">
+                                </div>
                                 <p>Once you have decided to emphasize your efforts to become a socially engaged
                                     restaurateur, talk to your staff, your suppliers, and with your community. Look out
                                     for simple solutions that don’t need too much input from you. Let your customers
@@ -1244,7 +1394,7 @@
                                     home with them, making your impact go even further!</p>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 desk_show">
                             <div class="img-holder2">
                                 <div class="img-holder2-inner">
                                     <img src="assets/images/safe_food/Asset 30.png" class="tntImg">
@@ -1614,7 +1764,24 @@
             return false;
         });
     </script>
-    
+    <script>
+const accordionItems = document.querySelectorAll('.accordion-item');
+
+accordionItems.forEach(item => {
+  item.addEventListener('click', () => {
+    // Toggle active class on the clicked item
+    item.classList.toggle('active');
+
+    // Hide all other accordion items
+    accordionItems.forEach(otherItem => {
+      if (otherItem !== item) {
+        otherItem.classList.remove('active');
+      }
+    });
+  });
+});
+
+</script>
 </body>
 
 </html>

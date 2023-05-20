@@ -9,7 +9,7 @@
     }
     .section-white-full-width {
         position: relative;
-        padding: 15px 30px !important;
+        padding: 35px 30px !important;
     }
     .justify1 {
         text-align: left !important;
@@ -100,11 +100,19 @@ button.no-print {
 }
 .tracktalk-iconbox {
     width: 4rem !important;
-    margin-left: 0rem !important;
-    margin-top: 3rem !important;
+    /* margin-left: 0rem !important; */
+    /* margin-top: 3rem !important; */
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+.tracktalk-iconbox {
+    position: inherit !important;
+}
+.tracktalk-icon-3 {
+    margin-top: 0rem!important;
 }
 .right-side{
-    margin-left: 30%;
+    /* margin-left: 30%; */
 }
 .icon-box-1 {
     margin-top: 1.8rem !important;
@@ -116,6 +124,26 @@ button.no-print {
 .mb-5 {
     margin-bottom: 0rem !important;
 }
+.section-heading-blue {
+    margin-bottom: 20px !important;
+}
+/* .mt-4 {
+    margin-top: 0rem !important;
+} */
+.section-heading-blue-small {
+    margin-bottom: 0px !important;
+}
+.title9 h5{
+        font-size: 16px;
+}
+.text9{
+    font-weight: bolder !important;
+    font-size: 14px !important;
+}
+ .section2 .container{
+    padding: 0rem 30px 1.8rem 30px;
+}
+
 
 }
 @media screen and (min-width: 800px){

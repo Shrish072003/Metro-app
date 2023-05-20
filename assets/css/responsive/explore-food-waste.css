@@ -15,9 +15,6 @@
     .desk-show{
         display: none;
     }
-    .banner_l4_title{
-        margin-top: -36px !important;
-    }
     .banner_l4_title h6 {
         margin-top: 1.8rem;
     text-align: center;
@@ -139,8 +136,9 @@
         column-gap: 2rem;
     }
     .learn_to_make p {
-        padding-left: 5px !important;
+        padding-left: 0px !important;
         text-align: left !important;
+        margin-top: 1rem !important;
     }
     .media-body {
         width: 85% !important;
@@ -195,7 +193,7 @@
         font-size: 16px !important;
         font-weight: bolder;
     }
-    .thermo-fruits {
+    .thermo-fruits , .thermo-veg{
         font-size: 16px !important;
         font-weight: bolder;
     }
@@ -207,6 +205,40 @@
     }
     .media-body .mt-3 {
         margin-top: 0rem !important;
+    }
+    .zdiv .vegetables-inner {
+        margin-top: -13rem;
+        margin-bottom: -58px;
+    }
+    .mid-content.cation-plan-section {
+        padding: 0 0 54px;
+        margin: 0 auto;
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+    .safeFoodl4_paragraphs_bgwhite p {
+        font-size: 14px;
+        text-align: left !important;
+    }
+    section.compost_wasteFood {
+            margin-bottom: 0rem !important;
+            margin-top: 1.8rem !important;
+            padding-bottom: 1rem !important;
+    
+    }
+    .safeFoodl4_banner {
+        margin-top: 3rem !important;
+    }
+    .section-to-print{
+        margin-top: 1rem !important;
+    }
+    .wayT0Title {
+        margin-bottom: 30px !important;
+        margin-top: 0px !important;
+    }
+    .navbar .container-fluid{
+        margin-left: 10px !important;
+    margin-right: 10px !important;
     }
 }
 
@@ -224,5 +256,9 @@
     .swiper-slide-inner {
         width: 16rem;
         margin-left: auto !important;
+    }
+    .safeFoodl4_paragraphs .read-more-btn{
+        margin-bottom: 30px !important;
+        margin-top: 30px !important;
     }
 }

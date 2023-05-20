@@ -33,7 +33,57 @@
     <meta http-equiv="cleartype" content="on">
     <meta name="canonical" content="">
     <!--current page url-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="assets/prev/css/page2_style.css">
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script src="assets/prev/jquery/custom.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="likebtn.css">
 
+  <link rel="stylesheet" href="assets/css/navigation.css">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/normalize.min.css" rel="stylesheet">
+  <link href="assets/css/style1.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="stylesheet" href="assets\css\responsive.css">
+    <link rel="stylesheet" href="assets\css\responsive.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-energy.css">
+  <link rel="stylesheet" href="assets\css\responsive\introduction-to-energy.css">
+  <style>
+    .custom__select:before{
+            background:#ffe500;
+        }
+        nav.navbar {
+      height: 60px;
+      top: 0;
+    }
+        .search-btn{    margin-right: -16px;
+     }
+     .inner-item {
+    background-image: none !important;
+    background-color:#dbdada!important;
+}
+.wrap {
+    background: #fff !important;
+}
+.section-slider2 .slick-slide:before {
+
+    background: none !important;
+
+}
+.section-slider2 .inner-item button {
+    padding-top: 0;
+    color: #000;
+    font-size: 25px;
+}
+</style>
 </head>
 
 <body class="popup-exists page-animation1">
@@ -113,9 +163,10 @@
                 </div>
             </div>
         </section>
-
-
-        <section class="section3-grid no-print scrollval" id="option4" data-scrl="Benefits">
+        <section class="mobile_show">
+        <?php include "includes/scroll/scroll1.php"; ?>
+        </section>
+        <section class="section3-grid no-print scrollval desk_show" id="option4" data-scrl="Benefits">
             <ul>
                 <li>
                     <p class="font-size-30px">Benefits</p>
@@ -172,7 +223,12 @@
 
         <section class="section4 padr-60px no-print scrollval" id="option6" data-scrl="Steps to reduce energy consumption">
             <div class="left-content noalign col-md-6">
-                <h3>KNOW HOW – STEPS TO<br>REDUCE ENERGY CONSUMPTION</h3>
+                <h3>KNOW HOW – STEPS TO<br> REDUCE ENERGY CONSUMPTION</h3>
+                <div class="l3-5img mr-4 col-md-6 mobile_show">
+
+                <img src="assets/images/safe_food/en-6.svg" class="img-fluid">
+
+            </div>
 
                 <ul>
                     <li> Analyse your consumption and hunt for sources of energy wastage,
@@ -199,7 +255,7 @@
                     <a href="explore-energy-eng.php" class="read-more" target="_self">Read More</a>
                 </div>
             </div>
-            <div class="l3-5img mr-4 col-md-6">
+            <div class="l3-5img mr-4 col-md-6 desk_show">
 
                 <img src="assets/images/safe_food/en-6.svg" class="img-fluid">
 

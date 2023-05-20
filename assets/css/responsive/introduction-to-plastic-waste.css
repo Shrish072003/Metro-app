@@ -18,7 +18,7 @@
         margin-top: 0rem !important;
     }
     .banner-image {
-        width: 85% !important;
+        width: 100% !important;
         position: revert !important;
     }
     .border-r {
@@ -35,7 +35,7 @@
         font-size: 25px !important;
     }
     .container-full .row {
-        padding: 0px 40px;
+        padding: 0px 30px;
     }
     .desk-dis{
         display: none;
@@ -48,6 +48,44 @@
         margin-right: 0rem !important;
         margin-left: 0rem !important;
     }
+    .nowrap1 {
+        white-space: nowrap;
+        overflow: hidden;
+        font-size: 25px;
+        text-overflow: ellipsis;
+    }
+    .section-slider-center h3, .top-content h3 {
+        text-transform: capitalize;
+        font-size: 25px !important;
+    }
+    .mid-content {
+        padding: 0 0px !important;
+        list-style: none;
+    }
+    .section3-inner3 .right-content p, .section3-inner .right-content p {
+        text-align: left !important;
+    }
+    .section3-inner3 .left-content h3, .section3-inner .left-content h3 {
+        font-size: 25px !important;
+        text-align: left;
+    }
+    .theme-p{
+        text-align: left;
+    }
+    .section3-inner3 .left-content {
+        width: 100% !important;
+        padding: 0px !important;
+        text-align: center !important;
+        margin-bottom: 1.8rem;
+    }
+    .section3 {
+        padding: 0px 30px;
+    }
+    .mb-2 {
+        margin-bottom: 1.5rem !important;
+    }
+    
+    
 
 
 

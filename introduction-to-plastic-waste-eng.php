@@ -73,7 +73,27 @@
     }
         .search-btn{    margin-right: -16px;
      }
-    </STYLE>
+     .inner-item {
+    background-image: none !important;
+    background-color: #dbdada !important;
+}
+.wrap {
+    background: #fff !important;
+}
+.section-slider2 .slick-slide:before {
+
+    background: none !important;
+}
+.section3-inner3 .left-content h3, .section3-inner .left-content h3 {
+    font-size: 25px !important;
+    text-align: center;
+}
+.section-slider2 .inner-item button {
+    padding-top: 0;
+    color: #000;
+    font-size: 25px;
+}
+    </style>
 </head>
 
 <body class="popup-exists page-animation1">
@@ -266,7 +286,10 @@
                 </div>
             </div>
         </section>
-        <section id="option4" data-scrl="Benefits">
+        <section class="mobile_show">
+        <?php include "includes/scroll/scroll3.php"; ?>
+        </section>
+        <section class="desk_show" id="option4" data-scrl="Benefits">
             <div class="section3-grid">
                 <ul>
                     <li>
@@ -337,7 +360,7 @@
             <div class="container-full">
                 <div class="row">
                     <div class="col-md-7 mt-2 mb-2 px-5 b-right">
-                        <h3 class="h3v3 text-black">KNOW HOE – STEPS TO<br>
+                        <h3 class="h3v3 text-black">KNOW HOW – STEPS TO<br>
                             MINIMIZE PLASTIC WASTE</h3>
                             <div class="col-md-5 mt-2 mb-2 just-center mobile-dis">
                         <img src="assets/images/plastic_waste/earth-recycle.svg" class="img-fluid heirarchy-image mx-3 my-auto">

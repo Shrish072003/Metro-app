@@ -64,6 +64,26 @@
     }
         .search-btn{    margin-right: -16px;
      }
+     .wrap {
+    background: #fff !important;
+}
+.section-slider2 .slick-slide:before {
+
+    background: none !important;
+}
+.section3-inner3 .left-content h3, .section3-inner .left-content h3 {
+    font-size: 25px !important;
+    text-align: center;
+}
+.section-slider2 .inner-item button {
+    padding-top: 0;
+    color: #000;
+    font-size: 25px;
+}
+.inner-item {
+    background-color: #dbdada;
+    background-image: none !important;
+}
         </style>
 
 </head>
@@ -123,9 +143,11 @@
                     <p>Good food safety management will help to:</p>
                 </div>
             </div>
+            <section class="mobile_show">
+        <?php include "includes/scroll/scroll5.php"; ?>
+        </section>
 
-
-            <section class="section3-grid" id="option4" data-scrl="Benefits">
+            <section class="section3-grid desk_show" id="option4" data-scrl="Benefits">
                 <ul>
                     <li>
                         <p class="font-size-30px">Benefits</p>

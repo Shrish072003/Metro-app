@@ -13,7 +13,10 @@ section.good_to_know h3 {
     font-size: 28px !important;
 }
 .good_to_know .container {
-    padding: 0 20px 0 !important;
+    padding: 0 20px 30px !important;
+}
+.wayT0Title {
+    margin-top: 10px !important;
 }
 section.good_to_know.no-print.mtcsutom.energy_page.waste_l4-page .good_to_know_box.p-4.safe_foodBox_l4 {
     min-height: 260px;
@@ -80,15 +83,40 @@ section.good_to_know.no-print.mtcsutom.energy_page .good_to_know_box.p-4.safe_fo
 .plastic-wasteStep p {
     padding-right: 0rem !important;
 }
-    .plastic-wasteStepImg img{
-        width: 85% !important;
-        display: block;
-        margin-right: auto;
-        margin-left: auto;
-        padding: 20px;
-    }
+.plastic-wasteStepImg img {
+    width: 100% !important;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    /* padding: 12px; */
+}
     section.plastic-waste_productRecycle {
         background: #f2f2f2;
         padding: 20px 30px 50px;
+    }
+    .plastic-wasteStepImg {
+        margin-top: 10px;
+    margin-bottom: 41px;
+    padding: 20px 30px 0px 30px;
+    }
+    .good_to_know .col-md-4-main {
+        margin-top: -100px !important;
+    }
+    .margin_bottomm{
+        margin-bottom: 50px !important;
+    }
+    .container {
+        padding: 0 10px 0 !important;
+    }
+    .plastic-waste_productRecycle p{
+        font-size: 14px !important;
+        font-weight: bolder !important;
+    }
+    .section-slider-center h3, .top-content h3 {
+        text-transform: capitalize;
+        font-size: 30px !important;
+    }
+    section.good_to_know.no-print.mtcsutom.energy_page .good_to_know_box.p-4.safe_foodBox_l4 {
+        margin: 81px 0 !important;
     }
 }

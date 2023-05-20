@@ -285,13 +285,16 @@
                 </div>
             </section>
 
-
-            <section class="simple_wayTo_preventing no-print energy_page_slider" id="option3" data-scrl="Simple ways to save energy">
+<section class="mobile_show">
+        <?php include "includes/scroll/bigscroll2.php"; ?>
+        </section>
+            <section class="simple_wayTo_preventing no-print energy_page_slider desk_show" id="option3" data-scrl="Simple ways to save energy">
                 <div class="section-div">
                     <div class="container-fluid">
                         <h3 class="wayT0Title">Simple ways to save energy</h3>
                         <p class="disc">As a restaurateur, there are many ways to save energy in your restaurant.<br>There are some actions you can implement straight away. This is how you can start:</p>
-
+                       
+                        
 
                         <!-- NEW SWIPER START -->
 
@@ -597,7 +600,7 @@
 
 
 
-            <section class="advance_way no-print plastic_waste_expl" id="option4" data-scrl="Advanced ways to save energy">
+            <section class="advance_way no-print plastic_waste_expl mobile_show" id="option4" data-scrl="Advanced ways to save energy">
                 <div class="container">
                     <div class="row">
                         <h3>Advanced ways to save energy</h3>
@@ -607,7 +610,7 @@
                 </div>
             </section>
 
-            <section class="plastic-waste_productRecycle no-print energy_page_img mobile-show">
+            <section class="plastic-waste_productRecycle no-print energy_page_img mobile_show">
             <div class="row">
                         <div class="plastic-wasteStepImg">
                             <img src="assets/images/safe_food/eng-p.svg">

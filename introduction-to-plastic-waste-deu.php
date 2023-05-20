@@ -45,6 +45,17 @@
         .footer-socials.side_nav>ul {
             margin-left: 0rem;
         }
+        .inner-item {
+    background-image: none !important;
+    background-color:#dbdada!important;
+}
+.wrap {
+    background: #fff !important;
+}
+.section-slider2 .slick-slide:before {
+
+    background: none !important;
+}
     </style>
 </head>
 

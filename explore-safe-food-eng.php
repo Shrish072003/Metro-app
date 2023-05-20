@@ -410,6 +410,10 @@
     }
         .search-btn{    margin-right: -16px;
      }
+     iframe{    border: 0;
+    width: 100%;
+    margin-bottom: 20px;
+}
     </style>
 </head>
 
@@ -423,7 +427,7 @@
             <section class="section1 no-print" id="option1" data-scrl="How to ensure safe food">
                 <div class="left-content no-print">
                     <h3>How to ensure safe food</h3>
-                    <img src="assets/images/safe_food/L3-banner.png" class="img-fluid mt-4" />
+                    <img src="assets/images/safe_food/L3-banner.png" class="img-fluid mt-4 mobile_show" />
                     <h4>Safe food is the foundation</h4>
                     <p> As a restaurateur, you want to delight your guests with delicious food. However, you definitely don’t want to go out of business because you made a customer severely ill or failed a hygiene inspection. Well-known frameworks and methodologies already exist to help restaurants produce safe food. There are few, if any, that support managing a sustainable restaurant. If a restaurant implements a robust and systematic food safety management system, an approach with its checks and balances is already there and can be adjusted to include sustainability aspects. </p>
                     <button class="read-more-btn" id="hide_show_content" href="#clickTohide">Read more</button>
@@ -555,7 +559,8 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+        <iframe src="includes/scroll/bigscroll5.php" height="400px" class="mobile_show"></iframe>
+        <div class="row desk_show">
           <div class="col-md-12 mb-5">
               <div class="pageSlider-container">
                   <div class="pageSlider-container-inner">
@@ -1033,7 +1038,8 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+        <iframe src="includes/scroll/bigscroll12.php" height="450px" class="mobile_show"></iframe>
+        <div class="row desk_show">
           <div class="col-md-12 mb-5">
               <div class="pageSlider-container">
                   <div class="pageSlider-container-inner">
@@ -1257,7 +1263,7 @@
             <img src="assets/images/safe_food/Asset 61.png" class="img-fluid">
             <p>You can start by looking at each aspect of your operation and identifying the risks caused by contamination from micro-organisms, for example, bacteria like salmonella, physical objects such as shards of glass from broken glass, chemicals such as cleaning agents that might come from poorly rinsed mixing equipment, and allergens such as nuts.</p>
         </div>
-        <p class="text-center nextStepCta mt-4">
+        <p class="text-center nextStepCta mt-4 desk_show">
             <a id="nextBtn2" href="#">Next Step <i class="fa fa-long-arrow-right"></i>
             </a>
         </p>
@@ -1287,7 +1293,8 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+        <iframe src="includes/scroll/bigscroll13.php" height="450px" class="mobile_show"></iframe>
+        <div class="row desk_show">
           <div class="col-md-12 mb-5">
               <div class="pageSlider-container">
                   <div class="pageSlider-container-inner">
@@ -3305,22 +3312,31 @@
             return false;
         });
     </script>
-    <script>
-const accordionItems = document.querySelectorAll('.accordion-item');
+    <script>const accordionItems = document.querySelectorAll('.accordion-item');
 
 accordionItems.forEach(item => {
-  item.addEventListener('click', () => {
-    // Toggle active class on the clicked item
-    item.classList.toggle('active');
+  const header = item.querySelector('.accordion-header');
 
-    // Hide all other accordion items
-    accordionItems.forEach(otherItem => {
-      if (otherItem !== item) {
-        otherItem.classList.remove('active');
-      }
-    });
+  header.addEventListener('click', () => {
+    const isActive = item.classList.contains('active');
+
+    // Close the active accordion item if clicked again
+    if (isActive) {
+      item.classList.remove('active');
+    } else {
+      // Toggle active class on the clicked item
+      item.classList.add('active');
+
+      // Hide all other accordion items
+      accordionItems.forEach(otherItem => {
+        if (otherItem !== item) {
+          otherItem.classList.remove('active');
+        }
+      });
+    }
   });
 });
+
 
 </script>
 </body>

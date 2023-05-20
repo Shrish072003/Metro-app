@@ -1012,11 +1012,14 @@
       <section class="section-text-withimages section4-5 no-print" id="option7" data-scrl="Track and talk about your progress">
         <div class="left-content">
           <h3>Track and talk <br>
-            about your progress</h3>
+          
+            about your progress</h3><div class="right-content_mobile">
+          <img src="assets/prev/images/flag-p-svg.svg" />
+        </div>
           <p>When you have implemented sustainable options in your menu, start measuring the impact for example via direct feedback from customers or from rating websites, number of orders or profitability of dishes. You could consider using a digital tool to track your recipes and the impact of being more sustainable. Be aware that “farm-to-table” restaurants continue to appeal to restaurant visitors. Connect your customers to the source of your ingredients by talking with them about your menu. Explain why you made the changes. If you have traceability information on your menu or your website explain how it works. As a business your impact on your community will be so much more when your customers and staff understand what you are doing. Some might copy your practices in their shopping decisions. Your impact could be greater than you imagine!</p>
         </div>
         <div class="right-content">
-          <img src="assets/prev/images/flag-p-svg.svg" />
+          <img src="assets/prev/images/flag-p-svg.svg" class="desk_show" />
         </div>
       </section>
 

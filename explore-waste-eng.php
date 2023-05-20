@@ -226,7 +226,7 @@
                             <div class="good_to_know_box p-4 safe_foodBox_l4 engery_box waste_l4-img mobile_show">
                                 <img src="assets/images/safe_food/wl3.svg" class="img-fluid" style="padding: 0;">
                             </div>
-                        <div class="col-md-4 px-4">
+                        <div class="col-md-4 px-4 col-md-4-main">
                             <div class="good_to_know_box p-4 safe_foodBox_l4">
                                 <img src="assets/images/safe_food/wl2.svg" class="img-fluid">
                                 <h5>Food</h5>
@@ -271,7 +271,7 @@
 
                                     serious drain blockage in the local area.</p>
                             </div>
-                            <div class="good_to_know_box p-4 safe_foodBox_l4">
+                            <div class="good_to_know_box p-4 safe_foodBox_l4 margin_bottomm">
                                 <img src="assets/images/safe_food/wl7.svg" class="img-fluid">
                                 <h5>Be aware of these materials and sort
 
@@ -297,9 +297,14 @@
                         <p class="disc">Packaging or leftovers from cutting meat and vegetables:<br><strong>
                                 This is how you can start managing your waste:</strong></p>
                         <div class="sw-holder">
+                       <section class="mobile_show">
+
+
+<?php include "includes/scroll/bigscroll10.php"; ?>
+</section>
                             <!--<div class="sw-btn-prev-container"><div class="swiper-button-prev btn-y pbtn"></div></div>-->
 
-                            <div class="row">
+                            <div class="row desk_show">
                                 <div class="col-md-12 mb-5">
                                     <div class="pageSlider-container">
                                         <div class="pageSlider-container-inner">

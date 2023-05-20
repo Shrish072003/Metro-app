@@ -780,9 +780,14 @@
         <!-- thermometer end -->
 
 
+        <section class="">
+        <div class="sw-holder mobile_show">
+                        <h3 class="wayT0Title">Simple ways to prevent food waste</h3>
+    </div>
+        <?php include "includes\scroll\bigscroll1.php"; ?>
+        </section>
 
-
-        <section class="waste_food_l4_slider no-print" id="option4" data-scrl="Simple ways to prevent food waste">
+        <section class="waste_food_l4_slider no-print desk_show" id="option4" data-scrl="Simple ways to prevent food waste">
             <div class="section-div">
                 <div class="container-fluid ">
                     <div class="sw-holder">
@@ -1117,7 +1122,7 @@
                                 </div>
                             </div>
                         </div>
-                        <button class="read-more-btn r2 mt-5" id="myBtn33" href="#clickTohide">Read more</button>
+                        <!-- <button class="read-more-btn r2 mt-5 " id="" href="#">Read more</button> -->
                     </div>
                     <div class="col-md-6 downimg">
                         <div class="compost_wasteFood_img">
@@ -1126,8 +1131,8 @@
                     </div>
                 </div>
             </div>
-        </section>
-        <section class="safeFoodl4_paragraphs no-print" id="clickTohide">
+        
+        <div class="safeFoodl4_paragraphs no-print" id="clickTohide">
             <div class="container">
                 <div class="row safeFoodl4_paragraphs_bgwhite no-print" style="padding: 2.5rem;">
                     <div class="col-md-12 mt-2 px-2">
@@ -1139,11 +1144,14 @@
                             <br>
                             But not all sorts of food can be composted. Diseased plants, dairy products, coal or charcoal ashes, meat and bones, oil, fat and grease, and all toxic materials cannot be composted. Compostable materials include fruit and vegetable waste, coffee grounds and filters, paper napkins, wood ashes, cardboard and newspaper. You should check with your local waste collection service or authority about what is possible to send for commercial composting. Also, ask them if they collect cooked waste and animal products as they might have a service to process these foods into biogas.
                         </p>
+                        
 
                     </div>
 
                 </div>
             </div>
+            </div>
+            <button class="read-more-btn r2 mt-5 " id="myBtn33" href="#clickTohide">Read more</button>
         </section>
         <section class="compost_wasteFood pb-5 no-print" id="option6" data-scrl="Leran to make more out of food scraps">
             <div class="container-fluid">

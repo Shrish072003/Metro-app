@@ -462,9 +462,11 @@
             </section>
 
 
+            <section class="mobile_show">
+        <?php include "includes/scroll/bigscroll3.php"; ?>
+        </section>
 
-
-            <section class="simple_wayTo_preventing no-print" id="option4" data-scrl="Simple ways to prevent plastic waste">
+            <section class="simple_wayTo_preventing no-print desk_show" id="option4" data-scrl="Simple ways to prevent plastic waste">
                 <div class="section-div">
                     <div class="container-fluid">
                         <h3 class="wayT0Title">Simple ways to prevent plastic waste</h3>

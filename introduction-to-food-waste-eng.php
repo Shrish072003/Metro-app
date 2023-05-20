@@ -45,6 +45,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
   <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
   <link rel="stylesheet" href="assets\css\responsive.css">
+  <link rel="stylesheet" href="assets\css\responsive\introduction-to-food-waste.css">
   <!--META TAGS-->
   <meta name="msapplication-TileColor" content="#603cba">
   <meta name="theme-color" content="#ffffff">
@@ -102,6 +103,22 @@
     }
         .search-btn{    margin-right: -16px;
      }
+     .inner-item {
+    background-image: none !important;
+    background-color:#dbdada!important;
+}
+.wrap {
+    background: #fff !important;
+}
+.section-slider2 .slick-slide:before {
+
+    background: none !important;
+}
+.section-slider2 .inner-item button {
+    padding-top: 0;
+    color: #000;
+    font-size: 25px;
+}
     </style>
 </head>
 
@@ -556,9 +573,11 @@
                 </div>
             </div>
         </section>
+        <section class="mobile_show">
+        <?php include "includes/scroll/scroll2.php"; ?>
+        </section>
 
-
-        <section class="section3-grid" id="option4" data-scrl="Benefits">
+        <section class="section3-grid desk_show" id="option4" data-scrl="Benefits">
             <ul>
                 <li>
                     <p class="font-size-30px">
@@ -651,8 +670,9 @@
             <div class="l3-5img mr-4 col-md-6">
                 <div class="l3-5">
                     <h3 class="food-rec">Food Recovery Hierarchy</h3>
+                    <a href="https://responsibility.metroag.de/focus-areas/food-waste" target="_blank" class="read-more mobile_show">Read More</a>
                     <img src="assets/images/safe_food/l3-5.svg" class="l3-5img">
-                    <a href="https://responsibility.metroag.de/focus-areas/food-waste" target="_blank" class="ovrBtn">Read More</a>
+                    <a href="https://responsibility.metroag.de/focus-areas/food-waste" target="_blank" class="ovrBtn desk_show">Read More</a>
                 </div>
 
             </div>
