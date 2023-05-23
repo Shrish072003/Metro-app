@@ -32,6 +32,16 @@
     <meta name="msapplication-tooltip" content="METRO">
     <meta http-equiv="cleartype" content="on">
     <meta name="canonical" content="">
+    
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="../../assets/prev/css/page2_style.css">
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script src="../../assets/prev/jquery/custom.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
   
     <link rel="stylesheet" href="assets/css/introduction-to-food-waste.css">
   <link rel="stylesheet" href="assets/css/navigation.css">

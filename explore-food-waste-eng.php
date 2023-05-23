@@ -780,11 +780,13 @@
         <!-- thermometer end -->
 
 
-        <section class="">
-        <div class="sw-holder mobile_show">
+        <section class="mobile_show">
+        <div class="">
                         <h3 class="wayT0Title">Simple ways to prevent food waste</h3>
     </div>
-        <?php include "includes\scroll\bigscroll1.php"; ?>
+    </section>
+    <section class="mobile_show">
+        <?php include "includes/scroll/bigscroll1.php"; ?>
         </section>
 
         <section class="waste_food_l4_slider no-print desk_show" id="option4" data-scrl="Simple ways to prevent food waste">

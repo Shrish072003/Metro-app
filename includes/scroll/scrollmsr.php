@@ -1,29 +1,4 @@
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
-  <link rel="stylesheet" href="../../assets/prev/css/page2_style.css">
-  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
-  <script src="../../assets/prev/jquery/custom.js"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
-  <link rel="stylesheet" href="likebtn.css">
-
-  <link rel="stylesheet" href="../../assets/css/navigation.css">
-  <link href="../../assets/css/bootstrap.min.css" rel="stylesheet">
-  <link href="../../assets/css/normalize.min.css" rel="stylesheet">
-  <link href="../../assets/css/style1.css" rel="stylesheet">
-  <link href="../../assets/css/style.css" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
-
-  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/icon-32x32.png">
-  <link rel="mask-icon" href="../..//safari-pinned-tab.svg" color="#5bbad5">
-  <link rel="stylesheet" href="../../assets\css\responsive.css">
   <link rel="stylesheet" href="slider.css">
-  <!--META TAGS-->
-  <meta name="msapplication-TileColor" content="#603cba">
-  <meta name="theme-color" content="#ffffff">
-  <meta name="robots" content="noindex,nofollow">
   <style>
     .section-lena-inner {
       padding-left: 0;
@@ -343,9 +318,9 @@
           </h4>
           <img src="assets\images\the-msr-chapter\msr_1.png" />
           <p>Your business is food and food is your business. As a restaurant owner the dishes you offer sometimes drive trends in the overall market place. Increasing numbers of costumers are showing interest in where their food comes from and are demanding healthier and sustainable options when they eat out. By carefully picking the products you present on your menu, you can create a positive and long lasting impact on the environment and the health of your customers.
-          </p><button class="read-more-btn" href="introduction-to-responsible-sourcing-eng.php">
+          </p><a class="read-more-btn" href="introduction-to-responsible-sourcing-eng.php">
         TAKE A DEEP DIVE 
-                  </button>
+</a>
         </div>
         
       </div>
@@ -372,9 +347,9 @@
           <h4>The role of plastic in gastronomy</h4>
           <img src="assets/prev/images/L2-02.svg" />
           <p>Plastic product and plastic packaging play an important role in maintaining hygiene in gastronomy, as they protect food, ensure food safety and improve shelf life. Single-use items, mostly made out of plastic, have up until now been almost indispensable in the gastronomy sector. However, both the production and disposal of plastic and single-use plastic product requires resources and has a negative impact on the environment -especially on our oceans. Gastronomy thus has an impact on the plastic waste challenge and should be forgoing the unnecessary plastic. </p>
-        <button class="read-more-btn" href="introduction-to-plastic-waste-eng.php">
+        <a class="read-more-btn" href="introduction-to-plastic-waste-eng.php">
         TAKE A DEEP DIVE 
-                  </button></div>
+</a></div>
       </div>
     </div>
   </div>
@@ -398,9 +373,9 @@
           <h4>Why we need to reduce food waste</h4>
           <img src="assets/prev/images/L2-06.svg" />
           <p>Food waste costs you and your customer's money. Throwing away valuable resources uneaten also holds enormous potential for environmental and social conflict. Conflicts that young and future customers are not willing to accept. Just Imagine: If food waste was a country it would be the 3rd largest emitter of greenhouse gases. According to a global METRO study from 2019, already 39% of METRO's HoReCa customers want to tackle food waste in their own operations.</p>
-          <button class="read-more-btn" href="introduction-to-food-waste-eng.php">
+          <a class="read-more-btn" href="introduction-to-food-waste-eng.php">
         TAKE A DEEP DIVE 
-                  </button>
+</a>
         </div>
       </div>
     </div>
@@ -424,9 +399,9 @@
           <h4>Why it is important to offer a sustainable menu </h4>
           <img src="assets/prev/images/L2-07.svg" />
           <p>Sometimes, it can be difficult for consumers to find sustainable restaurants, let alone a sustainable dish once inside. By putting sustainability on the (online) menu restaurateurs can visibly demonstrate to their customers, their engagement for a food future that respects the health of the planet and their communities. </p>
-          <button class="read-more-btn" href="introduction-to-sustainable-menu-eng.php">
+          <a class="read-more-btn" href="introduction-to-sustainable-menu-eng.php">
         TAKE A DEEP DIVE 
-                  </button>
+</a>
         </div>
       </div>
     </div>
@@ -451,9 +426,9 @@
           <h4>Why gastronomy must engage socially </h4>
           <img src="assets/prev/images/L2-09.svg" />
           <p>When your staff is treated well, the positive effects on your business are felt not only in your restaurant but also in the community around you. As a restaurant owner, you have direct responsibility for your employees, but you also have indirect responsibility for every worker in the supply chain - the community overall. Take an active role in your community and ensure the welfare of your employees, your customers, your suppliers, and others in society whom you are in touch with.</p>
-          <button class="read-more-btn" href="introduction-to-social-eng.php">
+          <a class="read-more-btn" href="introduction-to-social-eng.php">
         TAKE A DEEP DIVE 
-                  </button></div>
+</a></div>
       </div>
     </div>
   </div>
@@ -477,9 +452,9 @@
           <h4>How to save water in your restaurant</h4>
           <img src="assets/prev/images/L2-01.svg" />
           <p>Water runs your business. As a restaurant owner, you require a large amount of it before, during and after the service, from cooking and steaming to washing and sanitizing. But water does not only cost you money, it is also precious. Show your customers that you take responsibility and adapt water saving behavior with long-term benefits for you and the environment. </p>
-          <button class="read-more-btn" href="introduction-to-water-eng.php">
+          <a class="read-more-btn" href="introduction-to-water-eng.php">
         TAKE A DEEP DIVE 
-                  </button>
+</a>
         </div>
       </div>
     </div>
@@ -836,151 +811,4 @@
         e.preventDefault();
         $('.introdiv-modal').toggleClass('is-visible');
       });
-
-
-      $(document).on('click', '.read-more-btn, .read-text', function() {
-        var $el = $(this),
-          $el_wrap = $el.closest('.more-text'),
-          $content = $el_wrap.find('[id^="more"]'),
-          target = $el.attr('target');
-        if (target != null) {
-          $content = $(target);
-        }
-        if ($content.hasClass('active')) {
-          $content.slideUp('fast').removeClass('active');
-          $el.html('Read more').removeClass('btn-active');
-        } else {
-          $content.slideDown('fast').addClass('active');
-          $el.html('Read more').addClass('btn-active');
-        }
-      });
     </script>
-
-    <script src="../../assets/prev/jquery/page1.js"></script>
-
-    <script type="text/javascript" src="../../assets/prev/assets/js/common.js"></script>
-
-    <script>
-      document.addEventListener("DOMContentLoaded", function() {
-        // make it as accordion for smaller screens
-        if (window.innerWidth < 992) {
-
-          // close all inner dropdowns when parent is closed
-          document.querySelectorAll('.navbar .dropdown').forEach(function(everydropdown) {
-            everydropdown.addEventListener('hidden.bs.dropdown', function() {
-              // after dropdown is hidden, then find all submenus
-              this.querySelectorAll('.submenu').forEach(function(everysubmenu) {
-                // hide every submenu as well
-                everysubmenu.style.display = 'none';
-              });
-            })
-          });
-          //hover reference https://stackoverflow.com/questions/8318591/javascript-addeventlistener-using-to-create-a-mouseover-effect
-          document.querySelectorAll('.dropdown-menu a').forEach(function(element) {
-            element.addEventListener('click', function(e) {
-              let nextEl = this.nextElementSibling;
-              if (nextEl && nextEl.classList.contains('submenu')) {
-                // prevent opening link if link needs to open dropdown
-                e.preventDefault();
-                if (nextEl.style.display == 'block') {
-                  nextEl.style.display = 'none';
-                } else {
-                  nextEl.style.display = 'block';
-                }
-
-              }
-            });
-          });
-        }
-        // end if innerWidth
-      });
-      // DOMContentLoaded  end
-    </script>
-
-    <script>
-      $(document).ready(function() {
-        var cur_page_name = "Sustainable Menu";
-        var cur_nav_link_id = "3";
-        var eng_page_path = "explore-sustainable-menu-eng.php";
-        var deu_page_path = "explore-sustainable-menu-deu.php";
-        //manipulation
-        pagemanipulation(cur_page_name, cur_nav_link_id, eng_page_path, deu_page_path);
-        var menuIdVal = "0";
-        menumanipulation(menuIdVal, "e");
-
-
-         //like share stats
-        $(document).ready(function(){
-            $.ajax({
-                url : 'isliked.php?q=SUSTAINABLE MENU',
-                type : 'POST',
-                success : function (result) {
-                    var retVal=parseInt(result);
-                    if(retVal>0){
-                        $("#likeBtn").addClass("liked");
-                    }
-                },
-                error : function () {
-                    console.log (error);
-                }
-            });
-            return false;
-         });
-
-        $("#likeBtn").click(function(){
-            $.ajax({
-                url : 'isliked.php?q=SUSTAINABLE MENU',
-                type : 'POST',
-                success : function (result) {
-                    var retVal=parseInt(result);
-                    if(retVal>0){
-                        //dislike
-                        $.ajax({
-                            url : 'dislike.php?q=SUSTAINABLE MENU',
-                            type : 'POST',
-                            success : function (result) {
-                                var retVal=parseInt(result);
-                                if(retVal="1"){
-                                    $("#likeBtn").removeClass("liked");
-                                }else{
-                                    console.log("DISLIKE ERROR")
-                                }
-                            },
-                            error : function () {
-                                console.log ("error");
-                            }
-                        });
-                    }else{
-                        $.ajax({
-                            url : 'like.php?q=SUSTAINABLE MENU',
-                            type : 'POST',
-                            success : function (result) {
-                                var retVal=parseInt(result);
-                                if(retVal="1"){
-                                    $("#likeBtn").addClass("liked");
-                                }else{
-                                    console.log("LIKE ERROR")
-                                }
-                            },
-                            error : function () {
-                                console.log ("error");
-                            }
-                        });
-                    }
-                },
-                error : function () {
-                    console.log ("error");
-                }
-            });
-            return false;
-        });
-      });
-    </script>
-
-  
-
-    <script src="../../assets/js/navigation.js"></script>
-    <script src="../../assets/js/common.js"></script>
-    <script src="../../assets/js/bootstrap.bundle.min.js"></script>
-    <script src="../../assets/js/pageparams.js"></script>
-    <script src="../../assets/js/likeshare-eng.js"></script>

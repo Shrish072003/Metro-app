@@ -1,7 +1,7 @@
 @media screen and (max-width: 600px) {
     .px-4 {
-        padding-right: 20px !important;
-        padding-left: 20px !important;
+        padding-right: 25px !important;
+    padding-left: 10px !important;
     }
     .container-fluid {
         margin-left: 0px !important;
@@ -146,6 +146,7 @@
     .media-object {
         display: block;
         margin-top: 3px;
+        width: 37px !important;
     }
     h1.banner_title2 {
         font-size: 28px !important;
@@ -261,4 +262,10 @@
         margin-bottom: 30px !important;
         margin-top: 30px !important;
     }
+}
+.media{
+    display: flex !important;
+}
+.swiper-slide-inner {
+    width: 16rem !important;
 }

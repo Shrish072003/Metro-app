@@ -1,4 +1,3 @@
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
   <link rel="stylesheet" href="../../assets/prev/css/page2_style.css">
   <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
@@ -6,10 +5,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
-  <link rel="stylesheet" href="likebtn.css">
-
   <link rel="stylesheet" href="../../assets/css/navigation.css">
-  <link href="../../assets/css/bootstrap.min.css" rel="stylesheet">
   <link href="../../assets/css/normalize.min.css" rel="stylesheet">
   <link href="../../assets/css/style1.css" rel="stylesheet">
   <link href="../../assets/css/style.css" rel="stylesheet">
@@ -823,151 +819,4 @@
         e.preventDefault();
         $('.introdiv-modal').toggleClass('is-visible');
       });
-
-
-      $(document).on('click', '.read-more-btn, .read-text', function() {
-        var $el = $(this),
-          $el_wrap = $el.closest('.more-text'),
-          $content = $el_wrap.find('[id^="more"]'),
-          target = $el.attr('target');
-        if (target != null) {
-          $content = $(target);
-        }
-        if ($content.hasClass('active')) {
-          $content.slideUp('fast').removeClass('active');
-          $el.html('Read more').removeClass('btn-active');
-        } else {
-          $content.slideDown('fast').addClass('active');
-          $el.html('Read more').addClass('btn-active');
-        }
-      });
     </script>
-
-    <script src="../../assets/prev/jquery/page1.js"></script>
-
-    <script type="text/javascript" src="../../assets/prev/assets/js/common.js"></script>
-
-    <script>
-      document.addEventListener("DOMContentLoaded", function() {
-        // make it as accordion for smaller screens
-        if (window.innerWidth < 992) {
-
-          // close all inner dropdowns when parent is closed
-          document.querySelectorAll('.navbar .dropdown').forEach(function(everydropdown) {
-            everydropdown.addEventListener('hidden.bs.dropdown', function() {
-              // after dropdown is hidden, then find all submenus
-              this.querySelectorAll('.submenu').forEach(function(everysubmenu) {
-                // hide every submenu as well
-                everysubmenu.style.display = 'none';
-              });
-            })
-          });
-          //hover reference https://stackoverflow.com/questions/8318591/javascript-addeventlistener-using-to-create-a-mouseover-effect
-          document.querySelectorAll('.dropdown-menu a').forEach(function(element) {
-            element.addEventListener('click', function(e) {
-              let nextEl = this.nextElementSibling;
-              if (nextEl && nextEl.classList.contains('submenu')) {
-                // prevent opening link if link needs to open dropdown
-                e.preventDefault();
-                if (nextEl.style.display == 'block') {
-                  nextEl.style.display = 'none';
-                } else {
-                  nextEl.style.display = 'block';
-                }
-
-              }
-            });
-          });
-        }
-        // end if innerWidth
-      });
-      // DOMContentLoaded  end
-    </script>
-
-    <script>
-      $(document).ready(function() {
-        var cur_page_name = "Sustainable Menu";
-        var cur_nav_link_id = "3";
-        var eng_page_path = "explore-sustainable-menu-eng.php";
-        var deu_page_path = "explore-sustainable-menu-deu.php";
-        //manipulation
-        pagemanipulation(cur_page_name, cur_nav_link_id, eng_page_path, deu_page_path);
-        var menuIdVal = "0";
-        menumanipulation(menuIdVal, "e");
-
-
-         //like share stats
-        $(document).ready(function(){
-            $.ajax({
-                url : 'isliked.php?q=SUSTAINABLE MENU',
-                type : 'POST',
-                success : function (result) {
-                    var retVal=parseInt(result);
-                    if(retVal>0){
-                        $("#likeBtn").addClass("liked");
-                    }
-                },
-                error : function () {
-                    console.log (error);
-                }
-            });
-            return false;
-         });
-
-        $("#likeBtn").click(function(){
-            $.ajax({
-                url : 'isliked.php?q=SUSTAINABLE MENU',
-                type : 'POST',
-                success : function (result) {
-                    var retVal=parseInt(result);
-                    if(retVal>0){
-                        //dislike
-                        $.ajax({
-                            url : 'dislike.php?q=SUSTAINABLE MENU',
-                            type : 'POST',
-                            success : function (result) {
-                                var retVal=parseInt(result);
-                                if(retVal="1"){
-                                    $("#likeBtn").removeClass("liked");
-                                }else{
-                                    console.log("DISLIKE ERROR")
-                                }
-                            },
-                            error : function () {
-                                console.log ("error");
-                            }
-                        });
-                    }else{
-                        $.ajax({
-                            url : 'like.php?q=SUSTAINABLE MENU',
-                            type : 'POST',
-                            success : function (result) {
-                                var retVal=parseInt(result);
-                                if(retVal="1"){
-                                    $("#likeBtn").addClass("liked");
-                                }else{
-                                    console.log("LIKE ERROR")
-                                }
-                            },
-                            error : function () {
-                                console.log ("error");
-                            }
-                        });
-                    }
-                },
-                error : function () {
-                    console.log ("error");
-                }
-            });
-            return false;
-        });
-      });
-    </script>
-
-  
-
-    <script src="../../assets/js/navigation.js"></script>
-    <script src="../../assets/js/common.js"></script>
-    <script src="../../assets/js/bootstrap.bundle.min.js"></script>
-    <script src="../../assets/js/pageparams.js"></script>
-    <script src="../../assets/js/likeshare-eng.js"></script>

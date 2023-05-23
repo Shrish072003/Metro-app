@@ -10,6 +10,9 @@
     .section3-grid {
         padding: 0px 0 !important;
     }
+    .section4 .left-content ul{
+        text-align: left;
+    }
     
     
 }

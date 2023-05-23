@@ -1,7 +1,7 @@
 @media screen and (max-width: 600px) {
 section.good_to_know.no-print.mtcsutom.energy_page .good_to_know_box.p-4.safe_foodBox_l4 {
     margin-top: 90px !important;
-    margin-bottom: 70px;
+    margin-bottom: -15px !important;
 }
 .good_to_know_box{
     width: 100% !important;
@@ -50,10 +50,10 @@ section.good_to_know.no-print.mtcsutom.energy_page .good_to_know_box.p-4.safe_fo
     font-size: 14px;
     font-weight: bolder;
 }.px-4 {
-    margin-top: -70px;
+    margin-top: 0px !important;
 }
 .margin_bottom_main {
-    margin-top: -114px !important;
+    margin-top: -49px !important;
 }
 .wayT0Title {
     font-size: 25px !important;
@@ -137,6 +137,9 @@ section.plastic-waste_productRecycle {
     .wrap {
         padding-top: 71px !important;
         padding-bottom: 30px !important;
+    }
+    .good_to_know .container {
+        padding: 0 20px 60px !important;
     }
 
 
