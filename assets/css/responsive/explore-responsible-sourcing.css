@@ -116,6 +116,7 @@ button.no-print {
 }
 .icon-box-1 {
     margin-top: 1.8rem !important;
+    height: auto !important;
 }
 .text-center {
     text-align: center;
@@ -142,6 +143,10 @@ button.no-print {
 }
  .section2 .container{
     padding: 0rem 30px 1.8rem 30px;
+}
+.track-talk-subsection {
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
 }
 
 

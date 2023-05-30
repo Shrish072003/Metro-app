@@ -59,10 +59,10 @@
 		}
 
 		.footer-wrap {
-			position: absolute;
+			position: absolute !important;
 			padding-top: 0px;
 			padding-bottom: 0px;
-			height: 78px;
+			height: 100px;
 		}.custom__select:before{
             background:#ffe500;
         }

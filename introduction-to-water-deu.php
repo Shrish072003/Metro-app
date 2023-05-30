@@ -32,8 +32,60 @@
     <meta name="msapplication-tooltip" content="METRO">
     <meta http-equiv="cleartype" content="on">
     <meta name="canonical" content="">
-    <!--current page url-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="assets/prev/css/page2_style.css">
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script src="assets/prev/jquery/custom.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="likebtn.css">
+
+  <link rel="stylesheet" href="assets/css/navigation.css">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/normalize.min.css" rel="stylesheet">
+  <link href="assets/css/style1.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="stylesheet" href="assets\css\responsive.css">
+  <link rel="stylesheet" href="assets\css\responsive\introduction-to-water.css">
+  <style>
+    .custom__select:before{
+            background:#ffe500;
+        }
+        nav.navbar {
+      height: 60px;
+      top: 0;
+    }
+        .search-btn{    margin-right: -16px;
+     }
+     .wrap {
+    background: #fff !important;
+}
+.section-slider2 .slick-slide:before {
+
+    background: none !important;
+}
+.section3-inner3 .left-content h3, .section3-inner .left-content h3 {
+    font-size: 25px !important;
+    text-align: center;
+}
+.section-slider2 .inner-item button {
+    padding-top: 0;
+    color: #000;
+    font-size: 25px;
+}
+.inner-item {
+    background-color: #dbdada;
+    background-image: none !important;
+}
+    </style>
     <style>
+         @media screen and (min-width: 800px){
         .border-right {
             border-right: 1px solid black !important;
         }
@@ -45,6 +97,7 @@
         .border-top {
             border-top: 1px solid black !important;
         }
+    }
     </style>
 </head>
 
@@ -215,6 +268,9 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <h3 class="know-how-heading">KNOW-HOW –<br>ERSTE SCHRITTE, WIE SIE<br>WASSER SPAREN</h3>
+                                <div class="col-md-6  mobile_show">
+                        <img src="assets/images/water/lower-water-drops.svg" class="img-fluid know-more-img">
+                    </div>
                                 <ul class="justify1">
                                     <li class=" strongUl">
                                         Analysieren und bewerten Sie Ihren Wasserverbrauch. Ihre Stadtwerke können Ihnen dabei helfen. Finden Sie heraus, wo Wasser verschwendet wird, und beginnen Sie mit einfachen Maßnahmen, wie z. B. das Reparieren von undichten Wasserhähnen oder dem Austausch von defekten Leitungen.
@@ -242,7 +298,7 @@
                         </div>
 
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 desk_show">
                         <img src="assets/images/water/lower-water-drops.svg" class="img-fluid know-more-img">
                     </div>
                 </div>

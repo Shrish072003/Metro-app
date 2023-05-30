@@ -1,0 +1,60 @@
+@media screen and (max-width: 600px) {
+    .item.slick-slide {
+        width: 280px;
+        height: 500px !important;
+        transition: transform 0.4s;
+        position: relative;
+    }
+    .inner-item {
+        border-radius: 35px;
+        font-family: "GothamBold";
+        font-size: 18px;
+        color: #fff;
+        display: flex;
+        width: 100%;
+        background-image:none !important;
+        background-color: #ffffff !important;
+        height: 100%;
+        flex-direction: column;
+        position: relative;
+        z-index: 11;
+        opacity: 0.5;
+    }
+    .inner-item a, .inner-item h5, .inner-item .modal-toggle1, .inner-item button {
+        font-size: 25px !important;
+        color: #003b7e !important;
+    }
+    img{
+        display: block !important;
+    }
+    .slider2 .item.slick-slide.slick-current.slick-center{
+        background-image: none !important;
+    }
+    .section-slider2 .inner-item button {
+        height: 30%;
+    }
+    .o-print{
+        background-color: #003b7e;
+        width: 60%;
+        height: 10%;
+        border-radius: 50px;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        color: #fff;
+        font-size: 18px !important;
+        padding: 6px;
+        margin-top: 43px;
+    }
+    .marginmm{
+        margin-top: 1rem;
+    }
+    .section-slider2 .inner-item button {
+        padding-top: 0;
+        color: #000;
+        font-size: 25px;
+    }
+    .inner-item button {
+        width: 170px !important;
+    }
+}

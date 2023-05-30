@@ -116,7 +116,7 @@
                         </h3>
                     </div>
                     <div class="col-md-6 mt-2">
-                        <img src="assets/images/plastic_waste/banner-image.svg" class="mt-5 px-5 img-fluid banner-image" / style="width:61rem;right: 1rem;">
+                        <img src="assets/images/plastic_waste/banner-image.svg" class="mt-5 px-5 img-fluid banner-image"  style="right: 1rem;">
                     </div>
 
                 </div>

@@ -27,6 +27,29 @@
     <meta name="mssmarttagspreventparsing" content="true">
     <meta name="IE=edge,chrome=1" content="X-UA-Compatible">
     <meta name="msapplication-starturl" content="">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="assets/prev/css/page2_style.css">
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script src="assets/prev/jquery/custom.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="likebtn.css">
+
+  <link rel="stylesheet" href="assets/css/navigation.css">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/normalize.min.css" rel="stylesheet">
+  <link href="assets/css/style1.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="stylesheet" href="assets\css\responsive.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-responsible-sourcing.css">
+  <link rel="stylesheet" href="assets\css\responsive\scroll.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-responsible-sourcing-due.css">
     <!--current page url-->
     <meta name="msapplication-tooltip" content="METRO">
     <meta http-equiv="cleartype" content="on">
@@ -727,6 +750,19 @@
             }
 
         }
+        .custom__select:before{
+            background:#ffe500;
+        }
+        nav.navbar {
+      height: 60px;
+      top: 0;
+    }
+        .search-btn{    margin-right: -16px;
+     }
+     iframe {
+    border: 0;
+    width: 100%;
+}
     </style>
 </head>
 
@@ -743,6 +779,7 @@
                 <section class="section1 no-print" id="option1" data-scrl="Wie Sie verantwortungsbewusst Einkaufen">
                     <div class="left-content">
                         <h3 style="text-transform: none;">Wie Sie verantwortungsbewusst einkaufen</h3>
+                        <img src="assets/images/resp_sourcing/resp_sour_L3_banner_img.svg" class="img-fluid mobile-fri mt-4">
                         <h4>Verantwortungsvolle Beschaffung in der Gastronomie</h4>
                         <p>
                             Gastronomiebetreibende bieten ihren Gästen einzigartige Geschmackserlebnisse – häufig in Anlehnung an lokale oder kulturelle Besonderheiten ihrer speziellen Region. Ökologisch erzeugte und verantwortungsbewusste Produkte helfen Ihnen dabei, sich von der Konkurrenz zu unterscheiden. Denn viele Gäste wollen wissen, woher die Produkte stammen, die Sie verwenden. Die Informationen dazu können Sie in der Speisekarte bereitstellen und so Ihre Gäste darüber informieren, dass Ihre Produkte aus verantwortungsbewussten und regionalen Quellen stammen.
@@ -1231,6 +1268,13 @@
                     <div class="row">
                         <div class="col-md-8 mb-5">
                             <h3 class="section-heading-blue-small no-print" style="text-transform: none!important;">Nicht-zertifizierte nachhaltige Produkte</h3>
+                            <div class="col-md-4 mb-5 mobile_show">
+                        <div class="msr-img-holder2">
+                            <div class="msr-img-holder-inner2 mt-4">
+                                <img src="assets/images/resp_sourcing/non-certified-sust-products.svg" class="no-print non-certified-sust-products">
+                            </div>
+                        </div>
+                    </div>
                             <p class="justify1 no-print">
                                 Nicht alle Erzeuger orientieren sich an nachhaltigen Standards. Bei einigen von ihnen verläuft die Entwicklung dahin nur schrittweise. Ein Produkt kann allerdings aus vielen Gründen nachhaltig sein (lokal, gesund, ökologisch usw.) und oft erfährt man dies nur, wenn man seinen Lieferanten fragt. Manchmal fällt der produzierende Betrieb auch die bewusste Entscheidung, ein Produkt nicht zertifizieren zu lassen, obwohl es nachhaltig hergestellt wurde. Oftmals halten beispielsweise die Kosten für die Qualitätssiegel die Erzeuger davon ab, ihr Produkt zertifizieren zu lassen. Oder es wird einfach kein entsprechendes Label ausgestellt, z. B. wie bei den meisten Sozialaudits, die die Arbeitsbedingungen überprüfen.
                             </p>
@@ -1241,7 +1285,7 @@
                                 Sie können die Erzeuger, die sich um eine Zertifizierung bemühen, durch ihre Unterstützung dazu motivieren, ihre Bemühungen fortzusetzen und sogar zu verbessern. Denken Sie daran, dass Aussagen über Nachhaltigkeit nachweisbar sein müssen. Eine ehrliche und einfache Kommunikation eignet sich dazu am besten.
                             </p>
                         </div>
-                        <div class="col-md-4 mb-5">
+                        <div class="col-md-4 mb-5 desk_show">
                             <div class="msr-img-holder2">
                                 <div class="msr-img-holder-inner2 mt-4">
                                     <img src="assets/images/resp_sourcing/non-certified-sust-products.svg" class="no-print non-certified-sust-products">
@@ -1254,10 +1298,11 @@
 
 
 
+                <?php include "includes\scroll_deu\scroll_deu.php"; ?>
 
                 <!--------Comprehensive Guide START------->
 
-                <section class="section2 mb-50 no-print" id="option5" data-scrl="Der umfassende Leitfaden für nachhaltige Produkte">
+                <section class="section2 mb-50 no-print desk_show" id="option5" data-scrl="Der umfassende Leitfaden für nachhaltige Produkte">
 
 
                     <div class="container-full con50">
@@ -2204,14 +2249,22 @@
                     <h3 class="section-heading-blue-small no-print" style="text-transform: none!important;">
                         Tipps für Fortgeschrittene, um verantwortungsbewusst einzukaufen
                     </h3>
+                    <div class="col-md-4 mobile_show">
+                    <div class="msr-img-holder7">
+                        <div class="msr-img-holder-inner7">
+                            <img src="assets/images/resp_sourcing/fresh-store.svg" class="fresh-store no-print ">
+                        </div>
+                    </div>
+
+                </div>
                     <p class=" no-print">
                         In den letzten Jahrzehnten haben sich unsere Konsumgewohnheiten im Vergleich zu früheren Generationen stark verändert. Wir leben in einer globalisierten Welt, in der wir uns daran gewöhnt haben, das ganze Jahr über verschiedene Lebensmittel zu kaufen, auch wenn sie keine Saison haben oder nicht vor Ort wachsen. Schauen Sie sich die folgenden Tipps für einen verantwortungsbewussten Einkauf an:
                     </p>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 desk_show">
                     <div class="msr-img-holder7">
                         <div class="msr-img-holder-inner7">
-                            <img src="assets/images/resp_sourcing/fresh-store.svg" class="fresh-store no-print">
+                            <img src="assets/images/resp_sourcing/fresh-store.svg" class="fresh-store no-print ">
                         </div>
                     </div>
 
@@ -2511,7 +2564,7 @@
                 </div>
             </div>
         </div>
-        <section class="section-highlight-withimages section4-5 pbg mb-3 no-print" id="option7" data-scrl="Tipps für Fortgeschrittene, um verantwortungsbewusst einzukaufen">
+        <section class="section-highlight-withimages section4-5 pbg mb-3 no-print desk_show" id="option7" data-scrl="Tipps für Fortgeschrittene, um verantwortungsbewusst einzukaufen">
             <div class="top-highlight text-center">
                 <h3>Tipps für Fortgeschrittene, um<br>verantwortungsbewusst einzukaufen</h3>
                 <p>Sie können sogar noch weiter gehen, indem Sie Tipps für Fortgeschrittene verwenden, um das Kriterium der Nachhaltigkeit in Ihrem Einkauf zu verankern: </p>
@@ -2633,12 +2686,139 @@
 
 
 
+
+        <section class="section-highlight-withimages section4-5 pbg mb-3 no-print mobile_show" id="option7" data-scrl="Tipps für Fortgeschrittene, um verantwortungsbewusst einzukaufen">
+            <div class="top-highlight text-center">
+                <h3>Tipps für Fortgeschrittene, um<br>verantwortungsbewusst einzukaufen</h3>
+                <p>Sie können sogar noch weiter gehen, indem Sie Tipps für Fortgeschrittene verwenden, um das Kriterium der Nachhaltigkeit in Ihrem Einkauf zu verankern: </p>
+            </div>
+            <div class="container9 mt-m2 mb-5">
+                <div class="row">
+                <div class="col-md-12 mb-2 mt-2">
+                        <!---middle row-->
+                        <img src="assets/images/resp_sourcing/advance-ways.svg" class="img-fluid" />
+                    </div>
+                    <div class="col-md-12 mb-2">
+                        <!---top row-->
+                        <div class="row">
+                            <div class="col-md-2 offset-md-2 advance-way-box">
+                                <div class="row">
+                                <div class="col-md-12 title-yellow">
+                                        01
+                                    </div>
+                                    <div class="col-md-12 title9">
+                                        <h5>
+                                            Setzen Sie sich mit unabhängigen und lokalen Landwirtschaftsbetreibenden in Verbindung und unterstützen Sie diese
+                                            </h3>
+                                    </div>
+                                    <div class="col-md-12 text9">
+                                        Wenn Sie mit lokalen Erzeugern zusammenarbeiten, können sie wachsen, die von Ihnen gewünschten Lebensmittelmengen produzieren und sich zu umweltfreundlichen Maßnahmen verpflichten
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-2 offset-md-2 advance-way-box">
+                                <div class="row">
+                                <div class="col-md-12 title-yellow">
+                                        02
+                                    </div>
+                                    <div class="col-md-12 title9">
+                                        <h5>
+                                            Konzentrieren Sie sich auf saisonale Produkte
+                                            </h3>
+                                    </div>
+                                    <div class="col-md-12 text9">
+                                        Kaufen Sie saisonale Produkte, wann immer sie verfügbar sind
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-2 offset-md-2 advance-way-box">
+                                <div class="row">
+                                <div class="col-md-12 title-yellow">
+                                        03
+                                    </div>
+                                    <div class="col-md-12 title9">
+                                        <h5>
+                                            Kaufen Sie selten verwendete oder traditionelle Lebensmittel
+                                            </h3>
+                                    </div>
+                                    <div class="col-md-12 text9">
+                                        Es gibt seltene oder ortsspezifische Lebensmittel, die Sie verantwortungsbewusst einkaufen können. Zum Beispiel alte Getreidesorten anstelle von konventionellem Getreide oder Quinoa anstelle von Reis, seltene Tierrassen und alte Obst- und Gemüsesorten
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 mb-2 mt-2">
+                        <!---bottom row-->
+                        <div class="row">
+                            <div class="col-md-3 advance-way-box">
+                                <div class="row">
+                                <div class="col-md-12 title-yellow">
+                                        04
+                                    </div>
+                                    <div class="col-md-12 title9">
+                                        <h5>
+                                            Verwenden Sie vollwertige Zutaten
+                                            </h3>
+                                    </div>
+                                    <div class="col-md-12 text9">
+                                        Kochen Sie mit vollwertigen Zutaten
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="offset-md-1 col-md-3 advance-way-box">
+                                <div class="row">
+                                <div class="col-md-12 title-yellow">
+                                        05
+                                    </div>
+                                    <div class="col-md-12 title9">
+                                        <h5>
+                                            Reduzieren Sie Abfall
+                                            </h3>
+                                    </div>
+                                    <div class="col-md-12 text9">
+                                        Führen Sie Zutaten ein, die wenig Abfall verursachen. Verwenden Sie nach Möglichkeit alle Teile eines Tieres nach dem sogenannten "Nose-to-Tail"-Prinzip. Nutzen Sie recyclebare Verpackungen und fragen Sie Ihren Lieferanten nach nachfüllbaren Verpackungen, z. B. für Waschmittel oder Öle
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 offset-md-1 advance-way-box">
+                                <div class="row">
+                                <div class="col-md-12 title-yellow">
+                                        06
+                                    </div>
+                                    <div class="col-md-12 title9">
+                                        <h5>
+                                            Bauen Sie Ihr eigenes Gemüse an
+                                            </h3>
+                                    </div>
+                                    <div class="col-md-12 text9">
+                                        Bauen Sie Produkte wie Kräuter oder Salat selbst an
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="spacerx"></div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+        </section>
+
+
+
+
+
+
         <!-----Trach and talk--------->
         <section class="container9 section-text-withimages section4-4 more-text no-print" id="option8" data-scrl="Überprüfen Sie Ihre Fortschritte und sprechen Sie darüber">
             <div class="left-content9">
                 <div class="row">
                     <div class="col-md-12">
                         <h3 class="h3v2" style="text-transform:none!important;">Überprüfen Sie Ihre Fortschritte<br>und sprechen Sie darüber</h3>
+                        <img src="assets/images/flag-p-svg.svg" class="img-fluid mobile_show">
                         <p class="justify1">
                             Überprüfen Sie, sobald Sie mit ersten Maßnahmen eines verantwortungsbewussten Einkaufs begonnen haben, welche Auswirkungen damit verbunden sind (z. B. weniger Plastikmüll, höhere Umsätze mit nachhaltigen Gerichten, positivere Bewertungen für Ihr Restaurant). Es ist wichtig, die Fortschritte zu verfolgen und zu messen, denn das stärkt die Moral, noch mehr zu erreichen. Diskutieren Sie regelmäßig mit Ihrem Personal und notieren Sie, welche positiven Auswirkungen sie wahrnehmen. Hier sind einige Vorschläge, wie dies geschehen kann:
                         </p>

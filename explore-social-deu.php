@@ -31,6 +31,29 @@
     <meta name="msapplication-tooltip" content="METRO">
     <meta http-equiv="cleartype" content="on">
     <meta name="canonical" content="">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="assets/prev/css/page2_style.css">
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script src="assets/prev/jquery/custom.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="likebtn.css">
+
+  <link rel="stylesheet" href="assets/css/navigation.css">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/normalize.min.css" rel="stylesheet">
+  <link href="assets/css/style1.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="stylesheet" href="assets\css\responsive.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-social.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-safe-food.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-social-deu.css">
     <!--current page url-->
     <style>
         div.test {
@@ -358,6 +381,29 @@
         .noalign {
             text-align: unset !important;
         }
+        @media screen and (max-width: 600px) {
+        .simple_wayTo_preventing .container-fluid .text-center img{
+            margin-top: 0px !important;
+        }
+    }
+    .custom__select:before{
+            background:#ffe500;
+        }
+        nav.navbar {
+      height: 60px;
+      top: 0;
+    }
+        .search-btn{    margin-right: -16px;
+     }
+     iframe {
+    border: 0;
+    width: 100%;
+    margin-top: 10px;
+    height:430px;
+}.tab-text-holder1 {
+    height: 48rem;
+}
+
     </style>
 </head>
 
@@ -371,6 +417,7 @@
             <section class="section1 no-print" id="option1" data-scrl="Wie Sie sich als Gastronomiebetreibende sozial engagieren können">
                 <div class="left-content no-print">
                     <h3 style="text-transform: none;">Wie Sie sich als Gastronomiebetreibende<br>sozial engagieren können</h3>
+                    <img src="assets/images/safe_food/s-1.svg" class="img-fluid mobile_show">
                     <h4>Soziales Engagement in der Gastronomie</h4>
                     <p>Als Gastronomin und Gastronom haben Sie großen Einfluss auf soziale Belange. Soziales Engagement beschränkt sich hierbei nicht nur auf die Mitarbeitenden eines Restaurants, sondern es bezieht sich auch darauf, wie sich das Restaurant vor Ort engagiert und wie die Lieferanten behandelt werden. Wichtig ist: Wer in der Gastronomie arbeitet, sollte sozial- und krankenversichert sein und erwarten können, dass sein Gehalt pünktlich ausgezahlt wird. Leider erfahren nicht alle Beschäftigten im Gastgewerbe diesen Schutz.</p>
                     <button class="read-more-btn" id="hide_show_content" href="#clickTohide">Mehr lesen</button>
@@ -407,13 +454,16 @@
             <section class="good_to_know no-print social_box" style="padding-bottom: 12rem;" id="option2" data-scrl="Gut zu wissen">
                 <div class="container">
                     <div class="row mb-5">
+                    <div class="col-md-4 px-4 mobile_show">
+                            <h3>Gut zu wissen</h3>
+                        </div>
                         <div class="col-md-4 px-4">
                             <div class="good_to_know_box p-4">
                                 <img src="./assets/images/safe_food/s-3.svg" class="img-fluid">
                                 <p>Menschenrechte sind für die Selbstverwirklichung eines Menschen von entscheidender Bedeutung und die "Allgemeine Erklärung der Menschenrechte“ durch die Vereinten Nationen im Jahr 1948 bildet die Grundlage für die wesentlichen Menschenrechtsanforderungen in allen Unternehmen</p>
                             </div>
                         </div>
-                        <div class="col-md-4 px-4">
+                        <div class="col-md-4 px-4 desk_show">
                             <h3>Gut zu wissen</h3>
                         </div>
 
@@ -1179,10 +1229,11 @@
                         <div class="col-md-6">
                             <div class="track-and_talk_discr">
                                 <h3>Überprüfen Sie Ihre Fortschritte<br>und sprechen Sie darüber</h3>
+                                <img src="assets/images/safe_food/Asset 30.png" class="tntImg mobile_show">
                                 <p>Wenn Sie Ihre soziale Verantwortung als Gastronomin oder Gastronom in den Vordergrund rücken möchten, dann sollten Sie mit Ihren Mitarbeitenden, Ihren Lieferanten und mit den Personen Ihrer lokalen Gemeinde sprechen. Führen Sie Lösungen ein, die nicht allzu viel Aufwand von Ihnen erfordern. Informieren Sie Ihre Gäste über Ihr soziales Engagement. Zum Beispiel können Sie mit Hinweisen im Restaurant oder mit Informationen in der Speisekarte Ihre Gäste auf Ihr verantwortungsbewusstes Handeln aufmerksam machen. Die Wirkung Ihrer Handlungen wird dadurch nur vergrößert, denn Ihr Personal und Ihre Gäste werden diese Botschaften mit nach Hause nehmen.</p>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 desk_show">
                             <div class="img-holder2">
                                 <div class="img-holder2-inner">
                                     <img src="./assets/images/safe_food/Asset 30.png" class="tntImg">

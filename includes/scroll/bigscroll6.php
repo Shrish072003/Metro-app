@@ -188,12 +188,15 @@
     text-transform: capitalize;
     font-size: 20px !important;
 }
+@media screen and (max-width: 600px) {
+
 .simple_wayTo_preventing .container-fluid .text-center img {
     width: 80% !important;
     margin-top: 0.5rem !important;
     display: table !important;
     margin-right: auto;
     margin-left: auto;
+}
 }
 .social_slde span.slimg-holder {
     top: 0rem !important;

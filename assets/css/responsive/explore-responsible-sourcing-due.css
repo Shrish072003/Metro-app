@@ -1,0 +1,15 @@
+@media screen and (max-width: 600px) {
+    .wrap-2{
+        padding: 50px 0px !important;
+    }
+    .wrap-2 p{
+        padding: 0px 30px !important;
+    }
+    .section-white-full-width .row {
+        display: flex;
+    flex-direction: column-reverse;
+    }
+    .msr-img-holder{
+        margin-bottom: 20px !important;
+    }
+}

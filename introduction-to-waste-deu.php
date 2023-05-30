@@ -32,7 +32,64 @@
     <meta http-equiv="cleartype" content="on">
     <meta name="canonical" content="">
     <!--current page url-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="assets/prev/css/page2_style.css">
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script src="assets/prev/jquery/custom.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="likebtn.css">
 
+  <link rel="stylesheet" href="assets/css/navigation.css">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/normalize.min.css" rel="stylesheet">
+  <link href="assets/css/style1.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="stylesheet" href="assets\css\responsive.css">
+  <link rel="stylesheet" href="assets\css\responsive\introduction-to-energy.css">
+  <link rel="stylesheet" href="assets\css\responsive\introduction-to-waste.css">
+  <style>
+    .custom__select:before{
+            background:#ffe500;
+        }
+        nav.navbar {
+      height: 60px;
+      top: 0;
+    }
+        .search-btn{    margin-right: -16px;
+     }
+     .wrap {
+    background: #fff !important;
+}
+.section-slider2 .slick-slide:before {
+
+    background: none !important;
+}
+.section3-inner3 .left-content h3, .section3-inner .left-content h3 {
+    font-size: 25px !important;
+    text-align: center;
+}
+.section-slider2 .inner-item button {
+    padding-top: 0;
+    color: #000;
+    font-size: 25px;
+}
+.inner-item {
+    background-color: #dbdada;
+    background-image: none !important;
+}
+@media screen and (max-width: 600px) {
+.section4 .mt-1{
+    margin-top: 0px !important;
+}
+}
+    </style>
 </head>
 
 <body class="popup-exists page-animation1">
@@ -184,9 +241,13 @@
                 <h3>
                     KNOW-HOW –<br>ERSTE SCHRITTE, WIE SIE<br>ABFALL VERMEIDEN
                 </h3>
+                <div class="l3-5img mr-4 col-md-6 mobile_show">
 
+<img src="assets/images/safe_food/w4.svg" class="img-fluid" style="width: 43rem;">
 
-                <ul class="mt-1" style="margin-top:-45px !important">
+</div>
+
+                <ul class="mt-1" style="margin-top:-45px">
                     <li>Lösungen zur Abfallvermeidung sind immer leichter zu finden. Sie können zunächst einfache Maßnahmen für Ihr Abfallmanagement ergreifen, z. B. indem Sie Ihre Abfälle sortieren. Zusätzlich sollten Sie mit Ihren Mitarbeitenden sprechen und gemeinsam nach Abfallquellen suchen. Schließlich können Sie sich an Ihre Stadtwerke und Ihren Großhändler wenden, um zu erfahren, welche Lösungen sie zur Abfallvermeidung anbieten.</li>
 
                     <li>Beachten Sie folgende Tipps für <a href="introduction-to-food-waste-deu.php" target="_blank">Lebensmittelabfälle</a>: Hinweise für Einweg-Plastikartikel, wie z. B. Mahlzeiten zum Mitnehmen, Plastikbesteck oder -verpackungen, finden Sie <a href="introduction-to-plastic-waste-deu.php" target="_blank">hier</a>.</li>
@@ -200,7 +261,7 @@
                     <a href="explore-waste-deu.php" class="read-more" target="_self">Weiterlesen</a>
                 </div>
             </div>
-            <div class="l3-5img mr-4 col-md-6">
+            <div class="l3-5img mr-4 col-md-6 desk_show">
 
                 <img src="./assets/images/safe_food/w4.svg" class="img-fluid" style="width: 43rem;">
 

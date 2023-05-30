@@ -27,12 +27,71 @@
     <meta name="mssmarttagspreventparsing" content="true">
     <meta name="IE=edge,chrome=1" content="X-UA-Compatible">
     <meta name="msapplication-starturl" content="">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="assets/prev/css/page2_style.css">
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script src="assets/prev/jquery/custom.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="likebtn.css">
+
+  <link rel="stylesheet" href="assets/css/navigation.css">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/normalize.min.css" rel="stylesheet">
+  <link href="assets/css/style1.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="stylesheet" href="assets\css\responsive.css">
+  <link rel="stylesheet" href="assets\css\responsive\introduction-to-responsible-sourcing.css">
     <!--current page url-->
     <meta name="msapplication-tooltip" content="METRO">
     <meta http-equiv="cleartype" content="on">
     <meta name="canonical" content="">
     <!--current page url-->
+    <style>
+    .custom__select:before{
+            background:#ffe500;
+        }
+        nav.navbar {
+      height: 60px;
+      top: 0;
+    }
+        .search-btn{    margin-right: -16px;
+     }
+     .wrap {
+    background: #fff !important;
+}
+.section-slider2 .slick-slide:before {
 
+    background: none !important;
+}
+.section3-inner3 .left-content h3, .section3-inner .left-content h3 {
+    font-size: 25px !important;
+    text-align: center;
+}
+.section-slider2 .inner-item button {
+    padding-top: 0;
+    color: #000;
+    font-size: 25px;
+}
+.inner-item {
+    background-color: #dbdada;
+    background-image: none !important;
+}
+@media screen and (max-width: 600px) {
+.padr-60px {
+    padding-right: 30px !important;
+}
+.section4 .left-content h3 {
+    font-size: 18px !important;
+}
+}
+    </style>
 </head>
 
 <body class="popup-exists page-animation1">
@@ -191,16 +250,21 @@
             <section class="section4 padr-60px w90-per" style="width: 100%;" id="option6" data-scrl="Erste Schritte, wie Sie verantwortungsbewusst einkaufen">
                 <div class="left-content noalign w60-per">
                     <h3>KNOW-HOW –<br>ERSTE SCHRITTE, WIE SIE<br>VERANTWORTUNGSBEWUSST EINKAUFEN</h3>
+                    <div class=" mr-4 p60b mobile_show">
+                    <a href="https://www.metro.de/" target="_blank">
+                        <img src="assets/images/resp_sourcing/baskets.svg" class="img-fluid">
+                    </a>
+                </div>
                     <p>
                         Um die Beziehungen zu Ihren Gästen und Lieferanten zu verbessern und gleichzeitig für Vertrauen und Glaubwürdigkeit zu sorgen, sollten Sie sich fragen, ob Ihre Produkte verantwortungsbewusst hergestellt werden und nachhaltig sind. Unser Leitfaden für nachhaltige Produkte wird Ihnen helfen, dazu leichter Informationen zu finden. Schauen Sie sich zusätzlich Ihre Lieferkette an und sprechen Sie mit Ihren Lieferanten über das Thema Nachhaltigkeit. Siegel, faire Preise für Produkte, faire Arbeitsbedingungen oder die Kompostierbarkeit von Verpackungen garantieren, geben Ihnen mehr Informationen und Orientierung, wie nachhaltig Produkte sind. Vergessen Sie nicht, Ihre Fortschritte zu überprüfen und über Ihre erfolgreichen Schritte auf dem Weg zu einem nachhaltigen Restaurant zu sprechen.
                     </p>
-
+                    
 
                     <div class="read-wrap">
                         <a href="explore-responsible-sourcing-deu.php" class="read-more">Weiterlesen</a>
                     </div>
                 </div>
-                <div class=" mr-4">
+                <div class=" mr-4 desk_show">
                     <a href="https://www.metro.de/">
                         <img src="assets/images/resp_sourcing/baskets.svg" class="img-fluid" />
                     </a>

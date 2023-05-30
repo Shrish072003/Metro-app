@@ -27,6 +27,27 @@
     <meta name="mssmarttagspreventparsing" content="true">
     <meta name="IE=edge,chrome=1" content="X-UA-Compatible">
     <meta name="msapplication-starturl" content="">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="assets/prev/css/page2_style.css">
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script src="assets/prev/jquery/custom.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="likebtn.css">
+
+  <link rel="stylesheet" href="assets/css/navigation.css">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/normalize.min.css" rel="stylesheet">
+  <link href="assets/css/style1.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="stylesheet" href="assets\css\responsive.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-waste.css">
     <!--current page url-->
     <meta name="msapplication-tooltip" content="METRO">
     <meta http-equiv="cleartype" content="on">
@@ -147,6 +168,15 @@
             width: 15rem;
             transition: .5s;
         }
+        .custom__select:before{
+            background:#ffe500;
+        }
+        nav.navbar {
+      height: 60px;
+      top: 0;
+    }
+        .search-btn{    margin-right: -16px;
+     }
     </style>
 </head>
 
@@ -161,6 +191,7 @@
             <section class="section1 no-print plastic_waste no-print" id="option1" data-scrl="Wie man Abfall reduziert">
                 <div class="left-content no-print">
                     <h3 style="text-transform:none ;">Wie man Abfall reduziert</h3>
+                    <img src="assets/images/safe_food/wl1.svg" class="left-contentimg mobile_show">
                     <p>
                         Weltweit sind die Mülldeponien überfüllt. Gleichzeitig entsteht bei der Zersetzung von Abfällen Methan, ein Treibhausgas, das die globale Erderwärmung und den Klimawandel verstärkt. Restaurants können einen wichtigen Beitrag zu der Lösung dieses Problems leisten, da sie jeden Tag eine große Menge an Abfall produzieren und diesen, soweit es geht, reduzieren sollten. Sie können auch Ihren Gästen dabei helfen, Abfälle zu vermeiden und sich ihrer Auswirkungen und Beitragsmöglichkeit bewusst werden.<span id="dots"></span>
                     </p>
@@ -178,7 +209,10 @@
                         <h3 class="food_wasteTitle">Gut zu wissen</h3>
                         <p class="exploreFood_discripsn mb-5">Abfall hat mehr Wert, wenn er für die weitere Verwendung und Verarbeitung richtig sortiert wird. Im Folgenden werden<br>
                             einige Kategorie benannt, wie Sie Abfälle korrekt trennen und entsorgen können.<br><strong>Die Unterstützung durch die örtlichen Behörden, Freiwilligenorganisationen und Lieferanten hängt von der jeweiligen Region ab:</strong></p>
-                        <div class="col-md-4 px-4">
+                            <div class=" p-4 safe_foodBox_l4 engery_box waste_l4-img mobile_show">
+                                <img src="assets/images/safe_food/wl3.svg" class="img-fluid" style="padding: 0;">
+                            </div>
+                            <div class="col-md-4 px-4">
                             <div class="good_to_know_box p-4 safe_foodBox_l4">
                                 <img src="./assets/images/safe_food/wl2.svg" class="img-fluid">
                                 <h5>Lebensmittel</h5>
@@ -193,7 +227,7 @@
                         </div>
 
                         <div class="col-md-4 px-4">
-                            <div class="good_to_know_box p-4 safe_foodBox_l4 engery_box waste_l4-img">
+                            <div class="good_to_know_box p-4 safe_foodBox_l4 engery_box waste_l4-img desk_show">
                                 <img src="./assets/images/safe_food/wl3.svg" class="img-fluid" style="padding: 0;">
                             </div>
                             <div class="good_to_know_box p-4 safe_foodBox_l4" style="    margin-top: 2.18rem;">
@@ -422,8 +456,63 @@
             </section>
 
 
+            <section class="plastic-waste_productRecycle no-print mobile_show">
+                <div class="container">
+                    <div class="row">
+                    <div class="plastic-wasteStepImg">
+                            <img src="./assets/images/plastic-waste/Asset 19.svg">
+                        </div>
+                        <div class="col-md-4 offset-md-2">
+                            <div class="plastic-wasteStep">
+                                <h2>01</h2>
 
-            <section class="plastic-waste_productRecycle no-print">
+                                <p>Stellen Sie in allen Bereichen, in denen Abfälle anfallen, Abfallbehälter auf.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 offset-md-1">
+                            <div class="plastic-wasteStep">
+                            <h2>02</h2>
+
+<p>Achten Sie darauf, dass die Deckel der Abfallbehälter leicht zu öffnen sind, z. B. mit einem Fußpedal, um Handkontakt zu vermeiden.</p> 
+                        </div>
+                        </div>
+
+                    </div>
+
+                    <div class="row plastic-wasteStepLastRow">
+                        <div class="col-md-4">
+                            <div class="plastic-wasteStep">
+                               <h2>03</h2>
+
+                                <p>Alle Abfallbehälter sollten leicht abwaschbar sein.</p> 
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="plastic-wasteStep" style="left: 60px;">
+                            <h2>04</h2>
+
+<p>Bereiche, in denen Abfälle aufbewahrt werden, müssen für die Reinigung und Desinfektion leicht zugänglich und so eingerichtet sein, dass Ungeziefer und Nagetiere ferngehalten werden. Idealerweise bewahren Sie Abfälle außerhalb von Bereichen auf, in denen Lebensmittel angenommen und verarbeitet werden.</p>
+
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="plastic-wasteStep">
+                                <h2>05</h2>
+
+                                <p>Eine wichtige hygienische Maßnahme stellt die Entfernung von Kartons dar, bevor Lebensmittel im Restaurant gelagert werden. Dies trägt auch dazu bei, Lebensmittel besser zu organisieren und ihren Zustand leichter überprüfen zu können.</p>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+                </div>
+            </section>
+
+
+            <section class="plastic-waste_productRecycle no-print desk_show">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-4 offset-md-2">
@@ -487,10 +576,11 @@
                         <div class="col-md-6">
                             <div class="track-and_talk_discr">
                                 <h3>Überprüfen Sie Ihre Fortschritte<br>und sprechen Sie darüber</h3>
+                                <img src="assets/images/safe_food/Asset 44.svg" class="tntimg mobile_show">
                                 <p>Überprüfen Sie die Veränderungen Ihres Abfallmanagements, sobald Sie einige der genannten Maßnahmen ergriffen haben. Führen Sie Lösungen ein, die nicht allzu viel Aufwand von Ihnen erfordern. Erkundigen Sie sich beispielsweise bei Ihrem lokalen Entsorgungsunternehmen über Angebote, die Sie nutzen können. Und sprechen Sie mit Ihren Mitarbeitenden darüber, wie viel Abfall Sie insgesamt vermieden haben und wie Sie dazu beigetragen haben. Erfolge können sie motivieren, weiterhin Abfall zu vermeiden. Da es lokale Unterschiede bei den Müllabfuhr- und Entsorgungsdiensten gibt, müssen Sie selbst entscheiden, wie Sie Ihre Gäste auf Ihr Abfallmanagement aufmerksam machen. Sie können auf Kontaktstellen hinweisen, z. B. auf die Website des lokalen Entsorgungsunternehmens, auf METRO-Services oder auf spezifische Dienstleistungen, die Ihre Lieferanten anbieten. Die Wirkung Ihrer Handlungen wird dadurch vergrößert, denn Ihre Mitarbeitenden und Gäste werden diese Botschaften mit nach Hause nehmen!</p>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 desk_show">
                             <div class="img-holder2">
                                 <div class="img-holder2-inner">
                                     <img src="./assets/images/safe_food/Asset 44.svg" class="tntImg">

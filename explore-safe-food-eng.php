@@ -2630,10 +2630,11 @@
                         <div class="col-md-6">
                             <div class="track-and_talk_discr">
                                 <h3>Track and Talk <br>About Your Progress </h3>
+                                <img src="assets/images/safe_food/Asset 30.png" class="img-fluid mobile_show" style="width:40rem;">
                                 <p> Before you start the exercise to check the food safety status in your restaurant, ensure that your staff is involved. A culture of food safety is about engaging your staff. It includes providing ongoing training, regular internal inspections, and implementing the procedures as required by your food safety management system. When employees work continuously on your mission, knowing why they are doing it, food safety management becomes routine and embedded into your restaurant. This is also how engagement works to run a sustainable restaurant. Guaranteeing your customers maximum food safety is one of your obligations as a food professional. Impeccable hygiene is also a pledge of reputation for your establishment </p>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 desk_show">
                             <div class="track-and_talk_img">
                                 <img src="assets/images/safe_food/Asset 30.png" class="img-fluid" style="width:40rem;">
                             </div>

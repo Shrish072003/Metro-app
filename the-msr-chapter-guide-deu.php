@@ -7,10 +7,10 @@
 	<title>METRO</title>
 	<meta name="description" content="METRO" />
 	<link rel="stylesheet" href="assets/prev/css/page2_style.css">
+
+	<link rel="stylesheet" href="assets/prev/css/page2_style.css">
 	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
 	<script src="assets/prev/jquery/jquery.rwdImageMaps.min.js"></script>
-
-
 	<link href="assets/css/bootstrap.min.css" rel="stylesheet">
 	<link href="assets/css/normalize.min.css" rel="stylesheet">
 	<link href="assets/css/style1.css" rel="stylesheet">
@@ -19,9 +19,16 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
 	<link href="assets/css/jquery-ui.css" rel="stylesheet">
 
+	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
 	<script src="assets/prev/jquery/page2new.js"></script>
 	<script src="assets/prev/jquery/custom.js"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<link rel="apple-touch-icon" sizes="180x180" href="assets/images/icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="stylesheet" href="assets\css\responsive.css">
+	<link rel="stylesheet" href="assets\css\the-msr-chapter-guide.css">
 
 	<style>
 		body.page2-page {
@@ -94,6 +101,38 @@
 		.navbar-expand-lg .navbar-nav .dropdown-menu {
 			width: unset;
 		}
+		.custom__select:before{
+            background:#ffe500;
+        }
+        nav.navbar {
+      height: 60px;
+      top: 0;
+    }
+        /* .search-btn{    margin-right: -16px;
+     } */
+     .wrap {
+    background: #fff !important;
+}
+.section-slider2 .slick-slide:before {
+
+    background: none !important;
+}
+.section3-inner3 .left-content h3, .section3-inner .left-content h3 {
+    font-size: 25px !important;
+    text-align: center;
+}
+.section-slider2 .inner-item button {
+    padding-top: 0;
+    color: #000;
+    font-size: 25px;
+}
+.inner-item {
+    background-color: #dbdada;
+    background-image: none !important;
+}
+nav2 {
+    padding: 100px 0px 60px 0px !important;
+}
 	</style>
 </head>
 
@@ -103,9 +142,9 @@
 			<a class="navbar-brand text-theme-yellow" href="home.php">
 				<img src="assets/images/logo-png.png" class="img-fluid brand1">
 			</a>
-			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			<!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
-			</button>
+			</button> -->
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<div class="collapse navbar-collapse" id="main_nav">
 					<ul class="navbar-nav">

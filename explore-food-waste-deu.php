@@ -28,6 +28,27 @@
     <meta name="mssmarttagspreventparsing" content="true">
     <meta name="IE=edge,chrome=1" content="X-UA-Compatible">
     <meta name="msapplication-starturl" content="">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="assets/prev/css/page2_style.css">
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script src="assets/prev/jquery/custom.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="likebtn.css">
+
+  <link rel="stylesheet" href="assets/css/navigation.css">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/normalize.min.css" rel="stylesheet">
+  <link href="assets/css/style1.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="stylesheet" href="assets\css\responsive.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-food-waste.css">
     <!--current page url-->
     <meta name="msapplication-tooltip" content="METRO">
     <meta http-equiv="cleartype" content="on">
@@ -338,6 +359,15 @@
         .mb-1d5 {
             margin-bottom: 1.5rem;
         }
+        .custom__select:before{
+            background:#ffe500;
+        }
+        nav.navbar {
+      height: 60px;
+      top: 0;
+    }
+        .search-btn{    margin-right: -16px;
+     }
     </style>
 </head>
 
@@ -352,6 +382,9 @@
                     <div class="col-md-5 no-print">
                         <div class="banner_l4_title">
                             <h1 class="banner_title">Wie sie lebensmittelabfälle<br>reduzieren</h1>
+                            <img src="assets/images/safe_food/Asset 1.svg" class="img-fluid pl-5 mobile-show downimgdownimg" style="width: 85% !important; display: block;
+        margin-right: auto;
+        margin-left: auto;" >
                             <h6>
                                 <strong>Lebensmittelverschwendung in der Gastronomie</strong>
                             </h6>
@@ -360,13 +393,13 @@
                     </div>
                     <div class="col-md-5 offset-md-1 no-print">
                         <div class="banner_l4_img">
-                            <img src="assets/images/safe_food/Asset 1.svg" class="img-fluid pl-5" style="width:80%;float:right;">
+                            <img src="assets/images/safe_food/Asset 1.svg" class="img-fluid pl-5 desk_show" style="width:80%;float:right;">
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <section class="good_to_know no-print mtcsutom" id="option2" data-scrl="Mülldeponien sollten der letzte Ort sein, auf dem nicht benötigte Lebensmittel landen">
+        <section class="good_to_know no-print mtcsutom desk_show" id="option2" data-scrl="Mülldeponien sollten der letzte Ort sein, auf dem nicht benötigte Lebensmittel landen">
             <div class="container">
                 <div class="row">
                     <h3 class="food_wasteTitle">Mülldeponien sollten der letzte Ort sein, <br>auf dem nicht benötigte Lebensmittel landen
@@ -412,7 +445,48 @@
                 </div>
             </div>
         </section>
-
+        <section class="good_to_know no-print mtcsutom mobile_show" id="option2" data-scrl="Mülldeponien sollten der letzte Ort sein, auf dem nicht benötigte Lebensmittel landen">
+            <div class="container">
+                <div class="row">
+                    <h3 class="food_wasteTitle">Mülldeponien sollten der letzte Ort sein, <br>auf dem nicht benötigte Lebensmittel landen
+                    </h3>
+                    <p class="exploreFood_discripsn">Mehr als 1/3 aller weltweit produzierten Lebensmittel landen im Abfall. Es gibt viele andere Möglichkeiten besser mit Lebensmittelabfällen umzugehen. Verkaufen Sie überschüssige Lebensmittel weiter oder spenden Sie sie an Menschen und Tiere. Wenn möglich, recyceln Sie Lebensmittel für andere Zwecke und kompostieren Sie so viel wie möglich. </p>
+                    <div class="col-md-4 px-4">
+                    <div class="benefit_box mobile_show" style="min-height: 28.04rem;">
+                            <h4 style="font-size: 25px;line-height: 1.2;">Die Reduzierung von Lebensmittelabfällen hat viele Vorteile</h4>
+                        </div>
+                        <div class="good_to_know_box p-4 safe_foodBox_l4">
+                            <img src="assets/images/safe_food/Asset 3.1.svg" class="img-fluid">
+                            <p>Besseres Image für Ihr Restaurant</p>
+                        </div>
+                        <div class="good_to_know_box p-4 safe_foodBox_l4">
+                            <img src="assets/images/safe_food/Asset 5.1.svg" class="img-fluid">
+                            <p>Hat einen positiven Einfluss auf die Arbeitsmoral </p>
+                        </div>
+                        <div class="good_to_know_box p-4 safe_foodBox_l4">
+                            <img src="assets/images/safe_food/Asset 8.1.svg" class="img-fluid">
+                            <p>Deutliches Unterscheidungsmerkmal von Ihrer Konkurrenz</p>
+                        </div>
+                        <div class="good_to_know_box p-4 safe_foodBox_l4">
+                            <img src="assets/images/safe_food/Asset 9.1.svg" class="img-fluid">
+                            <p>Sie differenzieren sich, indem Sie sich als verantwortungsvoll hervorheben </p>
+                        </div>
+                        <div class="good_to_know_box p-4 safe_foodBox_l4">
+                            <img src="assets/images/safe_food/Asset 4.1.svg" class="img-fluid">
+                            <p>Effizientere Geschäftsabläufe</p>
+                        </div>
+                        <div class="good_to_know_box p-4 safe_foodBox_l4">
+                            <img src="assets/images/safe_food/Asset 7.1.svg" class="img-fluid">
+                            <p>Hat einen positiven Einfluss auf Ihre lokale Umwelt</p>
+                        </div>
+                        <div class="good_to_know_box p-4 safe_foodBox_l4">
+                            <img src="assets/images/safe_food/Asset 10.svg" class="img-fluid">
+                            <p>Sie sind bereit, neue Gesetze einzuhalten</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
 
 
@@ -588,12 +662,33 @@
                 padding-bottom: 5rem;
                 margin-top: -9rem;
             }
-
+            @media screen and (max-width: 600px) {
             .list-box1 {
                 height: 14rem;
                 overflow-y: scroll;
             }
+            .fruit12 {
+    margin-top: 1.5rem !important;
+}
+.fruits-inner {
+    margin-bottom: -167px !important;
+}
+.vegetables-inner {
+    margin-bottom: -50px !important;
+}
+.benefit_box {
+    margin-bottom: 5rem !important;
+}
+.container-fluid {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+            }
         </style>
+
+
+
+
         <section class="yellow-sec1" id="option3" data-scrl="Gut zu wissen">
             <div class="thermo-inner">
                 <div class="text-center">
@@ -833,7 +928,7 @@
                         <div class="th-content-wrapper">
                             <div class="row">
                                 <div class="col-md-3 text-center zdiv">
-                                    <div class="fruits-inner ">
+                                    <div class="fruits-inner desk_show">
                                         <img src="assets/images/thermometer/fuits-icon.svg" class="img-fluid list-icon1" />
                                     </div>
                                 </div>
@@ -884,7 +979,7 @@
 
                                     </div>
                                 </div>
-                                <div class="col-md-3 text-center zdiv">
+                                <div class="col-md-3 text-center zdiv desk_show">
                                     <div class="vegetables-inner">
                                         <img src="assets/images/thermometer/vegetables-icon.svg" class="img-fluid list-icon1" />
                                     </div>
@@ -897,6 +992,11 @@
 
 
                     <div class="col-md-12 mt-4">
+                    <div class="col-md-3 text-center zdiv mobile_show">
+                                    <div class="fruits-inner">
+                                        <img src="assets/images/thermometer/fuits-icon.svg" class="img-fluid list-icon1" />
+                                    </div>
+                                </div>
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="fruit12">
@@ -922,6 +1022,11 @@
                             </div>
                             <div class="col-md-6">
                                 <div class="veg12">
+                                <div class="col-md-3 text-center zdiv mobile_show">
+                                    <div class="vegetables-inner">
+                                        <img src="assets/images/thermometer/vegetables-icon.svg" class="img-fluid list-icon1" />
+                                    </div>
+                                </div>
                                     <div class="row">
                                         <div class="col-md-7 offset-md-4  text-center">
                                             <div class="h3v t32">
@@ -1102,10 +1207,17 @@
 
         <!-- thermometer end -->
 
+        <section class="mobile_show">
+        <div class="">
+                        <h3 class="wayT0Title">Tipps für Einsteiger, um Lebensmittelabfälle zu reduzieren</h3>
+    </div>
+    </section>
+    <section class="mobile_show">
+        <?php include "includes/scroll_deu/bigscroll1_deu.php"; ?>
+        </section>
 
 
-
-        <section class="waste_food_l4_slider no-print" id="option4" data-scrl="Tipps für Einsteiger, um Lebensmittelabfälle zu reduzieren">
+        <section class="waste_food_l4_slider no-print desk_show" id="option4" data-scrl="Tipps für Einsteiger, um Lebensmittelabfälle zu reduzieren">
             <div class="section-div">
                 <div class="container-fluid ">
                     <div class="sw-holder">
@@ -1358,6 +1470,7 @@
             <div class="container-fluid">
                 <div class="row px-4">
                     <h3 class="food_wasteTitle">Kompostieren Sie Lebensmittelabfälle </h3>
+                    <img src="assets/images/safe_food/Asset 32.svg" class="img-fluid mobile_show" />
                     <p class="exploreFood_discripsn">Durch Kompostierung können Sie dazu beitragen, Lebensmittelabfälle zu verwerten und die Methanemissionen in Mülldeponien zu verringern.<br> Orientieren Sie sich an den folgenden Schritten, um Lebensmittel zu kompostieren:
                     </p>
                     <div class="col-md-6">
@@ -1447,9 +1560,9 @@
                         </div>
                         <button class="read-more-btn r2 mt-5" id="myBtn33" href="#clickTohide">Mehr Lesen</button>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 desk_show">
                         <div class="compost_wasteFood_img">
-                            <img src="assets/images/safe_food/Asset 32.svg" class="img-fluid">
+                            <img src="assets/images/safe_food/Asset 32.svg" class="img-fluid ">
                         </div>
                     </div>
                 </div>
@@ -1601,12 +1714,13 @@
                     <div class="col-md-5">
                         <div class="banner_l4_title">
                             <h1 class="banner_title2" style="text-transform: none;">Überprüfen Sie Ihre Fortschritte<br>und sprechen Sie darüber</h1>
+                            <img src="assets/images/safe_food/Asset 44.svg" class="img-fluid pl-5 mobile_show">
                             <p>Überprüfen Sie regelmäßig die Ergebnisse Ihrer Maßnahmen, sobald Sie erste Schritte zur Abfallvermeidung ergriffen haben. Halten Sie Ausschau nach einfachen Lösungen, die Ihnen nicht viel Zeit abverlangen. Überwachen Sie z. B. Ihre Entsorgungskosten, das Spendenaufkommen, die Einsparung von Kosten durch die Verteilung von Lebensmittelresten und die Ansprache neuer Gäste. Sprechen Sie mit Ihren Mitarbeitenden, wie viel Sie eingespart haben und wie ihre Mitarbeitenden Sie bei diesen angestrebten Einsparungen unterstützt haben. Die sichtbaren Fortschritte können Sie motivieren, auch weiterhin Lebensmittel einzusparen. Machen Sie Ihre Aktivitäten bekannt. Sie können Ihr verantwortungsbewusstes Handeln für Ihre Gäste mit einem Hinweis auf Ihrer Website oder in Ihrer Speisekarte sichtbar machen. Die Wirkung Ihrer Handlungen wird dadurch nur vergrößert, denn Ihre Mitarbeitenden und Gäste werden diese Botschaften mit nach Hause nehmen. </p>
                         </div>
                     </div>
                     <div class="col-md-5 offset-md-1">
                         <div class="banner_l4_img talk_prog_img">
-                            <img src="assets/images/safe_food/Asset 44.svg" class="img-fluid pl-5">
+                            <img src="assets/images/safe_food/Asset 44.svg" class="img-fluid pl-5 desk_show">
                         </div>
                     </div>
                 </div>

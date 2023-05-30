@@ -1,4 +1,26 @@
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="../../assets/prev/css/page2_style.css">
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script src="../../assets/prev/jquery/custom.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="../../assets/css/navigation.css">
+  <link href="../../assets/css/normalize.min.css" rel="stylesheet">
+  <link href="../../assets/css/style1.css" rel="stylesheet">
+  <link href="../../assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/images/icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/images/icon-32x32.png">
+  <link rel="mask-icon" href="../..//safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="stylesheet" href="../../assets\css\responsive.css">
   <link rel="stylesheet" href="slider.css">
+  <!--META TAGS-->
+  <meta name="msapplication-TileColor" content="#603cba">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="robots" content="noindex,nofollow">
   <style>
     .section-lena-inner {
       padding-left: 0;
@@ -116,7 +138,7 @@
     padding-top:100px;
 }
 .footer-wrap {
-    position: relative !important;
+    position: absolute !important;
 }
 .inner-item {
     background-color: #ffffff;

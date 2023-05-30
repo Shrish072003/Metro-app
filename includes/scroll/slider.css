@@ -16,7 +16,6 @@
         background-color: #ffffff !important;
         height: 100%;
         flex-direction: column;
-        justify-content: inherit;
         position: relative;
         z-index: 11;
         opacity: 0.5;

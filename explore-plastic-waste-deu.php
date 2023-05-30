@@ -27,21 +27,35 @@
     <meta name="mssmarttagspreventparsing" content="true">
     <meta name="IE=edge,chrome=1" content="X-UA-Compatible">
     <meta name="msapplication-starturl" content="">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="assets/prev/css/page2_style.css">
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script src="assets/prev/jquery/custom.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="assets/css/navigation.css">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/normalize.min.css" rel="stylesheet">
+  <link href="assets/css/style1.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+  <link rel="stylesheet" href="assets\css\responsive.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-plastic-waste-deu.css">
+
+  <link rel="stylesheet" href="assets\css\responsive\explore-plastic-waste.css">
     <!--current page url-->
     <meta name="msapplication-tooltip" content="METRO">
     <meta http-equiv="cleartype" content="on">
     <meta name="canonical" content="">
     <!--current page url-->
     <style>
-        .simple_waste_audit ul li p {
-            word-wrap: anywhere;
-        }
-
-        .footer-socials.side_nav>ul {
-            margin-left: 0rem;
-        }
-
-        @media print {
+         @media print {
             body * {
                 visibility: hidden;
             }
@@ -58,6 +72,12 @@
             }
         }
 
+        .gtnb1>img {
+            width: 21rem !important;
+            margin-bottom: 1rem !important;
+            margin-top: 1rem !important;
+        }
+
         .pageSlider-slide.swiper-slide-active,
         .pageSlider-slide {
             background: white;
@@ -66,7 +86,7 @@
         .sldImg01>img {
             width: 24rem;
             transition: .5s;
-            margin-top: 1rem;
+            margin-bottom: 1rem;
         }
 
         .pageSlider-slide.swiper-slide-active>div.row>div.col-md-12>.pageSlider-slide-image>span.sldImg01>img {
@@ -161,7 +181,7 @@
         }
 
         .pageSlider-slide.swiper-slide-active>div.row>div.col-md-12>.pageSlider-slide-image>span.sldImg08>img {
-            margin-top: 3rem !important;
+            margin-top: 3rem;
             margin-bottom: 3rem;
             transition: .5s;
         }
@@ -182,15 +202,15 @@
             margin-top: 5rem;
             transition: .5s;
         }
-
-        .left-content.no-print {
-            width: 45%;
+        .custom__select:before{
+            background:#ffe500;
         }
-
-        .b20p {
-            font-weight: bold;
-            font-size: 20px;
-        }
+        nav.navbar {
+      height: 60px;
+      top: 0;
+    }
+        .search-btn{    margin-right: -16px;
+     }
     </style>
 </head>
 
@@ -203,6 +223,9 @@
         <section class="section1 no-print plastic_waste no-print" id="option1" data-scrl="Wie Sie Plastikmüll vermeiden">
             <div class="left-content no-print">
                 <h3 style="text-transform: none;">Wie Sie Plastikmüll vermeiden </h3>
+                <div class="right-content no-print mobile_show">
+                <img src="./assets/images/plastic-waste/Asset 1.svg">
+            </div>
                 <h4 class="b20p">Plastikmüll in der Gastronomie</h4>
                 <p>Plastikprodukte und -verpackungen spielen eine wichtige Rolle bei der Einhaltung der Hygiene in der Gastronomie. Sie schützen Lebensmittel, gewährleisten ihre Sicherheit und verbessern die Haltbarkeit. Doch sowohl die Herstellung als auch die Entsorgung von Plastik- und Verpackungsmüll verbrauchen Ressourcen und haben negative Auswirkungen auf die Umwelt. Gleichzeitig verschärfen sich weltweit die Vorschriften für Einwegkunststoffe (SUPs). Deshalb wollen wir unsere HoReCa-Kundinnen und Kunden Anregungen bieten, Alternativen zu nutzen und sie dabei unterstützen, Plastik richtig zu entsorgen. Wenn Kunststoffmüll nicht richtig entsorgt wird, dann können damit Kosten für Ihr Restaurant verbunden sein. Durch ein anderes Verhalten können Sie jedoch zeigen, dass Ihnen die Umwelt und das Wohlergehen Ihrer Gäste am Herzen liegen. <span id="dots"></span>
 
@@ -210,7 +233,7 @@
                 <!-- <button class="read-more-btn" href="#" id="myBtn" onclick="expand-next('#more')">WEITERLESEN</button> -->
                 <button class="read-more-btn" id="myBtn_cust" href="#clickTohide" target="#more">WEITERLESEN</button>
             </div>
-            <div class="right-content no-print">
+            <div class="right-content no-print desk_show">
                 <img src="./assets/images/plastic-waste/Asset 1.svg">
             </div>
         </section>
@@ -236,10 +259,11 @@
                         <div class="col-md-9">
                             <div class="first_row">
                                 <h3>Wie Sie Plastikmüll vermeiden</h3>
+                                <img src="assets/images/plastic-waste/Asset 3.svg" class="no_banimg no_banimg_on mobile_show">
                                 <p>Es gibt viele Möglichkeiten, Ihren Plastikverbrauch zu reduzieren. In der Gastronomie gibt es zunehmend wiederverwendbare, recycelbare und kompostierbare Alternativen. Nationale Gesetze über obligatorische Mehrwegsysteme für die Gastronomie treten beispielsweise in Deutschland oder Frankreich in Kraft. Der HoReCa-Sektor muss zukünftig ganz ohne Einwegplastik auskommen. Wenn Sie Ihre Plastik- und Verpackungsabfälle reduzieren wollen, ist es hilfreich zu wissen, woher die verschiedenen Kunststoffe kommen, wie sie verwendet werden, wie sie zu entsorgen sind und welche Alternativen es gibt. </p>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-3 desk_show">
                             <img src="./assets/images/plastic-waste/Asset 3.svg" class="no_banimg">
                         </div>
                     </div>
@@ -251,7 +275,8 @@
                             <h5>Beginnen Sie mit der Auswertung Ihres Plastikmüllverbrauchs</h5>
                             <h3>Abfallgutachten</h3>
                             <p>Ein simples Abfallgutachten zeigt Ihnen, welche Kunststoffe bei Ihnen anfallen und worauf Sie sich zur Reduzierung von Plastik- und Verpackungsmüll konzentrieren können. <br>Sehen Sie sich die folgenden Beispiele an, die Ihnen als Orientierung dienen können: </p>
-                            <ul class="list-unstyled d-flex mt-5">
+                            
+                            <ul class="list-unstyled d-flex mt-5 desk_show">
                                 <li>Produkt</li>
                                 <li>
                                     <img src="./assets/images/plastic-waste/Asset 4.svg">
@@ -275,7 +300,24 @@
                                 </li>
                             </ul>
 
-                            <table class="table">
+                            <div class="scrollonthetable"><table class="table">
+                                    <tbody>
+
+
+                                    <tr class="mobile_show">
+                                    <td><img src="assets/images/plastic-waste/Asset 4.svg" style="visibility: hidden;">
+                                    Produkt </td>
+                                        <td><img src="assets/images/plastic-waste/Asset 4.svg">
+                                        Lieferverpackungen</td>
+                                        <td><img src="assets/images/plastic-waste/Asset 5.svg">
+                                        Lebensmittelverpackungen</td>
+                                        <td><img src="assets/images/plastic-waste/Asset 6.svg">
+                                        Wasserflaschen</td>
+                                        <td><img src="assets/images/plastic-waste/Asset 7.svg">
+                                        Verpackungen zum Mitnehmen</td>
+                                        <td><img src="assets/images/plastic-waste/Asset 8.svg">
+                                        Handschuhe, Masken</td>
+                                </tr>
                                 <tr>
                                     <td><b>Verpackungsart</b></td>
                                     <td>PVC / PVDC</td>
@@ -323,10 +365,10 @@
                                     <td>Leitungswasser, wenn es sicher ist. Gefiltertes/behandeltes Leitungswasser, wenn es nicht sicher ist. Glasflaschen – auch mit Pfandsystem.</td>
                                     <td>Kompostierbare Säcke. Behälter aus Bambus. Pfandsysteme für Behälter.</td>
                                     <td>Baumwollmasken, Gesichtsvisiere aus Plastik anstelle von Masken.</td>
-                                </tr>
-                            </table>
+                                    </tr>
+                                </tbody></table></div>
+                            </div>
                         </div>
-                    </div>
 
 
 
@@ -370,7 +412,7 @@
             <div class="container">
                 <div class="row">
                     <div class="top-content">
-                        <h3 class="good_to_know_l4" style="margin-top: 110px;">Gut zu wissen </h3>
+                        <h3 class="good_to_know_l4" >Gut zu wissen </h3>
                     </div>
                     <div class="col-md-6">
                         <div class="plastic-waste_goodToKnow_box">
@@ -386,7 +428,7 @@
                     </div>
                 </div>
 
-                <div class="row" style="margin-top: 70px;">
+                <div class="row globallyop" style="margin-top: 70px;">
                     <div class="col-md-6">
                         <div class="plastic-waste_goodToKnow_box">
                             <img src="./assets/images/plastic-waste/Asset 16.svg" style="width: 55%;">
@@ -405,7 +447,13 @@
             </div>
         </section>
 
-        <section class="simple_wayTo_preventing no-print" id="option4" data-scrl="Tipps für Einsteiger, um Plastikmüll zu vermeiden">
+
+        <section class="mobile_show">
+        <?php include "includes/scroll_deu/bigscroll3_deu.php"; ?>
+        </section>
+
+
+        <section class="simple_wayTo_preventing no-print desk_show" id="option4" data-scrl="Tipps für Einsteiger, um Plastikmüll zu vermeiden">
             <div class="section-div">
                 <div class="container-fluid">
                     <h3 class="wayT0Title">Tipps für Einsteiger, um Plastikmüll zu vermeiden </h3>
@@ -751,7 +799,63 @@
             </div>
         </section>
 
-        <section class="plastic-waste_productRecycle no-print">
+
+
+        <section class="plastic-waste_productRecycle no-print mobile_show">
+            <div class="container">
+                <div class="row">
+                <div class="plastic-wasteStepImg">
+                        <img src="./assets/images/plastic-waste/Asset 19.svg">
+                    </div>
+                    <div class="col-md-4 offset-md-2">
+                        <div class="plastic-wasteStep">
+                            <h2>01</h2>
+                            <h4>Richten Sie einen Entsorgungs- <br>und Sammeldienst ein </h4>
+                            <p>Fordern Sie Ihr kommunales Stadtwerk auf, dort, wo es keinen Entsorgungs- und Sammeldienst für Kunststoffe gibt, diesen einzurichten. </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 offset-md-1">
+                        <div class="plastic-wasteStep">
+                        <h2>02</h2>
+                            <h4>Kaufen Sie in <br>großen Mengen </h4>
+                            <p>Ihr Großhändler kann Ihnen Informationen darüber geben, was Sie in großen Mengen kaufen können, z. B. Waschmittel, Öl und trockene Zutaten wie Mehl. </p>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="row plastic-wasteStepLastRow">
+                    <div class="col-md-4">
+                        <div class="plastic-wasteStep">
+                            <h2>03</h2>
+                            <h4>Erkundigen Sie sich bei Ihrem Großhändler und Ihren Lieferanten, was sie tun</h4>
+                            <p>Fragen Sie danach, was sie tun, um ihre Verpackungen zu verbessern und ob ein Sammelsystem oder eine Recycling-Station vorhanden ist. Sprechen Sie mit anderen Gastronomiebetreibenden darüber, was sie tun und bitten Sie diese, sich gemeinsam für eine Veränderung einzusetzen. </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="plastic-wasteStep">
+                        <h2>04</h2>
+                            <h4>Nehmen Sie an Recyclingprogrammen teil </h4>
+                            <p>Um Ihren nur schwer zu recycelnden Abfall zu sammeln, können Sie sich an Recyclingprogrammen wie TerraCycle beteiligen.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="plastic-wasteStep">
+                            <h2>05</h2>
+                            <h4>Fragen Sie Ihre Lieferanten nach wiederverwendbaren Verpackungen </h4>
+                            <p>Bitten Sie Ihre Lieferanten darum, Ihnen Produkte in wiederbefüllbaren und wiederverwendbaren Behältern bereitzustellen, z. B. im LOOP-System. </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+
+
+        <section class="plastic-waste_productRecycle no-print desk_show">
             <div class="container">
                 <div class="row">
                     <div class="col-md-4 offset-md-2">
@@ -810,11 +914,11 @@
                     <div class="col-md-5">
                         <div class="banner_l4_title">
                             <h1 class="banner_title2" style="text-transform: none;">Überprüfen Sie ihre Fortschritte<br>und sprechen Sie darüber</h1>
-
+                            <img src="assets/images/safe_food/Asset 44.svg" class="img-fluid pl-5 no_banimg_on mobile_show">
                             <p>Überprüfen Sie die Veränderungen, die Sie vornehmen, und analysieren Sie die Menge an Kunststoffabfällen, die Sie dadurch vermeiden. Nutzen Sie einfache Lösungen, die Ihnen nicht viel Zeit abverlangen, um Ihre Entsorgungskosten zu überwachen. Für den Anfang reicht manchmal bereits eine einfache Tabelle! Sprechen Sie mit Ihrem Personal darüber, wie viel Sie bereits eingespart haben und wie sie zu diesen Einsparungen beitragen. Sichtbare Fortschritte können motivierend sein, um weiterhin den Plastikverbrauch zu reduzieren. Machen Sie bekannt, was Sie tun. Zum Beispiel können Sie mit einem Hinweis auf Ihrer Website oder in Ihrer Speisekarte Ihr verantwortungsbewusstes Handeln für Ihre Gäste sichtbar machen. Die Wirkung Ihrer Handlungen wird dadurch nur vergrößert, denn Ihre Mitarbeitenden und Gäste werden diese Botschaften mit nach Hause nehmen.</p>
                         </div>
                     </div>
-                    <div class="col-md-5 offset-md-1">
+                    <div class="col-md-5 offset-md-1 desk_show">
                         <div class="banner_l4_img talk_prog_img">
                             <img src="./assets/images/safe_food/Asset 44.svg" class="img-fluid pl-5">
                         </div>

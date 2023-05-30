@@ -27,12 +27,64 @@
     <meta name="mssmarttagspreventparsing" content="true">
     <meta name="IE=edge,chrome=1" content="X-UA-Compatible">
     <meta name="msapplication-starturl" content="">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="assets/prev/css/page2_style.css">
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script src="assets/prev/jquery/custom.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="likebtn.css">
+
+  <link rel="stylesheet" href="assets/css/navigation.css">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/normalize.min.css" rel="stylesheet">
+  <link href="assets/css/style1.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="stylesheet" href="assets\css\responsive.css">
+  <link rel="stylesheet" href="assets\css\responsive\introduction-to-social.css">
+  <link rel="stylesheet" href="assets\css\responsive\introduction-to-safe-food.css">
     <!--current page url-->
     <meta name="msapplication-tooltip" content="METRO">
     <meta http-equiv="cleartype" content="on">
     <meta name="canonical" content="">
     <!--current page url-->
+    <style>
+        .custom__select:before{
+            background:#ffe500;
+        }
+        nav.navbar {
+      height: 60px;
+      top: 0;
+    }
+        .search-btn{    margin-right: -16px;
+     }
+     .wrap {
+    background: #fff !important;
+}
+.section-slider2 .slick-slide:before {
 
+    background: none !important;
+}
+.section3-inner3 .left-content h3, .section3-inner .left-content h3 {
+    font-size: 25px !important;
+    text-align: center;
+}
+.section-slider2 .inner-item button {
+    padding-top: 0;
+    color: #000;
+    font-size: 25px;
+}
+.inner-item {
+    background-color: #dbdada;
+    background-image: none !important;
+}
+        </style>
 </head>
 
 <body class="popup-exists page-animation1">
@@ -165,6 +217,9 @@
             <section class="section4 padr-60px" id="option6" data-scrl="Erste Schritte, wie Sie Lebensmittelsicherheit sicherstellen">
                 <div class="left-content noalign w60-per">
                     <h3>KNOW-HOW –<br>ERSTE SCHRITTE, WIE SIE<br>LEBENSMITTELSICHERHEIT SICHERSTELLEN</h3>
+                    <div class="img_class_down">
+                    <img src="assets/images/safe_food/Asset 9.svg" class="img-fluid px-5 mobile_show">
+                </div>
                     <p>
                         Das Wichtigste ist ein Lebensmittelsicherheitsmanagement. Hierfür können Sie das <a href="explore-safe-food-deu.php" target="_blank">HACCP-Konzept</a> (Hazard Analysis Critical Control Points) verwenden – eine Methode, die Ihr Restaurant bei der Einhaltung der Lebensmittelsicherheit unterstützt. Mit diesem Konzept können Sie die Lebensmittelsicherheit in Ihrem Restaurant effektiv verankern. Ihre direkte Beteiligung als Führungsperson an diesem System setzt ein positives Beispiel und wird Ihre Mitarbeitenden motivieren, Ihrem Vorbild zu folgen. Zeigen Sie, dass Sie sich ernsthaft für Lebensmittelsicherheit einsetzen.
                     </p>
@@ -174,8 +229,8 @@
                         <a href="explore-safe-food-deu.php" class="mybtncss" target="_self">Weiterlesen</a>
                     </div>
                 </div>
-                <div class="w50-per mt-5">
-                    <img src="./assets/images/safe_food/Asset 9.svg" class="img-fluid px-5">
+                <div class="w50-per mt-5 ">
+                    <img src="./assets/images/safe_food/Asset 9.svg" class="img-fluid px-5 desk_show">
                 </div>
             </section>
 

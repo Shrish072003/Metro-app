@@ -381,7 +381,212 @@
                 </div>
             </section>
             <!-- ADVANCE WAYS -->
-            <section class="section-highlight-withimages section4-5 pbg mb-3 no-print" id="option4" data-scrl="Advanced ways to save water">
+
+
+
+
+            <section class="section-highlight-withimages section4-5 pbg mb-3 no-print mobile_show" id="option4" data-scrl="Advanced ways to save water">
+                <div class="top-highlight text-center">
+                    <h3>Advanced ways to save water</h3>
+                    <p>Once you have managed the daily water-saving routines,<br>you can consider investing in advanced ways to save water:</p>
+                </div>
+
+                <div class=" ">
+                            <!---middle row-->
+                            <img src="assets/images/water/advance-ways.svg" class="img-fluid img-imgbefore" />
+                        </div>
+                <div class="container9 mt-m2 mb-5">
+                    <div class="row">
+                        <div class="col-md-12 mb-2">
+                            <!---top row-->
+                            <div class="row">
+                                <div class="col-md-3 offset-md-1 advance-way-box way-box-04">
+                                    <div class="row">
+                                        <div id="aw-04">
+                                        <div class="col-md-12 title-yellow">
+                                                01
+                                            </div>
+                                            <div class="col-md-12 title9">
+                                                <h5>
+                                                    Low-flow taps
+                                                    </h3>
+                                            </div>
+                                            <div class="col-md-12 text9">
+                                                With this simple, inexpensive, and
+                                                effective way you can immediately
+                                                decrease your water consumption.
+                                                As hygiene is crucial, this is a way to
+                                                continue basic requirements such as
+                                                hand washing but using water more
+                                                efficiently
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 offset-md-1 advance-way-box way-box-04">
+                                    <div class="row">
+                                        <div class="aw-04">
+                                        <div class="col-md-12 title-yellow">
+                                                02
+                                            </div>
+                                            <div class="col-md-12 title9">
+                                                <h5>
+                                                    Low-flow pre-rinse
+                                                    spray nozzles
+                                                    </h3>
+                                            </div>
+                                            <div class="col-md-12 text9">
+                                                Pre-rinse dishes before manually
+                                                washing or loading them into a
+                                                dishwasher, this saves water
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 offset-md-1 advance-way-box way-box-06">
+                                    <div class="row">
+                                        <div class="aw-06">
+                                        <div class="col-md-12 title-yellow">
+                                                03
+                                            </div>
+                                            <div class="col-md-12 title9">
+                                                <h5>
+                                                    Boiler-less cookers
+                                                    </h3>
+                                            </div>
+                                            <div class="col-md-12 text9">
+                                                A boiler-based steam cooker can use up
+                                                to 150 litres of water per hour, which
+                                                means up to 660,000 litres per year.
+                                                A closed system steamer, which recycles
+                                                its water supply and reuses condensation
+                                                that would otherwise evaporate, saves
+                                                water and money
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12 mb-5">
+                            <!---bottom row-->
+                            <div class="row">
+                                <div class="col-md-3 advance-way-box way-box-01">
+                                    <div class="row">
+                                        <div class="aw-01">
+                                        <div class="col-md-12 title-yellow">
+                                                04
+                                            </div>
+                                            <div class="col-md-12 title9">
+                                                <h5>
+                                                    Better quality
+                                                    equipment
+                                                    </h3>
+                                            </div>
+                                            <div class="col-md-12 text9">
+                                                Use equipment with an energy mark, for
+                                                example, dishwashers, ice machines
+                                                (air-cooled), refrigerators, freezers,
+                                                ovens, coolers, and steam cookers. This
+                                                can save up to 10% of water
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 advance-way-box way-box-03">
+                                    <div class="row">
+                                        <div class="aw-03">
+                                        <div class="col-md-12 title-yellow">
+                                                05
+                                            </div>
+                                            <div class="col-md-12 title9">
+                                                <h5>
+                                                    Water saving equipment in bathrooms
+                                                </h5>
+                                            </div>
+                                            <div class="col-md-12 text9">
+                                                By using water-saving taps, dual flush toilets, sensors on taps, toilets and urinals or cistern displacement devices you can reduce a significant amount of used water
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 advance-way-box way-box-05">
+                                    <div class="row">
+                                        <div class="aw-05">
+                                        <div class="col-md-12 title-yellow">
+                                                06
+                                            </div>
+                                            <div class="col-md-12 title9">
+                                                <h5>
+                                                    Consult your
+                                                    water provider
+                                                    </h3>
+                                            </div>
+                                            <div class="col-md-12 text9">
+                                                Install rain barrels to catch rainwater which could
+                                                be re-used to water plants or clean outdoor
+                                                areas. Grey water can also be used to flush
+                                                toilets. Be innovative and consult your local water
+                                                provider for information on the best
+                                                water-saving method for your area
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 advance-way-box way-box-07">
+                                    <div class="row">
+                                        <div class="aw-07">
+                                            <div class="col-md-12 title-yellow">
+                                                07
+                                            </div>
+                                            <div class="col-md-12 title9">
+                                                <h5>
+                                                    Consider indirect
+                                                    ways to save water
+                                                    </h3>
+                                            </div>
+                                            <div class="col-md-12 text9">
+                                                Buy products with less impact on water
+                                                resources such as indoor grown salads
+                                                and herbs, seasonal fruit and vegetables,
+                                                or detergents formulated to use less
+                                                water<br><br>
+                                                <span id="sevenRM" style="display:none">
+                                                    If your restaurant has a garden or
+                                                    terrace plants, water them early in the
+                                                    morning or late afternoon when the
+                                                    evaporation rate is the lowest. Increase
+                                                    the amount of vegetables served as
+                                                    accompaniments, in a dish and as a dish
+                                                    in itself (vegan). Depending on how and
+                                                    where it is produced, meat is among
+                                                    those foods that consume the highest
+                                                    quantities of water
+                                                </span>
+
+                                                <button class="read-text btn-active" id="rm1" onclick="tog1();">Read more</button>
+                                            </div>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=" spacerx">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+            </section>
+
+
+
+
+            <section class="section-highlight-withimages section4-5 pbg mb-3 no-print desk_show" id="option4" data-scrl="Advanced ways to save water">
                 <div class="top-highlight text-center">
                     <h3>Advanced ways to save water</h3>
                     <p>Once you have managed the daily water-saving routines,<br>you can consider investing in advanced ways to save water:</p>

@@ -86,3 +86,9 @@
         padding-right: 0px !important;
     }
 }
+.read-wrap a {
+    color: #fff !important;
+}
+.read-wrap a:hover {
+    color: #003b7e !important;
+}

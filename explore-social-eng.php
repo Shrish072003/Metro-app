@@ -366,8 +366,12 @@
     width: 100%;
     margin-top: 10px;
     height:430px;
-}.tab-text-holder1 {
+    
+}
+@media screen and (max-width: 600px) {
+.tab-text-holder1 {
     height: 48rem;
+}
 }
 
 
@@ -1407,7 +1411,7 @@
             </section>
             <section class="container section4-6 section-to-print" id="option6" data-scrl="Your action plan">
                 <div class="top-content">
-                    <h3>Your Action Plan</h3>
+                    <h3 style="font-size: 30px !important;">Your Action Plan</h3>
                 </div>
                 <div class="mid-content cation-plan-section">
                     <ul>

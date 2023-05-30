@@ -2,7 +2,14 @@
     .navbar-expand-lg .navbar-nav .dropdown-menu {
         width: max-content !important;
     }
-</style><link rel="stylesheet" href="../assets\css\responsive.css">
+    nav2 {
+    padding: 100px 0px 60px 0px !important;
+    overflow-x: hidden !important;
+}
+.footer-socials {
+    text-align: center !important;
+}
+</style>
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <div class="container-fluid">
         <a class="navbar-brand text-theme-yellow" href="home.php">

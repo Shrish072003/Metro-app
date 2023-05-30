@@ -27,6 +27,29 @@
     <meta name="mssmarttagspreventparsing" content="true">
     <meta name="IE=edge,chrome=1" content="X-UA-Compatible">
     <meta name="msapplication-starturl" content="">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="assets/prev/css/page2_style.css">
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script src="assets/prev/jquery/custom.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="likebtn.css">
+
+  <link rel="stylesheet" href="assets/css/navigation.css">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/normalize.min.css" rel="stylesheet">
+  <link href="assets/css/style1.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="stylesheet" href="assets\css\responsive.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-waste.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-energy.css">
+  <link rel="stylesheet" href="assets\css\pageslider.css">
     <!--current page url-->
     <meta name="msapplication-tooltip" content="METRO">
     <meta http-equiv="cleartype" content="on">
@@ -171,6 +194,21 @@
         span#myBtn_readmore:hover {
             color: #ffe500;
         }
+        .custom__select:before{
+            background:#ffe500;
+        }
+        nav.navbar {
+      height: 60px;
+      top: 0;
+    }
+        .search-btn{    margin-right: -16px;
+     }
+     @media screen and (max-width: 600px) {
+
+     .px-4 {
+    margin-top: -30px !important;
+}
+     }
     </style>
 </head>
 
@@ -186,6 +224,7 @@
             <section class="section1 no-print plastic_waste no-print" id="option1" data-scrl="Wie man Energie effizient nutzt">
                 <div class="left-content no-print">
                     <h3 style="text-transform:none;">Wie man Energie effizient nutzt</h3>
+                    <img src="assets/images/safe_food/eng-1.svg" class="mobile_show">
                     <h4>Energienutzung in der Gastronomie</h4>
                     <p>Energie kann einen erheblichen Kostenfaktor für Ihren Betrieb darstellen. Angesichts steigender Energiekosten und der begrenzten Verfügbarkeit fossiler Ressourcen sowie der wachsenden Sensibilität der Verbraucherinnen und Verbraucher hinsichtlich Umweltfragen ist es an der Zeit, Energie effizienter zu nutzen und gleichzeitig Kosten zu sparen.<span id="dots"></span>
 
@@ -194,7 +233,7 @@
                     <!-- <button class="read-more-btn" id="myBtn_cust-a" href="#clickTohide" target="#more">Read more</button> -->
                 </div>
                 <div class="right-content no-print">
-                    <img src="assets/images/safe_food/eng-1.svg">
+                    <img src="assets/images/safe_food/eng-1.svg" class="desk_show">
                 </div>
             </section>
 
@@ -217,6 +256,15 @@
                 <div class="container">
                     <div class="row">
                         <h3 class="food_wasteTitle">Gut zu wissen</h3>
+                        <div class="good_to_know_box p-4 safe_foodBox_l4 engery_box mobile_show">
+                                <img src="assets/images/safe_food/eng-3.svg" class="img-fluid">
+                                <p>
+                                    <a href="https://www.mpulse.de/de/innovation/eine-heisse-frage-gas-oder-induktion" target="_blank">
+                                        Wussten Sie, dass das Kochen mit Induktionsherden schneller, sicherer, sauberer und effizienter ist als mit einem Gas- oder Elektroherd?
+                                    </a>
+                                    Beim Kochen mit Induktion werden <strong>90%</strong> der erzeugten Hitze genutzt, während es bei Gas nur 40-55% sind.
+                                </p>
+                            </div>
                         <p class="exploreFood_discripsn mb-5"></p>
                         <div class="col-md-4 px-4">
                             <div class="good_to_know_box p-4 safe_foodBox_l4">
@@ -231,7 +279,7 @@
                         </div>
 
                         <div class="col-md-4 px-4">
-                            <div class="good_to_know_box p-4 safe_foodBox_l4 engery_box">
+                            <div class="good_to_know_box p-4 safe_foodBox_l4 engery_box desk_show">
                                 <img src="assets/images/safe_food/eng-3.svg" class="img-fluid">
                                 <p>
                                     <a href="https://www.mpulse.de/de/innovation/eine-heisse-frage-gas-oder-induktion" target="_blank">
@@ -264,9 +312,11 @@
                     </div>
                 </div>
             </section>
+<section class="mobile_show">
+        <?php include "includes/scroll_deu/bigscroll2_deu.php"; ?>
+        </section>
 
-
-            <section class="simple_wayTo_preventing no-print energy_page_slider" id="option3" data-scrl="Tipps für Einsteiger, um Energie zu sparen">
+            <section class="simple_wayTo_preventing no-print energy_page_slider desk_show" id="option3" data-scrl="Tipps für Einsteiger, um Energie zu sparen">
                 <div class="section-div">
                     <div class="container-fluid">
                         <h3 class="wayT0Title">Tipps für Einsteiger, um Energie zu sparen</h3>
@@ -586,8 +636,78 @@
                 </div>
             </section>
 
+            <section class="plastic-waste_productRecycle no-print energy_page_img mobile_show">
+                <div class="container">
+                    <div class="row">
+                    <div class="plastic-wasteStepImg">
+                            <img src="assets/images/safe_food/eng-p.svg">
+                        </div>
+                        <div class="col-md-4">
+                            <div class="plastic-wasteStep">
+                            <h2>01</h2>
+                                <h4>Installieren Sie LED-Lampen</h4>
+                                <p>Wussten Sie, dass LED-Lampen 90% weniger Energie verbrauchen und eine deutlich längere Lebensdauer als herkömmliche Glühbirnen haben? Langfristig gesehen, bietet die Anschaffung dieser Lampen erhebliche ökologische und wirtschaftliche Vorteile.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="plastic-wasteStep">
+                            <h2>02</h2>
+                                <h4>Wechseln Sie Ihre Geräte aus</h4>
+                                <p>Entscheiden Sie sich für energieeffiziente Geräte wie z. B. ENERGY STAR-Geräte für kleine Haushaltsgeräte oder Küchenmaschinen mit dem Energie-Label, wobei A die beste Qualität kennzeichnet.</p>
+                            </div>
+                        </div>
 
-            <section class="plastic-waste_productRecycle no-print energy_page_img">
+                        <div class="col-md-4">
+                            <div class="plastic-wasteStep">
+                            <h2>03</h2>
+                                <h4>Reduzieren Sie die<br>Umgebungstemperatur<br>in Ihrer Küche</h4>
+                                <p>Nutzen Sie Geräte, die die Raumtemperatur nicht unnötig aufheizen. Stattdessen sollten Sie z. B. durch den Einsatz von Induktionsherden, Kondensationsabzugshauben oder Spot-Klimaanlagen die Umgebungstemperatur in Ihrer Küche reduzieren.</p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="row plastic-wasteStepLastRow energy_img_row_main">
+                        <div class="col-md-4">
+                            <div class="plastic-wasteStep energy_img_row_main1">
+                            <h2>04</h2>
+                                <h4>Ändern Sie die Belüftung</h4>
+                                <p>Durch den Einsatz geeigneter Ventilatoren oder durch die Kühlung von Waren an der frischen Luft können Sie Energie sparen.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="plastic-wasteStep energy_img_row_main2" style="left: 105px;padding-left: 58px;">
+                               <h2>05</h2>
+                                <h4>Nutzen Sie erneuerbare Energiequellen</h4>
+                                <p>
+                                    Mit der Nutzung erneuerbarer Energie tragen Sie nicht nur zu mehr Umweltschutz bei, zugleich profitieren sie langfristig von wirtschaftlichen Vorteilen.
+                                    <span id="dots"></span><span id="moreless"><br class="mb-4">
+                                        Erkundigen Sie sich bei Ihrem kommunalen Energieversorger über Angebote und mögliche finanzielle Fördermittel.<br>
+                                        <i class="fa fa-caret-right"></i>Installieren Sie Solarmodule. Thermische Solaranlagen können Wasser erwärmen und rentieren sich oftmals schon nach 2 bis 3 Jahren<br class="mb-4">
+                                        <i class="fa fa-caret-right"></i>Verwenden Sie solarbetriebene Außenleuchten, die sich selbst aufladen <br class="mb-4">
+                                        <i class="fa fa-caret-right"></i>Nutzen Sie Photovoltaik<br class="mb-4">
+                                        <i class="fa fa-caret-right"></i>Stellen Sie Ladestationen für Elektrofahrzeuge auf</span>
+                                </p>
+                                <span class="read-more-btn33" id="myBtn_readmore" onclick="myFunction()"><b>Weniger lesen</b></span>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="plastic-wasteStep energy_img_row_main3" style="left: 60px;">
+                            <h2>06</h2>
+                                <h4>Verbessern Sie die Isolierung</h4>
+                                <p>Damit die Raumtemperatur so wenig wie möglich verändert wird, sollten Sie die Wärmedämmung Ihres Betriebs verbessern. Dies erreichen Sie, indem Sie automatische Türen, Nachtrollos oder schwere Vorhänge an der Eingangstür anbringen.</p>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+                </div>
+            </section>
+
+            <section class="plastic-waste_productRecycle no-print energy_page_img desk_show">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-4">
@@ -672,12 +792,13 @@
                         <div class="col-md-5">
                             <div class="banner_l4_title" style="padding-left: 3rem;">
                                 <h1 class="banner_title2" style="text-transform: none;">Überprüfen Sie Ihre<br>Fortschritte und sprechen Sie darüber</h1>
+                                <img src="assets/images/safe_food/Asset 44.svg" class="img-fluid pl-5 mobile_show">
                                 <p>Überprüfen Sie die Veränderungen Ihres Energieverbrauchs, sobald Sie einige der genannten Maßnahmen ergriffen haben. Informieren Sie sich bei Ihrem lokalen Energieversorgungsunternehmen über Lösungen, die nicht viel Aufwand benötigen. Sprechen Sie mit Ihren Mitarbeitenden darüber, wie viel Energie Sie eingespart haben. Erfolge können alle motivieren, weiterhin Energie zu sparen. Machen Sie Ihre Maßnahmen bekannt: Hinweise auf den Gästetoiletten mit der Aufforderung, das Licht auszuschalten oder Energiespartipps auf Ihrer Speisekarte und Website erinnern daran, noch mehr Energie zu sparen.</p>
                             </div>
                         </div>
                         <div class="col-md-5 offset-md-1">
                             <div class="banner_l4_img talk_prog_img">
-                                <img src="assets/images/safe_food/Asset 44.svg" class="img-fluid pl-5">
+                                <img src="assets/images/safe_food/Asset 44.svg" class="img-fluid pl-5 desk_show">
                             </div>
                         </div>
                     </div>

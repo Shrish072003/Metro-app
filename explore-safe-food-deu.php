@@ -27,6 +27,28 @@
     <meta name="mssmarttagspreventparsing" content="true">
     <meta name="IE=edge,chrome=1" content="X-UA-Compatible">
     <meta name="msapplication-starturl" content="">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="assets/prev/css/page2_style.css">
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script src="assets/prev/jquery/custom.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="likebtn.css">
+
+  <link rel="stylesheet" href="assets/css/navigation.css">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/normalize.min.css" rel="stylesheet">
+  <link href="assets/css/style1.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="stylesheet" href="assets\css\responsive.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-waste.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-safe-food.css">
     <!--current page url-->
     <meta name="msapplication-tooltip" content="METRO">
     <meta http-equiv="cleartype" content="on">
@@ -391,6 +413,27 @@
             width: 15rem;
             transition: .5s;
         }
+        @media screen and (max-width: 600px) {
+            .good_to_know_box {
+            min-height: auto !important;
+        }
+        .three-step_food_safety .container-fluid .row h3 {
+    font-size: 27px !important;
+}
+        }
+        .custom__select:before{
+            background:#ffe500;
+        }
+        nav.navbar {
+      height: 60px;
+      top: 0;
+    }
+        .search-btn{    margin-right: -16px;
+     }
+     iframe{    border: 0;
+    width: 100%;
+    margin-bottom: 20px;
+}
     </style>
 </head>
 
@@ -404,6 +447,7 @@
             <section class="section1 no-print" id="option1" data-scrl="Lebensmittelsicherheit ist die Basis">
                 <div class="left-content no-print">
                     <h3>Lebensmittelsicherheit</h3>
+                    <img src="assets/images/safe_food/L3-banner.png" class="img-fluid mt-4 mobile_show">
                     <h4>Lebensmittelsicherheit ist die Basis</h4>
                     <p>Als Gastronomin oder Gastronom will man das beste Angebot für seine Gäste zusammenstellen. Was Sie nicht wollen, ist Ihren Geschäftsbetrieb in Gefahr zu bringen, weil ein Gast nach dem Restaurantbesuch schwer erkrankt oder Ihr Betrieb eine Hygienekontrolle nicht bestanden hat. Es gibt bereits anerkannte Regelwerke und Maßnahmen, die Restaurants dabei helfen, auf Lebensmittelsicherheit zu achten. Es gibt jedoch keine oder wenn nur wenige, die das Management eines nachhaltigen Restaurants unterstützen. Aber wenn ein Restaurant ein solides und systematisches Managementsystem für die Sicherheit von Lebensmitteln eingeführt hat, ist dies eine gute Basis, es um den Aspekt der Nachhaltigkeit zu ergänzen.</p>
                     <button class="read-more-btn" id="hide_show_content" href="#clickTohide">WEITERLESEN</button>
@@ -1564,12 +1608,13 @@
                         <div class="col-md-6">
                             <div class="track-and_talk_discr">
                                 <h3>Überprüfen Sie Ihre Fortschritte<br>und reden Sie darüber</h3>
+                                <img src="./assets/images/safe_food/Asset 30.png" class="img-fluid mobile_show" style="width:40rem;">
                                 <p>Bevor Sie mit der Überprüfung der Lebensmittelsicherheit in Ihrem Restaurant beginnen, sollten Sie sicherstellen, dass Sie Ihr Personal mit einbeziehen. Bei einer Kultur der Lebensmittelsicherheit geht es darum, Ihr Personal einzubinden. Dazu gehören laufende Schulungen, regelmäßige interne Überprüfungen und die Umsetzung von Verfahren, die für die Einhaltung der Lebensmittelsicherheit vorgeschrieben sind. Wenn alle Mitarbeitenden involviert werden und wissen, warum Sie etwas tun, dann wird sich das Management der Lebensmittelsicherheit zur Routine entwickeln und als Prozess in Ihrem Restaurant verselbständigen. Gleichermaßen funktioniert auch das Engagement für den Betrieb eines nachhaltigen Restaurants. Es gehört zu Ihren Pflichten als Gastronomiebetreibende, Ihren Gästen ein Höchstmaß an Lebensmittelsicherheit zu garantieren. Einwandfreie Hygiene wirkt sich positiv auf die Reputation Ihres Restaurants aus.</p>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="track-and_talk_img">
-                                <img src="./assets/images/safe_food/Asset 30.png" class="img-fluid" style="width:40rem;">
+                                <img src="./assets/images/safe_food/Asset 30.png" class="img-fluid desk_show" style="width:40rem;">
                             </div>
                         </div>
                     </div>

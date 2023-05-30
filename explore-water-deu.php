@@ -28,6 +28,28 @@
     <meta name="mssmarttagspreventparsing" content="true">
     <meta name="IE=edge,chrome=1" content="X-UA-Compatible">
     <meta name="msapplication-starturl" content="">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="assets/prev/css/page2_style.css">
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script src="assets/prev/jquery/custom.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="likebtn.css">
+
+  <link rel="stylesheet" href="assets/css/navigation.css">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/normalize.min.css" rel="stylesheet">
+  <link href="assets/css/style1.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="stylesheet" href="assets\css\responsive.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-food-waste.css">
+  <link rel="stylesheet" href="assets\css\responsive\explore-water.css">
     <!--current page url-->
     <meta name="msapplication-tooltip" content="METRO">
     <meta http-equiv="cleartype" content="on">
@@ -81,6 +103,47 @@
             width: 28rem;
             transition: .5s;
         }
+        .custom__select:before{
+            background:#ffe500;
+        }
+        nav.navbar {
+      height: 60px;
+      top: 0;
+    }
+        .search-btn{    margin-right: -16px;
+     }
+
+
+
+     @media screen and (max-width: 600px) {
+
+     .icon-box-1-content > .text-holder {
+    font-size: 16px;
+    height: auto !important;
+}
+.con-gk .row {
+    display: grid;
+    /* gap: 10rem; */
+}
+.icon-box-1 {
+    min-height: auto !important;
+    height: auto !important;
+    padding: 1.5rem;
+}
+.box-note-1 {
+    margin-top: 0rem !important;
+}
+.h18r {
+    min-height: auto !important;
+}
+.mb6r {
+    margin-bottom: 0rem !important;
+}
+.mb-2 {
+    margin-bottom: 5rem !important;
+}
+
+     }
     </style>
 </head>
 
@@ -94,6 +157,7 @@
             <section class="section1 no-print" id="option1" data-scrl="Wie man Wasser verantwortungsvoll nutzt">
                 <div class="left-content no-print prless-4r mtop-7r">
                     <h3 style="text-transform: none;">Wie man Wasser verantwortungsvoll nutzt</h3>
+                    <img src="assets/images/water/banner_img.svg" class="img-fluid mt-4 banner-img mobile_show">
                     <h4>Wasserverbrauch in der Gastronomie</h4>
                     <p>Wasser ist unabdingbar für Ihr Restaurant. Es ist eine wichtige Ressource, die Sie in großen Mengen vor, während und nach der Zubereitung von Speisen benötigen. Aber der Verbrauch von Wasser kostet auch Geld und trägt dazu bei, dass natürliche Ressourcen knapper werden. Angesichts der steigenden Wasserpreise und der zunehmenden Wasserknappheit sowie der wachsenden Sensibilität Ihrer Gäste für Umweltfragen ist es an der Zeit, dass Sie als Gastronomin oder Gastronom nachhaltiger werden und dabei gleichzeitig Geld sparen.</p>
                     <button class="read-more-btn" id="hide_show_content" href="#clickTohide">Lesen Sie mehr</button>
@@ -327,7 +391,157 @@
                 </div>
             </section>
             <!-- ADVANCE WAYS -->
-            <section class="section-highlight-withimages section4-5 pbg mb-3 no-print" id="option4" data-scrl="Tipps für Fortgeschrittene, um Wasser zu sparen">
+
+
+
+            <section class="section-highlight-withimages section4-5 pbg mb-3 no-print mobile_show" id="option4" data-scrl="Tipps für Fortgeschrittene, um Wasser zu sparen">
+                <div class="top-highlight text-center">
+                    <h3>Tipps für Fortgeschrittene, um Wasser zu sparen</h3>
+                    <p>Wenn Sie es geschafft haben, tägliche Routinen zur Wassereinsparung zu implementieren, können Sie erwägen, ob Sie weitergehende Sparmaßnahmen einführen wollen:</p>
+                </div>
+
+                <div class="">
+                            <!---middle row-->
+                            <img src="assets/images/water/advance-ways.svg" class="img-fluid img-imgbefore" />
+                        </div>
+
+                <div class="container9 mt-m2 mb-5">
+                    <div class="row">
+                        <div class="col-md-12 mb-2">
+                            <!---top row-->
+                            <div class="row">
+                                <div class="col-md-3 offset-md-1 advance-way-box way-box-04">
+                                    <div class="row">
+                                        <div id="aw-04">
+                                        <div class="col-md-12 title-yellow">
+                                                01
+                                            </div>
+                                            <div class="col-md-12 title9">
+                                                <h5>
+                                                    Wasserhähne mit niedrigem Durchfluss
+                                                    </h3>
+                                            </div>
+                                            <div class="col-md-12 text9">
+                                                Mit dieser einfachen, kostengünstigen und effektiven Methode können Sie Ihren Wasserverbrauch sofort senken. Da Hygiene von entscheidender Bedeutung ist, ist dies beispielsweise eine Möglichkeit, weiterhin Hände zu waschen ohne Wasser zu verschwenden.
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 offset-md-1 advance-way-box way-box-04">
+                                    <div class="row">
+                                        <div class="aw-04">
+                                        <div class="col-md-12 title-yellow">
+                                                02
+                                            </div>
+                                            <div class="col-md-12 title9">
+                                                <h5>Vorspüldüsen mit niedrigem Durchfluss</h5>
+                                            </div>
+                                            <div class="col-md-12 text9">
+                                                Um Wasser zu sparen, sollten Sie mit speziellen Vorspüldüsen Ihr Geschirr vorspülen, bevor Sie es von Hand abwaschen oder in den Geschirrspüler geben.
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 offset-md-1 advance-way-box way-box-06">
+                                    <div class="row">
+                                        <div class="aw-06">
+                                        <div class="col-md-12 title-yellow">
+                                                03
+                                            </div>
+                                            <div class="col-md-12 title9">
+                                                <h5>Kochherde ohne Wasserkessel</h5>
+                                            </div>
+                                            <div class="col-md-12 text9">
+                                                Ein Dampfgarer mit Wasserkessel kann bis zu 150 Liter Wasser pro Stunde verbrauchen – über das Jahr gerechnet sind das bis zu 660.000 Liter. Ein Dampfgarer mit geschlossenem System, der Grauwasser nutzt und Kondenswasser wiederverwendet, das sonst verdampft wäre, spart Wasser und Geld.
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            
+                            <!---bottom row-->
+                            <div class="row">
+                                <div class="col-md-3 advance-way-box way-box-01">
+                                    <div class="row">
+                                        <div class="aw-01">
+                                        <div class="col-md-12 title-yellow">
+                                                04
+                                            </div>
+                                            <div class="col-md-12 title9">
+                                                <h5>Hochwertige Geräte</h5>
+                                            </div>
+                                            <div class="col-md-12 text9">
+                                                Achten Sie auf das Energielabel bei Geräten wie z. B. Geschirrspüler, Eismaschinen (mit Luftkühlung), Kühlschränke, Gefrierschränke, Backöfen, Kühlboxen und Dampfgarer. Das kann bis zu 10% Wasser einsparen!
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 advance-way-box way-box-03">
+                                    <div class="row">
+                                        <div class="aw-03">
+                                        <div class="col-md-12 title-yellow">
+                                                05
+                                            </div>
+                                            <div class="col-md-12 title9">
+                                                <h5>
+                                                    Wassersparende Geräte im Sanitärbereich
+                                                </h5>
+                                            </div>
+                                            <div class="col-md-12 text9">
+                                                Durch den Einsatz von wassersparenden Wasserhähnen, Toiletten mit Wasserspartaste, Sensoren an Wasserhähnen, Toiletten und Urinalen oder einfachen Zusatzgeräten, die die Wassermenge in Spülkästen regulieren, können Sie Ihren Wasserverbrauch erheblich reduzieren.
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 advance-way-box way-box-05">
+                                    <div class="row">
+                                        <div class="aw-05">
+                                        <div class="col-md-12 title-yellow">
+                                                06
+                                            </div>
+                                            <div class="col-md-12 title9">
+                                                <h5>Wenden Sie sich an Ihr Stadtwerk</h5>
+                                            </div>
+                                            <div class="col-md-12 text9">
+                                                Stellen Sie Regentonnen auf, um Regenwasser aufzufangen und wiederzuverwenden, z. B. zum Gießen von Pflanzen oder zum Reinigen der Außenbereiche. Grauwasser kann auch für die Toilettenspülung verwendet werden. Seien Sie innovativ und informieren Sie sich bei Ihren Stadtwerken über die beste Methode, um in Ihrer Region Wasser zu sparen.
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 advance-way-box way-box-07">
+                                    <div class="row">
+                                        <div class="aw-07">
+                                            <div class="col-md-12 title-yellow">
+                                                07
+                                            </div>
+                                            <div class="col-md-12 title9">
+                                                <h5>Denken Sie über Wege nach, wie Sie indirekt Wasser sparen können</h5>
+                                            </div>
+                                            <div class="col-md-12 text9">
+                                                Kaufen Sie Produkte, die weniger Wasser verbrauchen, z. B. Salate und Kräuter aus dem Gewächshaus, saisonales Obst und Gemüse oder Reinigungsmittel, die wenig Wasser benötigen.<br><br>
+                                                <span id="sevenRM" style="display:none">
+                                                    Wenn Ihr Restaurant über einen Garten oder Terrassenpflanzen verfügt, gießen Sie sie entweder früh am Morgen oder am späten Nachmittag, wenn Wasser am wenigsten verdunstet. Und erhöhen Sie die Menge an Gemüse, das als Beilage zu einem Gericht oder als eigenständiges (veganes) Gericht serviert wird. Je nachdem, wie und wo Fleisch produziert wird, gehört es zu den Lebensmitteln mit einem hohen Wasserverbrauch.
+                                                </span>
+                                                <button class="read-text btn-active" id="rm1" onclick="tog1();">Mehr lesen</button>
+
+                                            </div>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+            </section>
+
+
+
+
+
+
+
+            <section class="section-highlight-withimages section4-5 pbg mb-3 no-print desk_show" id="option4" data-scrl="Tipps für Fortgeschrittene, um Wasser zu sparen">
                 <div class="top-highlight text-center">
                     <h3>Tipps für Fortgeschrittene, um Wasser zu sparen</h3>
                     <p>Wenn Sie es geschafft haben, tägliche Routinen zur Wassereinsparung zu implementieren, können Sie erwägen, ob Sie weitergehende Sparmaßnahmen einführen wollen:</p>
@@ -500,10 +714,11 @@
                         <div class="col-md-6">
                             <div class="track-and_talk_discr">
                                 <h3>Überprüfen Sie Ihre Fortschritte<br>und sprechen Sie darüber</h3>
+                                <img src="assets/images/safe_food/Asset 30.png" class="img-fluid success-img mobile_show" style="width: 36rem;">
                                 <p class="justify1 prless-2r">Überprüfen Sie die Veränderungen Ihres Wasserverbrauchs, sobald Sie einige der genannten Maßnahmen zur Wassereinsparung ergriffen haben. Führen Sie Lösungen ein, die nicht allzu viel Aufwand erfordern. Erkundigen Sie sich beispielsweise bei Ihrem Wasserversorger über nützliche Angebote. Sprechen Sie mit Ihren Mitarbeitenden darüber, wie viel Sie bereits einsparen konnten und was sie dazu beigetragen haben. Erfolge können sie motivieren, weiterhin Wasser zu sparen. Machen Sie Ihre Maßnahmen bekannt. Zum Beispiel kann ein Schild in den Waschräumen oder auf der Speisekarte Ihre Gäste auf Ihr verantwortungsvolles Handeln hinweisen. Die Wirkung Ihrer Handlungen wird dadurch nur vergrößert, denn Ihre Mitarbeitenden und Gäste werden diese Botschaften mit nach Hause nehmen.</p>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6  desk_show">
                             <div class="track-and_talk_img">
                                 <img src="./assets/images/safe_food/Asset 30.png" class="img-fluid success-img" style="width: 36rem;">
                             </div>

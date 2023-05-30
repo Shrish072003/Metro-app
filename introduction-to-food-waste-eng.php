@@ -403,8 +403,8 @@
           </button>
           <div class="custom__select top-mar-less">
             <select>
-              <option id="lange" value="explore-sustainable-menu-eng.php" selected>ENG</option>
-              <option id="langd" value="explore-sustainable-menu-deu.php">DEU</option>
+              <option id="lange" value="introduction-to-food-waste-eng.php" selected>ENG</option>
+              <option id="langd" value="introduction-to-food-waste-deu.php">DEU</option>
             </select>
           </div>
           <div id="nav-icon4" class="burger">
@@ -705,8 +705,8 @@
         $(document).ready(function() {
             var cur_page_name = "Food Waste";
             var cur_nav_link_id = "3";
-            var eng_page_path = "the-msr-chapter-guide-eng.php";
-            var deu_page_path = "the-msr-chapter-guide-deu.php";
+            var eng_page_path = "introduction-to-food-waste-eng.php";
+            var deu_page_path = "introduction-to-food-waste-deu.php";
             //manipulation
             pagemanipulation(cur_page_name, cur_nav_link_id, eng_page_path, deu_page_path);
             var menuIdVal = "2";

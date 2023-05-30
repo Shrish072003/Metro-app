@@ -21,4 +21,13 @@
     .big_issues {
         margin-top: 30px !important;
     }
+    .safeFoodl4_banner {
+        margin-top: 5rem !important;
+    }
+}
+.read-wrap a {
+    color: #fff !important;
+}
+.read-wrap a:hover {
+    color: #003b7e !important;
 }

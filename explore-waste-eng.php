@@ -484,16 +484,14 @@
                     </div>
                 </div>
             </section>
-            <div class="row">
-                        <div class="plastic-wasteStepImg">
-                            <img src="assets/images/plastic-waste/Asset 19.svg">
-                        </div>
-                    </div>
 
 
             <section class="plastic-waste_productRecycle no-print mobile_show">
                 <div class="container">
                     <div class="row">
+                    <div class="plastic-wasteStepImg">
+                            <img src="assets/images/plastic-waste/Asset 19.svg">
+                        </div>
                         <div class="col-md-4 offset-md-2">
                             <div class="plastic-wasteStep">
                             <h2>01</h2>

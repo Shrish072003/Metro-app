@@ -6,25 +6,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>METRO</title>
 
-    <link rel="stylesheet" href="assets/prev/css/page2_style.css">
-    <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
-    <script src="assets/prev/jquery/custom.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="assets/prev/css/page2_style.css">
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script src="assets/prev/jquery/custom.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="likebtn.css">
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="assets/css/navigation.css">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/normalize.min.css" rel="stylesheet">
+  <link href="assets/css/style1.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
 
-    <link rel="stylesheet" href="assets/css/navigation.css">
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/css/normalize.min.css" rel="stylesheet">
-    <link href="assets/css/style1.css" rel="stylesheet">
-    <link href="assets/css/style.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
-
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-    <link rel="stylesheet" href="assets\css\responsive.css">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="stylesheet" href="assets\css\responsive.css">
     <!--META TAGS-->
     <meta name="msapplication-TileColor" content="#603cba">
     <meta name="theme-color" content="#ffffff">
@@ -524,6 +525,9 @@
             <section class="section1 no-print" id="option1" data-scrl="So wird Ihre Speisekarte nachhaltiger">
                 <div class="left-content">
                     <h3 style="text-transform: none;">So wird Ihre Speisekarte nachhaltiger</h3>
+                    <div class="right-content_mobile">
+          <img src="assets/prev/images/page3banner.svg">
+        </div>
                     <h4>Die nachhaltige Speisekarte </h4>
                     <p>Bringen Sie mehr Nachhaltigkeit in Ihre Speisekarte und zeigen Sie Ihr Engagement für die Gesundheit des Planeten und der Menschen. Mit bewussten Entscheidungen werden Sie sowohl Gäste wie auch Mitarbeitende für sich gewinnen. Nutzen Sie zum Beispiel mehr Bio- und regionale Produkte und weniger Zucker und Salz.<span id="dots"></span>
 
@@ -556,6 +560,7 @@
                                 <div class="inner-item">
                                     <button class="modal-toggle11">
                                         Beziehen Sie Ihre Produkte lokal, regional und saisonal
+                                        <br> <i class="fa fa-plus-circle responsive_main"  aria-hidden="true"></i>
                                     </button>
                                 </div>
                             </div>
@@ -563,25 +568,31 @@
                                 <div class="inner-item">
                                     <button class="modal-toggle9">
                                         Reduzieren Sie den Umfang Ihrer Speisekarte
-                                    </button>
+                                        <br> <i class="fa fa-plus-circle responsive_main"  aria-hidden="true"></i></button>
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="inner-item">
                                     <button class="modal-toggle8">
-                                        Leiten Sie Ihre Mitarbeitenden im Service entsprechend an</button>
+                                        Leiten Sie Ihre Mitarbeitenden im Service entsprechend an
+                                        <br> <i class="fa fa-plus-circle responsive_main"  aria-hidden="true"></i>
+                                    </button>
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="inner-item">
                                     <button class="modal-toggle10">
-                                        Führen Sie kleinere Portionsgrößen als Option ein </button>
+                                        Führen Sie kleinere Portionsgrößen als Option ein 
+                                        <br> <i class="fa fa-plus-circle responsive_main"  aria-hidden="true"></i>
+                                    </button>
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="inner-item">
                                     <button class="modal-toggle12">
-                                        Verwenden Sie weniger und dafür besseres Fleisch</button>
+                                        Verwenden Sie weniger und dafür besseres Fleisch 
+                                        <br> <i class="fa fa-plus-circle responsive_main"  aria-hidden="true"></i>
+                                    </button>
                                 </div>
                             </div>
 
@@ -589,7 +600,7 @@
                                 <div class="inner-item">
                                     <button class="modal-toggle13">
                                         Setzen Sie auf Gemüse
-                                    </button>
+                                        <br> <i class="fa fa-plus-circle responsive_main"  aria-hidden="true"></i></button>
                                 </div>
                             </div>
 
@@ -597,7 +608,7 @@
                                 <div class="inner-item">
                                     <button class="modal-toggle14">
                                         Verwenden Sie nachhaltigen Fisch
-                                    </button>
+                                        <br> <i class="fa fa-plus-circle responsive_main"  aria-hidden="true"></i></button>
                                 </div>
                             </div>
 
@@ -606,7 +617,7 @@
                                     <button class="modal-toggle15">
                                         Experimentieren Sie mit pflanzlichen
                                         Proteinen
-                                    </button>
+                                        <br> <i class="fa fa-plus-circle responsive_main"  aria-hidden="true"></i></button>
                                 </div>
                             </div>
 
@@ -615,7 +626,7 @@
                                     <button class="modal-toggle16">
                                         Nehmen Sie Abstand von
                                         stark verarbeiteten Zutaten
-                                    </button>
+                                        <br> <i class="fa fa-plus-circle responsive_main"  aria-hidden="true"></i></button>
                                 </div>
                             </div>
 
@@ -624,7 +635,7 @@
                                     <button class="modal-toggle17">
                                         Setzen Sie Speisen auf die Karte,
                                         die allen gerecht werden
-                                    </button>
+                                        <br> <i class="fa fa-plus-circle responsive_main"  aria-hidden="true"></i></button>
                                 </div>
                             </div>
 
@@ -648,7 +659,7 @@
                                     <span class="icon-list">
                                         <img src="assets/prev/images/i1-svg.svg" />
                                     </span>
-                                    <button class="modal-toggle1" tabindex="0">Vegan</button>
+                                    <button class="modal-toggle1" tabindex="0">Vegan<br> <i class="fa fa-plus-circle responsive_main"  aria-hidden="true"></i></button>
 
                                 </div>
                             </div>
@@ -657,7 +668,7 @@
                                     <span class="icon-list">
                                         <img src="assets/prev/images/i5-svg.svg" />
                                     </span>
-                                    <button href="https://www.metro.de/produktwelten/fleischloser-genuss" class="modal-toggle2" target="_blank">Vegetarisch </button>
+                                    <button href="https://www.metro.de/produktwelten/fleischloser-genuss" class="modal-toggle2" target="_blank">Vegetarisch<br> <i class="fa fa-plus-circle responsive_main"  aria-hidden="true"></i> </button>
                                 </div>
                             </div>
 
@@ -666,7 +677,7 @@
                                     <span class="icon-list">
                                         <img src="assets/prev/images/i7-svg.svg" />
                                     </span>
-                                    <button class="modal-toggle3" tabindex="0">Paleo</button>
+                                    <button class="modal-toggle3" tabindex="0">Paleo <br> <i class="fa fa-plus-circle responsive_main"  aria-hidden="true"></i></button>
                                 </div>
                             </div>
                             <div class="item">
@@ -674,7 +685,7 @@
                                     <span class="icon-list">
                                         <img src="assets/prev/images/i8-svg.svg" />
                                     </span>
-                                    <button class="modal-toggle4" tabindex="0">Keto</button>
+                                    <button class="modal-toggle4" tabindex="0">Keto <br> <i class="fa fa-plus-circle responsive_main"  aria-hidden="true"></i></button>
                                 </div>
                             </div>
                             <div class="item">
@@ -682,7 +693,7 @@
                                     <span class="icon-list">
                                         <img src="assets/prev/images/i4-svg.svg" />
                                     </span>
-                                    <button class="modal-toggle5" tabindex="0">Fruitarian</button>
+                                    <button class="modal-toggle5" tabindex="0">Fruitarian <br> <i class="fa fa-plus-circle responsive_main"  aria-hidden="true"></i></button>
                                 </div>
                             </div>
                             <div class="item">
@@ -690,7 +701,7 @@
                                     <span class="icon-list">
                                         <img src="assets/prev/images/i3-svg.svg" />
                                     </span>
-                                    <button class="modal-toggle6" tabindex="0">Omnivore</button>
+                                    <button class="modal-toggle6" tabindex="0">Omnivore <br> <i class="fa fa-plus-circle responsive_main"  aria-hidden="true"></i></button>
                                 </div>
                             </div>
                             <div class="item">
@@ -698,7 +709,7 @@
                                     <span class="icon-list">
                                         <img src="assets/prev/images/i2-svg.svg" />
                                     </span>
-                                    <button class="modal-toggle7" tabindex="0">Flexitarian</button>
+                                    <button class="modal-toggle7" tabindex="0">Flexitarian <br> <i class="fa fa-plus-circle responsive_main"  aria-hidden="true"></i></button>
                                 </div>
                             </div>
                         </div>
@@ -709,6 +720,9 @@
             <section class="section-text-withimages section4-4 more-text no-print" id="option4" data-scrl="Tipps für Fortgeschrittene, um eine nachhaltige Speisekarte zu erstellen">
                 <div class="left-content">
                     <h3 style="text-transform:none ;">Tipps für Fortgeschrittene, um eine nachhaltige Speisekarte zu erstellen – Erfahren Sie alles über die Diversifizierung von Proteinen</h3>
+                    <div class="right-content_mobile">
+          <img src="assets/prev/images/div-protein.svg">
+        </div>
                     <p>Überall auf der Welt beziehen wir unseren Eiweißbedarf aus Pflanzen, Fleisch und Fisch. Das Problem ist, dass Eiweiß aus industrieller Landwirtschaft oftmals schlecht für die Umwelt ist und durch Methanemissionen (die in Kohlenstoffdioxid umgewandelt werden) Wasser und Böden belastet. Das Tierwohl wird häufig missachtet. <span id="dots"></span>
                         <br><br>
                         <span id="more1">Auch die Fischzucht hat Auswirkungen auf die Umwelt, z. B. durch Wasserverschmutzung und die Übertragung von Krankheiten auf Wildfische. Gleichzeitig nehmen die Wildfischbestände stetig ab und die Tiere sind schädlichem Mikroplastik ausgesetzt.
@@ -767,7 +781,103 @@
             </section>
 
 
-            <section class="section-highlight-withimages  section4-5 no-print" id="option5" data-scrl="Heben Sie nachhaltige Gerichte hervor">
+                            
+            <section class="section-highlight-withimages  section4-5 no-print mobile_show" id="option5" data-scrl="Heben Sie nachhaltige Gerichte hervor">
+                <div class="top-highlight text-center">
+                    <h3>Heben Sie nachhaltige Gerichte hervor </h3>
+                    <p>Es ist wichtig, dass Ihre Gäste verstehen, was Sie zu einer nachhaltigen Ernährung beitragen. Es gibt einige Wege, um Ihr Engagement hervorzuheben: </p>
+                </div>
+                <div class="mid-highlight container">
+                <div class="circle-setting">
+                        <img src="assets/prev/images/circle-icon.svg" />
+                    </div>
+                    <ul>
+                        <li>
+                            <div class="circle-content more-text">
+                                <span class="text-num">01</span>
+                                <h5>Erklären Sie nachhaltige <br> Zutaten auf Ihrer Speisekarte</h5>
+                                <p>Zeigen Sie, wo Ihre Zutaten herkommen und wer sie produziert hat. Erklären Sie die Nachhaltigkeitslabels Ihrer Zutaten (Überprüfen Sie zuerst, ob der Eigentümer des Label-Programms dies zulässt und stellen Sie sicher, dass die Zertifikate zur Verfügung stehen). Informieren Sie Ihre Kundinnen und Kunden darüber, wie die Zutat hergestellt wird. Erklären Sie, wenn es von einem lokalen Bauern stammt, der nachhaltige Prinzipien befolgt, sich aber gegen eine Zertifizierung entschieden hat. Es ist wichtig, dies Ihren Kundinnen und Kunden deutlich zu machen. Heben Sie Gerichte mit Gemüse und Vollkorn hervor. Erklären Sie allgemein Ihre Nachhaltigkeitsphilosophie und erzählen Sie, wo immer möglich die nachhaltige Geschichte Ihrer Gerichte.
+
+                                </p>
+
+                            </div>
+                        </li>
+                        <li>
+                            <div class="circle-content more-text">
+                                <span class="text-num">02</span>
+                                <h5>Heben Sie Ihr nachhaltiges <br> Engagement hervor</h5>
+                                <div>
+                                    <p>Nutzen Sie Ihre Speisekarte als Möglichkeit, um zu zeigen, was Sie als Gastronomin und Gastronom unternehmen, um nachhaltiger zu sein.
+                                    <div id="more5" style="color: black;font-size: 16px;font-family: 'gothambook';">
+                                        Informieren Sie Ihre Gäste über die Art und Weise, wie Sie mit Lebensmittelabfällen umgehen, über Lebensmittelspenden oder über Ihr lokales Engagement. Laden Sie Ihre Gäste ein, Lebensmittel, die sie nicht aufgegessen haben, mit nach Hause zu nehmen. <a href="https://prospekte.metro.de/plastikverbot/page/1?_ga=2.100060056.786427769.1650543436-715601530.1600076213" target="_blank">Natürlich in einer nachhaltigen Verpackung! </a></div>
+                                    </p>
+                                </div>
+                                <button href="#" class="read-text" id="myBtn5">WEITERLESEN</button>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="circle-content more-text">
+                            <span class="text-num">03</span>
+                                <h5> Weisen Sie auf Allergien und <br> Unverträglichkeiten hin </h5>
+                                <p>Die Zahl von Menschen mit Allergien und Lebensmittelunverträglichkeiten steigt. Halten Sie die gesetzlichen Bestimmungen ein, entsprechende Hinweise in der Speisekarte zu integrieren.
+
+                                </p>
+                                </div>
+                        </li>
+
+                        <li>
+                            <div class="circle-content more-text">
+                                <span class="text-num">04</span>
+                                <h5> Beschreiben Sie Ihre Gerichte auf <br>eine anregende und spannende Weise </h5>
+                                <div class="more-text">
+                                    <p>Bedenken Sie, dass viele Gäste daran gewöhnt sind, nach dem Geschmack und dem Preis zu entscheiden. Über nachhaltige Zutaten wird sich meist erst danach Gedanken gemacht. Konzentrieren Sie sich also zunächst auf die Geschmacksbeschreibung. Fügen Sie entsprechend Ihrer Zielgruppe Beschreibungen hinzu, die diese ansprechen. Zum Beispiel:</p>
+                                    <div id="more6">
+                                        <ul>
+                                            <li>“Bohnenauflauf mit frischen Kräutern”
+                                                (Hausgemachter Auflauf mit gemischten Bio-Bohnen, Bio-Tomaten und geräuchertem Pfeffer. Serviert mit einer Beilage aus Wildreis. Eine köstliche und sättigende Mahlzeit aus gesunden Proteinen!)
+                                            </li>
+                                            <li>“Fisch im Teigmantel mit frischer Zitrone”
+                                                (Hausgemacht mit zertifiziertem Kabeljau aus nachhaltigem Fischfang, serviert mit knackigem Salat und Bio-Mayonnaise. Ein frischer Hauch von Meer!)
+                                            </li>
+
+
+                                        </ul>
+                                    </div>
+                                    </p>
+
+                                    <button href="#" class="read-text" id="myBtn6">WEITERLESEN</button>
+                            </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="circle-content more-text">
+                            <span class="text-num">05</span>
+                                <h5>Fügen Sie Informationen zur <br> Herkunft Ihrer Zutaten hinzu</h5>
+                                <div>
+                                    <p>Erwägen Sie, Ihrer Website und Ihren Social-Media-Seiten Informationen über die <a href="https://www.metro.de/nachhaltigkeit/lieferkette-rueckverfolgbarkeit"> Herkunft </a> Ihrer Zutaten hinzuzufügen sowie in gedruckter Form oder auf Ihrem Menüdisplay. Dies spart Platz in den einzelnen Gerichtbeschreibungen.
+                                    </p>
+                                </div>
+                        </li>
+                        <li>
+                            <div class="circle-content more-text">
+                                <span class="text-num">06</span>
+                                <h5> Informieren Sie Ihr Servicepersonal</h5>
+                                <p>Stellen Sie sicher, dass Ihre Mitarbeitenden die Informationen sachkundig und überzeugend vermitteln können.</p>
+                            </div>
+                        </li>
+
+                    </ul>
+                </div>
+            </section>
+
+
+
+
+
+
+
+
+            <section class="section-highlight-withimages  section4-5 no-print desk_show" id="option5" data-scrl="Heben Sie nachhaltige Gerichte hervor">
                 <div class="top-highlight text-center">
                     <h3>Heben Sie nachhaltige Gerichte hervor </h3>
                     <p>Es ist wichtig, dass Ihre Gäste verstehen, was Sie zu einer nachhaltigen Ernährung beitragen. Es gibt einige Wege, um Ihr Engagement hervorzuheben: </p>
@@ -889,6 +999,9 @@
                 <div class="left-content">
                     <h3 style="text-transform: none;">Überprüfen Sie Ihre Fortschritte<br>
                         und sprechen Sie darüber</h3>
+                        <div class="right-content_mobile">
+          <img src="assets/prev/images/flag-p-svg.svg">
+        </div>
                     <p>Wenn Sie nachhaltige Speiseoptionen in Ihre Speisekarte aufgenommen haben, sollten Sie damit beginnen, die Auswirkungen von diesen Veränderungen zu messen. Dies können Sie z. B. durch direktes Feedback von Gästen oder über Bewertungen im Internet, durch die Anzahl der Bestellungen oder die Rentabilität der Gerichte tun. Mit der entsprechenden Software können Sie diese Veränderungen auch direkt digital nachverfolgen.
                         Denken Sie daran: Farm-to-Table-Restaurants sind bei Restaurantbesuchern sehr beliebt. Bringen Sie Ihre Gäste mit dem Ursprung von Lebensmitteln in Kontakt, indem Sie mit ihnen über Ihre Speisekarte sprechen. Erklären Sie, warum Sie die Änderungen vorgenommen haben. Wenn Sie Informationen zur Rückverfolgbarkeit auf Ihrer Speisekarte oder Ihrer Website angeben, erklären Sie, wie das funktioniert. Als Betrieb haben Sie einen viel größeren Einfluss auf Ihre Region, wenn Ihre Gäste und Mitarbeitenden verstehen, was Sie tun. Eventuell lassen sich einige von Ihren Gästen bei der nächsten Einkaufsentscheidung von Ihnen inspirieren. Ihr Einfluss könnte größer sein, als Sie denken!
                     </p>

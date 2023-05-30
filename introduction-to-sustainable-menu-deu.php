@@ -27,6 +27,26 @@
     <meta name="mssmarttagspreventparsing" content="true">
     <meta name="IE=edge,chrome=1" content="X-UA-Compatible">
     <meta name="msapplication-starturl" content="">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="../../assets/prev/css/page2_style.css">
+  <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+  <script src="../../assets/prev/jquery/custom.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="assets/css/navigation.css">
+  <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/normalize.min.css" rel="stylesheet">
+  <link href="assets/css/style1.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/icon-32x32.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="stylesheet" href="assets\css\responsive.css">
+  <link rel="stylesheet" href="assets\css\responsive\introduction-to-sustainable-menu.css">
     <!--current page url-->
     <meta name="msapplication-tooltip" content="METRO">
     <meta http-equiv="cleartype" content="on">
@@ -53,6 +73,61 @@
             font-weight: bolder;
             font-size: 20px !important;
         }
+        .custom__select:before{
+            background:#ffe500;
+        }
+        nav.navbar {
+      height: 60px;
+      top: 0;
+    }
+        .search-btn{    margin-right: -16px;
+     }
+     .wrap {
+    background: #fff !important;
+}
+.section-slider2 .slick-slide:before {
+
+    background: none !important;
+}
+.section3-inner3 .left-content h3, .section3-inner .left-content h3 {
+    font-size: 25px !important;
+    text-align: center;
+}
+.section-slider2 .inner-item button {
+    padding-top: 0;
+    color: #000;
+    font-size: 25px;
+}
+.inner-item {
+    background-color: #dbdada;
+    background-image: none !important;
+}
+@media screen and (max-width: 600px) {
+.section3-inner3 {
+    padding: 30px;
+}
+.section4 ul li {
+    font-size: 15px !important;
+}
+.right-img-back {
+    position: absolute;
+    margin-top: 100%;
+    opacity: 0.3;
+    transform: rotate(-90deg);
+    margin-bottom: 100%;
+    margin-left: 30%;
+}
+.read-wrap a {
+    border-radius: 50px !important;
+    color: #fff !important;
+    margin-right:auto;
+    margin-left: auto;
+    display: table !important;
+}
+.section2 {
+    padding: 20px 0 !important;
+}
+}
     </style>
 </head>
 
@@ -63,11 +138,14 @@
     <div class="wrapper">
         <div class="container-full">
             <div class="page-3_stage">
-                <section class="section1" id="option1" data-scrl="Warum es wichtig ist, ein nachhaltiges Menü anzubieten">
+                <section class="section1" id="option1" data-scrl="Warum es wichtig ist, ein nachhaltiges Menü anzubieten" style="margin-top: 7% !important;">
                     <div class="left-content">
                         <h3>Warum es wichtig ist,<br> ein nachhaltiges Menü <br> anzubieten</h3>
+                        <div class="mobile_show" style="margin-top: 7% !important;">
+                <img src="assets/images/page3banner.svg">
+            </div>
                     </div>
-                    <div class="right-content">
+                    <div class="right-content desk_show">
                         <img src="assets/images/page3banner.svg" />
                     </div>
                 </section>
@@ -209,7 +287,8 @@
                             <a href="explore-sustainable-menu-deu.php" class="read-more" target="_self">Weiterlesen</a>
                         </div>
                     </div>
-                    <div class="right-content">
+                    <img class="right-img-back disable-mobile" src="assets/images/know-svg.svg">
+                    <div class="right-content desk_show">
                         <img src="assets/images/know-svg.svg" />
                     </div>
                 </section>
