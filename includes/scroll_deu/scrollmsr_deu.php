@@ -135,7 +135,7 @@
 }
 .section-slider1 {
     margin-top: auto;
-    padding-top:100px;
+  
 }
 .footer-wrap {
     position: relative !important;
@@ -173,6 +173,12 @@
     font-size: 18px;
     color: #fff;
 }
+.inner-item button {
+    width: 180px !important;
+}
+.modal-body1{
+overflow-wrap: anywhere;
+}
   </style>
 <section class="section-slider1 section-slider2 no-print">
         <div class="section-slider-center text-center">
@@ -187,87 +193,95 @@
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>Responsible Sourcing</h3>
+                    <h3 style="
+    overflow-wrap: break-word;
+">verantwortungsbewusst Einkaufen</h3>
                     <img src="assets\images\the-msr-chapter\msr_1.png" />
                   <button class="modal-toggle9 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                <h3>Safe Food</h3>
+                <h3 style="
+    overflow-wrap: break-word;
+">Lebensmittelsicherheit</h3>
                     <img src="assets\images\the-msr-chapter\msr_2.png" />
                   <button class="modal-toggle8 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>Energy</h3>
+                    <h3>Energie</h3>
                     <img src="assets\images\the-msr-chapter\msr_3.png" />
                   <button class="modal-toggle10 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>Waste</h3>
+                    <h3>Abfall</h3>
                     <img src="assets\images\the-msr-chapter\msr_4.png" />
                   <button class="modal-toggle12 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Plastic & Packaging Waste</h3>
+                    <h3>Plastikmüll </h3>
                     <img src="assets\images\the-msr-chapter\msr_5.png" />
                   <button class="modal-toggle13 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Food Waste</h3>
+                    <h3 style="
+    overflow-wrap: break-word;
+">Lebensmittelabfälle </h3>
                     <img src="assets\images\the-msr-chapter\msr_6.png" />
                   <button class="modal-toggle14 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Sustainable Menu</h3>
+                    <h3 style="
+    overflow-wrap: break-word;
+">Nachhaltigen Speisekarte</h3>
                     <img src="assets\images\the-msr-chapter\msr_7.png" />
                   <button class="modal-toggle15 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Social</h3>
+                    <h3>Gemeinschaft</h3>
                     <img src="assets\images\the-msr-chapter\msr_8.png" />
                   <button class="modal-toggle16 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Water</h3>
+                    <h3>Wasser</h3>
                     <img src="assets\images\the-msr-chapter\msr_9.png" />
                   <button class="modal-toggle17 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
@@ -278,7 +292,7 @@
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle18 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div> -->
@@ -305,14 +319,11 @@
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-          <h4>
-          Why we need to talk about safe food
-
-          </h4>
+          <h4>Lassen Sie uns über Lebensmittelsicherheit sprechen</h4>
           <img src="assets\images\the-msr-chapter\msr_2.png" />
-          <p>Several incidents in recent years have shed a bad light on the food industry (for example, undeclared allergens in take-out sandwiches, E.coli in sprouts, and needles in strawberries) and consumers are increasingly becoming aware of the need for safely produced food which doesn't injure them or make them sick. That's why safe food is the foundation of a sustainable restaurant and contaminated food is wasted food. Running a sustainable business is about being efficient with resources, minimizing waste, and engaging people to work productively. The latest developments with COVID-19 have shown the importance of good hygiene practices even more. This will continue to have an impact on restaurants. </p>
-          <button class="read-more-btn" href="introduction-to-safe-food-eng.php">
-        TAKE A DEEP DIVE 
+          <p>Bei jedem nachhaltigen Gastronomiebetrieb geht es darum, effizient mit Ressourcen umzugehen, Abfall zu minimieren und Menschen dazu zu bringen, produktiv zu arbeiten - was die Bedeutung guter Hygienemaßnahmen einschließt. Sicheres Essen ist die Grundlage eines nachhaltigen Restaurants.</p>
+					<button class="read-more-btn" href="introduction-to-safe-food-eng.php">
+        MEHR ERFAHREN
                   </button>
         </div>
       </div>
@@ -335,13 +346,13 @@
 
         <div class="modal-content1 flexi-cont">
           <h4>
-           How to source products responsibly for restaurants
+          Wie man Produkte verantwortungsbewusst einkauft
 
           </h4>
           <img src="assets\images\the-msr-chapter\msr_1.png" />
-          <p>Your business is food and food is your business. As a restaurant owner the dishes you offer sometimes drive trends in the overall market place. Increasing numbers of costumers are showing interest in where their food comes from and are demanding healthier and sustainable options when they eat out. By carefully picking the products you present on your menu, you can create a positive and long lasting impact on the environment and the health of your customers.
-          </p><a class="read-more-btn" href="introduction-to-responsible-sourcing-eng.php">
-        TAKE A DEEP DIVE 
+          <p>Regionalität ist lange kein Trend mehr. Immer mehr Menschen interessieren sich dafür, woher ihre Lebensmittel kommen. Durch Lebensmittel aus der Region können lange Transportwege vermieden werden. Gäste fordern regionale, saisonale und nachhaltigere Alternativen, auch wenn sie auswärts essen. Durch die sorgfältige Auswahl der von Ihnen angebotenen Produkte können Sie auf die wachsenden Bedürfnisse Ihrer Gäste eingehen und einen positiven Einfluss auf die Umwelt ausüben. Als Restaurantbetreibende mit sorgfältig ausgewählten Gerichten in der Speisekarte, die auch auf nachhaltige Lebensmittel achten, können Sie einen Mehrwert bieten und sich von der Konkurrenz abheben.</p>
+					<a class="read-more-btn" href="introduction-to-responsible-sourcing-eng.php">
+        MEHR ERFAHREN
 </a>
         </div>
         
@@ -366,11 +377,11 @@
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-          <h4>The role of plastic in gastronomy</h4>
+          <h4>Die Bedeutung von Plastikabfällen in der Gastronomie</h4>
           <img src="assets/prev/images/L2-02.svg" />
-          <p>Plastic product and plastic packaging play an important role in maintaining hygiene in gastronomy, as they protect food, ensure food safety and improve shelf life. Single-use items, mostly made out of plastic, have up until now been almost indispensable in the gastronomy sector. However, both the production and disposal of plastic and single-use plastic product requires resources and has a negative impact on the environment -especially on our oceans. Gastronomy thus has an impact on the plastic waste challenge and should be forgoing the unnecessary plastic. </p>
+          <p>Plastikprodukte und -verpackungen spielen eine wichtige Rolle für die Hygiene in der Gastronomie. Sie schützen Lebensmittel, gewährleisten Lebensmittelsicherheit und verbessern die Haltbarkeit. Doch sowohl die Herstellung als auch die Entsorgung von Kunststoff- und Einwegverpackungen erfordert Ressourcen und hat negative Auswirkungen auf die Umwelt – insbesondere auf unsere Ozeane. Deshalb müssen wir alle Anstrengungen unternehmen, um Plastikmüll zu reduzieren. </p>
         <a class="read-more-btn" href="introduction-to-plastic-waste-eng.php">
-        TAKE A DEEP DIVE 
+        MEHR ERFAHREN
 </a></div>
       </div>
     </div>
@@ -392,11 +403,11 @@
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-          <h4>Why we need to reduce food waste</h4>
+          <h4>Warum wir Lebensmittelabfälle reduzieren müssen</h4>
           <img src="assets/prev/images/L2-06.svg" />
-          <p>Food waste costs you and your customer's money. Throwing away valuable resources uneaten also holds enormous potential for environmental and social conflict. Conflicts that young and future customers are not willing to accept. Just Imagine: If food waste was a country it would be the 3rd largest emitter of greenhouse gases. According to a global METRO study from 2019, already 39% of METRO's HoReCa customers want to tackle food waste in their own operations.</p>
+          <p>Die Boston Consulting Group (BCG) geht davon aus, dass die Menge an weggeworfenen Lebensmitteln bis 2030 weltweit 2,1 Milliarden Tonnen erreichen wird. Doch das ist wertvolle Nahrung, die Sie mit Ihrer Zeit, Ihrem Fachwissen, mit Wärme, Wasser und Energie geschaffen haben. Sie werfen also buchstäblich Geld zum Fenster hinaus. Ihr Restaurant kann profitabler sein, indem Sie Lebensmittelabfälle in Ihrem Betrieb reduzieren. Dies können Sie beispielsweise durch die Abgabe an gemeinnützige Organisationen, bedarfsgerechte Planung sowie die richtige Lagerung von Lebensmitteln erreichen.</p>
           <a class="read-more-btn" href="introduction-to-food-waste-eng.php">
-        TAKE A DEEP DIVE 
+        MEHR ERFAHREN
 </a>
         </div>
       </div>
@@ -418,11 +429,11 @@
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-          <h4>Why it is important to offer a sustainable menu </h4>
+          <h4>Die Bedeutung einer nachhaltigen Speisekarte</h4>
           <img src="assets/prev/images/L2-07.svg" />
-          <p>Sometimes, it can be difficult for consumers to find sustainable restaurants, let alone a sustainable dish once inside. By putting sustainability on the (online) menu restaurateurs can visibly demonstrate to their customers, their engagement for a food future that respects the health of the planet and their communities. </p>
+          <p>Wie oft wurden Sie schon nach vegetarischen Alternativen gefragt oder wo das Fleisch herkommt? Nutzen Sie die Chance und zeigen Sie bereits in Ihrer Speisekarte, dass Sie an einer hochwertigen Lebensmittelauswahl arbeiten, die besser ist für die Gesundheit Ihrer Gäste und den Planeten. Indem Sie nachhaltige Gerichte in Ihrer (Online-) Speisekarte ausweisen, können Sie Ihr Engagement für mehr Nachhaltigkeit unter Beweis stellen und neue Kunden gewinnen. </p>
           <a class="read-more-btn" href="introduction-to-sustainable-menu-eng.php">
-        TAKE A DEEP DIVE 
+        MEHR ERFAHREN
 </a>
         </div>
       </div>
@@ -445,11 +456,11 @@
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-          <h4>Why gastronomy must engage socially </h4>
+          <h4>Warum sich die Gastronomie gesellschaftlich engagieren muss</h4>
           <img src="assets/prev/images/L2-09.svg" />
-          <p>When your staff is treated well, the positive effects on your business are felt not only in your restaurant but also in the community around you. As a restaurant owner, you have direct responsibility for your employees, but you also have indirect responsibility for every worker in the supply chain - the community overall. Take an active role in your community and ensure the welfare of your employees, your customers, your suppliers, and others in society whom you are in touch with.</p>
+          <p>Essen und Trinken bringt die Menschen zusammen. Bei sozial engagierten Unternehmen geht es darum, eine aktive Rolle in Ihrer Gemeinde zu übernehmen und das Wohlergehen Ihrer Mitarbeitenden und Lieferanten zu gewährleisten. Wenn Ihre Mitarbeitenden gut behandelt werden und Sie und Ihre Lieferanten verantwortungsbewusst handeln, sind die positiven Auswirkungen auf Ihren Geschäftsbetrieb nicht nur in Ihrem Restaurant, sondern auch in Ihrer lokalen Gemeinde zu spüren.</p>
           <a class="read-more-btn" href="introduction-to-social-eng.php">
-        TAKE A DEEP DIVE 
+        MEHR ERFAHREN
 </a></div>
       </div>
     </div>
@@ -471,11 +482,11 @@
       </button>
       <div class="modal-body1">
         <div class="modal-content1 flexi-cont">
-          <h4>How to save water in your restaurant</h4>
+          <h4>Wie Sie in Ihrem Restaurant Wasser sparen können</h4>
           <img src="assets/prev/images/L2-01.svg" />
-          <p>Water runs your business. As a restaurant owner, you require a large amount of it before, during and after the service, from cooking and steaming to washing and sanitizing. But water does not only cost you money, it is also precious. Show your customers that you take responsibility and adapt water saving behavior with long-term benefits for you and the environment. </p>
+          <p>Wasser ist unabdingbar für Ihr Restaurant. Ohne Wasser gibt es kein Essen. Und um Lebensmittel in köstliche Gerichte zu verwandeln, benötigen Sie große Mengen Wasser in Ihrem Geschäftsbetrieb – angefangen beim Kochen und Dämpfen bis hin zum Waschen und Desinfizieren. Aber Wasser ist kostbar. Metropolen von Spanien bis Indien sind bereits mit Wasserknappheit konfrontiert. Indem Sie Wasser sparen, sparen Sie Geld und zeigen, dass Sie verantwortungsbewusst handeln. Ohne Wasser gibt es kein Essen und keine Getränke. </p>
           <a class="read-more-btn" href="introduction-to-water-eng.php">
-        TAKE A DEEP DIVE 
+        MEHR ERFAHREN
 </a>
         </div>
       </div>
@@ -524,12 +535,12 @@
 
         <div class="modal-content1 flexi-cont">
           <h4>
-          How to use less energy in your restaurant and save costs
+          Wie man weniger Energie verbraucht und Kosten spart
           </h4>
           <img src="assets/prev/images/L2-03.svg" />
-          <p>As a restaurant or café owner, you usually need a lot of electricity, oil, coal, or gas which causes high costs in your budget. With rising energy costs and the scarcity of fossil resources, as well as your customer's growing attention to environmental issues, it will be useful to become more sustainable and save money at the same time.</p>
-          <button class="read-more-btn" href="introduction-to-energy-eng.php">
-        TAKE A DEEP DIVE 
+          <p>Sowohl um eine warme und gemütliche Atmosphäre zu schaffen als auch für die Zubereitung köstlicher Mahlzeiten wird in der Gastronomie in der Regel viel Strom und Wärme benötigt. Durch steigende Energiekosten belastet dies jedoch zunehmend mehr Ihr Budget. Gleichzeitig wächst die Aufmerksamkeit Ihrer Gäste für Umweltfragen. Nachhaltiger zu werden, wird daher nicht nur dazu beitragen, den Planeten zu schützen, sondern hilft Ihnen auch Geld zu sparen.</p>
+					<button class="read-more-btn" href="introduction-to-energy-eng.php">
+        MEHR ERFAHREN
                   </button></div>
       </div>
     </div>
@@ -575,13 +586,13 @@
 
         <div class="modal-content1 flexi-cont more-text">
           <div>
-            <h4>The problem with waste!
+            <h4>Das Problem mit dem Abfall
             </h4>
             <img src="assets/prev/images/L2-04.svg" />
             <p>
-            When waste is not valued it becomes a problem. It costs your business money and when not properly managed it damages the environment and our health. As a restaurateur, you really can make an impact by preventing waste, sorting and disposing of it carefully. Doing so will prevent costs and contribute to your reputation with customers and your community.
+            Abfall ist ein Problem – ein Problem, das wir selbst schaffen. Abfall beansprucht Platz und kostet Geld, wenn er nicht richtig gemanagt wird. Außerdem schadet er der Umwelt und unserer Gesundheit. Als Gastronomen können Sie wirklich etwas bewirken, indem Sie Müll vermeiden, sorgfältig sortieren und entsorgen. Abfälle können an vielen Stellen vermieden werden, wie beispielsweise durch das Nutzen von Mehrwegsystemen. Dies senkt Ihre Kosten und verbessert Ihren Ruf bei Gästen und in Ihrer Gemeinde vor Ort.
             </p>
-            <button class="read-more-btn" href="introduction-to-waste-eng.php">TAKE A DEEP DIVE</button>
+            <button class="read-more-btn" href="introduction-to-waste-eng.php">MEHR ERFAHREN</button>
 
           </div>
         </div>

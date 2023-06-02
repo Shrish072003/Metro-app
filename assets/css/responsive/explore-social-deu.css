@@ -1,11 +1,11 @@
 @media screen and (max-width: 600px) {
-.page-3_stage .section1 .left-content{
+/* .page-3_stage .section1 .left-content{
     padding: 0px !important;
 }
  .section1 .left-content h4, p, .mobile_show{
     padding-right: 30px !important;
     padding-left: 30px !important;
-}
+} */
 .left-content .read-more-btn {
     margin-bottom: 54px !important;
 }

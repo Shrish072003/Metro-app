@@ -34,6 +34,7 @@
         display: none;
     }.benefit_box h4 {
         font-size: 25px;
+        padding: 30px;
     }.benefit_box {
         margin-bottom: 81px !important;
         min-height: 180px !important;
@@ -56,7 +57,7 @@
         width: 16rem !important;
         display: block;
         margin-right: auto;
-        margin-left: auto;
+        margin-left: auto !important;
     }
     .swiper-slide{
         display: block;
@@ -244,12 +245,12 @@
 }
 
 @media screen and (min-width: 800px){
-    .mobile-show ,.benefit_box_desk ,.downimgdownimg{
+    .benefit_box_desk ,.downimgdownimg{
         display: none !important;
     }
-    .vegetables-inner, .fruits-inner {
+    /* .vegetables-inner, .fruits-inner {
         display: none;
-    }
+    } */
     .swiper-slide-inner {
         width: 16rem;
         margin-left: 1rem;
@@ -262,6 +263,9 @@
         margin-bottom: 30px !important;
         margin-top: 30px !important;
     }
+    .swiper-slide-inner {
+        line-height: 15.2rem !important;
+      }
 }
 .media{
     display: flex !important;

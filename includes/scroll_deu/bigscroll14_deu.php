@@ -21,44 +21,7 @@
   <meta name="theme-color" content="#ffffff">
   <meta name="robots" content="noindex,nofollow">
   <style>
-    .section-lena-inner {
-      padding-left: 0;
-    }
-
-    body {
-      overflow: auto;
-    }
-
-    nav.navbar {
-      height: 60px;
-      top: 0;
-    }
-
-    .c9 {
-      padding-left: 0 !important;
-      padding-right: 0 !important;
-      max-width: 100%;
-    }
-
-    .likebtn {
-      margin-bottom: 2rem;
-    }
-
-    .spacerx {
-      margin-top: 3rem;
-    }
-
-    .nodeco {
-      color: white !important;
-      text-decoration: none !important;
-    }
-
-    .nowrap1 {
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-    }
-
+    
     @media print {
       body * {
         visibility: hidden;
@@ -76,34 +39,10 @@
       }
     }
 
-    .section1 {
-      margin-top: 4rem;
-      background-color: white;
-    }
-
-    .w100p {
-      width: 100% !important;
-      max-width: 100% !important;
-    }
-
-    .mid-highlight.container {
-      max-width: 100%;
-    }
-
-    .section-lena-kitchen {
-      max-width: 100%;
-    }
-
-    .section-simple-way {
-      background-color: white;
-    }
-
-    .page-3_stage.page-4_stage {
-      background-color: white;
-    }
+   
     .item.slick-slide {
     width: 280px;
-    height: 370px !important;
+    height: 450px !important;
     transition: transform 0.4s;
     position: relative;
 }
@@ -153,18 +92,7 @@
 }
 .wrap {
     background: transparent !important;
-    height: auto !important;
-}
-.modal-wrapper1 {
-  left: 79% !important;
-    width: 13.5em !important;
-    border-radius: 25px;
-    border-color: #FFE500;
-    border-style: solid;
-    margin-right: auto;
-    margin-left: -197px !important;
-    /* text-align: center; */
-    display: grid;
+    margin-bottom: 100px;
 }
 .inner-item button {
     background-color: #003b7e !important;
@@ -192,125 +120,124 @@
   background-image:none !important;
 }
 .modal-wrapper1 {
-    height: 90% !important;
+    height: 70% !important;
 }
-.section-slider-center h3, .top-content h3 {
-    text-transform: capitalize;
-    font-size: 20px !important;
+.section-div > .container-fluid{
+    height: auto !important;
 }
-.slider2 .item.slick-slide {
-    width: 230px !important;
-}
-body {
-      overflow: auto;
-      height:100%;
-    }
-    .modal-body1 , .inner-item{
-      overflow-wrap: anywhere;
-    }
-  </style>
-  </style>
-<section class="section-slider1 section-slider2 no-print">
+.inner-item button {
 
-        <div class="section-slider-center text-center">
-          <div class="wrap" style="z-index: 0;">
+    width: 180px !important;
+}
+  </style>
+<section class="section-slider1 section-slider2 no-print"><div class="section-slider-center text-center"><div class="wrap" style="z-index: 0;">
+
+<div class="section-div">
+                    <div class="container-fluid">
+                        <h3 class="wayT0Title">Tipps für Einsteiger, um Wasser zu sparen</h3>
+                        <p class="disc">Als Gastronomin oder Gastronom gibt es eine Reihe an Möglichkeiten, wie Sie in Ihrem Restaurant Wasser sparen können. Reparieren Sie undichte Wasserhähne und -leitungen,<br>
+                                verwenden Sie Grauwasser wieder und gehen Sie bei der Vorbereitung und Reinigung von Lebensmitteln behutsam vor.</p>
+                            <p class="mt-5 text-highlight1">
+                                So können Sie starten:
+                            </p>
+                       </div>
+                </div>
+                
+        
+          
             <div class="slider2">
               <div class="item">
                 <div class="inner-item">
-                    <h3>1. IDENTIFIZIEREN SIE ALLE RISIKEN UND GEFAHREN</h3>
-                    <img src='../../assets/images/safe_food/sf-6.svg' />
-                    <button class="modal-toggle24 read-more-btn">
-                  WEITERLESEN
+                    <h3>Reparieren Sie undichte<br />Wasserhähne und leitungen</h3>
+                    <img src='assets/images/water/slider-image-2.svg' />
+                    <button class="modal-toggle18 read-more-btn">
+                    Weiterlesen
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>2. DENTIFIZIEREN SIE DIE
-KRITISCHEN KONTROLLPUNKTE (CCPS)</h3>
-                    <img src="../../assets/images/safe_food/sf-7.svg" />
+                    <h3>Verwenden Sie<br>Grauwasser wieder</h3>
+                    <img src="assets/images/water/slider-image-3.svg" />
                   <button class="modal-toggle9 read-more-btn">
-                  WEITERLESEN
+                  Weiterlesen
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                <h3>3. LEGEN SIE STANDARDS FEST</h3>
-                    <img src="../../assets/images/safe_food/sf-8.svg" />
+                <h3>Vorbereitung und<br />Reinigung mit Bedacht</h3>
+                    <img src="assets/images/water/slider-image-1.svg" />
                   <button class="modal-toggle8 read-more-btn">
-                  WEITERLESEN
+                  Weiterlesen
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>4. ETABLIEREN SIE WIRKSAME
-KONTROLLVERFAHREN</h3>
-                    <img src="../../assets/images/safe_food/sf-9.svg" />
+                    <h3>Vorbereitung und<br />Reinigung mit Bedacht</h3>
+                    <img src="assets/images/water/slider-image-1.svg" />
                   <button class="modal-toggle10 read-more-btn">
-                  WEITERLESEN
+                  Weiterlesen
                   </button>
                 </div>
               </div>
-              <div class="item">
+               <!--<div class="item">
                 <div class="inner-item">
-                    <h3>5. DEFINIEREN SIE KORREKTURMASSNAHMEN</h3>
-                    <img src="../../assets/images/safe_food/sf-10.svg" />
+                    <h3>Introduce tap water</h3>
+                    <img src="assets/images/safe_food/pw-6.svg" />
                   <button class="modal-toggle12 read-more-btn">
-                  WEITERLESEN
+                  Read more
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>6. RICHTEN SIE EIN VERFAHREN
-ZUR ÜBERPRÜFUNG EIN</h3>
-                    <img src="../../assets/images/safe_food/sf-11.svg" />
+                    <h3>Use returnable deposit packaging and returnable plastic carrier packaging</h3>
+                    <img src="assets/images/safe_food/pw-7.svg" />
                   <button class="modal-toggle13 read-more-btn">
-                  WEITERLESEN
+                  Read more
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>7. ERSTELLEN SIE SCHRIFTLICHE
-DOKUMENTE UND AUFZEICHNUNGEN</h3>
-                    <img src="../../assets/images/safe_food/esta.svg" />
+                    <h3>Use plastic collection and disposal services</h3>
+                    <img src="assets/images/safe_food/pw-8.svg" />
                   <button class="modal-toggle14 read-more-btn">
-                  WEITERLESEN
+                  Read more
                   </button>
                 </div>
               </div>
 
-              <!-- <div class="item">
+              <div class="item">
                 <div class="inner-item">
-                    <h3>Preservation</h3>
-                    <img src="../../assets/images/safe_food/safe-7.svg" />
+                    <h3>Take part in a water fill up scheme</h3>
+                    <img src="assets/images/safe_food/pw-9.svg" />
                   <button class="modal-toggle15 read-more-btn">
-                  WEITERLESEN
+                  Read more
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Food allergies</h3>
-                    <img src="../../assets/images/safe_food/safe-8.svg" />
+                    <h3>Purchase sustainable packaged products</h3>
+                    <img src="assets/images/safe_food/pw-10.svg" />
                   <button class="modal-toggle16 read-more-btn">
-                  WEITERLESEN
+                  Read more
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Waste</h3>
-                    <img src="../../assets/images/safe_food/safe-9.svg" />
+                    <h3>SET A STARTING POINT AND MAKE AN ACTION PLAN</h3>
+                    <img src="assets/images/safe_food/e2.svg" />
                   <button class="modal-toggle17 read-more-btn">
-                  WEITERLESEN
+                  Read more
                   </button>
                 </div>
               </div>
@@ -318,120 +245,10 @@ DOKUMENTE UND AUFZEICHNUNGEN</h3>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Delivery and take-away</h3>
-                    <img src="../../assets/images/safe_food/safe-12.svg" />
-                  <button class="modal-toggle18 read-more-btn">
-                  WEITERLESEN
-                  </button>
-                </div>
-              </div>
-
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Sub-contractors</h3>
-                    <img src="../../assets/images/safe_food/safe-11.svg" />
+                    <h3>RETHINK YOUR USAGE OF PLASTIC FILM</h3>
+                    <img src="assets/images/safe_food/pw-1.svg" />
                   <button class="modal-toggle19 read-more-btn">
-                  WEITERLESEN
-                  </button>
-                </div>
-              </div>
-
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Accountability and documentation</h3>
-                    <img src="../../assets/images/safe_food/safe-13.svg" />
-                  <button class="modal-toggle20 read-more-btn">
-                  WEITERLESEN
-                  </button>
-                </div>
-              </div>
-
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Independent check</h3>
-                    <img src="../../assets/images/safe_food/safe-14.svg" />
-                  <button class="modal-toggle21 read-more-btn">
-                  WEITERLESEN
-                  </button>
-                </div>
-              </div>
-
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Dirty areas</h3>
-                    <img src="../../assets/images/safe_food/sf-5.svg" />
-                  <button class="modal-toggle22 read-more-btn">
-                  WEITERLESEN
-                  </button>
-                </div>
-              </div> -->
-
-<!-- 
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Responsible Sourcing</h3>
-                    <img src="assets\images\the-msr-chapter\msr_10.png" />
-                  <button class="modal-toggle23 read-more-btn">
-                  WEITERLESEN
-                  </button>
-                </div>
-              </div>
-
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Responsible Sourcing</h3>
-                    <img src="assets\images\the-msr-chapter\msr_10.png" />
-                  <button class="modal-toggle24 read-more-btn">
-                  WEITERLESEN
-                  </button>
-                </div>
-              </div>
-
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Responsible Sourcing</h3>
-                    <img src="assets\images\the-msr-chapter\msr_10.png" />
-                  <button class="modal-toggle25 read-more-btn">
-                  WEITERLESEN
-                  </button>
-                </div>
-              </div>
-
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Responsible Sourcing</h3>
-                    <img src="assets\images\the-msr-chapter\msr_10.png" />
-                  <button class="modal-toggle26 read-more-btn">
-                  WEITERLESEN
-                  </button>
-                </div>
-              </div>
-
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Responsible Sourcing</h3>
-                    <img src="assets\images\the-msr-chapter\msr_10.png" />
-                  <button class="modal-toggle27 read-more-btn">
-                  WEITERLESEN
-                  </button>
-                </div>
-              </div>
-
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Responsible Sourcing</h3>
-                    <img src="assets\images\the-msr-chapter\msr_10.png" />
-                  <button class="modal-toggle28 read-more-btn">
-                  WEITERLESEN
+                  Read more
                   </button>
                 </div>
               </div> -->
@@ -458,10 +275,32 @@ DOKUMENTE UND AUFZEICHNUNGEN</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Legen Sie Standards fest
-</h4>
-            <p>
-            Legen Sie die einzuhaltenden Standards fest, wobei kritische Schwellenwerte nicht überschritten werden sollten.            </p>
+        <h4>Vorbereitung und Reinigung mit Bedacht</h4>
+            <p>Überprüfen Sie, ob Sie bereits alle Möglichkeiten ausschöpfen:</p>
+            <ul>
+                <li>
+                    Verwenden Sie kein Wasser zum Auftauen von Lebensmitteln. Lebensmittel sollten immer im Voraus in einem Kühlgerät aufgetaut werden.
+                </li>
+                <li>
+                    Wischen Sie den Küchenboden nur am Ende eines Arbeitstages oder wenn Lebensmittel verschüttet wurden.
+                </li>
+                <li>
+                    Entfernen Sie Essensreste vom Geschirr möglichst über dem Mülleimer (mit einem Schaber oder Abzieher, nicht mit Wasser), bevor Sie es in den Geschirrspüler stellen.
+                </li>
+                <li>
+                    Wenn Sie vor dem Beladen des Geschirrspülers spülen müssen, verwenden Sie eine Vorspüldüse mit geringem Durchfluss.
+                </li>
+                <li>
+                    Lassen Sie den Geschirrspüler nur dann laufen, wenn er voll ist.
+                </li>
+                <li>
+                    Schalten Sie Geräte ab, die Wasser verbrauchen, wenn sie nicht benutzt werden.
+                </li>
+                <li>
+                    Tauschen Sie einen Wasserschlauch durch eine Wasserbürste aus. Diese reinigt effizienter und benötigt nur die Hälfte des Wassers in stark genutzten Bereichen wie bei den Mülltonnen oder im Außenbereich.
+                </li>
+            </ul>
+
         </div>
       </div>
     </div>
@@ -482,10 +321,10 @@ DOKUMENTE UND AUFZEICHNUNGEN</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Identifizieren Sie die kritischen Kontrollpunkte (CCPs)
-</h4>
+        <h4>Verwenden Sie Grauwasser wieder</h4>
             <p>
-            Identifizieren Sie die kritischen Kontrollpunkte (CCPs), bei denen mögliche Gefahren das akzeptable Niveau nicht überschreiten und durch den gewohnten Arbeitsablaufs beseitigt werden.            </p>
+                Grauwasser ist gebrauchtes Wasser, z. B. vom Kochen, aus Eiskübeln oder Regenwasser. Wenn es richtig aufbereitet wird, kann mit Grauwasser eine Menge Wasser eingespart werden. Beispielsweise kann Wasser, das zum Kochen von Gemüse oder Eiern verwendet wird, nachdem es abgekühlt ist, für den Garten oder die Pflanzen im Restaurant benutzt werden. Auch aufgefangenes Regenwasser kann dazu verwendet werden, die Pflanzen zu bewässern oder den Außenbereich zu reinigen. Achten Sie darauf, dass das wiederverwendete Grauwasser kein Salz enthält, da dies den Pflanzen schadet. Außerdem sollten Sie sicherstellen, dass die Wasserauffangbehälter verschlossen und regelmäßig geleert werden, um beispielsweise einen Insektenbefall zu verhindern.
+            </p>
         </div>
         
       </div>
@@ -509,10 +348,10 @@ DOKUMENTE UND AUFZEICHNUNGEN</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Richten Sie ein Verfahren zur Überprüfung ein
-</h4>
+        <h4>Use returnable deposit packaging and returnable plastic carrier packaging</h4>
             <p>
-            Stellen Sie sicher, dass das System mit regelmäßigen Überprüfungen arbeitet.            </p>
+                To reduce plastic, use returnable deposit packaging wherever possible, for example, glass water bottles or plastic crates instead of plastic wrap as returnable plastic carrier packaging.
+            </p>
 </div>
       </div>
     </div>
@@ -534,10 +373,10 @@ DOKUMENTE UND AUFZEICHNUNGEN</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Erstellen Sie schriftliche Dokumente und Aufzeichnungen
-</h4>
+        <h4>Use plastic collection and disposal services</h4>
             <p>
-            Schriftliche Dokumente und Aufzeichnungen können Ihnen dabei helfen, die wirksame Umsetzung Ihrer Kontrollmaßnahmen nachzuweisen            </p>
+                Your local wholesaler provides plastic collection and disposal services that you should use so that plastic can be properly recycled.
+            </p>
         </div>
       </div>
     </div>
@@ -558,9 +397,9 @@ DOKUMENTE UND AUFZEICHNUNGEN</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Preservation</h4>
+        <h4>Take part in a water fill up scheme</h4>
             <p>
-                Preservation extends the life of food. Correct freezing keeps food safe. When food is too hot and enters the freezer, it uses additional energy to cool down. It can also cause localised spots of warming on frozen or chilled foods already in the freezer which in turn lead to the growth of unwanted bacteria. When freezing is done safely, it can help prevent wastage of unused food. It can also be a way to use local foods that are out of season. Fermentation, when done safely, extends shelf life and creates a delicious and healthy product out of simple ingredients such as pickled vegetables. Needless to say, the products should be labelled and the shelf life indicated clearly.
+                Water fill up schemes put your restaurants on the map for registered uses for people to come and fill up their bottles for free. You do not only show your social awareness, but you also concretely prevent more plastic from being consumed because consumers will not need to buy water in plastic bottles. Moreover, this can also be a way to generate new customers.
             </p>
         </div>
       </div>
@@ -583,9 +422,9 @@ DOKUMENTE UND AUFZEICHNUNGEN</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Food allergies</h4>
+        <h4>Purchase sustainable packaged products</h4>
             <p>
-                In many countries, customers must have access to the full list of existing allergens in restaurant dishes. Allergen management is a highly challenging area for restaurants especially if the staff turnover is high – this can negatively impact knowledge transfer. A simple menu is the cornerstone of a sustainable restaurant, and it makes managing allergen listings easier. However, when you change your menu seasonally, be sure to indicate this to your customers and staff. When meals are made from scratch, you can be sure what the ingredients are and whether they have any allergens in them, which should be made known to the customers. Reputable suppliers will list the allergens on their products.
+                Buy products that are packaged sustainably. This means simple packaging without PVC, PVDC and EPS. This might also lower your disposal costs.
             </p>
         </div>
       </div>
@@ -608,16 +447,16 @@ DOKUMENTE UND AUFZEICHNUNGEN</h3>
       </button>
       <div class="modal-body1">
         <div class="modal-content1 flexi-cont">
-        <h4>Waste</h4>
+        <h4>Purchase sustainable packaged products</h4>
             <p>
-                How you manage unused food and the remains of meals is an important consideration. For example, depending on how it was used, unused bread can be reused in a different meal in the form of breadcrumbs or could be composted, or thrown away. How you deal with this means different considerations on food safety as well as the amount of waste you generate.
+                Buy products that are packaged sustainably. This means simple packaging without PVC, PVDC and EPS. This might also lower your disposal costs.
             </p>
         </div>
       </div>
     </div>
   </div>
 
-  <div class="introdiv-modal18">
+  <div class="introdiv-modal">
     <div class="modal-overlay1 modal-toggle18"></div>
     <div class="modal-wrapper1 modal-transition1">
       <button class="modal-close1 modal-toggle18">
@@ -632,153 +471,16 @@ DOKUMENTE UND AUFZEICHNUNGEN</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Delivery and take-away</h4>
+        <h4>Reparieren Sie undichte Wasserhähne und Leitungen</h4>
             <p>
-                Especially since the outbreak of COVID 19, food delivery and take-away has picked up momentum. Strong containers that keep food free of contamination and are easy to dispose of, are needed. Compostable containers are a good alternative and if you can use a returnable container scheme, check how the containers are cleaned.
-            </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="introdiv-modal19">
-    <div class="modal-overlay1 modal-toggle19"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle19">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont">
-        <h4>Sub-contractors</h4>
-            <p>
-                Usually, subcontractors look after ancillary tasks such as delivery and pest control. They must ensure that their practices do not endanger the safety of food. Delivery drivers, for example, must ensure food is transported at the right temperature at the right time. Pest control subcontractors must ensure that the placement of their devices and chemicals used do not pose a risk of contamination in your kitchen. When your subcontractors are aware of your requirements, they may have ideas to offer. Some pest subcontractors are changing the way they catch pests to limit the use of harmful chemicals in the environment.
-            </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="introdiv-modal20">
-    <div class="modal-overlay1 modal-toggle20"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle20">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont">
-        <h4>Accountability and documentation</h4>
-            <p>
-                As a restaurant manager, you are responsible for the overall supervision of your FSMS (food safety management system). The FSMS needs to be documented and this means keeping up-to-date and accurate records. This also means doing checks - you or a responsible member of staff on your behalf - conducts the opening and closing checks, any on-top checks, and ensures that “prove it” documentation (such as cleaning and training records) are completed. When you have a system already established to manage food safety, it is easier to include checks necessary in other sustainability aspects. Recording the status of a new process and monitoring its progress is another part of managing sustainability, for example, energy usage.
-            </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="introdiv-modal21">
-    <div class="modal-overlay1 modal-toggle21"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle21">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont">
-        <h4>Independent check</h4>
-            <p>
-                To verify that your food safety system is working, you might want to have it checked independently. There are professional service providers, who can tailor inspection and analysis programs for your premises. Having this external input is a way for you to improve, and an endorsement that your food safety management is working plus an additional assurance you can give to your guests. Similar services exist in sustainability management although these are not as common. Ask your local authority or wholesaler for their recommendations.
-            </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="introdiv-modal22">
-    <div class="modal-overlay1 modal-toggle22"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle22">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont">
-        <h4>Dirty areas</h4>
-            <p>
-                Areas for washing up, garbage bins or vegetable processing should be separated from clean areas. It helps to manage the flow of waste and ensure the correct waste is recycled or reused. For example, clean rinse water can be used to water your garden if you have one.
-            </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="introdiv-modal23">
-    <div class="modal-overlay1 modal-toggle23"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle23">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont">
-        <h4>Cleaning </h4>
-            <p> A professional cleaning program that is specific to your premises, uses the right chemicals with the correct dosage, and suitable for the correct equipment, not only gets things clean but also prevents damage to your local environment from excessive chemicals which add to your costs. Taking a step further, you might consider environmentally- friendly cleaning chemicals. When you clean as you go, you prevent a build-up of waste and reduce the risk of contaminating clean areas by overflowing bins, for instance. Clearly labelled containers in a separated area make it easier to recycle or reuse waste.
-
+                Wissen Sie, wie viel Wasser durch tropfende, undichte Wasserhähne, Geräte oder Rohre verschwendet wird? Bis zu 750 Liter Wasser pro Tag gehen durch eine undichte Toilettenspülung verloren und bis zu 70 Liter pro Tag durch einen tropfenden Wasserhahn!
             </p>
         </div>
       </div>
     </div>
   </div>
 
-  <div class="introdiv-modal24">
-    <div class="modal-overlay1 modal-toggle24"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle24">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
 
-        <div class="modal-content1 flexi-cont">
-        <h4>Identifizieren Sie alle Risiken und Gefahren
-</h4>
-            <p>
-            Ermitteln Sie bei jedem Schritt Ihrer Abläufe – von den Lebensmitteln, die Sie erhalten, bis zu den Gerichten, die Sie servieren und ausliefern – alle Risiken und Gefahren.            </p>
-        </div>
-      </div>
-    </div>
-  </div>
 
   <div class=" intro-modal">
     <div class="modal-overlay1 modal-toggle10"></div>
@@ -795,10 +497,31 @@ DOKUMENTE UND AUFZEICHNUNGEN</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Etablieren Sie wirksame Kontrollverfahren
-</h4>
-            <p>
-            Führen Sie Kontrollmechanismen ein, damit Sie die Abläufe an jedem kritischen Punkt effektiv überwachen können.            </p>
+        <h4>Vorbereitung und Reinigung mit Bedacht</h4>
+            <p>Überprüfen Sie, ob Sie bereits alle Möglichkeiten ausschöpfen:</p>
+            <ul>
+                <li>
+                    Verwenden Sie kein Wasser zum Auftauen von Lebensmitteln. Lebensmittel sollten immer im Voraus in einem Kühlgerät aufgetaut werden.
+                </li>
+                <li>
+                    Wischen Sie den Küchenboden nur am Ende eines Arbeitstages oder wenn Lebensmittel verschüttet wurden.
+                </li>
+                <li>
+                    Entfernen Sie Essensreste vom Geschirr möglichst über dem Mülleimer (mit einem Schaber oder Abzieher, nicht mit Wasser), bevor Sie es in den Geschirrspüler stellen.
+                </li>
+                <li>
+                    Wenn Sie vor dem Beladen des Geschirrspülers spülen müssen, verwenden Sie eine Vorspüldüse mit geringem Durchfluss.
+                </li>
+                <li>
+                    Lassen Sie den Geschirrspüler nur dann laufen, wenn er voll ist.
+                </li>
+                <li>
+                    Schalten Sie Geräte ab, die Wasser verbrauchen, wenn sie nicht benutzt werden.
+                </li>
+                <li>
+                    Tauschen Sie einen Wasserschlauch durch eine Wasserbürste aus. Diese reinigt effizienter und benötigt nur die Hälfte des Wassers in stark genutzten Bereichen wie bei den Mülltonnen oder im Außenbereich.
+                </li>
+            </ul>
         </div>
       </div>
     </div>
@@ -844,12 +567,10 @@ DOKUMENTE UND AUFZEICHNUNGEN</h3>
 
         <div class="modal-content1 flexi-cont more-text">
           <div>
-          <h4>Definieren Sie Korrekturmaßnahmen
-</h4>
+          <h4>Introduce tap water</h4>
             <p>
-            Für den Fall, dass Sie die Schwellenwerte nicht einhalten, sollten Sie die durchzuführenden Korrekturmaßnahmen festlegen.
+                If the water quality allows it, offer tap water for customers.
             </p>
-
           </div>
         </div>
       </div>
@@ -1098,33 +819,10 @@ DOKUMENTE UND AUFZEICHNUNGEN</h3>
 
       $('.modal-toggle18').on('click', function(e) {
         e.preventDefault();
-        $('.introdiv-modal18').toggleClass('is-visible');
+        $('.introdiv-modal').toggleClass('is-visible');
       });
       $('.modal-toggle19').on('click', function(e) {
         e.preventDefault();
-        $('.introdiv-modal19').toggleClass('is-visible');
+        $('.introdiv-modal').toggleClass('is-visible');
       });
-      $('.modal-toggle20').on('click', function(e) {
-        e.preventDefault();
-        $('.introdiv-modal20').toggleClass('is-visible');
-      });
-      $('.modal-toggle21').on('click', function(e) {
-        e.preventDefault();
-        $('.introdiv-modal21').toggleClass('is-visible');
-      });
-      $('.modal-toggle22').on('click', function(e) {
-        e.preventDefault();
-        $('.introdiv-modal22').toggleClass('is-visible');
-      });
-      $('.modal-toggle23').on('click', function(e) {
-        e.preventDefault();
-        $('.introdiv-modal23').toggleClass('is-visible');
-      });
-      $('.modal-toggle24').on('click', function(e) {
-        e.preventDefault();
-        $('.introdiv-modal24').toggleClass('is-visible');
-      });
-
-
-
     </script>

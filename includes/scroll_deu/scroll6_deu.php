@@ -90,36 +90,35 @@
               <div class="item">
                 <div class="inner-item">
                     <div>
-                        <h3>Benefits
-</h3>
+                        <h3>Vorteile</h3>
                   </div>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle9">
-                  Prevents costs of non-compliance with regulations
+                  Vermeidung von Kosten, die durch das Nichteinhalten von Vorschriften entstehen
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle8">
-                  Reduces sick-leaves or other absences of staff
+                  Verringerung des Krankenstandes oder anderer Abwesenheiten von Mitarbeitenden
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle10">
-                  Motivates staff and makes them more reliable
+                  Motiviertes und zuverlässiges Personal
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle12">
-                  Makes your staff ambassadors for your restaurant
+                  die Mitarbeitenden werden zu wichtigen Botschaftern Ihres Restaurants
                   </button>
                 </div>
               </div>
@@ -127,7 +126,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle13">
-                  Reduces staff fluctuation
+                  weniger Personal- fluktuation
                   </button>
                 </div>
               </div>
@@ -135,7 +134,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle14">
-                  Retains loyal customers
+                  loyale Gäste
                   </button>
                 </div>
               </div>
@@ -143,7 +142,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle15">
-                  Binds reliable suppliers
+                  zuverlässige Lieferanten
                   </button>
                 </div>
               </div>
@@ -151,7 +150,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle16">
-                  Creates respect for your business in the community – you get what you give
+                  Schafft Respekt für Ihr Unternehmen und einen positiven Beitrag zur Gemeinschaft
                   </button>
                 </div>
               </div>
@@ -159,19 +158,19 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle17">
-                  Strengthens local economy
+                  Stärkung der lokalen Wirtschaft
                   </button>
                 </div>
               </div>
 
 
-              <div class="item">
+              <!-- <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle18">
                   Helps make a positive contribution to the society
                   </button>
                 </div>
-              </div>
+              </div> -->
 
 
               <!-- <div class="item">

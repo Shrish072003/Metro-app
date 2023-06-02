@@ -134,10 +134,27 @@
 
 
 <section class="sectionmainn mobile_show">
+<section class="">
+<div class="container-full con50">
+                    <div class="row">
+                        <div class="col-md-12 mt-2 mb-4 mx-1 my-1 text-center no-print">
+                            <h3 class="section-heading-blue">The Comprehensive Guide to Sustainable Products </h3>
+                            <p class="">
+                                <strong>
+                                    It is not always easy to know what a sustainable product is and the definitions can
+                                    be different depending on<br>the perspectives and beliefs of the person or organisation
+                                    looking at it. You can use the following characteristics<br>as a guide, because
+                                    sustainable products have at least one of these characteristics.
+                                </strong>
+                            </p>
+                        </div>
+                    </div>
+                    </div>
+</section>
 
     <ul>
           <li class="accordian3 accor">
-            <div class="collapsible__header">Lokale und regionale Produkte</div>
+            <div class="collapsible__header">Local and Regional Products</div>
             <div class="collapsible__content">
                                         <!-- Local and Seasonal Products 1 -->
                                         <div class="container conx">
@@ -147,24 +164,67 @@
                                                 </div>
                                                 <div class="col-md-12 mb-2 mt-2">
                                                     <p class="justify1">
-                                                    Es gibt keine weltweit gültige Vereinbarung darüber, was ein lokales Produkt ausmacht. Jedoch lässt sich ein lokales oder regionales Produkt über die Nähe zu seinem Geschäftsbetrieb definieren. Lokal bedeutet dann, dass die Lebensmittel aus einem nahe gelegenen Ort stammen. Regional bedeutet, dass die Lebensmittel aus einer bestimmten Region stammen. Es ist wichtig, dass Sie diesen Aspekt für Ihre Gäste transparent machen.
+                                                        There is no global agreement on what makes a product local.
+                                                        However,
+                                                        the way to define a local or regional
+                                                        product is how close it is to your business. Local means the
+                                                        food is
+                                                        from a nearby location. Regional means the
+                                                        food is from a specific region - usually something that is
+                                                        defined
+                                                        by the country, for example a district,
+                                                        province or region. It is important that you have a clear
+                                                        definition
+                                                        of this aspect for yourselves and that you
+                                                        make it transparent to your customers.
                                                     </p>
                                                     <p class="justify1">
-                                                    Darüber hinaus gibt es zwei zusätzliche Faktoren, die ebenfalls berücksichtigt werden können: Nähe bedeutet, dass der wichtigste und/oder wertgebende Produktionsbetrieb für das Produkt in Ihrer Region liegt (oder x km um Ihr Restaurant) ODER dass die wichtigste und/oder wertgebende Zutat zu 100 % aus Ihrer Region stammt (oder x km um Ihr Restaurant). Ein Verweis auf die Art des Erzeugers oder des Produkts bedeutet, dass die Produkte transparent und rückverfolgbar sind (was die Produkte beinhalten und woher sie stammen), dass sie auf traditionelle Weise hergestellt werden oder auf einem traditionellen Rezept basieren und somit alte Zutaten fördern. Der Erzeuger ist ein Kleinbetrieb (KMU, kleines bis mittleres Unternehmen) und unterstützt die lokale bzw. regionale Infrastruktur und Wirtschaft.
+                                                        There are two additional factors that can also be included:
+                                                        Proximity means the main and/or value-giving
+                                                        production is in a region (or x km around your business) OR the
+                                                        main
+                                                        and/or value giving ingredient is 100%
+                                                        from a region (or from x km around your business). Referring to
+                                                        a
+                                                        type of producer or product means
+                                                        products are transparent and traceable (what’s in them and where
+                                                        they are from), they are produced in a
+                                                        traditional way or based on a traditional recipe and therefore a
+                                                        rediscovery of old varieties. The producer is a
+                                                        small holder (SME, Small to Medium Enterprise) and supports
+                                                        local/regional infrastructure and economy.
                                                     </p>
                                            
                                                 <div class="col-md-12 mt-2 mb-2 yellow-block">
-                                                    <h5><strong>Warum ist es wichtig, lokal einzukaufen?
-</strong></h5>
+                                                    <h5><strong>Why is it important to buy locally?</strong></h5>
                                                     <div class="col-md-8 offset-md-2 mt-2 mb-2">
                                                     <img src="assets/images/resp_sourcing/fruit-seller-with-cap.svg" class="img-fluid seller-cap">
 </div>
                                                     <p class="justify1">
                                                         
-                                                    Der Kauf von Produkten aus der Region ist ein verantwortungsbewusster Akt, den sie in Ihrer Speisekarte ausweisen können und der ein Gefühl der Nähe zu Ihren Gästen schafft. Dadurch unterstützen Sie Ihre Gemeinde und Region finanziell, wodurch Sie den Bauern finanzielle Sicherheit geben. Je nach Produkt, kann das zu einer geringeren CO2-Bilanz führen, da die Lebensmittel weniger Kilometer zurückgelegt haben. Und in manchen Fällen wird auch Verpackungsmüll eingespart. Darüber hinaus können Sie sich dadurch von Ihren Mitbewerbern abheben, was zu Ihrem positiven Ruf beiträgt. Indem Sie eine enge Verbindung zu der Art und Weise, wie Lebensmittel produziert werden, herstellen, können Sie sich besser mit Ihrer Region identifizieren, was dazu beiträgt, treue Gäste zu gewinnen.
+                                                        Buying local is a responsible act that creates a sense of
+                                                        proximity,
+                                                        or closeness, in your menu and with your customers. It means you
+                                                        can put money back into your community and region, giving the
+                                                        producers financial stability. Depending on the product it may
+                                                        also
+                                                        mean a reduced carbon footprint due to fewer food miles or the
+                                                        distance it has travelled. And in some cases, it cuts down on
+                                                        wasteful packaging. Additionally, it
+                                                        allows you to differentiate from your competitors which
+                                                        contributes to your positive brand
+                                                        image and reputation. This strengthens your local community and
+                                                        instils pride in local
+                                                        production. By creating a closer connection to how food is
+                                                        produced, you can establish an
+                                                        identity with the region which helps to win loyal customers.
                                                     </p>
                                                     <p class="justify1">
-                                                    Natürlich sind einige Produkte nicht an allen Orten verfügbar, wie z. B. Mangos, aber wenn ein Produkt vor Ort verfügbar ist, sollte es auch dort eingekauft werden, sofern dies sinnvoll ist.
+                                                        Naturally, some products will not be available in all
+                                                        localities, for example, mangoes in Germany.
+                                                        Although, when produce is available locally it should be
+                                                        prioritized wherever it makes
+                                                        sense.
                                                     </p>
                                                 </div>
                                             </div>
@@ -175,7 +235,7 @@
                                     </li>
 
           <li class="accordian2 accor">
-            <div class="collapsible__header">Saisonale Produkte</div>
+            <div class="collapsible__header">Seasonal Products</div>
             <div class="collapsible__content">
             <div class="container conx">
                                             <div class="row">
@@ -188,25 +248,40 @@
                                               
                                                 
                                                     <p class="justify1 mt-2">
-                                                    Natürlich sind einige Produkte nicht an allen Orten verfügbar, wie z. B. Mangos, aber wenn ein Produkt vor Ort verfügbar ist, sollte es auch dort eingekauft werden, sofern dies sinnvoll ist.
+                                                        People love seasonal products. Sweet, juicy strawberries,
+                                                        delicate asparagus or a new season lamb – depending on
+                                                        where we live, we have different experiences of seasonality.
+                                                        According to the OECD, seasonal products are those that
+                                                        are either not available on the market during certain seasons
+                                                        or periods of the year or are available through the year but
+                                                        with regular fluctuations in their quantities and prices that
+                                                        are linked to the season or time of the year.
                                                     </p>
                                            
                                                 <div class="col-md-12 mt-5 mb-2 yellow-block">
-                                                    <h5><strong>Warum ist es wichtig, saisonale Produkte einzukaufen?
-</strong></h5>
+                                                    <h5><strong>Why is it important to buy seasonal products?</strong></h5>
                                                     <p class="justify1">
                                                         <img src="assets/images/resp_sourcing/fruid-bowl.svg" class="img-fluid fruit-bowl">
-                                                        Saisonale Produkte wecken die Vorfreude auf eine bestimmte Jahreszeit. Viele Gäste warten mit Spannung auf saisonale Angebote, die es beispielsweise nur zur Spargelernte oder kurz vor Weihnachten gibt. Wenn Sie Ihre Speisekarte saisonal ausrichten, hat dies viele Vorteile. Es ist eine gute Gelegenheit, Ihr Unternehmen zu vermarkten und neue Gäste anzuziehen. Zudem können saisonale Lebensmittel preiswerter sein. Gleichzeitig schmecken Produkte der Saison deutlich besser und sind frischer, da sie weniger Zeit für Lagerung und Transport benötigen. Insgesamt können Sie Ihre lokalen Erzeugerbetriebe aktiv unterstützen, indem Sie sich von ihnen während der Saison beliefern lassen.
+                                                        The arrival of new season produce generates a real excitement and
+                                                        expectation of tastes to come. You can demonstrate how in touch
+                                                        you are with your food sources by updating your menu according
+                                                        to the season. This includes several advantages. It is a good
+                                                        opportunity to market your business and attract new customers by
+                                                        bringing in fresh tastes. Seasonal foods can also be cheaper, and
+                                                        usually taste better. New season produce is fresher due to reduced time in storage and transport
+                                                        and you can actively support your local growers by sourcing from them in season.
                                                     </p>
                                                     <p class="justify1">
-                                                    Natürlich sind dadurch einige Produkte nicht ganzjährig verfügbar. Aber wenn sie innerhalb der Saison verfügbar sind, sollten sie immer bevorzugt werden. Weitere Informationen finden Sie im Saisonkalender.
+                                                        Of course, some products will not be available in season, for example, strawberries in winter in
+                                                        Poland, but when produce is available in season, it should be prioritized wherever it makes sense.
+                                                        Check out the Seasonal Calendar for further information.
                                                     </p>
                                         </div>
 </div>
 </div>
           </li>
           <li class="accordian3 accor">
-            <div class="collapsible__header">Bio-Produkte</div>
+            <div class="collapsible__header">Organic</div>
             <div class="collapsible__content">
             <div class="container conx">
                                             <div class="row">
@@ -215,34 +290,74 @@
                                               <img src="assets/images/resp_sourcing/organic-farming.svg" class="img-fluid org-farming">
 </div>
                                                     <p class="justify1">                                                        
-                                                    Ökologischer Landbau bedeutet, dass Lebensmittel im Einklang mit der Natur erzeugt werden. Dies beinhaltet einen erhöhten Tierschutz, den Verzicht auf Medikamente und Verringerung der Pestizide, hin zu natürlichen Düngemitteln sowie den Verzicht auf gentechnisch veränderte Sorten. Es bezieht sich auf eine Landwirtschaft, die die Natur nicht beschädigt. Ökologisch hergestellte Produkte enthalten keine künstlichen Farb- und Konservierungsstoffe.
+                                                        Organic means working with nature to produce food. Farming
+                                                        organically means higher levels of animal welfare, not using
+                                                        medicines unless necessary, fewer pesticides, more natural
+                                                        fertilisers, no genetically modified breeds, and managing the land
+                                                        in a way it doesn’t impact the surrounding environment. Organic
+                                                        products don’t contain artificial colours and preservatives.
                                                     </p>
                                                     <p class="justify1">
-                                                    Bio-Produkte unterliegen in Europa strengen Auflagen. Es dürfen beispielsweise keine gentechnisch veränderten Organismen (GVO) und keine ionisierende Strahlung verwendet werden. GVO sind Organismen, bei denen das genetische Material in einer Weise verändert wurde, wie sie unter natürlichen Bedingungen durch Kreuzen oder natürliche Rekombination nicht vorkommt. Zudem ist ausschließlich ein begrenzter Einsatz von Kunstdünger, Herbiziden und Pestiziden erlaubt. Die Verwendung von Hormonen ist untersagt. Antibiotika dürfen nur eingeschränkt verwendet werden und auch nur dann, wenn es für die Gesundheit der Tiere notwendig ist. Diese Vorschriften dienen zum Schutz der Bodenfruchtbarkeit und der Gesundheit von Pflanzen und Tieren.
+                                                        Organic products in Europe are produced under strict
+                                                        requirements, such as no genetically modified organisms
+                                                        (GMOs), no ionising radiation, a limited use of artificial fertilisers,
+                                                        herbicides and pesticides, prohibited use of hormones and
+                                                        restricted use of antibiotics only when they are necessary for
+                                                        animal health. These rules are there to maintain soil fertility and
+                                                        the health of plants and animals.
                                                     </p>
                                                     <p class="justify1">
-                                                    Darum müssen die Betreibenden von Bio-Landwirtschaft ihre Betriebe anders führen, beispielsweise durch den Wechsel von angebauten Getreide-, Obst- und Gemüsesorten (eine andere Zucht pro Saison und Feld zur Erhaltung des Bodens). Es gilt den Anbau von stickstoffbindenden Pflanzen und anderen Güllepflanzen, die zur Wiederherstellung der Bodenfruchtbarkeit beitragen, sicher zu stellen und auf mineralischen Stickstoffdünger zu verzichten sowie die natürliche Schädlingsbekämpfung zu fördern. Dies ist wichtig für die resistenten Züchtungen und Techniken für eine natürliche Schädlingsbekämpfung, die Achtung der natürlichen Immunabwehr der Tiere und den Verzicht auf Massentierhaltung zur Erhaltung der Tiergesundheit.
+                                                        Because of this, organic producers farm differently, e.g., they rotate crops (a different crop per season, per
+                                                        field, to refresh the soil), cultivate nitrogen-fixing plants and other green manure crops to restore the fertility
+                                                        of the soil. Don´t use mineral nitrogen fertilisers, and encourage natural routes of pest control, for example,
+                                                        using resistant varieties, breeds and other techniques . Some insects that can help for natural pest control are
+                                                        ladybugs, ground beetles, hoverflies and more. Respect the natural immunological defence of animals and
+                                                        don’t use overstocking in order to maintain animal health.
 
                                                     </p>
                                                
 
                                                 <div class="col-md-12 mt-2 mb-2 yellow-block">
                                                     <h5>
-                                                        <strong>Warum ist es wichtig, Bio-Produkte zu kaufen?</strong>
+                                                        <strong>Why is it important to buy organic products?</strong>
                                                     </h5>
                                                     <p class="justify1">
                                                         <img src="assets/images/resp_sourcing/organic-products.svg" class="img-fluid fruit-bowl">
-                                                        Der Kauf von Bio-Produkten hat mehrere Vorteile. So geht beispielsweise mit dem ökologischen Landbau eine geringere Belastung für die Umwelt und eine bessere Tierhaltung einher. Bio-Betriebe verzeichnen eine größere Vielfalt an Wildtieren wie z. B. Schmetterlinge und schützen dadurch die Artenvielfalt. In einigen Fällen sind Bio-Produkte besser als die konventionelle Alternative. So enthält Fleisch von Rindern, die auf Weiden grasen können, etwa 50 % mehr Omega-3-Fettsäuren als nicht ökologisch erzeugtes Rindfleisch. Eier von Hühnern aus ökologischer Haltung haben ein geringeres Risiko der Kontamination mit Bakterien, die Lebensmittelvergiftungen verursachen.
+                                                        There are several advantages when you buy organic products. For
+                                                        example, organic farming means a reduced impact on the
+                                                        environment and better treatment of animals. Organic farms tend
+                                                        to
+                                                        have a greater diversity of wildlife such as butterflies and are
+                                                        better
+                                                        for biodiversity. In some instances, the organic product is
+                                                        better
+                                                        than
+                                                        the conventional alternative, for example, meat from grass-fed
+                                                        cattle
+                                                        contains around 50% more omega-3 fatty acids than that from
+                                                        cattle
+                                                        fed non-organic feed. Eggs from hens raised organically have a
+                                                        fewer
+                                                        chance of contamination
+                                                        by bacteria that cause food poisoning.
                                                     </p>
                                                     <p class="justify">
-                                                    Das Gegenteil der ökologischen Landwirtschaft ist die intensive Landwirtschaft. Dies kann zu Bodenerosion und dem Abfluss von Chemikalien in natürliche Wassersysteme führen und dazu, dass Unkraut und Insekten gegen Herbizide und Pestizide resistent werden. In der ökologischen Landwirtschaft werden keine synthetischen oder erdölbasierten Pestizide oder Düngemittel eingesetzt.
+                                                        The opposite of organic agriculture is intensive agriculture.
+                                                        This
+                                                        can cause soil erosion, chemical
+                                                        run-off into natural water systems and can mean some weeds and
+                                                        insects become resistant to
+                                                        herbicides and pesticides. Organic farming doesn’t rely on
+                                                        synthetic
+                                                        or petroleum-based
+                                                        pesticides or fertilizers.
                                                     </p>
 </div>                    
 </div>                        
 </div>
           </li>
           <li class="accordian2 accor">
-            <div class="collapsible__header">Faire Produkte</div>
+            <div class="collapsible__header">Ethically traded</div>
             <div class="collapsible__content"><div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
@@ -251,14 +366,25 @@
                                                 </div>
                                                 <div class="col-md-12 mb-2 mt-2">
                                                     <p class="justify1">
-                                                    Faire Produkte werden unter sozial fairen Bedingungen hergestellt und verkauft. Dies sorgt für bessere Lebens- und Arbeitsbedingungen für die Erzeuger. Sie werden fair bezahlt, nicht zur Arbeit gezwungen und Kinderarbeit wird verhindert. Auch die Gemeinde der Erzeuger wird unterstützt. Faire Produkte müssen mindestens acht vereinbarte Konventionen der Internationalen Arbeitsorganisation einhalten. Die Erzeuger werden außerdem regelmäßig kontrolliert, um sicherzustellen, dass sie die Konventionen weiterhin einhalten.
+                                                        Ethically traded products are manufactured and sold under fair conditions. This means better living and
+                                                        working standards of producers; they are paid fairly, not forced to work and child labour is prevented. The
+                                                        community around the producers is also supported. Ethically traded products have to, at a minimum, comply
+                                                        with the eight conventions agreed by the International Labour Organisation. The producers will also be
+                                                        checked regularly to make sure they continue to comply.
                                                     </p>
                                                 
                                                 <div class="col-md-12 mt-2 mb-2 yellow-block">
-                                                    <h5><strong>Warum ist es wichtig, auf fair produzierte Produkte zu achten?</strong></h5>
+                                                    <h5><strong>Why is it important to source ethically?</strong></h5>
                                                     <p class="justify1">
                                                         <img src="assets/images/resp_sourcing/fruit-seller-dollar.svg" class="img-fluid fruit-bowl">
-                                                        Viele Landwirtschaftsbetreibende erhalten keinen fairen Preis für ihre Erzeugnisse. Der Handel mit fair produzierten Produkten sorgt dafür, dass dieses Problem bekämpft wird. Die Arbeiter erhalten einen angemessenen Lohn, haben das Recht auf Tarifverhandlungen und arbeiten unter sicheren Bedingungen. Faire Produkte sind oft teurer als herkömmliche Produkte, aber ein Teil der Einnahmen wird in die Verbesserung der Erntequalität investiert. Dadurch ist die Produktion effizienter und die Bäume gesünder. Das kann sich direkt auf den Geschmack von Produkten wie Kaffee, Schokolade und Tee auswirken.
+                                                        Many farmers do not receive a fair price for what they produce.
+                                                        Ethical trading ensures that farmers receive a fair price for
+                                                        what they produce. Workers receive a living wage, have the
+                                                        right to collective bargaining and work in safe conditions. A
+                                                        part of the premium is reinvested into improving the quality of
+                                                        the crop – production is more efficient, and trees are healthier
+                                                        for example. You can therefore have a direct impact on the
+                                                        taste of the produce such as coffee, chocolate and tea.
                                                     </p>
                                                 </div>
                                             </div>
@@ -266,7 +392,7 @@
 
           </li>
           <li class="accordian3 accor">
-            <div class="collapsible__header">Tierwohl</div>
+            <div class="collapsible__header">Animal welfare</div>
             <div class="collapsible__content"> <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
@@ -275,27 +401,59 @@
                                                 </div>
                                                 <div class="col-md-12 mb-2 mt-2">
                                                     <p class="justify1">
-                                                    Tierwohl bedeutet noch mehr als nur Fläche. Tierwohl ist eine Bezeichnung für die Gesundheit und das Wohlbefinden von Tieren, insbesondere von Nutztieren. Das Tierwohl umfasst folgende Aspekte: Körperliche Gesundheit, die Ausführbarkeit von natürlichen Verhaltensweisen und das emotionale Wohlbefinden der Tiere. Es bedeutet daher auch, dass weniger Antibiotika und Medikamente benötigt werden, deren Rückstände in die Lebensmittel gelangen können. Dies wirkt sich positiv auf die Gesundheit der Konsumierenden aus. Gleichzeitig fördert es das Bewusstsein der Mitarbeitenden und wirkt sich darauf aus, wie sie Tiere behandeln.
+                                                        Animal welfare means that fewer animals occupy a given space which means there is less need for antibiotics and medicines whose residues can end up in food. This has a positive impact on the health of consumers. At the same time, it raises awareness among employees and affects how they treat animals.
                                                     </p>
                                                     <p class="justify1">
-                                                    Als Lebewesen, die Angst, Schmerz, Freude und Glück empfinden, bezieht sich das Wohlergehen von Tieren auf ihre körperliche Gesundheit, ihr geistiges Wohlbefinden und ihre Möglichkeit, sich artgerecht zu verhalten. Tiere sollten nicht leiden und schlecht behandelt werden. Ihnen sollten die "fünf Freiheiten" gewährt werden, d. h. sie sollten frei von Hunger und Durst, Unbehagen, Schmerzen, Verletzungen oder Krankheiten, Angst und Kummer sein und die Freiheit haben, artgerecht zu leben.
+                                                        As sentient creatures (capable of feeling fear, pain, pleasure
+                                                        and
+                                                        happiness) an animal’s welfare refers to its
+                                                        physical health, mental wellbeing and its ability to live and
+                                                        behave
+                                                        naturally. Animals shouldn’t be subject to
+                                                        suffering and poor welfare. They should be given the “five
+                                                        freedoms”
+                                                        which means they have freedom from
+                                                        hunger and thirst, discomfort, pain, injury or disease, fear &
+                                                        distress and have the freedom to express normal
+                                                        behaviour.
                                                     </p>
                                                 </div>
                                                 <div class="col-md-12 mt-2 mb-2 yellow-block">
                                                     <h5>
                                                         <strong>
-                                                        Warum ist es wichtig, Produkte einzukaufen,
-bei denen auf das Tierwohl geachtet wird?
+                                                            Why is it important to source products where<br>
+                                                            animal welfare is respected?
                                                         </strong>
                                                     </h5>
                                                     <p class="justify1">
                                                         <img src="assets/images/resp_sourcing/hen-egg-basket.svg" class="img-fluid hen-egg">
-                                                        Obwohl Tiere Gefühle empfinden, werden Milliarden von ihnen in überfüllten, Massentierhaltungen gehalten. Aufgrund der intensiven Haltung werden Antibiotika oft routinemäßig eingesetzt. Wenn die Abfälle aus solchen Betrieben nicht ordnungsgemäß behandelt werden, kann dies auch Auswirkungen auf die umliegende Natur und die Gemeinden haben. Die Bedingungen in vielen Massentierhaltungsbetrieben kann außerdem auch das Wohlbefinden der Tiere beeinträchtigen. Rassen, die für die Intensivhaltung verwendet werden, nehmen schneller an Gewicht zu, wodurch z. B. im Falle von Hühnern ihre Knochen schwächer werden, weshalb diese leicht brechen können. Daraus resultiert auch, dass viele Tiere nicht mehr für die Produktion von Fleisch genutzt werden können.
+                                                        Despite being sentient creatures, billions of animals are raised
+                                                        in
+                                                        crowded, inhuman factory farms. Due to its intensive nature,
+                                                        antibiotics are often used as part of the routine. Waste from
+                                                        such
+                                                        farms, when not treated properly, can also impact the
+                                                        surrounding
+                                                        landscape and communities. The conditions in many intensive
+                                                        farms can also harm the workers’ well-being. Breeds that are
+                                                        used
+                                                        for intensive farming grow faster and in the case of chickens
+                                                        mean
+                                                        their bones are weaker and
+                                                        can break easily. This also means more wasted animals that can’t
+                                                        be
+                                                        used for their meat.
                                                     </p>
                                                     <p class="justify1">
-                                                    Tiere, die mehr Raum für Bewegung haben, können ihr natürliches Verhalten ausleben, was zu weniger Stress führt. Wenn die Tiere sich frei bewegen können, stärkt das ihre Muskeln und führt zu einer besseren Fleischqualität. Das Fleisch von Tieren, die unter stressfreien Bedingungen geschlachtet werden, hat einen besseren Geschmack und eine bessere Konsistenz. Und Eier von Hühnern, die im Freien gehalten werden, haben ein geringeres Risiko einer Kontamination mit Salmonellen, die Lebensmittelvergiftungen verursachen können.
-
-
+                                                        Animals are able to display their natural behaviour which
+                                                        results in
+                                                        reduced stress. In fact, when
+                                                        animals are free to move their muscles naturally, better quality
+                                                        meat is produced. Animals that are
+                                                        slaughtered in stress-free conditions have better taste and
+                                                        texture.
+                                                        Eggs from hens raised outdoors have less chance of
+                                                        contamination by salmonella, which can cause food poisoning.
                                                     </p>
                                                 </div>
                                             </div>
@@ -303,7 +461,7 @@ bei denen auf das Tierwohl geachtet wird?
 </div>
           </li>
           <li class="accordian2 accor">
-            <div class="collapsible__header">Fisch und Meeresfrüchte aus nachhaltiger Zucht</div>
+            <div class="collapsible__header">Responsibly sourced fish and seafood</div>
             <div class="collapsible__content"> <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
@@ -312,23 +470,69 @@ bei denen auf das Tierwohl geachtet wird?
                                                 </div>
                                                 <div class="col-md-12 mb-2 mt-2">
                                                     <p class="justify1">
-                                                    Weltweit werden viele verschiedene Fischerei-Methoden angewandt, die häufig Schäden an den Ökosystemen unserer Meere, Flüsse und in ländlichen Gebieten verursachen. Der Einsatz von Netzen, die den Meeresboden zerstören, verursacht zum Beispiel enorme Schäden an Korallenriffen. Als Beifang werden Fische oder Meereslebewesen bezeichnet, die unabsichtlich gefangen werden, während die Fischer versuchen, andere Arten zu fischen. Der hohe Anteil an Beifang ist eine wesentliche Ursache für die Überfischung der Meere. Ein großer Teil des Beifangs wird nicht für den Verzehr verwendet und die verletzten oder toten Tiere werden von den Fischern in der Regel wieder ins Meer geworfen.
+                                                        According to the MSC (Marine Stewardship Council), sustainable
+                                                        fishing means leaving enough fish in the
+                                                        ocean, respecting habitats, and ensuring people who depend on
+                                                        fishing can maintain their livelihoods.
                                                     </p>
                                                     <p class="justify1">
-                                                    Nachhaltiger Fisch kann wild gefangen oder in Zuchtbetrieben (Aquakultur) aufgezogen werden. Beim Wildfang ist es wichtig, dass keine gefährdeten Arten gefischt und die Fische nicht in überfischten Regionen gefangen werden. Insgesamt dürfen die Fischfangmethoden die Umwelt nicht schädigen. Fisch aus Aquakulturen ist nach der traditionellen Fischerei die wichtigste Bezugsquelle. Nachhaltig gezüchteter Fisch ist weniger anfällig für Verunreinigungen durch Chemikalien, die in verschmutzten Gewässern zu finden sind. Zudem ist der Fisch frei von schädlichen Antibiotika- und Medikamentenrückständen.
+                                                        Many different fishing methods are used around the world, and
+                                                        they
+                                                        frequently cause damage to the
+                                                        ecosystems of our seas, rivers, and rural areas. For example,
+                                                        the
+                                                        use of nets that destroy the seabed cause
+                                                        tremendous damage to coral reefs. By-catch is fish or marine
+                                                        life
+                                                        that is caught unintentionally in nets while
+                                                        fishermen are trying to catch other types of fish. The high
+                                                        level of
+                                                        by-catch is a significant cause of
+                                                        overfishing. A large amount of by-catch is not used for
+                                                        consumption
+                                                        and is generally thrown back into the
+                                                        sea by fishermen as injured or dead discards.
+                                                    </p>
+                                                    <p class="justify1">
+                                                        Sustainable fish can be caught in the wild or harvested on farms
+                                                        (aquaculture). When caught in the wild, it
+                                                        is important that endangered species are not captured, fish are
+                                                        not
+                                                        caught in over-fished regions, and the
+                                                        fishing methods don’t cause damage to the environment. Fish
+                                                        farmed
+                                                        using aquaculture is the most
+                                                        important source of fish after traditional fishing. Fish that is
+                                                        farmed sustainably is less prone to
+                                                        contamination from chemicals found in polluted waters due to the
+                                                        way
+                                                        the environment is managed. The
+                                                        fish is also free of harmful antibiotic and medicine residues.
                                                     </p>
                                                 </div>
                                                 <div class="col-md-12 mt-2 mb-2 yellow-block">
                                                     <div class="row">
                                                         <div class="col-md-8">
                                                             <h5>
-                                                                <strong>Wieso ist es wichtig, nachhaltigen Fisch einzukaufen?
-</strong>
+                                                                <strong>Why is it important to buy sustainable fish?</strong>
                                                             </h5>
                                                             <p class="justify1">
 
-                                                            Überfischung und Ausbeutung der Fischbestände sind ein ernstes Problem. Schätzungen zufolge sind an manchen Orten bereits 90 % der Fischbestände entweder überfischt oder an ihrer Kapazitätsgrenze. Dies hat Auswirkungen auf den Lebensunterhalt der Menschen, die von der Fischerei abhängig sind. Durch den Kauf von nachhaltigem Fisch können Gastronomiebetreibende dazu beitragen, die Fischbestände für künftige Generationen zu erhalten. Wenn wir weiterhin Fisch nicht nachhaltig fangen, wird es bald keinen bezahlbaren Fisch mehr geben. Die verbleibenden Fischbestände würden sich als Luxusprodukt etablieren und nur noch zu deutlich höherem Preisen erhältlich sein.
-                                                            Die  <a href="https://www.metro.de/nachhaltigkeit/lieferkette-rueckverfolgbarkeit/pro-trace" target="_blank">Rückverfolgbarkeit</a> von Produkten ist ein sehr wichtiger Bestandteil der nachhaltigen Fischbeschaffung. Ein solides Rückverfolgbarkeitssystem überprüft das Fanggebiet und die Art und Weise, wie der Fisch gefangen wurde. Zudem wird geprüft, ob der Fisch aus illegalem Fischfang stammt. Wenn die nachhaltigen Richtlinien eingehalten wurden, arbeiten Fischer sowohl bei gefangenem als auch bei gezüchtetem Fisch in einem sicheren Umfeld und werden angemessen entlohnt. Auf diese Weise wird die Umwelt respektvoll behandelt und die lokalen Gemeinden werden unterstützt.
+                                                                Overfishing and exploitation of fish stocks is a serious
+                                                                problem,
+                                                                and
+                                                                it is estimated that in some places 90% of fish stocks are
+                                                                either
+                                                                overfished or at maximum capacity. This impacts the livelihoods
+                                                                of
+                                                                people who rely on fishing and by extension there are adverse
+                                                                effects your ability to serve fish. By sourcing sustainable fish
+                                                                restaurateurs can help to preserve fish stocks for future
+                                                                generations.
+                                                                If we carry on fishing unsustainably there will be no fish left
+                                                                and
+                                                                what is left will be expensive.
+                                                                The <a href="https://www.metro.de/nachhaltigkeit/lieferkette-rueckverfolgbarkeit/pro-trace" target="_blank">traceability</a> of products is a very important part of sourcing fish sustainably. A robust traceability system means that fish doesn’t come from illegal fishing, the exact catching area is known and the way it is produced is clear. If sustainability guidelines are followed, for both wild caught and farmed fish, the fishermen work in a safe environment and are compensated adequately. The environment is carefully managed and the local communities are supported.
                                                             </p>
                                                         </div>
                                                         <div class="col-md-4">

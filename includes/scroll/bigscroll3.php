@@ -245,7 +245,7 @@
               <div class="item">
                 <div class="inner-item">
                     <h3>Use returnable deposit packaging and returnable plastic carrier packaging</h3>
-                    <img src="assets/images/safe_food/pw-7.svg" />
+                    <img style="height:25px;" src="assets/images/safe_food/pw-7.svg" />
                   <button class="modal-toggle13 read-more-btn">
                   Read more
                   </button>
@@ -282,7 +282,7 @@
                 </div>
               </div>
 
-              <div class="item">
+              <!-- <div class="item">
                 <div class="inner-item">
                     <h3>SET A STARTING POINT AND MAKE AN ACTION PLAN</h3>
                     <img src="assets/images/safe_food/e2.svg" />
@@ -290,7 +290,7 @@
                   Read more
                   </button>
                 </div>
-              </div>
+              </div>-->
 
 
               <div class="item">
@@ -298,6 +298,15 @@
                     <h3>RETHINK YOUR USAGE OF PLASTIC FILM</h3>
                     <img src="assets/images/safe_food/pw-1.svg" />
                   <button class="modal-toggle19 read-more-btn">
+                  Read more
+                  </button>
+                </div>
+              </div> 
+              <div class="item">
+                <div class="inner-item">
+                    <h3>ENGAGE YOUR STAFF</h3>
+                    <img src="assets/images/safe_food/pw-11.svg" />
+                  <button class="modal-toggle20 read-more-btn">
                   Read more
                   </button>
                 </div>
@@ -483,7 +492,7 @@
     </div>
   </div>
 
-  <div class="introdiv-modal">
+  <div class="introdiv-modal18">
     <div class="modal-overlay1 modal-toggle18"></div>
     <div class="modal-wrapper1 modal-transition1">
       <button class="modal-close1 modal-toggle18">
@@ -506,7 +515,7 @@
       </div>
     </div>
   </div>
-  <div class="introdiv-modal">
+  <div class="introdiv-modal19">
     <div class="modal-overlay1 modal-toggle19"></div>
     <div class="modal-wrapper1 modal-transition1">
       <button class="modal-close1 modal-toggle19">
@@ -579,6 +588,32 @@
     </div>
   </div>
 
+
+
+  <div class=" my-modal">
+    <div class="modal-overlay1 modal-toggle20"></div>
+    <div class="modal-wrapper1 modal-transition1">
+      <button class="modal-close1 modal-toggle20">
+        <svg class="icon-close icon" viewBox="0 0 32 32">
+          <use xlink:href="#icon-close">
+            <g id="icon-close">
+              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
+            </g>
+          </use>
+        </svg>
+      </button>
+      <div class="modal-body1">
+
+        <div class="modal-content1 flexi-cont">
+          <h4>
+            <a class="nodeco" href="introduction-to-responsible-sourcing-eng.php">Engage your staff
+</a>
+          </h4>
+          <p>The use of plastic is closely linked to habits. Therefore, it is essential to communicate the necessity and the benefit of using less plastic to your staff. Involve them in regular updates and briefings on your plastic use policy, place posters in easy-to-see places to remind them of new habits, and let them know that input from each one is needed and appreciated.</p>
+        </div>
+      </div>
+    </div>
+  </div>
   <div class=" use-modal">
     <div class="modal-overlay1 modal-toggle12"></div>
     <div class="modal-wrapper1 modal-transition1">
@@ -847,10 +882,14 @@
 
       $('.modal-toggle18').on('click', function(e) {
         e.preventDefault();
-        $('.introdiv-modal').toggleClass('is-visible');
+        $('.introdiv-modal18').toggleClass('is-visible');
       });
       $('.modal-toggle19').on('click', function(e) {
         e.preventDefault();
-        $('.introdiv-modal').toggleClass('is-visible');
+        $('.introdiv-modal19').toggleClass('is-visible');
+      });
+      $('.modal-toggle20').on('click', function(e) {
+        e.preventDefault();
+        $('.my-modal').toggleClass('is-visible');
       });
     </script>

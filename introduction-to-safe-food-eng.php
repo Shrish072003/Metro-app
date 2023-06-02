@@ -72,7 +72,6 @@
     background: none !important;
 }
 .section3-inner3 .left-content h3, .section3-inner .left-content h3 {
-    font-size: 25px !important;
     text-align: center;
 }
 .section-slider2 .inner-item button {
@@ -208,7 +207,7 @@
 
             <section class="section3-inner align-normal" id="option5" data-scrl="The greater impact">
                 <div class="left-content">
-                    <h3>The <br> GREATER <br> impact </h3>
+                    <h3>THE <br> GREATER <br> IMPACT </h3>
                 </div>
                 <div class="right-content">
                     <p>

@@ -142,6 +142,10 @@
 .mb-2 {
     margin-bottom: 5rem !important;
 }
+.mb-3 {
+    margin-bottom: 1rem !important;
+    margin-top: -6.5rem !important;
+}
 
      }
     </style>
@@ -258,7 +262,12 @@
                 </div>
             </section>
 
-            <section class="track-and_talk no-print" id="option3" data-scrl="Tipps für Einsteiger, um Wasser zu sparen">
+
+            <section class="mobile_show">
+        <?php include "includes/scroll_deu/bigscroll14_deu.php"; ?>
+        </section>
+
+            <section class="track-and_talk no-print desk_show" id="option3" data-scrl="Tipps für Einsteiger, um Wasser zu sparen">
                 <div class="container-fully">
                     <div class="row">
                         <div class="col-md-12 text-center">

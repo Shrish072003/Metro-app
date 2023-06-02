@@ -90,36 +90,35 @@
               <div class="item">
                 <div class="inner-item">
                     <div>
-                        <h3>Benefits
-</h3>
+                        <h3>Vorteile</h3>
                   </div>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle9">
-                  Lower costs
+                  Kosten-einsparungen
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle8">
-                  Positive image
+                  Status eines verantwortungs-vollen Unternehmens
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle10">
-                  Responsible member of community
+                  Positive Auswirkungen auf die Umwelt
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle12">
-                  Positive impact on local and global environment
+                  Verantwor-tungsvolles Mitglied der Gemeinschaft
                   </button>
                 </div>
               </div>

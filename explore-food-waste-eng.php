@@ -648,7 +648,7 @@
                     <div class="col-md-10 offset-md-1 mt-4">
                         <div class="th-content-wrapper">
                             <div class="row">
-                                <div class="col-md-3 text-center zdiv mobile_nonedis">
+                                <div class="col-md-3 text-center zdiv desk_show">
                                     <div class="fruits-inner ">
                                         <img src="assets/images/thermometer/fuits-icon.svg" class="img-fluid list-icon1" />
                                     </div>
@@ -700,7 +700,7 @@
 
                                     </div>
                                 </div>
-                                <div class="col-md-3 text-center zdiv mobile_nonedis">
+                                <div class="col-md-3 text-center zdiv desk_show">
                                     <div class="vegetables-inner">
                                         <img src="assets/images/thermometer/vegetables-icon.svg" class="img-fluid list-icon1" />
                                     </div>
@@ -713,7 +713,7 @@
 
 
                     <div class="col-md-12 mt-4">
-                    <div class="col-md-3 text-center zdiv">
+                    <div class="col-md-3 text-center zdiv mobile_show">
                                     <div class="fruits-inner ">
                                         <img src="assets/images/thermometer/fuits-icon.svg" class="img-fluid list-icon1">
                                     </div>
@@ -743,7 +743,7 @@
                             </div>
                             <div class="col-md-6">
                                 <div class="veg12">
-                                <div class="col-md-3 text-center zdiv">
+                                <div class="col-md-3 text-center zdiv mobile_show">
                                     <div class="vegetables-inner">
                                         <img src="assets/images/thermometer/vegetables-icon.svg" class="img-fluid list-icon1" />
                                     </div>

@@ -215,9 +215,11 @@
             <div class="slider2">
               <div class="item">
                 <div class="inner-item">
-                    <h3>BUY LOCALLY</h3>
+                    <h3>Kaufen Sie von lokalen Lieferanten</h3>
                     <img src='../../assets/images/safe_food/s-13.svg' />
-                    <p>Connect regularly with your suppliers</p>
+                    <p>Beziehen Sie Ihre saisonalen Produkte vor Ort.
+
+</p>
                     <!-- <button class="modal-changed24 read-more-btn">
                   Read more
                   </button> -->
@@ -225,9 +227,11 @@
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>TALK TO YOUR SUPPLIER</h3>
+                    <h3>Sprechen Sie mit Ihrem Lieferanten</h3>
                     <img src="../../assets/images/safe_food/s-14.svg" />
-                    <p>Engage with your suppliers to know more about the measures they take to ensure fair working conditions</p>
+                    <p>Fragen Sie Ihre Lieferanten danach, welche Maßnahmen ergriffen werden, um faire Arbeitsbedingungen zu gewährleisten.
+
+</p>
                   <!-- <button class="modal-changed9 read-more-btn">
                   Read more
                   </button> -->
@@ -235,9 +239,11 @@
               </div>
               <div class="item">
                 <div class="inner-item">
-                <h3>SHARE WHAT YOU KNOW</h3>
+                <h3>Teilen Sie Ihr Wissen</h3>
                     <img src="../../assets/images/safe_food/s-15.svg" />
-                    <p>Share what you have learned with your supplier</p>
+                    <p>Teilen Sie mit Ihrem Lieferanten, was Sie bereits gelernt haben.
+
+</p>
                   <!-- <button class="modal-changed8 read-more-btn">
                   Read more
                   </button> -->
@@ -245,9 +251,10 @@
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>TRAIN AND EMPOWER YOUR STAFF</h3>
+                    <h3>Bleiben Sie in Kontakt</h3>
                     <img src="../../assets/images/safe_food/sf-4.svg" />
-                    <p>Connect regularly with your suppliers</p>
+                    <p>Treten Sie regelmäßig mit Ihren Lieferanten in Kontakt.
+</p>
                   <!-- <button class="modal-changed8 read-more-btn">
                   Read more
                   </button> -->

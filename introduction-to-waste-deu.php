@@ -71,10 +71,6 @@
 
     background: none !important;
 }
-.section3-inner3 .left-content h3, .section3-inner .left-content h3 {
-    font-size: 25px !important;
-    text-align: center;
-}
 .section-slider2 .inner-item button {
     padding-top: 0;
     color: #000;
@@ -87,6 +83,10 @@
 @media screen and (max-width: 600px) {
 .section4 .mt-1{
     margin-top: 0px !important;
+}
+.left-content {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
 }
 }
     </style>
@@ -160,9 +160,11 @@
                 </div>
             </div>
         </section>
+        <section class="mobile_show">
+        <?php include "includes/scroll_deu/scroll8_deu.php"; ?>
+        </section>
 
-
-        <section class="section3-grid no-print" id="option4" data-scrl="Vorteile">
+        <section class="section3-grid no-print desk_show" id="option4" data-scrl="Vorteile">
             <ul>
                 <li>
                     <p class="font-size-30px">Vorteile</p>
@@ -227,7 +229,7 @@
         <section class="section3-inners no-print" id="option5" data-scrl="Ein gesellschaftlicher Trend">
             <div class="section3-inner align-normal big_issues">
                 <div class="left-content">
-                    <h3>EIN<br>GESELLSCHAFTLICHER<br>TREND</h3>
+                    <h3 style="overflow-wrap: break-word;">EIN<br> GESELLSCHAFTLICHER<br> TREND</h3>
                 </div>
                 <div class="right-content">
                     <p>Weltweit sind die Mülldeponien überfüllt. Bei der Zersetzung von Abfällen entsteht Methan, ein Treibhausgas, das die globale Erderwärmung und den Klimawandel verstärkt. Wenn Deponien falsch geführt werden, sickern Chemikalien in den umliegenden Boden und damit in das Grundwasser. Das stellt ein Problem für die Natur und unsere Gesundheit dar. Restaurants können enorme Mengen an Abfall erzeugen und sollten auf die Vermeidung von unnötigen Abfällen achten.</p>

@@ -1,5 +1,4 @@
-
-  <link rel="stylesheet" href="slider.css">
+<link rel="stylesheet" href="slider.css">
   <style>
     .section-lena-inner {
       padding-left: 0;
@@ -91,39 +90,37 @@
               <div class="item">
                 <div class="inner-item">
                     <div>
-                        <h3>Vorteile
-</h3>
+                        <h3>Vorteile</h3>
                   </div>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle9">
-                  Niedrigere Kosten
+                  Möglichkeit zur Gewinn-steigerung
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle8">
-                  Weniger Umwelt-Belastungen durch geringeren Verbrauch fossiler Brennstoffe
+                  Verbesserung des Lebens-unterhalts von Bauern vor Ort und weltweit
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle10">
-                  Verantwortungs-
-bewusstes Mitglied der Gemeinschaft
+                  Verwendung von frischen und leckeren Produkten
+
+
                   </button>
                 </div>
               </div>
-              <!-- <div class="item">
+              <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle12">
-                    Use less
-                    and
-                    better meat
+                  Flexible Anpassung der Speisekarte an die Saison
                   </button>
                 </div>
               </div>
@@ -131,7 +128,7 @@ bewusstes Mitglied der Gemeinschaft
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle13">
-                    Go for vegetables
+                  Gewinnung neuer Gäste
                   </button>
                 </div>
               </div>
@@ -139,7 +136,7 @@ bewusstes Mitglied der Gemeinschaft
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle14">
-                    Use sustainable fish
+                  Positive Arbeitsmoral des Personals
                   </button>
                 </div>
               </div>
@@ -147,8 +144,7 @@ bewusstes Mitglied der Gemeinschaft
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle15">
-                    Experiment with plant
-                    proteins
+                  Verbesserung des Rufs Ihres Restaurants
                   </button>
                 </div>
               </div>
@@ -156,7 +152,7 @@ bewusstes Mitglied der Gemeinschaft
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle16">
-                    Avoid highly processed ingredients
+                  Wettbewerbs-vorteile
                   </button>
                 </div>
               </div>
@@ -164,26 +160,34 @@ bewusstes Mitglied der Gemeinschaft
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle17">
-                    Put food on the menu
-                    that does justice to everyone
+                  Regionale Produkte haben kürzere Lieferketten
                   </button>
                 </div>
               </div>
 
 
-              <div class="item">
+               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle18">
-                    Introduce diverse grains
+                  Erfüllung von gesetzlichen Vorschriften
                   </button>
                 </div>
-              </div> -->
+              </div>
+
+
+              <!--<div class="item">
+                <div class="inner-item">
+                  <button class="modal-toggle19">
+                  Save natural resources
+                  </button>
+                </div>
+              </div>
 
 
             </div>
           </div>
 
-        </div>
+        </div> -->
       </section>
 
   
@@ -433,4 +437,13 @@ bewusstes Mitglied der Gemeinschaft
         e.preventDefault();
         $('.introdiv-modal').toggleClass('is-visible');
       });
+      $('.modal-toggle19').on('click', function(e) {
+        e.preventDefault();
+        $('.introdiv-modal').toggleClass('is-visible');
+      });
     </script>
+
+
+      
+
+

@@ -94,7 +94,7 @@
               <div class="item">
                 <div class="inner-item">
                     <div>
-                        <h3>Benefits
+                        <h3>Vorteile
 </h3>
                   </div>
                 </div>
@@ -102,28 +102,28 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle9">
-                  Reduce costs
+                  Kosten senken
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle8">
-                  Increase efficiency
+                  Effizienter sein
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle10">
-                  Gain knowledge
+                  Erkenntnisse sammeln
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle12">
-                  Comply with regulations
+                  Vorschriften einhalten
                   </button>
                 </div>
               </div>
@@ -131,7 +131,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle13">
-                  Boost staff morale
+                  Arbeitsmoral steigern
                   </button>
                 </div>
               </div>
@@ -139,7 +139,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle14">
-                  Increase customer loyalty (better reviews)
+                  Treue von Gästen erhöhen (was auch zu besseren Bewertungen führt)
                   </button>
                 </div>
               </div>
@@ -147,7 +147,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle15">
-                  Gain new customers
+                  Neue Gäste gewinnen
                   </button>
                 </div>
               </div>
@@ -155,7 +155,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle16">
-                  Build a positive image
+                  Ruf verbessern
                   </button>
                 </div>
               </div>
@@ -163,7 +163,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle17">
-                  Build a positive community impact
+                  Positiven Einfluss auf Ihre Community ausüben
                   </button>
                 </div>
               </div>
@@ -172,7 +172,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle18">
-                  Prevent pollution of local and global environment
+                  Verschmutzung der lokalen und globalen Umwelt verhindern
                   </button>
                 </div>
               </div>
@@ -181,7 +181,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle19">
-                  Save natural resources
+                  Natürliche Ressourcen schonen
                   </button>
                 </div>
               </div>

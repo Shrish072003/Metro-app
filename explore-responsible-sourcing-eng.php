@@ -34,6 +34,8 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  <link rel="stylesheet" href="likebtn.css">
+
   <link rel="stylesheet" href="assets/css/navigation.css">
   <link href="assets/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/css/normalize.min.css" rel="stylesheet">
@@ -1331,7 +1333,7 @@
 
 
 <!--------Comprehensive Guide START------->
-<?php include "includes\scroll\scroll.php"; ?>
+<?php include "scroll.php"; ?>
 
             <!--------Comprehensive Guide START------->
 

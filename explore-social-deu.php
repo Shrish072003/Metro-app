@@ -76,9 +76,7 @@
             height: 22rem;
         }
 
-        .tab-text-holder1 {
-            height: 22rem;
-        }
+
 
 
         .img-holder2 {
@@ -385,6 +383,9 @@
         .simple_wayTo_preventing .container-fluid .text-center img{
             margin-top: 0px !important;
         }
+        .mobile_show1{
+    display: block !important;
+}
     }
     .custom__select:before{
             background:#ffe500;
@@ -400,10 +401,10 @@
     width: 100%;
     margin-top: 10px;
     height:430px;
-}.tab-text-holder1 {
-    height: 48rem;
 }
-
+.mobile_show1{
+    display: none;
+}
     </style>
 </head>
 
@@ -416,7 +417,7 @@
             <!--BANNER-->
             <section class="section1 no-print" id="option1" data-scrl="Wie Sie sich als Gastronomiebetreibende sozial engagieren können">
                 <div class="left-content no-print">
-                    <h3 style="text-transform: none;">Wie Sie sich als Gastronomiebetreibende<br>sozial engagieren können</h3>
+                    <h3 style="text-transform: none; overflow-wrap: break-word;">Wie Sie sich als Gastronomiebetreibende<br>sozial engagieren können</h3>
                     <img src="assets/images/safe_food/s-1.svg" class="img-fluid mobile_show">
                     <h4>Soziales Engagement in der Gastronomie</h4>
                     <p>Als Gastronomin und Gastronom haben Sie großen Einfluss auf soziale Belange. Soziales Engagement beschränkt sich hierbei nicht nur auf die Mitarbeitenden eines Restaurants, sondern es bezieht sich auch darauf, wie sich das Restaurant vor Ort engagiert und wie die Lieferanten behandelt werden. Wichtig ist: Wer in der Gastronomie arbeitet, sollte sozial- und krankenversichert sein und erwarten können, dass sein Gehalt pünktlich ausgezahlt wird. Leider erfahren nicht alle Beschäftigten im Gastgewerbe diesen Schutz.</p>
@@ -504,10 +505,14 @@
                     <div class="container-fluid">
                         <p class="text-center"><img src="./assets/images/safe_food/s-new.svg" style="width: 30rem;margin-top: -15rem;"></p>
                         <h3 class="wayT0Title" style="color:#000;margin-top: 0;">Die 7 Grundrechte</h3>
+                        <section class="mobile_show1">
 
 
+<?php include "includes\scroll_deu\bigscroll6_deu.php"; ?>
+</section>
 
-                        <div class="row">
+
+                        <div class="row desk_show">
                             <div class="col-md-12 mb-5">
                                 <div class="pageSlider-container">
                                     <div class="pageSlider-container-inner">
@@ -726,7 +731,103 @@
                         <p class="text-center">Es gibt drei Wege, um ein sozial engagiertes Unternehmen zu führen. Dies geschieht durch Ihre Mitarbeitenden, Ihre<br>Lieferanten und Ihre lokale Gemeinde.</p>
 
                     </div>
-                    <div class="row mt-5">
+
+
+                    <section class="mobile_show1">
+  <div class="accordion">
+    <div class="accordion-item">
+      <div class="accordion-header">Beziehen Sie Ihre Mitarbeitenden mit ein</div>
+      <div class="accordion-content">
+        <div>
+          
+          <div class="row">
+            <div class="col-md-3 offset-md-1">
+                <div class="three-step_img">
+                    <img src="assets/images/safe_food/Asset 9.png" class="img-fluid">
+                </div>
+            </div>
+            <div class="col-md-6 offset-md-1">
+                <div class="three-step_para">
+                <p>Als Arbeitgeber erreichen Sie nachhaltige Arbeitsbedingungen, indem:</p>
+
+              <ol>
+                  <li>Sie die nationale Arbeitsgesetzgebung einhalten.</li>
+                  <li>Sie die grundlegenden Menschenrechte Ihrer Mitarbeitenden gewährleisten.</li>
+              </ol>
+              <p class="mt-0">
+                <strong>Die sieben Grundrechte, die von der UN definiert wurden, können Ihnen dazu als Leitfaden dienen.</strong>
+<iframe src="includes/scroll_deu/bigscroll7_deu.php" height="430px"></iframe>
+                    </p>
+                </div>
+            </div>
+        </div>
+        
+
+        </div>
+      </div>
+    </div>
+    <div class="accordion-item ">
+      <div class="accordion-header">Treten Sie mit Ihren Lieferanten in Kontakt</div>
+      <div class="accordion-content">
+        <div>
+
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="img-holder1">
+                        <div class="img-holder1-inner">
+                            <img src="assets/images/safe_food/s-11.svg" class="tabc-image1">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="tab-text-holder1">
+                        <div class="tab-text-holder1-inner">
+                            <p>
+                            Arbeitnehmendenrechte in der Lieferkette sind in fast allen Ländern ein Thema. Sie können etwas bewirken, indem Sie faire Arbeitsbedingungen bei Ihren Lieferanten fordern. Dies fördert den sozial nachhaltigen Einkauf, durch den Sie auf einer anderen Ebene der Lebensmittelindustrie etwas bewirken können.
+                            </p>
+                            <p class="mt-0"><strong>Orientieren Sie sich an den folgenden Schritten:</strong></p>
+                            <iframe src="includes/scroll_deu/bigscroll8_deu.php" style="height:460px !important;"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    
+        </div>
+        </div>
+
+    <div class="accordion-item">
+      <div class="accordion-header">Treten Sie in engen Kontakt mit Ihrer Gemeinde</div>
+      <div class="accordion-content">
+        <div>
+
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="img-holder1">
+                        <div class="img-holder1-inner">
+                            <img src="assets/images/safe_food/s-16.svg" class="tabc-image1">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="tab-text-holder1">
+                        <div class="tab-text-holder1-inner">
+                            <p>Die Beziehung zu Ihrer lokalen Gemeinde ist von entscheidender Bedeutung und kann Ihnen dabei helfen, Krisen zu meistern. Ihr Personal wird sich eher für Ihr Restaurant engagieren, wenn Ihr Betrieb einen festen Bestandteil ihres Lebens ausmacht. </p>
+                            <p class="mt-4">
+                                <strong>Wenn Sie einen aktiven Beitrag für die Gemeinschaft leisten möchten, helfen Ihnen die folgenden Schritte:</strong>
+                            </p>
+                            <iframe src="includes/scroll_deu/bigscroll9_deu.php" ></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+</section>
+
+
+
+                    <div class="row mt-5 desk_show">
                         <div class="test">
                             <div class="tab-container-one">
                                 <ul class="nav nav-tabs" id="myTab" role="tablist">
@@ -1599,6 +1700,24 @@
             return false;
         });
     </script>
+        <script>
+const accordionItems = document.querySelectorAll('.accordion-item');
+
+accordionItems.forEach(item => {
+  item.addEventListener('click', () => {
+    // Toggle active class on the clicked item
+    item.classList.toggle('active');
+
+    // Hide all other accordion items
+    accordionItems.forEach(otherItem => {
+      if (otherItem !== item) {
+        otherItem.classList.remove('active');
+      }
+    });
+  });
+});
+
+</script>
 </body>
 
 </html>

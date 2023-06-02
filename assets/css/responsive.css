@@ -263,6 +263,9 @@
     .mid-highlight h5 {
         font-size: 16px;
     }
+    .slick-slide .inner-item h3{
+        text-transform:uppercase !important;
+    }
  
    }
    html {

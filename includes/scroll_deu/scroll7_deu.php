@@ -90,36 +90,35 @@
               <div class="item">
                 <div class="inner-item">
                     <div>
-                        <h3>Benefits
-</h3>
+                        <h3>Vorteile</h3>
                   </div>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle9">
-                  Easily changeable with the season
+                  Leicht veränderbar je nach Jahreszeit
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle8">
-                  Save costs with plant based dishes
+                  Kosten sparen mit pflanzlichen Gerichten
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle10">
-                  Increase profit with better meat
+                  Höherer Gewinn durch besseres Fleisch
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle12">
-                  Stand out from the competition
+                  Abheben von der Konkurrenz
                   </button>
                 </div>
               </div>
@@ -127,7 +126,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle13">
-                  Keep up with social trends
+                  Mit gesellschaft-lichen Trends gehen
                   </button>
                 </div>
               </div>
@@ -135,7 +134,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle14">
-                  Cater to new costumers
+                  Neue Kundinnen und Kunden ansprechen
                   </button>
                 </div>
               </div>
@@ -143,7 +142,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle15">
-                  Stable, profitable business
+                  Stabiles, rentables Geschäft
                   </button>
                 </div>
               </div>
@@ -151,7 +150,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle16">
-                  Revive the local economy
+                  Belebung der lokalen Wirtschaft
                   </button>
                 </div>
               </div>
@@ -159,7 +158,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle17">
-                  Varied and delicious dishes
+                  Abwechslungs-reiche und köstliche Gerichte
                   </button>
                 </div>
               </div>
@@ -168,7 +167,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle18">
-                  Positive, restorative impact on local community and global environment
+                  Positive Auswirkungen auf die lokale Gemeinschaft und die globale Umwelt
                   </button>
                 </div>
               </div>

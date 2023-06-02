@@ -89,10 +89,7 @@
 
     background: none !important;
 }
-.section3-inner3 .left-content h3, .section3-inner .left-content h3 {
-    font-size: 25px !important;
-    text-align: center;
-}
+
 .section-slider2 .inner-item button {
     padding-top: 0;
     color: #000;
@@ -126,6 +123,9 @@
 }
 .section2 {
     padding: 20px 0 !important;
+}.section3-inner3 .left-content h3, .section3-inner .left-content h3 {
+    font-size: 25px !important;
+    text-align: center;
 }
 }
     </style>
@@ -194,7 +194,11 @@
                         </div>
                     </div>
                 </section>
-                <section id="option4" data-scrl="Vorteile">
+
+                <section class="mobile_show">
+        <?php include "includes/scroll_deu/scroll7_deu.php"; ?>
+        </section>
+                <section class="desk_show" id="option4" data-scrl="Vorteile">
                     <div class="section3-grid">
                         <ul>
                             <li>
@@ -255,7 +259,8 @@
                 <section id="option5" data-scrl="Ein gesellschaftlicher Trend">
                     <div class="section3-inner3">
                         <div class="left-content">
-                            <h3>EIN<br>GESELLSCHAFTLICHER<br>TREND</h3>
+                            <h3 style="overflow-wrap: break-word;
+">EIN<br> GESELLSCHAFTLICHER<br> TREND</h3>
                         </div>
                         <div class="right-content">
                             <p>Neben einer wachsenden Zahl von Stammkundinnen und -kunden sorgt sich die jüngere Generation um die soziale Gerechtigkeit, was zu einem starken Trend hin zu umweltfreundlichen Produkten und Dienstleistungen beiträgt. Da eine von drei Mahlzeiten außer Haus verzehrt wird, können Sie als Gastronomin oder Gastronom durch die Auswahl Ihrer Gerichte einen echten Einfluss auf die Gesundheit Ihrer Gäste und die Umwelt haben.</p>
@@ -287,7 +292,7 @@
                             <a href="explore-sustainable-menu-deu.php" class="read-more" target="_self">Weiterlesen</a>
                         </div>
                     </div>
-                    <img class="right-img-back disable-mobile" src="assets/images/know-svg.svg">
+                    <img class="right-img-back disable-mobile mobile_show" src="assets/images/know-svg.svg">
                     <div class="right-content desk_show">
                         <img src="assets/images/know-svg.svg" />
                     </div>

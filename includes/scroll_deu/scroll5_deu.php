@@ -90,36 +90,35 @@
               <div class="item">
                 <div class="inner-item">
                     <div>
-                        <h3>Benefits
-</h3>
+                        <h3>Vorteile</h3>
                   </div>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle9">
-                  Stay in business
+                  Ihren Geschäfts-betrieb am Laufen zu halten
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle8">
-                  Attract customers with high food inspection scores
+                  Gäste mit guten Ergebnissen bei Lebensmittel-kontrollen anzulocken
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle10">
-                  Retain trustful customers
+                  Bestands-kunden und -kundinnen zu halten
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle12">
-                  Comply with regulations
+                  Vorschriften zu erfüllen
                   </button>
                 </div>
               </div>
@@ -127,7 +126,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle13">
-                  Reduce frequency of inspections (No fines!)
+                  die Häufigkeit von Inspektionen zu verringern
                   </button>
                 </div>
               </div>
@@ -135,7 +134,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle14">
-                  Increase efficiency
+                  Effizienz zu steigern
                   </button>
                 </div>
               </div>
@@ -143,7 +142,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle15">
-                  Have better, safer suppliers
+                  bessere und sichere Lieferanten zu haben
                   </button>
                 </div>
               </div>
@@ -151,7 +150,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle16">
-                  Prevent food waste
+                  Lebensmittel-verschwendung zu vermeiden
                   </button>
                 </div>
               </div>
@@ -159,7 +158,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle17">
-                  Acquire motivated and reliable staff
+                  motivierte und zuverlässige Mitarbeitende zu beschäftigen
                   </button>
                 </div>
               </div>
@@ -168,7 +167,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle18">
-                  Be a respected community member
+                  ein angesehenes Mitglied Ihrer Gemeinde zu sein
                   </button>
                 </div>
               </div>

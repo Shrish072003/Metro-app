@@ -208,7 +208,7 @@
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>DON’T WASTE ICE/h3>
+                    <h3>DON’T WASTE ICE</h3>
                     <img src="assets/images/safe_food/e6.svg" />
                   <button class="modal-toggle10 read-more-btn">
                   Read more

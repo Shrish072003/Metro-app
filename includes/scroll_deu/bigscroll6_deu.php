@@ -188,13 +188,7 @@
     text-transform: capitalize;
     font-size: 20px !important;
 }
-.simple_wayTo_preventing .container-fluid .text-center img {
-    width: 80% !important;
-    margin-top: 0.5rem !important;
-    display: table !important;
-    margin-right: auto;
-    margin-left: auto;
-}
+
 .social_slde span.slimg-holder {
     top: 0rem !important;
 }
@@ -206,6 +200,12 @@ span.slimg-holder.socils_one {
         background: none !important;
         margin-bottom: 50px;
     }
+    .modal-content1 p{
+      padding: 0px 0px 0px 0px !important;
+    }
+    .inner-item button{
+      width:180px !important;
+    }
   </style>
 <section class="section-slider1 section-slider2 no-print">
 
@@ -214,88 +214,88 @@ span.slimg-holder.socils_one {
             <div class="slider2">
               <div class="item">
                 <div class="inner-item">
-                    <h3>Freedom of association and effective recognition of the right to collective bargaining</h3>
+                    <h3>Versammlungsfreiheit und die Achtung des Rechts auf Tarifverhandlungen</h3>
                     <div class="sl-image sl-image-1 plastic_waste_slider1 social_slde text-center">
                                                                                         <span class="slimg-holder socils_one">
                                                                                             1
                                                                                         </span>
                                                                                     </div>
                     <button class="modal-toggle24 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>Elimination of all forms of forced or compulsory labour including disciplinary measures</h3>
+                    <h3>Abschaffung jeglicher Form von Zwangs- oder Pflichtarbeit, einschließlich disziplinarischer Maßnahmen</h3>
                     <div class="sl-image sl-image-1 plastic_waste_slider1 social_slde text-center">
                                                                                         <span class="slimg-holder socils_one">
                                                                                             2
                                                                                         </span></div>
                   <button class="modal-toggle9 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                <h3>No child labour (and respect the needs of young employees)</h3>
+                <h3>Keine Kinderarbeit (und Berücksichtigung der Bedürfnisse junger Arbeitnehmenden)</h3>
                 <div class="sl-image sl-image-1 plastic_waste_slider1 social_slde text-center">
                                                                                         <span class="slimg-holder socils_one">
                                                                                             3
                                                                                         </span></div>
                   <button class="modal-toggle8 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>No discrimination in employment and occupation</h3>
+                    <h3>Keine Diskriminierung in Beschäftigung und Beruf</h3>
                     <div class="sl-image sl-image-1 plastic_waste_slider1 social_slde text-center">
                                                                                         <span class="slimg-holder socils_one">
                                                                                             4
                                                                                         </span></div>
                   <button class="modal-toggle10 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>Fair renumeration</h3>
+                    <h3>Faire Entlohnung</h3>
                     <div class="sl-image sl-image-1 plastic_waste_slider1 social_slde text-center">
                                                                                         <span class="slimg-holder socils_one">
                                                                                             5
                                                                                         </span></div>
                   <button class="modal-toggle12 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Fair working hours</h3>
+                    <h3>Faire Arbeitszeiten</h3>
                     <div class="sl-image sl-image-1 plastic_waste_slider1 social_slde text-center">
                                                                                         <span class="slimg-holder socils_one">
                                                                                             6
                                                                                         </span></div>
                   <button class="modal-toggle13 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Health and safety</h3>
+                    <h3>Gesundheit und Sicherheit</h3>
                     <div class="sl-image sl-image-1 plastic_waste_slider1 social_slde text-center">
                                                                                         <span class="slimg-holder socils_one">
                                                                                             7
                                                                                         </span></div>
                   <button class="modal-toggle14 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
@@ -305,7 +305,7 @@ span.slimg-holder.socils_one {
                     <h3>Preservation</h3>
                     <img src="assets/images/safe_food/safe-7.svg" />
                   <button class="modal-toggle15 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
@@ -315,7 +315,7 @@ span.slimg-holder.socils_one {
                     <h3>Food allergies</h3>
                     <img src="assets/images/safe_food/safe-8.svg" />
                   <button class="modal-toggle16 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
@@ -325,7 +325,7 @@ span.slimg-holder.socils_one {
                     <h3>Waste</h3>
                     <img src="assets/images/safe_food/safe-9.svg" />
                   <button class="modal-toggle17 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
@@ -336,7 +336,7 @@ span.slimg-holder.socils_one {
                     <h3>Delivery and take-away</h3>
                     <img src="assets/images/safe_food/safe-12.svg" />
                   <button class="modal-toggle18 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
@@ -347,7 +347,7 @@ span.slimg-holder.socils_one {
                     <h3>Sub-contractors</h3>
                     <img src="assets/images/safe_food/safe-11.svg" />
                   <button class="modal-toggle19 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
@@ -358,7 +358,7 @@ span.slimg-holder.socils_one {
                     <h3>Accountability and documentation</h3>
                     <img src="assets/images/safe_food/safe-13.svg" />
                   <button class="modal-toggle20 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
@@ -369,7 +369,7 @@ span.slimg-holder.socils_one {
                     <h3>Independent check</h3>
                     <img src="assets/images/safe_food/safe-14.svg" />
                   <button class="modal-toggle21 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
@@ -380,7 +380,7 @@ span.slimg-holder.socils_one {
                     <h3>Dirty areas</h3>
                     <img src="assets/images/safe_food/sf-5.svg" />
                   <button class="modal-toggle22 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div> -->
@@ -391,7 +391,7 @@ span.slimg-holder.socils_one {
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle23 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
@@ -402,7 +402,7 @@ span.slimg-holder.socils_one {
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle24 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
@@ -413,7 +413,7 @@ span.slimg-holder.socils_one {
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle25 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
@@ -424,7 +424,7 @@ span.slimg-holder.socils_one {
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle26 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
@@ -435,7 +435,7 @@ span.slimg-holder.socils_one {
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle27 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div>
@@ -446,7 +446,7 @@ span.slimg-holder.socils_one {
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle28 read-more-btn">
-                  Read more
+                  Weiterlesen
                   </button>
                 </div>
               </div> -->
@@ -473,12 +473,7 @@ span.slimg-holder.socils_one {
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont"> 
-            <p>
-            The International Labour Organisation (ILO) defines the general
-                                                                                        minimum age for admission to employment or work as 15 years
-                                                                                        (or 13 for light work). You must ask the age of an applicant prior to
-                                                                                        employment and a copy of the passport or ID document must be
-                                                                                        kept in the personnel file.</p>
+            <p>Die Internationale Arbeitsorganisation (ILO) hat das allgemeine Mindestalter für die Zulassung zur Beschäftigung oder Arbeit auf 15 Jahre festgelegt (bzw. 13 Jahre für geringfügige Arbeit). Bevor jemand angestellt werden kann, muss nach dem Alter gefragt werden. Zudem muss eine Kopie des Reisepasses oder des Personalausweises in der Personalakte aufbewahrt werden.</p>
         </div>
       </div>
     </div>
@@ -500,7 +495,7 @@ span.slimg-holder.socils_one {
 
         <div class="modal-content1 flexi-cont"> 
             <p>
-            For example, employees can leave when they want to. You cannot withhold any part of an employee’s salary, benefits, property, or documents in order to force them to continue working. Thus, you cannot force extra hours to compensate for accommodation you might provide.</p>
+            Arbeitnehmende dürfen jederzeit ihren Arbeitsplatz verlassen. Es darf kein Teil des Gehalts, der Sozialleistungen, des Eigentums oder der Dokumente eines Mitarbeitenden einbehalten werden, um eine Person zur Weiterarbeit zu zwingen. Zudem dürfen keine Überstunden erzwungen werden, um eine bereitgestellte Gegenleistung zu kompensieren.</p>
         </div>
         
       </div>
@@ -524,10 +519,7 @@ span.slimg-holder.socils_one {
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-            <p>
-            Your staff can work full-time for a maximum of 48 hours/week and
-                                                                                        as an exemption maximum 12 hours/week overtime and has
-                                                                                        enough spare time in between.</p>
+            <p>Es gilt eine maximale Wochenarbeitszeit von 48 Stunden, die in Ausnahmefällen durch Überstunden um 12 Stunden pro Woche erhöht werden kann. Dazwischen muss für ausreichend Freizeit gesorgt sein.</p>
 </div>
       </div>
     </div>
@@ -550,10 +542,7 @@ span.slimg-holder.socils_one {
 
         <div class="modal-content1 flexi-cont"> 
             <p>
-            Ensure that your staff is provided with effective personal
-                                                                                        protective equipment (PPE) and training to safely perform their
-                                                                                        job. This may be, for example, the proper equipment to protect
-                                                                                        employees from pollution.</p>
+            Mitarbeitende müssen bei Bedarf mit einer effektiven persönlichen Schutzkleidung (PSA) ausgestattet sein und darin geschult werden, ihre Arbeit sicher auszuführen.</p>
         </div>
       </div>
     </div>
@@ -788,7 +777,7 @@ span.slimg-holder.socils_one {
 
         <div class="modal-content1 flexi-cont">
             <p>
-            For example, employees who have decided to join a union will not be subject to any sort of discrimination or dismissal as a result of their union membership.</p>
+            Arbeitnehmende, die einer Gewerkschaft beitreten, dürfen nicht aufgrund ihrer Mitgliedschaft diskriminiert oder entlassen werden.</p>
         </div>
       </div>
     </div>
@@ -810,13 +799,7 @@ span.slimg-holder.socils_one {
 
         <div class="modal-content1 flexi-cont">
             <p>
-            Decisions on hiring, wages, promotion, training, discipline,
-                                                                                        retirement and termination are always based on unbiased criteria
-                                                                                        and are not linked to any direct or indirect discriminatory
-                                                                                        characteristics. Also, offer equal pay for equal work performed at
-                                                                                        equal levels at similar locations. This means that employees must
-                                                                                        be treated equally and judged by their skills, not their gender, age,
-                                                                                        ethnicity, sexual orientation or physical ability.</p>
+            Entscheidungen über Neueinstellungen, Löhne, Beförderungen, Schulungen, Disziplinarmaßnahmen, Pensionierungen und Kündigungen müssen stets auf objektiven Kriterien beruhen und dürfen nicht mit direkten oder indirekten Diskriminierungen verbunden sein. Gleichzeitig gilt, dass gleiche Arbeit am gleichen Standort auch gleich bezahlt werden muss. Das bedeutet, dass alle Mitarbeitenden entsprechend ihrer Fähigkeiten gleichbehandelt werden und nicht aufgrund ihres Geschlechts, Alters, ihrer ethnischen Zugehörigkeit, sexueller Orientierung oder körperlichen Fähigkeiten beurteilt werden.</p>
         </div>
       </div>
     </div>
@@ -863,12 +846,7 @@ span.slimg-holder.socils_one {
         <div class="modal-content1 flexi-cont more-text">
           <div> 
             <p>
-            Your staff must have formal contracts, receive pay slips and
-                                                                                        payment on a regular basis, and be paid at least the (legal)
-                                                                                        minimum wage. To be sustainable, that remuneration would mean
-                                                                                        a living wage or income that ensures a decent life. Overtime must
-                                                                                        be paid.
-            </p>
+            Ihre Mitarbeitenden müssen offizielle Verträge und Lohnabrechnungen erhalten, regelmäßig bezahlt werden und mindestens den (gesetzlichen) Mindestlohn verdienen. Es ist wichtig, einen Lohn zu zahlen, der existenzsichernd ist und ein menschenwürdiges Leben ermöglicht. Überstunden müssen bezahlt werden.</p>
 
           </div>
         </div>

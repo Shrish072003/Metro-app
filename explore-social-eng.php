@@ -793,14 +793,19 @@
           <div class="row">
             <div class="col-md-3 offset-md-1">
                 <div class="three-step_img">
-                    <img src="assets/images/safe_food/Asset 9.png" class="img-fluid">
+                    <img src="assets/images/safe_food/s-7.svg" class="img-fluid">
                 </div>
             </div>
             <div class="col-md-6 offset-md-1">
                 <div class="three-step_para">
-                    <p>A <strong>food safety management system (FSMS)</strong> will cover every aspect of your food handling and purchasing and will have the necessary checks, records, and reviews in place to make sure your procedures are being followed. The system should be documented – not only for you to know what is happening - but also for your staff to be briefed properly and to have proof that you are managing your processes safely for your local authority inspector. Ensuring food safety also means organising your premises and processes appropriately. This exercise helps the organisation to operate sustainably. Many of the documentation and recording systems used in food safety management can be adapted and introduced systematically for sustainability. </p>
+                <p>As an employer you achieve having sustainable working conditions by: </p>
+
+<ol>
+    <li>Complying with your national employment legislation.</li>
+    <li> Fulfilling the basic human rights of your employees. </li>
+</ol>
                     <p class="mt-0">
-                        <strong> If you do the following activities to manage food safety, you will also be implementing sustainability:</strong>
+                        <strong> The 7 main principles of human rights defined by the UN can serve as your guidance.</strong>
 <iframe src="includes/scroll/bigscroll7.php" height="430px"></iframe>
                     </p>
                 </div>

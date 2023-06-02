@@ -100,10 +100,7 @@
 
     background: none !important;
 }
-.section3-inner3 .left-content h3, .section3-inner .left-content h3 {
-    font-size: 25px !important;
-    text-align: center;
-}
+
 .section-slider2 .inner-item button {
     padding-top: 0;
     color: #000;
@@ -273,7 +270,10 @@
                     <a href="explore-sustainable-menu-eng.php" class="read-more" target="_self">Read More</a>
                 </div>
             </div>
-            <img class="right-img-back disable-mobile" src="assets/images/know-svg.svg" />
+            <img class="right-img-back disable-mobile desk_show" src="assets/images/know-svg.svg" />
+            <img class="mobile_show" style="
+    transform: rotate(3.142rad);
+" src="assets/images/know-svg.svg" />
             <div class="right-content disable-desptop">
                 <img src="assets/images/know-svg.svg" />
             </div>

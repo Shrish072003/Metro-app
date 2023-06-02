@@ -163,7 +163,7 @@
     padding-top: 10px !important;
 }
 .section-slider-center h3, .top-content h3 {
-    font-size: 32px;
+    font-size: 40px;
     padding: 0px 0 10px !important;
 }
 .modal-content1 img{
@@ -185,17 +185,17 @@
 .slider2 .item.slick-slide {
     width: 250px !important;
 }
-.section-slider-center h3, .top-content h3 {
+.section-slider-center h3 {
     text-transform: capitalize;
     font-size: 20px !important;
 }
-.simple_wayTo_preventing .container-fluid .text-center img {
+/* .simple_wayTo_preventing .container-fluid .text-center img {
     width: 80% !important;
     margin-top: 0.5rem !important;
     display: table !important;
     margin-right: auto;
     margin-left: auto;
-}
+} */
 .social_slde span.slimg-holder {
     top: 0rem !important;
 }
@@ -207,6 +207,10 @@ span.slimg-holder.socils_one {
         background: none !important;
         margin-bottom: 50px;
     } */
+
+    .inner-item button {
+    width: 180px !important;
+}
   </style>
 <section class="section-slider1 section-slider2 no-print">
 
@@ -215,7 +219,7 @@ span.slimg-holder.socils_one {
             <div class="slider2">
               <div class="item">
                 <div class="inner-item">
-                    <h3>Sort and try to separate the waste according to its type – food, plastics, cartons, etc.</h3>
+                    <h3>Sortieren Sie Ihren Abfall und versuchen Sie, ihn nach Arten zu trennen (Lebensmittel, Plastik, Karton usw.)</h3>
                     <img src='assets/images/safe_food/wl8.svg' />
                     <!-- <button class="modal-toggle24 read-more-btn">
                   Read more
@@ -224,7 +228,7 @@ span.slimg-holder.socils_one {
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>Identify waste generation sources and talk to your staff about their ideas on waste reduction.</h3>
+                    <h3>Ermitteln Sie die Abfallquellen und sprechen Sie mit Ihren Mitarbeitenden über deren Ideen zur Abfallverringerung</h3>
                     <img src='assets/images/safe_food/wl9.svg' />
                   <!-- <button class="modal-toggle9 read-more-btn">
                   Read more
@@ -233,7 +237,8 @@ span.slimg-holder.socils_one {
               </div>
               <div class="item">
                 <div class="inner-item">
-                <h3>Ensure that your existing waste management systems are being used correctly.</h3>
+                <h3>Vergewissern Sie sich,
+dass Ihr bestehendes Abfallmanagementsystem richtig genutzt wird</h3>
                 <img src='assets/images/safe_food/wl10.svg' />
                   <!-- <button class="modal-toggle8 read-more-btn">
                   Read more
@@ -242,9 +247,7 @@ span.slimg-holder.socils_one {
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>Talk to your local authority to check what the available solutions are. Talk to your wholesale supplier to check
-what solutions they have available. Some will arrange
-waste collection.</h3>
+                    <h3>Wenden Sie sich an Ihre Behörden vor Ort, um zu erfahren, welche Lösungen es gibt</h3>
                     <img src='assets/images/safe_food/wl11.svg' />
                   <!-- <button class="modal-toggle10 read-more-btn">
                   Read more
@@ -253,187 +256,25 @@ waste collection.</h3>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>For food waste</h3>
+                    <h3>Für die Entsorgung von Lebensmittelabfällen finden Sie hier einige Tipps</h3>
                     <img src='assets/images/safe_food/wl12.svg' />
-                    <a href="introduction-to-food-waste-eng.php" target="_blank"><button class="read-more-btn">
-                  Read more
+                    <a href="introduction-to-food-waste-deu.php" target="_blank"><button class="read-more-btn">
+                    WEITERLESEN
                   </button></a>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>For single use plastic items such as takeaway goods, plastic stirrers, or packaging</h3>
-                    <img src='assets/images/safe_food/wl13.svg' />
-                    <a href="introduction-to-plastic-waste-eng.php" target="_blank"><button class="read-more-btn">
-                  Read more
+                    <h3>Für Einwegartikel aus Kunststoff, z. B. Produkte zum Mitnehmen, Plastikrührstäbchen und Verpackungen aus Kunststoff, schauen Sie sich diese Hinweise an</h3>
+                    <img src='assets/images/safe_food/wl13.svg' style="max-height: 100px !important;"/>
+                    <a href="introduction-to-plastic-waste-deu.php" target="_blank"><button class="read-more-btn" >
+                    WEITERLESEN
                   </button></a>
                 </div>
               </div>
 
-              <!-- <div class="item">
-                <div class="inner-item">
-                    <h3>Health and safety</h3>
-                    <div class="sl-image sl-image-1 plastic_waste_slider1 social_slde text-center">
-                                                                                        <span class="slimg-holder socils_one">
-                                                                                            7
-                                                                                        </span></div>
-                  <button class="modal-toggle14 read-more-btn">
-                  Read more
-                  </button>
-                </div>
-              </div> -->
-
-              <!-- <div class="item">
-                <div class="inner-item">
-                    <h3>Preservation</h3>
-                    <img src="assets/images/safe_food/safe-7.svg" />
-                  <button class="modal-toggle15 read-more-btn">
-                  Read more
-                  </button>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Food allergies</h3>
-                    <img src="assets/images/safe_food/safe-8.svg" />
-                  <button class="modal-toggle16 read-more-btn">
-                  Read more
-                  </button>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Waste</h3>
-                    <img src="assets/images/safe_food/safe-9.svg" />
-                  <button class="modal-toggle17 read-more-btn">
-                  Read more
-                  </button>
-                </div>
-              </div>
-
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Delivery and take-away</h3>
-                    <img src="assets/images/safe_food/safe-12.svg" />
-                  <button class="modal-toggle18 read-more-btn">
-                  Read more
-                  </button>
-                </div>
-              </div>
-
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Sub-contractors</h3>
-                    <img src="assets/images/safe_food/safe-11.svg" />
-                  <button class="modal-toggle19 read-more-btn">
-                  Read more
-                  </button>
-                </div>
-              </div>
-
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Accountability and documentation</h3>
-                    <img src="assets/images/safe_food/safe-13.svg" />
-                  <button class="modal-toggle20 read-more-btn">
-                  Read more
-                  </button>
-                </div>
-              </div>
-
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Independent check</h3>
-                    <img src="assets/images/safe_food/safe-14.svg" />
-                  <button class="modal-toggle21 read-more-btn">
-                  Read more
-                  </button>
-                </div>
-              </div>
-
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Dirty areas</h3>
-                    <img src="assets/images/safe_food/sf-5.svg" />
-                  <button class="modal-toggle22 read-more-btn">
-                  Read more
-                  </button>
-                </div>
-              </div> -->
-
-<!-- 
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Responsible Sourcing</h3>
-                    <img src="assets\images\the-msr-chapter\msr_10.png" />
-                  <button class="modal-toggle23 read-more-btn">
-                  Read more
-                  </button>
-                </div>
-              </div>
-
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Responsible Sourcing</h3>
-                    <img src="assets\images\the-msr-chapter\msr_10.png" />
-                  <button class="modal-toggle24 read-more-btn">
-                  Read more
-                  </button>
-                </div>
-              </div>
-
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Responsible Sourcing</h3>
-                    <img src="assets\images\the-msr-chapter\msr_10.png" />
-                  <button class="modal-toggle25 read-more-btn">
-                  Read more
-                  </button>
-                </div>
-              </div>
-
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Responsible Sourcing</h3>
-                    <img src="assets\images\the-msr-chapter\msr_10.png" />
-                  <button class="modal-toggle26 read-more-btn">
-                  Read more
-                  </button>
-                </div>
-              </div>
-
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Responsible Sourcing</h3>
-                    <img src="assets\images\the-msr-chapter\msr_10.png" />
-                  <button class="modal-toggle27 read-more-btn">
-                  Read more
-                  </button>
-                </div>
-              </div>
-
-
-              <div class="item">
-                <div class="inner-item">
-                    <h3>Responsible Sourcing</h3>
-                    <img src="assets\images\the-msr-chapter\msr_10.png" />
-                  <button class="modal-toggle28 read-more-btn">
-                  Read more
-                  </button>
-                </div>
-              </div> -->
+              
 
 
             </div>
@@ -441,424 +282,6 @@ waste collection.</h3>
 
         </div>
       </section>
-
-  <div class="eng-modal">
-    <div class="modal-overlay1 modal-toggle8"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle8">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont"> 
-            <p>
-            The International Labour Organisation (ILO) defines the general
-                                                                                        minimum age for admission to employment or work as 15 years
-                                                                                        (or 13 for light work). You must ask the age of an applicant prior to
-                                                                                        employment and a copy of the passport or ID document must be
-                                                                                        kept in the personnel file.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class=" redu-modal">
-    <div class="modal-overlay1 modal-toggle9"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle9">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont"> 
-            <p>
-            For example, employees can leave when they want to. You cannot withhold any part of an employee’s salary, benefits, property, or documents in order to force them to continue working. Thus, you cannot force extra hours to compensate for accommodation you might provide.</p>
-        </div>
-        
-      </div>
-    </div>
-  </div>
-
-
-
-  <div class=" set-modal">
-    <div class="modal-overlay1 modal-toggle13"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle13">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont">
-            <p>
-            Your staff can work full-time for a maximum of 48 hours/week and
-                                                                                        as an exemption maximum 12 hours/week overtime and has
-                                                                                        enough spare time in between.</p>
-</div>
-      </div>
-    </div>
-  </div>
-
-
-  <div class=" ver-modal">
-    <div class="modal-overlay1 modal-toggle14"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle14">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont"> 
-            <p>
-            Ensure that your staff is provided with effective personal
-                                                                                        protective equipment (PPE) and training to safely perform their
-                                                                                        job. This may be, for example, the proper equipment to protect
-                                                                                        employees from pollution.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class=" exp-modal">
-    <div class="modal-overlay1 modal-toggle15"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle15">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont">
-        <h4>Preservation</h4>
-            <p>
-                Preservation extends the life of food. Correct freezing keeps food safe. When food is too hot and enters the freezer, it uses additional energy to cool down. It can also cause localised spots of warming on frozen or chilled foods already in the freezer which in turn lead to the growth of unwanted bacteria. When freezing is done safely, it can help prevent wastage of unused food. It can also be a way to use local foods that are out of season. Fermentation, when done safely, extends shelf life and creates a delicious and healthy product out of simple ingredients such as pickled vegetables. Needless to say, the products should be labelled and the shelf life indicated clearly.
-            </p>
-        </div>
-      </div>
-    </div>
-  </div>
-
-
-  <div class=" neh-modal">
-    <div class="modal-overlay1 modal-toggle16"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle16">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont">
-        <h4>Food allergies</h4>
-            <p>
-                In many countries, customers must have access to the full list of existing allergens in restaurant dishes. Allergen management is a highly challenging area for restaurants especially if the staff turnover is high – this can negatively impact knowledge transfer. A simple menu is the cornerstone of a sustainable restaurant, and it makes managing allergen listings easier. However, when you change your menu seasonally, be sure to indicate this to your customers and staff. When meals are made from scratch, you can be sure what the ingredients are and whether they have any allergens in them, which should be made known to the customers. Reputable suppliers will list the allergens on their products.
-            </p>
-        </div>
-      </div>
-    </div>
-  </div>
-
-
-
-  <div class=" setsie-modal">
-    <div class="modal-overlay1 modal-toggle17"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle17">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-        <div class="modal-content1 flexi-cont">
-        <h4>Waste</h4>
-            <p>
-                How you manage unused food and the remains of meals is an important consideration. For example, depending on how it was used, unused bread can be reused in a different meal in the form of breadcrumbs or could be composted, or thrown away. How you deal with this means different considerations on food safety as well as the amount of waste you generate.
-            </p>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="introdiv-modal18">
-    <div class="modal-overlay1 modal-toggle18"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle18">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont">
-        <h4>Delivery and take-away</h4>
-            <p>
-                Especially since the outbreak of COVID 19, food delivery and take-away has picked up momentum. Strong containers that keep food free of contamination and are easy to dispose of, are needed. Compostable containers are a good alternative and if you can use a returnable container scheme, check how the containers are cleaned.
-            </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="introdiv-modal19">
-    <div class="modal-overlay1 modal-toggle19"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle19">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont">
-        <h4>Sub-contractors</h4>
-            <p>
-                Usually, subcontractors look after ancillary tasks such as delivery and pest control. They must ensure that their practices do not endanger the safety of food. Delivery drivers, for example, must ensure food is transported at the right temperature at the right time. Pest control subcontractors must ensure that the placement of their devices and chemicals used do not pose a risk of contamination in your kitchen. When your subcontractors are aware of your requirements, they may have ideas to offer. Some pest subcontractors are changing the way they catch pests to limit the use of harmful chemicals in the environment.
-            </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="introdiv-modal20">
-    <div class="modal-overlay1 modal-toggle20"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle20">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont">
-        <h4>Accountability and documentation</h4>
-            <p>
-                As a restaurant manager, you are responsible for the overall supervision of your FSMS (food safety management system). The FSMS needs to be documented and this means keeping up-to-date and accurate records. This also means doing checks - you or a responsible member of staff on your behalf - conducts the opening and closing checks, any on-top checks, and ensures that “prove it” documentation (such as cleaning and training records) are completed. When you have a system already established to manage food safety, it is easier to include checks necessary in other sustainability aspects. Recording the status of a new process and monitoring its progress is another part of managing sustainability, for example, energy usage.
-            </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="introdiv-modal21">
-    <div class="modal-overlay1 modal-toggle21"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle21">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont">
-        <h4>Independent check</h4>
-            <p>
-                To verify that your food safety system is working, you might want to have it checked independently. There are professional service providers, who can tailor inspection and analysis programs for your premises. Having this external input is a way for you to improve, and an endorsement that your food safety management is working plus an additional assurance you can give to your guests. Similar services exist in sustainability management although these are not as common. Ask your local authority or wholesaler for their recommendations.
-            </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="introdiv-modal22">
-    <div class="modal-overlay1 modal-toggle22"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle22">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont">
-        <h4>Dirty areas</h4>
-            <p>
-                Areas for washing up, garbage bins or vegetable processing should be separated from clean areas. It helps to manage the flow of waste and ensure the correct waste is recycled or reused. For example, clean rinse water can be used to water your garden if you have one.
-            </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="introdiv-modal23">
-    <div class="modal-overlay1 modal-toggle23"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle23">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont">
-        <h4>Cleaning </h4>
-            <p> A professional cleaning program that is specific to your premises, uses the right chemicals with the correct dosage, and suitable for the correct equipment, not only gets things clean but also prevents damage to your local environment from excessive chemicals which add to your costs. Taking a step further, you might consider environmentally- friendly cleaning chemicals. When you clean as you go, you prevent a build-up of waste and reduce the risk of contaminating clean areas by overflowing bins, for instance. Clearly labelled containers in a separated area make it easier to recycle or reuse waste.
-
-            </p>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="introdiv-modal24">
-    <div class="modal-overlay1 modal-toggle24"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle24">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont">
-            <p>
-            For example, employees who have decided to join a union will not be subject to any sort of discrimination or dismissal as a result of their union membership.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class=" intro-modal">
-    <div class="modal-overlay1 modal-toggle10"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle10">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont">
-            <p>
-            Decisions on hiring, wages, promotion, training, discipline,
-                                                                                        retirement and termination are always based on unbiased criteria
-                                                                                        and are not linked to any direct or indirect discriminatory
-                                                                                        characteristics. Also, offer equal pay for equal work performed at
-                                                                                        equal levels at similar locations. This means that employees must
-                                                                                        be treated equally and judged by their skills, not their gender, age,
-                                                                                        ethnicity, sexual orientation or physical ability.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class=" source-modal">
-    <div class="modal-overlay1 modal-toggle11"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle11">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont">
-          <h4>
-            <a class="nodeco" href="introduction-to-responsible-sourcing-eng.php">Source locally, regionally and in season
-</a>
-          </h4>
-          <p>Make an impact with responsible sourcing and only use responsibly sourced fish and food that is organic, nutritious, seasonal, ethically traded, local and regional. Moreover, try to buy foods that encourage biodiversity, do not involve waste and do not destroy forests. If you want to find out more, go to the responsible sourcing chapter. </p>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class=" use-modal">
-    <div class="modal-overlay1 modal-toggle12"></div>
-    <div class="modal-wrapper1 modal-transition1">
-      <button class="modal-close1 modal-toggle12">
-        <svg class="icon-close icon" viewBox="0 0 32 32">
-          <use xlink:href="#icon-close">
-            <g id="icon-close">
-              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
-            </g>
-          </use>
-        </svg>
-      </button>
-      <div class="modal-body1">
-
-        <div class="modal-content1 flexi-cont more-text">
-          <div> 
-            <p>
-            Your staff must have formal contracts, receive pay slips and
-                                                                                        payment on a regular basis, and be paid at least the (legal)
-                                                                                        minimum wage. To be sustainable, that remuneration would mean
-                                                                                        a living wage or income that ensures a decent life. Overtime must
-                                                                                        be paid.
-            </p>
-
-          </div>
-        </div>
-      </div>
-    </div>
-
 
     <script>
       var x, i, j, l, ll, selElmnt, a, b, c;

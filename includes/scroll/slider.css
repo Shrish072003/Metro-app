@@ -54,4 +54,7 @@
         color: #000;
         font-size: 25px;
     }
+    .slick-slide .inner-item h3{
+        text-transform:uppercase !important;
+    }
 }

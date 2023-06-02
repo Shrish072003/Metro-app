@@ -141,9 +141,11 @@
                     <p>Ein gutes Lebensmittelsicherheitsmanagement kann dazu beitragen:</p>
                 </div>
             </div>
+            <section class="mobile_show">
+        <?php include "includes/scroll_deu/scroll5_deu.php"; ?>
+        </section>
 
-
-            <section class="section3-grid" id="option4" data-scrl="Vorteile">
+            <section class="section3-grid desk_show" id="option4" data-scrl="Vorteile">
                 <ul>
                     <li>
                         <p class="font-size-30px">Vorteile</p>
@@ -204,7 +206,7 @@
 
             <section class="section3-inner align-normal" id="option5" data-scrl="Ein gesellschaftlicher Trend">
                 <div class="left-content">
-                    <h3>EIN<br>GESELLSCHAFTLICHER<br>TREND</h3>
+                    <h3 style="overflow-wrap: break-word;">EIN<br>GESELLSCHAFTLICHER<br>TREND</h3>
                 </div>
                 <div class="right-content">
                     <p>

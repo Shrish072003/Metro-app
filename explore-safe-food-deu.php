@@ -551,7 +551,98 @@
                         </div>
                     </div>
 
-                    <div class="row mt-5">
+                    <div class="accordion mobile_show">
+    <div class="accordion-item">
+      <div class="accordion-header">Ein Managementsystem für Lebensmittelsicherheit (Food Safety Management System – FSMS)</div>
+      <div class="accordion-content">
+        <div class="mainfoot">
+          
+          <div class="row">
+            <div class="col-md-3 offset-md-1">
+                <div class="three-step_img">
+                    <img src="assets/images/safe_food/Asset 9.png" class="img-fluid">
+                </div>
+            </div>
+            <div class="col-md-6 offset-md-1">
+                <div class="three-step_para">
+                    <p>Ein Managementsystem zur Überwachung der Lebensmittelsicherheit deckt alle Aspekte der Handhabung und des Einkaufs von Lebensmitteln ab und umfasst die notwendigen Kontrollen, Aufzeichnungen und Überprüfungen, um sicherzustellen, dass die Verfahren eingehalten werden. Das System sollte dokumentiert werden – nicht nur, damit Sie Bescheid wissen, sondern auch, damit Ihre Mitarbeitenden ordnungsgemäß unterwiesen werden und Sie gegenüber der örtlichen Behörde einen Nachweis erbringen können, dass Sie Ihre Verfahren sicher handhaben. Zur Gewährleistung der Lebensmittelsicherheit gehört auch, dass Sie Ihre Räumlichkeiten und Prozesse angemessen organisieren. Diese Vorgehensweise hilft bei der Organisation, die für einen nachhaltigen Betrieb erforderlich ist. Viele der Dokumentations- und Aufzeichnungssysteme, die im Lebensmittelsicherheitsmanagement angewendet werden, können durch nachhaltige Aspekte erweitert und systematisch eingeführt werden.</p>
+                    <p class="mt-0">
+                        <strong> Wenn Sie die folgenden Maßnahmen zum Management der Lebensmittelsicherheit durchführen, setzen Sie auch gleichzeitig zentrale Aspekte der Nachhaltigkeit um:</strong>
+                    <iframe src="includes/scroll_deu/bigscroll5_deu.php" height="450px" class="mobile_show"></iframe></p>
+                </div>
+            </div>
+        </div>
+        </div>
+        </div>
+
+
+</div>
+        
+
+
+
+
+<div class="accordion-item">
+      <div class="accordion-header">7 Grundsätze des HACCP-Konzepts </div>
+      <div class="accordion-content">
+        <div class="mainfoot">
+
+          <div class="row">
+            <div class="col-md-3 offset-md-1">
+                <div class="three-step_img">
+                    <img src="assets/images/safe_food/safood_7prin.svg" class="img-fluid">
+                </div>
+            </div>
+            <div class="col-md-6 offset-md-1">
+                <div class="three-step_para">
+                <p>
+                                                        <strong>HACCP (Hazard Analysis and Critical Control Points)</strong> ist ein Verfahren, wodurch Sie in Ihrem Restaurant bessere Abläufe für die Lebensmittelsicherheit einführen können. In einigen Ländern, z. B. in Europa, ist es bereits gesetzlich vorgeschrieben. Allgemein wird jedoch von Restaurants nicht gefordert, dass sie ein umfassendes HACCP-Konzept haben. HACCP basiert auf sieben Grundprinzipien. Dabei zeichnet sich das Konzept durch einen präventiven Charakter aus, was bedeutet, dass Sie und Ihre Mitarbeitenden sich bewusst sind, was schief gehen könnte und dass Sie Ihr Restaurant so führen, dass Sie Fehler vermeiden. Falls Fehler passieren, sollten Sie über Strategien verfügen, diese einzudämmen. Dieser risikobasierte Ansatz kann Ihnen auch bei der Bewältigung von Nachhaltigkeitsrisiken helfen, z. B. bei der Verhinderung des Auslaufens von gebrauchtem Speiseöl in die Kanalisation. Das HACCP-Konzept verlangt von Ihnen, dass Sie alle Gefahren, die von Lebensmitteln ausgehen können, identifizieren, bewerten und kontrollieren.
+                                                    </p>
+                    <p class="mt-4">
+                        <strong>Die sieben Grundsätze lauten:</strong>
+                    <iframe src="includes/scroll_deu/bigscroll12_deu.php" height="450px" class="mobile_show"></iframe></p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+                                            <div class="yellow_discription">
+                                                <img src="./assets/images/safe_food/Asset 61.png" class="img-fluid">
+                                                <p>Beginnen Sie damit, jeden Bereich Ihres Restaurants zu untersuchen und die Risiken zu ermitteln, die durch Verunreinigungen mit Mikroorganismen (z. B. Bakterien wie Salmonellen), physischen Gegenständen (z. B. Glasscherben von zerbrochenem Glas), Chemikalien (z. B. Reinigungsmittel, die von nicht ausreichend gereinigten Geräten stammen können) und Allergenen (z. B. Nüsse) entstehen.</p>
+                                            </div>
+                                        </div>
+</div>
+</div></div>
+
+<div class="accordion-item">
+      <div class="accordion-header">Kultur der Lebensmittelsicherheit</div>
+      <div class="accordion-content">
+        <div class="mainfoot">
+          
+          <div class="row">
+            <div class="col-md-3 offset-md-1">
+                <div class="three-step_img">
+                    <img src="assets/images/safe_food/Asset 9.png" class="img-fluid">
+                </div>
+            </div>
+            <div class="col-md-6 offset-md-1">
+                <div class="three-step_para">
+                    <p>
+Wenn gut geschulte und informierte Mitarbeitende an der Einrichtung eines Lebensmittelsicherheits-Managementsystems beteiligt sind, werden sie sich voll und ganz dafür einsetzen, dass es funktioniert. Dies etabliert ein gemeinsames Verständnis von Lebensmittelsicherheit. Es handelt sich hierbei um ein relativ neues Konzept in der Gastronomie, das Sie sich zu eigen machen können, um die Lebensmittelsicherheit in Ihrem Restaurant fest zu verankern und sicherzustellen, dass es keine Zwischenfälle gibt. Wenn Sie sich näher mit den folgenden Schritten beschäftigen, werden Sie sehen, dass dieser Prozess eng mit dem Nachhaltigkeitsmanagement verknüpft ist.
+                    </p>
+                    <p class="mt-0">
+                        <strong> Sehen Sie sich die folgenden Schritte zur Schaffung einer gemeinsamen Kultur der Lebensmittelsicherheit an:</strong>
+                    <iframe src="includes/scroll_deu/bigscroll13_deu.php" height="400px" class="mobile_show"></iframe></p>
+                </div>
+            </div>
+        </div>
+        </div>
+        </div>
+
+
+</div></div>
+
+
+                    <div class="row mt-5 desk_show">
                         <div class="test">
                             <div class="tab-container-one">
                                 <ul class="nav nav-tabs" id="myTab" role="tablist">
@@ -1060,6 +1151,7 @@
                                                 </div>
                                             </div>
                                         </div>
+
 
 
                                         <div class="row">
@@ -2232,6 +2324,33 @@
             return false;
         });
     </script>
+        <script>const accordionItems = document.querySelectorAll('.accordion-item');
+
+accordionItems.forEach(item => {
+  const header = item.querySelector('.accordion-header');
+
+  header.addEventListener('click', () => {
+    const isActive = item.classList.contains('active');
+
+    // Close the active accordion item if clicked again
+    if (isActive) {
+      item.classList.remove('active');
+    } else {
+      // Toggle active class on the clicked item
+      item.classList.add('active');
+
+      // Hide all other accordion items
+      accordionItems.forEach(otherItem => {
+        if (otherItem !== item) {
+          otherItem.classList.remove('active');
+        }
+      });
+    }
+  });
+});
+
+
+</script>
 </body>
 
 </html>

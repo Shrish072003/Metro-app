@@ -311,9 +311,9 @@
           </h4>
           <img src="assets\images\the-msr-chapter\msr_2.png" />
           <p>Several incidents in recent years have shed a bad light on the food industry (for example, undeclared allergens in take-out sandwiches, E.coli in sprouts, and needles in strawberries) and consumers are increasingly becoming aware of the need for safely produced food which doesn't injure them or make them sick. That's why safe food is the foundation of a sustainable restaurant and contaminated food is wasted food. Running a sustainable business is about being efficient with resources, minimizing waste, and engaging people to work productively. The latest developments with COVID-19 have shown the importance of good hygiene practices even more. This will continue to have an impact on restaurants. </p>
-          <button class="read-more-btn" href="introduction-to-safe-food-eng.php">
+          <a class="read-more-btn" href="introduction-to-safe-food-eng.php">
         TAKE A DEEP DIVE 
-                  </button>
+</a>
         </div>
       </div>
     </div>
@@ -528,9 +528,9 @@
           </h4>
           <img src="assets/prev/images/L2-03.svg" />
           <p>As a restaurant or café owner, you usually need a lot of electricity, oil, coal, or gas which causes high costs in your budget. With rising energy costs and the scarcity of fossil resources, as well as your customer's growing attention to environmental issues, it will be useful to become more sustainable and save money at the same time.</p>
-          <button class="read-more-btn" href="introduction-to-energy-eng.php">
+          <a class="read-more-btn" href="introduction-to-energy-eng.php">
         TAKE A DEEP DIVE 
-                  </button></div>
+</a></div>
       </div>
     </div>
   </div>
@@ -581,7 +581,7 @@
             <p>
             When waste is not valued it becomes a problem. It costs your business money and when not properly managed it damages the environment and our health. As a restaurateur, you really can make an impact by preventing waste, sorting and disposing of it carefully. Doing so will prevent costs and contribute to your reputation with customers and your community.
             </p>
-            <button class="read-more-btn" href="introduction-to-waste-eng.php">TAKE A DEEP DIVE</button>
+            <a class="read-more-btn" href="introduction-to-waste-eng.php">TAKE A DEEP DIVE</a>
 
           </div>
         </div>

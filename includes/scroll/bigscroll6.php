@@ -202,7 +202,7 @@
     top: 0rem !important;
 }
 span.slimg-holder.socils_one {
-    padding: 6px 24px;
+    padding: 6px 19px;
 }
 .section-slider1 {
         border-top: 1px solid #fff;
@@ -219,7 +219,7 @@ span.slimg-holder.socils_one {
                 <div class="inner-item">
                     <h3>Freedom of association and effective recognition of the right to collective bargaining</h3>
                     <div class="sl-image sl-image-1 plastic_waste_slider1 social_slde text-center">
-                                                                                        <span class="slimg-holder socils_one">
+                                                                                        <span class="slimg-holder socils_one" style="padding: 6px 24px;">
                                                                                             1
                                                                                         </span>
                                                                                     </div>

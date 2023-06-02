@@ -600,7 +600,7 @@
 
 
 
-            <section class="advance_way no-print plastic_waste_expl mobile_show" id="option4" data-scrl="Advanced ways to save energy">
+            <section class="advance_way no-print plastic_waste_expl " id="option4" data-scrl="Advanced ways to save energy">
                 <div class="container">
                     <div class="row">
                         <h3>Advanced ways to save energy</h3>

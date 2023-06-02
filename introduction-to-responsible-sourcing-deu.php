@@ -71,7 +71,6 @@
     background: none !important;
 }
 .section3-inner3 .left-content h3, .section3-inner .left-content h3 {
-    font-size: 25px !important;
     text-align: center;
 }
 .section-slider2 .inner-item button {
@@ -102,9 +101,10 @@
         <div class="page-3_stage">
             <section class="section1 mt-4" id="option1" data-scrl="Wie man Produkte für Restaurants verantwortungsbewusst einkauft">
                 <div class="left-content">
-                    <h3>Wie man Produkte für Restaurants<br>verantwortungsbewusst<br>einkauft
+                    <h3 style="overflow-wrap: break-word;">Wie man Produkte für Restaurants<br>verantwortungsbewusst<br>einkauft
 
                     </h3>
+                    
                 </div>
                 <div class="right-content">
                     <img src="assets/images/resp_sourcing/resp_sour_L3_banner_img.svg" class="img-fluid mt-4" />
@@ -175,7 +175,10 @@
                     </div>
                 </div>
             </section>
-            <section id="option4" data-scrl="Vorteile">
+            <section class="mobile_show">
+        <?php include "includes/scroll_deu/scroll3new_deu.php"; ?>
+        </section>
+            <section class="desk_show" id="option4" data-scrl="Vorteile">
                 <div class="section3-grid">
                     <ul>
                         <li>

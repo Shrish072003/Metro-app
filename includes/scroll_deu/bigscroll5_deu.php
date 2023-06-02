@@ -205,6 +205,9 @@ body {
       overflow: auto;
       height:100%;
     }
+    .modal-body1 , .inner-item{
+      overflow-wrap: anywhere;
+    }
   </style>
   </style>
 <section class="section-slider1 section-slider2 no-print">
@@ -214,96 +217,96 @@ body {
             <div class="slider2">
               <div class="item">
                 <div class="inner-item">
-                    <h3>PURCHASING</h3>
+                    <h3>EINKAUF</h3>
                     <img src='../../assets/images/safe_food/sf-2.svg' />
                     <button class="modal-toggle24 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>Restaurant designs</h3>
+                    <h3>RESTAURANTEINRICHTUNG</h3>
                     <img src="../../assets/images/safe_food/sf-3.svg" />
                   <button class="modal-toggle9 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                <h3>Separation</h3>
+                <h3>TRENNUNG</h3>
                     <img src="../../assets/images/safe_food/sf-4.svg" />
                   <button class="modal-toggle8 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>Equipment</h3>
+                    <h3>GERÄTE</h3>
                     <img src="../../assets/images/safe_food/safe-2.svg" />
                   <button class="modal-toggle10 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>Cold chain</h3>
+                    <h3>KÜHLKETTE</h3>
                     <img src="../../assets/images/safe_food/safe-3.svg" />
                   <button class="modal-toggle12 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Receiving and storing food</h3>
+                    <h3>ANNAHME UND LAGERUNG VON LEBENSMITTELN</h3>
                     <img src="../../assets/images/safe_food/safe-4.svg" />
                   <button class="modal-toggle13 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Maintenance</h3>
+                    <h3>PFLEGE UND WARTUNG</h3>
                     <img src="../../assets/images/safe_food/safe-5.svg" />
                   <button class="modal-toggle14 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Preservation</h3>
+                    <h3>AUFBEWAHRUNG</h3>
                     <img src="../../assets/images/safe_food/safe-7.svg" />
                   <button class="modal-toggle15 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Food allergies</h3>
+                    <h3>LEBENSMITTELALLERGIEN</h3>
                     <img src="../../assets/images/safe_food/safe-8.svg" />
                   <button class="modal-toggle16 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Waste</h3>
+                    <h3>ABFALLAUFKOMMEN</h3>
                     <img src="../../assets/images/safe_food/safe-9.svg" />
                   <button class="modal-toggle17 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -311,10 +314,10 @@ body {
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Delivery and take-away</h3>
+                    <h3>LIEFERUNG UND ABHOLUNG</h3>
                     <img src="../../assets/images/safe_food/safe-12.svg" />
                   <button class="modal-toggle18 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -322,10 +325,10 @@ body {
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Sub-contractors</h3>
+                    <h3>LIEFERANTEN</h3>
                     <img src="../../assets/images/safe_food/safe-11.svg" />
                   <button class="modal-toggle19 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -333,10 +336,10 @@ body {
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Accountability and documentation</h3>
+                    <h3>BERICHTSWESEN UND DOKUMENTATION</h3>
                     <img src="../../assets/images/safe_food/safe-13.svg" />
                   <button class="modal-toggle20 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -344,10 +347,10 @@ body {
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Independent check</h3>
+                    <h3>UNABHÄNGIGE KONTROLLEN</h3>
                     <img src="../../assets/images/safe_food/safe-14.svg" />
                   <button class="modal-toggle21 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -355,10 +358,10 @@ body {
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Dirty areas</h3>
+                    <h3>VERUNREINIGTE BEREICHE</h3>
                     <img src="../../assets/images/safe_food/sf-5.svg" />
                   <button class="modal-toggle22 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -369,7 +372,7 @@ body {
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle23 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -380,7 +383,7 @@ body {
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle24 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -391,7 +394,7 @@ body {
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle25 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -402,7 +405,7 @@ body {
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle26 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -413,7 +416,7 @@ body {
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle27 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -424,7 +427,7 @@ body {
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle28 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div> -->
@@ -451,10 +454,9 @@ body {
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Separation</h4>
+        <h4>Trennung</h4>
             <p>
-                Raw and ready-to-eat or cooked foods must be handled separately as should food containing allergens. Dirty foods must be prepared in a separate area and not next
-                to clean foods. Waste must be separated and stored in labelled containers. For example, raw vegetables with soil on should be cleaned away from the salad that is ready to eat. Vegetable peelings can be kept to make stock or be composted.
+                Rohe, verzehrfertige oder gekochte Lebensmittel müssen getrennt voneinander behandelt werden, ebenso wie Lebensmittel, die Allergene enthalten. Lebensmittel, die andere Zutaten kontaminieren könnten, werden in einem separaten Bereich verarbeitet. Abfälle müssen getrennt und in gekennzeichneten Behältern gelagert werden. Rohes Gemüse mit Schmutzresten sollte z. B. von verzehrfertigem Salat ferngehalten werden. Gemüseschalen können zur Herstellung von Brühe aufbewahrt oder kompostiert werden.
             </p>
         </div>
       </div>
@@ -476,9 +478,9 @@ body {
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Restaurant designs</h4>
+        <h4>Restauranteinrichtung</h4>
             <p>
-                Arrange your restaurant in a way to ensure a smooth flow and to prevent cross-contamination. Where this is not always possible you must have a procedure in place to ensure there is no cross-contamination. For example, if different shifts manage preparation using one surface, it can be cleaned thoroughly in between. This helps your staff to work better and prevent tensions during hurried shifts.
+                Richten Sie Ihr Restaurant so ein, dass ein reibungsloser Ablauf gewährleistet wird und Kreuzkontaminationen vermieden werden. Wo dies nicht möglich ist, müssen Sie über ein Verfahren nachdenken, das sicherstellt, dass es keine derartigen Verunreinigungen gibt. Zum Beispiel durch verschiedene Mitarbeitende, die Lebensmittel auf einer Fläche zubereiten und diese nach ihrer Schicht gründlich reinigen. Dies erleichtert Ihrem Personal die Arbeit und verhindert Spannungen während hektischer Schichten.
             </p>
         </div>
         
@@ -503,9 +505,9 @@ body {
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Receiving and storing food</h4>
+        <h4>Annahme und Lagerung von Lebensmitteln</h4>
             <p>
-                Foods need segregation on multiple counts. Ones that contain allergens, ones that are raw or from the ready-to-eat section and ones that are packed from the unpacked ones. When you receive food, the outer cartons should be removed to prevent contamination from entering your kitchen. A good system will have a designated space for the packaging which makes it easier to know that it is for recycling. Good stock control means you use up food in time, before the end of its shelf life. Storage at the right temperature prevents bacteria multiplying, keeps the food safe and ensures the shelf life lasts as the supplier intended it to. This prevents wasted food.
+                Lebensmittel, die Allergene enthalten, die roh oder verzehrfertig sind oder die entweder verpackt oder unverpackt sind, müssen getrennt gelagert und verarbeitet werden. Wenn Sie Lebensmittel erhalten, sollten immer sofort die äußeren Kartons entfernt werden, um zu verhindern, dass Ihre Küche verunreinigt wird. Ein gut funktionierendes System verfügt über einen ausgewiesenen Platz für Verpackungen, so dass diese recycelt werden können. Eine effektive Vorratshaltung bedeutet, dass Sie die Lebensmittel rechtzeitig vor Ablauf ihrer Haltbarkeit aufbrauchen. Durch die Lagerung bei richtiger Temperatur verhindern Sie die Vermehrung von Bakterien und sorgen dafür, dass die Lebensmittel entsprechend der Angaben des Lieferanten haltbar sind. So vermeiden Sie die Verschwendung von Lebensmitteln.
             </p>
 </div>
       </div>
@@ -528,9 +530,9 @@ body {
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Maintenance</h4>
+        <h4>Pflege und Wartung</h4>
             <p>
-                Your equipment and machinery must be checked regularly to ensure it is not damaged. Damage can lead to small pieces of metal getting into food. Well-maintained equipment is more efficient. For example, a boiler that has chalk build-up is unhygienic and takes more energy to heat. A freezer that is not well-ventilated can take more energy to cool food down. An air conditioner blocked with dust risks leaching contamination from bacteria into the atmosphere and takes excessive energy to cool.
+                Ihre Geräte und Maschinen müssen regelmäßig überprüft werden, um sicherzustellen, dass sie nicht beschädigt sind. Beschädigungen können dazu führen, dass kleine Metalle in die Lebensmittel gelangen und dass die Reinigung erschwert wird. Gut gewartete Geräte sind leistungsfähiger. Ein Heizkessel, der verkalkt ist, ist unhygienisch und benötigt mehr Energie zum Heizen. Ein Gefrierschrank, der nicht gut belüftet ist, benötigt mehr Energie, um Lebensmittel zu kühlen. Eine mit Staub verstopfte Klimaanlage birgt nicht nur die Gefahr, dass Bakterien in die Luft gelangen, sondern auch, dass zu viel Energie beim Kühlen verbraucht wird.
             </p>
         </div>
       </div>
@@ -552,9 +554,9 @@ body {
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Preservation</h4>
+        <h4>Aufbewahrung</h4>
             <p>
-                Preservation extends the life of food. Correct freezing keeps food safe. When food is too hot and enters the freezer, it uses additional energy to cool down. It can also cause localised spots of warming on frozen or chilled foods already in the freezer which in turn lead to the growth of unwanted bacteria. When freezing is done safely, it can help prevent wastage of unused food. It can also be a way to use local foods that are out of season. Fermentation, when done safely, extends shelf life and creates a delicious and healthy product out of simple ingredients such as pickled vegetables. Needless to say, the products should be labelled and the shelf life indicated clearly.
+                Sobald Lebensmittel konserviert werden, verlängert dies ihre Lebensdauer. Durch richtiges Einfrieren verlängert sich die Haltbarkeit der Lebensmittel. Wenn Sie heiße Lebensmittel in den Gefrierschrank räumen, verbrauchen Sie zusätzliche Energie, um diese abzukühlen. Außerdem kann es bei Lebensmitteln, die sich bereits im Gefrierschrank befinden, zu lokalen Erwärmungen kommen, die zu unerwünschtem Bakterienwachstum führen. Das ordnungsgemäße Einfrieren kann dazu beitragen, die Verschwendung von Lebensmitteln zu reduzieren. Zusätzlich bietet es die Chance, lokale Lebensmittel zu verwenden, deren Saison bereits vorbei ist. Fermentierung verlängert – sofern sie sicher durchgeführt wird – die Haltbarkeit und macht aus einer einfachen Zutat, z. B. eingelegtem Gemüse, ein leckeres und gesundes Produkt. Natürlich sollten die Produkte mit einem Hinweis zur Haltbarkeit versehen werden.
             </p>
         </div>
       </div>
@@ -577,9 +579,9 @@ body {
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Food allergies</h4>
+        <h4>Lebensmittelallergien</h4>
             <p>
-                In many countries, customers must have access to the full list of existing allergens in restaurant dishes. Allergen management is a highly challenging area for restaurants especially if the staff turnover is high – this can negatively impact knowledge transfer. A simple menu is the cornerstone of a sustainable restaurant, and it makes managing allergen listings easier. However, when you change your menu seasonally, be sure to indicate this to your customers and staff. When meals are made from scratch, you can be sure what the ingredients are and whether they have any allergens in them, which should be made known to the customers. Reputable suppliers will list the allergens on their products.
+                Gäste müssen (in vielen Ländern) vollständigen Zugang zu den Listen der Allergene in den Gerichten des Restaurants erhalten. Das Allergenmanagement stellt eine große Herausforderung für Restaurants dar, die beispielsweise eine hohe Personalfluktuation aufweisen – denn dies kann sich negativ auf den Wissenstransfer auswirken. Eine unkomplizierte Speisekarte ist der Grundstein für ein nachhaltiges Restaurant und erleichtert die Verwaltung von Allergenlisten. Wenn Sie jedoch Ihre Speisekarte saisonal ändern, sollten Sie dies Ihren Gästen und Mitarbeitenden mitteilen. Wenn die Mahlzeiten von Grund auf neu zubereitet werden, können Sie sicher sein, welche Zutaten verwendet werden und ob sie Allergene enthalten, auf die Sie Ihre Gäste hinweisen sollten. Seriöse Lieferanten werden die Allergene auf ihren Produkten kennzeichnen.
             </p>
         </div>
       </div>
@@ -602,9 +604,9 @@ body {
       </button>
       <div class="modal-body1">
         <div class="modal-content1 flexi-cont">
-        <h4>Waste</h4>
+        <h4>Abfallaufkommen</h4>
             <p>
-                How you manage unused food and the remains of meals is an important consideration. For example, depending on how it was used, unused bread can be reused in a different meal in the form of breadcrumbs or could be composted, or thrown away. How you deal with this means different considerations on food safety as well as the amount of waste you generate.
+                Ein wichtiger Aspekt ist der Umgang mit nicht verwendeten Lebensmitteln und Resten von Gerichten. So kann z. B. nicht verzehrtes Brot, je nachdem, wie es verwendet wurde, in einer anderen Mahlzeit wiederverwendet werden, z. B. als Paniermehl, oder es kann kompostiert und weggeworfen werden. Je nachdem, wie Sie damit umgehen, ergeben sich unterschiedliche Anforderungen an die Lebensmittelsicherheit und das Abfallaufkommen.
             </p>
         </div>
       </div>
@@ -626,9 +628,9 @@ body {
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Delivery and take-away</h4>
+        <h4>Lieferung und Abholung</h4>
             <p>
-                Especially since the outbreak of COVID 19, food delivery and take-away has picked up momentum. Strong containers that keep food free of contamination and are easy to dispose of, are needed. Compostable containers are a good alternative and if you can use a returnable container scheme, check how the containers are cleaned.
+                Vor allem durch COVID-19 sind Lieferungen und Abholungen von Speisen häufiger geworden. Dafür werden stabile Behälter benötigt, die die Lebensmittel vor Verunreinigungen schützen und die Ihre Gäste leicht entsorgen können. Kompostierbare Behälter sind eine gute Alternative. Falls Sie ein Mehrwegsystem nutzen, prüfen Sie, wie die Behälter bei Rückgabe gereinigt werden müssen.
             </p>
         </div>
       </div>
@@ -649,9 +651,9 @@ body {
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Sub-contractors</h4>
+        <h4>Lieferanten</h4>
             <p>
-                Usually, subcontractors look after ancillary tasks such as delivery and pest control. They must ensure that their practices do not endanger the safety of food. Delivery drivers, for example, must ensure food is transported at the right temperature at the right time. Pest control subcontractors must ensure that the placement of their devices and chemicals used do not pose a risk of contamination in your kitchen. When your subcontractors are aware of your requirements, they may have ideas to offer. Some pest subcontractors are changing the way they catch pests to limit the use of harmful chemicals in the environment.
+                In der Regel kümmern sich die Lieferanten auch um Anlieferung und Ungezieferkontrolle. Sie müssen sicherstellen, dass dies nicht die Sicherheit der Lebensmittel gefährdet. Die Lieferanten müssen beispielsweise gewährleisten, dass die Lebensmittel in der richtigen Temperatur und innerhalb der richtigen Zeitspanne transportiert werden. Dienstleister, die für die Schädlingsbekämpfung zuständig sind, müssen darauf achten, dass die Platzierung ihrer Geräte und die verwendeten Chemikalien kein Kontaminationsrisiko in Ihrer Küche darstellen. Wenn Ihre Zulieferer Ihre Anforderungen kennen, haben sie vielleicht weitere Ideen, die sie Ihnen vorschlagen können. Einige Subunternehmer, die für die Schädlingsbekämpfung zuständig sind, ändern beispielsweise die Art und Weise, wie sie Schädlinge bekämpfen, um die Umweltbelastungen durch Chemikalien zu verringern.
             </p>
         </div>
       </div>
@@ -672,9 +674,9 @@ body {
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Accountability and documentation</h4>
+        <h4>Berichtswesen und Dokumentation</h4>
             <p>
-                As a restaurant manager, you are responsible for the overall supervision of your FSMS (food safety management system). The FSMS needs to be documented and this means keeping up-to-date and accurate records. This also means doing checks - you or a responsible member of staff on your behalf - conducts the opening and closing checks, any on-top checks, and ensures that “prove it” documentation (such as cleaning and training records) are completed. When you have a system already established to manage food safety, it is easier to include checks necessary in other sustainability aspects. Recording the status of a new process and monitoring its progress is another part of managing sustainability, for example, energy usage.
+                Als Gastronomiebetreibende sind Sie für die Überwachung der Lebensmittelsicherheit verantwortlich. Ihr System zur Gewährleistung der Lebensmittelsicherheit muss alle Schritte dokumentieren. Die aktuelle und genaue Aufzeichnung ist daher Grundvoraussetzung. Darüber hinaus geht damit einher, dass Sie oder verantwortliche Mitarbeitende in Ihrem Namen Kontrollen durchführen. Sie führen die Eröffnungs- und Abschlusskontrollen durch, kontrollieren die Arbeitsabläufe und stellen sicher, dass die Nachweisdokumente (z. B. Reinigungs- und Schulungsunterlagen) vollständig sind. Wenn Sie bereits ein System für die Lebensmittelsicherheit implementiert haben, ist es einfacher, Kontrollen für weitere Nachhaltigkeitsaspekte zu integrieren. Die Dokumentation des Status eines neuen Verfahrens und die Überwachung seines Fortschritts ist ein weiterer Teil des Nachhaltigkeitsmanagements, z. B. beim Energieverbrauch.
             </p>
         </div>
       </div>
@@ -695,9 +697,9 @@ body {
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Independent check</h4>
+        <h4>Unabhängige Kontrollen</h4>
             <p>
-                To verify that your food safety system is working, you might want to have it checked independently. There are professional service providers, who can tailor inspection and analysis programs for your premises. Having this external input is a way for you to improve, and an endorsement that your food safety management is working plus an additional assurance you can give to your guests. Similar services exist in sustainability management although these are not as common. Ask your local authority or wholesaler for their recommendations.
+                Um sich zu vergewissern, dass Ihr Lebensmittelsicherheitssystem funktioniert, sollten Sie es unabhängig überprüfen lassen. Es gibt professionelle Dienstleister, die maßgeschneiderte Analyseprogramme anbieten. Eine externe Kontrolle bietet Ihnen die Möglichkeit, sich zu verbessern, eine Bestätigung für das Funktionieren Ihres Lebensmittelsicherheitsmanagements einzuholen und es stellt eine zusätzliche Sicherheit für Ihre Gäste dar. Ähnliche Dienstleistungen gibt es auch im Bereich des Nachhaltigkeitsmanagements, wobei diese nicht so weit verbreitet sind. Erkundigen Sie sich bei den örtlichen Behörden oder Ihren Großhändlern und fragen Sie nach deren Empfehlungen.
             </p>
         </div>
       </div>
@@ -718,9 +720,9 @@ body {
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Dirty areas</h4>
+        <h4>Verunreinigte Bereiche</h4>
             <p>
-                Areas for washing up, garbage bins or vegetable processing should be separated from clean areas. It helps to manage the flow of waste and ensure the correct waste is recycled or reused. For example, clean rinse water can be used to water your garden if you have one.
+                Bereiche wie der Abwasch, Mülleimer oder Gemüseverarbeitung sollten von sauberen Bereichen getrennt werden. Dies hilft, den Abfallfluss zu steuern und sicherzustellen, dass der richtige Abfall recycelt oder wiederverwendet wird. Sauberes Spülwasser kann zum Beispiel zur Bewässerung Ihres Gartens verwendet werden.
             </p>
         </div>
       </div>
@@ -765,9 +767,9 @@ body {
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Purchasing</h4>
+        <h4>Menschen</h4>
             <p>
-                A reputable supplier will have food safety covered. You can check this by asking for their certificate or inspection report carried out by their local or national authority, an accredited third-party independent inspector, or for a certificate from a Global Food Safety Initiative (GFSI) benchmarked scheme. Your FSMS requires you to keep a list of suppliers. This can also help you keep track of how they are performing concerning sustainability activities like <a target="_blank" href="introduction-to-responsible-sourcing-eng.php">responsible sourcing</a>. When you require your suppliers to have food safety standards, it also encourages their own efficiency and waste management. That way you can help suppliers to improve their processes which can mean they gain additional business and become economically sustainable.
+                Ordnungsgemäß geschultes Personal, das versteht, warum persönliche Hygiene und die Vermeidung von Verunreinigungen wichtig sind, wird sich engagierter für das tägliche Management der Lebensmittelsicherheit einsetzen. Sie sind motivierter, ihre Aufgaben sorgfältig auszuführen und machen seltener Fehler, die zu verunreinigten Lebensmitteln führen können. Ein nachhaltiges Restaurant behandelt sein Personal gut, wodurch Mitarbeitende motiviert werden, bei der Umsetzung anderer Nachhaltigkeitsmaßnahmen zu helfen.
             </p>
         </div>
       </div>
@@ -789,9 +791,9 @@ body {
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Equipment</h4>
+        <h4>Geräte</h4>
             <p>
-                Equipment that is right for the job makes the kitchen more efficient. Modern, well designed equipment is easy to clean and efficient to operate which saves time and energy and reduces the risk of contamination.
+                Eine richtige Ausrüstung macht die Küche effizienter. Moderne, gut konzipierte Geräte sind leicht zu reinigen und zu bedienen. Dies spart Zeit und Energie und verringert das Risiko von Verunreinigungen.
             </p>
         </div>
       </div>
@@ -838,10 +840,9 @@ body {
 
         <div class="modal-content1 flexi-cont more-text">
           <div>
-          <h4>Cold chain</h4>
+          <h4>Kühlkette</h4>
             <p>
-                When the cold chain is secured chilled food is safe and keeps longer which in turn minimises the amount of waste. Chilled food should be transported in a chilled vehicle
-                and where that is not possible in temperature- controlled containers that can carry frozen blocks.
+                Wenn die Kühlkette intakt ist, sind gekühlte Lebensmittel sicher und länger haltbar. Das führt auch zu einer Verringerung der Abfallmenge. Gekühlte Lebensmittel sollten in einem Kühltransporter transportiert werden. Ist dies nicht möglich, dann sollten Container mit Kühlelementen oder Gefrierblöcken benutzt werden.
             </p>
 
           </div>

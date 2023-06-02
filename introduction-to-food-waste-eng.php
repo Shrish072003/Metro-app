@@ -129,6 +129,13 @@
     color: #000;
     font-size: 25px;
 }
+.read-wrap a {
+    color: #fff !important;
+}
+.read-wrap a:hover {
+    background-color: #fff;
+    color: #003b7e !important;
+}
     </style>
 </head>
 

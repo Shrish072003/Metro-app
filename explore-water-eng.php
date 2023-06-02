@@ -94,6 +94,15 @@
     }
         .search-btn{    margin-right: -16px;
      }
+     @media screen and (max-width: 600px) {
+     .mb-5 {
+    margin-bottom: 0rem !important;
+}
+.mb-3 {
+    margin-bottom: 1rem !important;
+    margin-top: -6.5rem !important;
+}
+     }
     </style>
 </head>
 
@@ -220,8 +229,11 @@
                                         59% said they do it for environmental reasons,
                                         23% said they do this to save money.*
                                     </div>
+                                    <div  class="box-note-1 mobile_show">
+                                    *Metro´s 2019 global sustainability study&nbsp;
                                 </div>
-                                <div class="box-note-1">
+                                </div>
+                                <div class="box-note-1 desk_show">
                                     *Metro´s 2019 global sustainability study&nbsp;
                                 </div>
                             </div>
@@ -238,8 +250,11 @@
                                         you too can take steps that save money while at the
                                         same time protecting the environment.*
                                     </div>
+                                    <div class="box-note-1 mobile_show">
+                                    *Metro´s 2019 global sustainability study&nbsp;
                                 </div>
-                                <div class="box-note-1">
+                                </div>
+                                <div class="box-note-1 desk_show">
                                     *Metro´s 2019 global sustainability study&nbsp;
                                 </div>
                             </div>
@@ -248,7 +263,11 @@
                 </div>
             </section>
 
-            <section class="track-and_talk no-print" id="option3" data-scrl="Simple ways to save water">
+
+            <section class="mobile_show">
+        <?php include "includes/scroll/bigscroll14.php"; ?>
+        </section>
+            <section class="track-and_talk no-print desk_show" id="option3" data-scrl="Simple ways to save water">
                 <div class="container-fully">
                     <div class="row">
                         <div class="col-md-12 text-center">

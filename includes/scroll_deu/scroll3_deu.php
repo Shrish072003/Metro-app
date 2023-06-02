@@ -90,36 +90,35 @@
               <div class="item">
                 <div class="inner-item">
                     <div>
-                        <h3>Benefits
-</h3>
+                        <h3>Vorteile</h3>
                   </div>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle9">
-                  Less waste, lower costs
+                  Weniger Abfall, niedrigere Kosten
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle8">
-                  Comply with regulations
+                  Einhaltung von gesetzlichen Vorschriften
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle10">
-                  Good for image
+                  Verbesserter Ruf Ihres Restaurants
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle12">
-                  Prevent pollution of local and global environment
+                  Geringere Verschmut-zung der lokalen und globalen Umwelt
                   </button>
                 </div>
               </div>
@@ -127,7 +126,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle13">
-                  Save natural resources
+                  Einsparung von natürlichen Ressourcen
                   </button>
                 </div>
               </div>

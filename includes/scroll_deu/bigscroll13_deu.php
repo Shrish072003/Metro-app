@@ -214,89 +214,89 @@ body {
             <div class="slider2">
               <div class="item">
                 <div class="inner-item">
-                    <h3>SHOW YOUR LEADERSHIP</h3>
+                    <h3>ZEIGEN SIE FÜHRUNGSSTÄRKE</h3>
                     <img src='../../assets/images/safe_food/sf-13.svg' />
                     <button class="modal-toggle24 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>EXPLAIN
-WHY YOU HAVE THE RULES</h3>
+                    <h3>ERKLÄREN SIE,
+WARUM SIE REGELN BRAUCHEN</h3>
                     <img src="../../assets/images/safe_food/sf-14.svg" />
                   <button class="modal-toggle9 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                <h3>TRAIN AND EDUCATE YOUR STAFF</h3>
+                <h3>SCHULEN SIE IHR PERSONAL</h3>
                     <img src="../../assets/images/safe_food/sf-15.svg" />
                   <button class="modal-toggle8 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>PROVIDE
-THE RIGHT EQUIPMENT</h3>
+                    <h3>STELLEN SIE DIE
+RICHTIGEN GERÄTE ZUR VERFÜGUNG</h3>
                     <img src="../../assets/images/safe_food/sf-16.svg" />
                   <button class="modal-toggle10 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>MAKE RECORD KEEPING ROUTINE</h3>
+                    <h3>FÜHREN SIE ROUTINEN EIN</h3>
                     <img src="../../assets/images/safe_food/sf-17.svg" />
                   <button class="modal-toggle12 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>EMPOWER YOUR EMPLOYEES</h3>
+                    <h3>STÄRKEN SIE IHRE MITARBEITENDEN</h3>
                     <img src="../../assets/images/safe_food/sf-18.svg" />
                   <button class="modal-toggle13 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>CONDUCT INSPECTIONS</h3>
+                    <h3>FÜHREN SIE ÜBERPRÜFUNGEN DURCH</h3>
                     <img src="../../assets/images/safe_food/sf-19.svg" />
                   <button class="modal-toggle14 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>DON’T MAKE ASSUMPTIONS</h3>
+                    <h3>STELLEN SIE KEINE VERMUTUNGEN AN</h3>
                     <img src="../../assets/images/safe_food/sf-20.svg" />
                   <button class="modal-toggle15 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>CHECK FOR HELP FROM
-LOCAL AUTHORITIES AND SERVICES</h3>
+                    <h3>SUCHEN SIE DIE HILFE VON LOKALEN
+BEHÖRDEN UND DIENSTLEISTERN</h3>
                     <img src="../../assets/images/safe_food/sf-21.svg" />
                   <button class="modal-toggle16 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -306,7 +306,7 @@ LOCAL AUTHORITIES AND SERVICES</h3>
                     <h3>Waste</h3>
                     <img src="../../assets/images/safe_food/safe-9.svg" />
                   <button class="modal-toggle17 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -317,7 +317,7 @@ LOCAL AUTHORITIES AND SERVICES</h3>
                     <h3>Delivery and take-away</h3>
                     <img src="../../assets/images/safe_food/safe-12.svg" />
                   <button class="modal-toggle18 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -328,7 +328,7 @@ LOCAL AUTHORITIES AND SERVICES</h3>
                     <h3>Sub-contractors</h3>
                     <img src="../../assets/images/safe_food/safe-11.svg" />
                   <button class="modal-toggle19 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -339,7 +339,7 @@ LOCAL AUTHORITIES AND SERVICES</h3>
                     <h3>Accountability and documentation</h3>
                     <img src="../../assets/images/safe_food/safe-13.svg" />
                   <button class="modal-toggle20 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -350,7 +350,7 @@ LOCAL AUTHORITIES AND SERVICES</h3>
                     <h3>Independent check</h3>
                     <img src="../../assets/images/safe_food/safe-14.svg" />
                   <button class="modal-toggle21 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -361,7 +361,7 @@ LOCAL AUTHORITIES AND SERVICES</h3>
                     <h3>Dirty areas</h3>
                     <img src="../../assets/images/safe_food/sf-5.svg" />
                   <button class="modal-toggle22 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div> -->
@@ -372,7 +372,7 @@ LOCAL AUTHORITIES AND SERVICES</h3>
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle23 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -383,7 +383,7 @@ LOCAL AUTHORITIES AND SERVICES</h3>
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle24 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -394,7 +394,7 @@ LOCAL AUTHORITIES AND SERVICES</h3>
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle25 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -405,7 +405,7 @@ LOCAL AUTHORITIES AND SERVICES</h3>
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle26 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -416,7 +416,7 @@ LOCAL AUTHORITIES AND SERVICES</h3>
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle27 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -427,7 +427,7 @@ LOCAL AUTHORITIES AND SERVICES</h3>
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle28 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div> -->
@@ -454,9 +454,9 @@ LOCAL AUTHORITIES AND SERVICES</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Train and educate your staff</h4>
+        <h4>Schulen Sie Ihr Personal</h4>
             <p>
-                This should be ongoing for new as well as experienced staff. Explain why it is so important to ensure food safety and how lapses in it could mean a serious incident and may result in someone getting seriously sick, meaning in the worst case, that your business closes.
+                Weiterbildungen sollten für alle neuen und langjährigen Mitarbeitenden selbstverständlich sein. Erläutern Sie, warum dies so wichtig ist und wie Nachlässigkeiten bei der Lebensmittelsicherheit zu schwerwiegenden Folgen führen können. Grundsätzlich kann immer jemand ernsthaft erkranken, was im schlimmsten Fall die Schließung Ihres Restaurants nach sich zieht.
             </p>
         </div>
       </div>
@@ -478,9 +478,9 @@ LOCAL AUTHORITIES AND SERVICES</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Explain why you have the rules</h4>
+        <h4>Erklären Sie, warum Sie Regeln brauchen</h4>
             <p>
-                People don’t like being told what to do without knowing why. So, instead of simply instructing the staff to wash hands, explain why they should wash their hands after handling raw meat and between preparing salad leaves - because it can mean the transfer of dangerous bacteria to the salad which will make your guests sick.
+                Menschen mögen es nicht, wenn man Ihnen sagt, was sie tun sollen, ohne zu wissen, warum. Erklären Sie z. B. warum sich Ihre Mitarbeitenden nach der Zubereitung von rohem Fleisch zunächst die Hände waschen sollten, bevor sie Salate vorbereiten – denn andernfalls können gefährliche Bakterien auf den Salat übertragen werden, die Ihre Gäste krank machen.
             </p>
         </div>
         
@@ -505,9 +505,9 @@ LOCAL AUTHORITIES AND SERVICES</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Empower your employees</h4>
+        <h4>Stärken Sie Ihre Mitarbeitenden</h4>
             <p>
-                Enable them to make decisions themselves, for example, to refuse potentially unsafe food from suppliers on arrival. If food isn’t safe, for example, the temperature is over your legal requirement, it will either make someone sick or be wasted later. The best filter is your staff which could prevent mishaps in time.
+                Erlauben Sie ihnen, selbst Entscheidungen zu treffen, z. B. potenziell unsichere Lebensmittel von Lieferanten bei der Ankunft abzulehnen. Wenn Lebensmittel nicht sicher sind, z. B. weil die Temperatur über den gesetzlichen Vorschriften liegt, müssen sie entsorgt werden.
             </p>
 </div>
       </div>
@@ -530,9 +530,9 @@ LOCAL AUTHORITIES AND SERVICES</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Conduct inspections</h4>
+        <h4>Führen Sie Überprüfungen durch</h4>
             <p>
-                This is a way to check your system is working and employees are complying with the procedures. Self-inspections by you or a trained senior employee can be effective as hiring an external (third-party) inspector. Sometimes an outsider can see things you miss and you can learn a lot from this experience.
+                Auf diese Weise können Sie prüfen, ob Ihr System funktioniert und ob die Mitarbeitenden die Verfahren einhalten. Eigene Inspektionen durch Sie selbst oder geschultes Führungspersonal können ebenso effektiv sein wie die Beauftragung eines externen Prüfers. Manchmal kann eine dritte Person Dinge erkennen, die Ihnen entgehen, woraus Sie viel lernen können.
             </p>
         </div>
       </div>
@@ -554,9 +554,9 @@ LOCAL AUTHORITIES AND SERVICES</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Don’t make assumptions</h4>
+        <h4>Stellen Sie keine Vermutungen an</h4>
             <p>
-                Make clear instructions. Remind all your staff that even small mistakes in a procedure can end up in a sick or dead guest. For example, a dish sponge should not be used to wipe a dirty floor and they must wash their hands after going to the bathroom or smoking.
+                Erinnern Sie Ihr gesamtes Personal daran, dass selbst kleine Fehler die Gesundheit eines Gastes gefährden können. Beispielsweise sollte ein Spülschwamm niemals zum Wischen eines schmutzigen Fußbodens verwendet werden und die Mitarbeitenden sollten sich nach dem Toilettengang oder Rauchen die Hände waschen.
             </p>
         </div>
       </div>
@@ -579,9 +579,9 @@ LOCAL AUTHORITIES AND SERVICES</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Check for help from local authorities and services</h4>
+        <h4>Suchen Sie die Hilfe von lokalen Behörden und Dienstleistern</h4>
             <p>
-                Creating a food safety culture doesn’t have to be difficult or expensive. It’s a matter of habit and will be a sure way that your restaurant is one in which food is safe and enjoyable to eat. But do ask for help. Check what service or advice is available from your local authority or wholesaler. Some may even have special deals with local hygiene inspection services or laboratories that can help you establish a system or improve your existing one.
+                Eine Kultur der Lebensmittelsicherheit zu etablieren, muss nicht teuer oder schwierig sein. Es ist eine Frage der Gewohnheit und führt dazu, dass Ihr Restaurant ein Ort ist, der Lebensmittel sicher verarbeitet, weshalb man es gerne besucht. Aber scheuen Sie nicht davor zurück, Hilfe zu suchen. Erkundigen Sie sich, welche Dienstleistungen oder Hilfestellungen Ihre örtliche Verwaltung oder Ihr Großhändler anbietet. Manche haben sogar Sondervereinbarungen mit den örtlichen Hygienekontrolldiensten oder Laboren, die Ihnen bei der Einführung eines Systems oder der Verbesserung Ihres bestehenden Systems helfen können.
             </p>
         </div>
       </div>
@@ -767,9 +767,9 @@ LOCAL AUTHORITIES AND SERVICES</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Show your leadership</h4>
+        <h4>Zeigen Sie Führungsstärke</h4>
             <p>
-                Set a good example for your employees to follow. Show that you are strongly committed to food safety and emphasize that you expect the same from your team. Simple things, for example, washing your hands when you enter the kitchen speaks volumes about how you expect your staff to act.
+                Gehen Sie mit gutem Beispiel voran, damit Ihr Personal Ihnen folgt. Zeigen Sie, dass Ihnen die Lebensmittelsicherheit am Herzen liegt und betonen Sie, dass Sie dasselbe von Ihrem Team erwarten. Einfache Maßnahmen wie Händewaschen beim Betreten der Küche mögen zwar Zeit kosten, verdeutlichen aber, was Sie von Ihren Mitarbeitenden erwarten.
             </p>
         </div>
       </div>
@@ -791,9 +791,9 @@ LOCAL AUTHORITIES AND SERVICES</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Provide the right equipment</h4>
+        <h4>Stellen Sie die richtigen Geräte zur Verfügung</h4>
             <p>
-                Ensure your kitchen has the necessary tools to safely prepare and serve food. For example, food thermometers that are easily accessible mean that employees will more easily be able to check food temperatures.
+                Stellen Sie sicher, dass Ihre Küche über die notwendigen Geräte verfügt, um Lebensmittel sicher zuzubereiten und zu servieren. Thermometer für Speisen sind leicht zu erwerben und erleichtern Ihren Mitarbeitenden die Überprüfung der Speisetemperaturen.
             </p>
         </div>
       </div>
@@ -840,9 +840,9 @@ LOCAL AUTHORITIES AND SERVICES</h3>
 
         <div class="modal-content1 flexi-cont more-text">
           <div>
-          <h4>Make record keeping routine</h4>
+          <h4>Führen Sie Routinen ein</h4>
             <p>
-                When record keeping is part of the regular routine, for example, taking the temperature of foods at specific times, and it is given due priority, there are better chances of adherence. Consider using a digital app that can support record keeping. Young employees will start to expect such digitization and long-serving employees will be happy to learn a new skill.
+                Wenn Sie bestimmte Abläufe zu einer regelmäßigen Routine machen, z. B. das Messen der Temperaturen von Lebensmitteln zu bestimmten Zeiten und Sie dem ganzen Vorrang einräumen, werden neue Abläufe leichter verinnerlicht. Ziehen Sie den Einsatz einer digitalen App in Betracht, die Ihre Aufzeichnungen unterstützen kann. Jüngere Mitarbeitende werden davon nicht überrascht sein, während es für ältere Mitarbeitende die Chance neue Fähigkeiten zu erlernen.
             </p>
 
           </div>

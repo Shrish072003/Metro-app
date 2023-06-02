@@ -209,37 +209,39 @@
             <div class="slider2">
               <div class="item">
                 <div class="inner-item">
-                    <h3>CHECK WHAT YOU NEED TO DO</h3>
+                    <h3>Prüfen Sie, was zu tun ist</h3>
                     <img src='../../assets/images/safe_food/s-9.svg' />
                     <button class="modal-changed24 read-more-btn">
-                  Read more
+                    WEITERLESEN
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>COMMUNICATE CLEARLY</h3>
+                    <h3>Kommunizieren Sie klar und deutlich</h3>
                     <img src="../../assets/images/safe_food/s-10.svg" />
                   <button class="modal-changed9 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                <h3>TRAIN AND EMPOWER YOUR STAFF</h3>
+                <h3>Schulen und fördern
+Sie Ihr Personal</h3>
                     <img src="../../assets/images/safe_food/sf-4.svg" />
                   <button class="modal-changed8 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>TRAIN AND EMPOWER YOUR STAFF</h3>
+                    <h3>Schulen und fördern
+Sie Ihr Personal</h3>
                     <img src="../../assets/images/safe_food/sf-4.svg" />
                   <button class="modal-changed8 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -446,10 +448,11 @@
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Train and empower your staff
+        <h4>Schulen und fördern Sie Ihr Personal
+
 </h4>
             <p>
-            Agree together how you will support staff who perform care work and who might need cover at the last moment for example those with sick or elderly relatives or parents with young children. Ensure that your shift plans accommodate older and less physically able members of staff. Promote from within your restaurant from within – train and empower your staff through training and promotion.</p>
+            Vereinbaren Sie gemeinsam, wie Sie Mitarbeitende unterstützen können, die Angehörige oder Kinder betreuen und für die Sie gegebenenfalls kurzfristig Ersatz finden müssen. Berücksichtigen Sie bei der Erstellung von Schichtplänen die Bedürfnisse älterer und körperlich beeinträchtigter Mitarbeitender. Fördern Sie Ihr Personal durch Weiterbildungen und Beförderungen.</p>
         </div>
       </div>
     </div>
@@ -470,10 +473,11 @@
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Communicate clearly
+        <h4 style="overflow-wrap: anywhere;">Kommunizieren Sie klar und deutlich
+
 </h4>
             <p>
-            State your commitment and expectations towards your staff explicitly. Be clear what your and their responsibilities are. Communicate often and involve your staff through education, training and socially interacting. Install a robust remediation and grievance procedure to deal with feedback and complaints. Agree at the same time with your staff how to distribute tips.</p>
+            Machen Sie Ihr Engagement und Ihre Erwartungen gegenüber Ihren Mitarbeitenden deutlich. Legen Sie alle Aufgaben klar und deutlich fest. Sprechen Sie häufig mit ihnen und binden Sie sie durch Aus- und Weiterbildungen oder soziale Begegnungen (Team Events, Weihnachtsfeiern, etc.) ein. Führen Sie ein effizientes Beschwerdeverfahren ein, um besser mit Feedback umgehen zu können. Treffen Sie mit Ihren Mitarbeitenden eine Vereinbarung, wie Trinkgelder verteilt werden.</p>
         </div>
         
       </div>
@@ -759,10 +763,10 @@
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Check what you need to do
+        <h4>Prüfen Sie, was zu tun ist
 </h4>
             <p>
-            Identify your legal and human rights requirements, assess your status, make changes and monitor ongoing. Ensure Personal Protective Equipment (PPE) is provided for all staff as needed. Allow staff to take home surplus meals and establish one free meal during their shift.</p>
+            Informieren Sie sich über die rechtlichen Anforderungen, bewerten Sie die gegenwärtige Situation, nehmen Sie Änderungen vor und überwachen Sie die eingeführten Maßnahmen. Stellen Sie sicher, dass bei Bedarf alle Mitarbeitenden mit einer persönlichen Schutzkleidung (PSA) ausgestattet sind. Bieten Sie Ihren Arbeitnehmenden zusätzlich die Möglichkeit, überschüssiges Essen mit nach Hause zu nehmen und sorgen Sie dafür, dass alle eine kostenlose Mahlzeit am Tag erhalten.</p>
         </div>
       </div>
     </div>

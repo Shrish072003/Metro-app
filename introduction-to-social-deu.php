@@ -157,9 +157,11 @@
                 </div>
             </div>
         </section>
+        <section class="mobile_show">
+        <?php include "includes/scroll_deu/scroll6_deu.php"; ?>
+        </section>
 
-
-        <section class="section3-grid no-print" id="option4" data-scrl="Vorteile">
+        <section class="section3-grid no-print desk_show" id="option4" data-scrl="Vorteile">
             <ul>
                 <li>
                     <p class="font-size-30px">Vorteile</p>
@@ -228,7 +230,7 @@
         <section class="section3-inners no-print" id="option5" data-scrl="Ein gesellschaftlicher Trend">
             <div class="section3-inner align-normal big_issues">
                 <div class="left-content">
-                    <h3>EIN<br>GESELLSCHAFTLICHER<br>TREND</h3>
+                    <h3 style="overflow-wrap: break-word;">EIN<br>GESELLSCHAFTLICHER<br>TREND</h3>
                 </div>
                 <div class="right-content">
                     <p>Da die Gastronomiebranche viele Menschen beschäftigt, spielt jedes Restaurant, unabhängig von seiner Größe und Art, eine wichtige Rolle für die Wirtschaft und die lokale Gemeinde. Doch leider halten sich viele Unternehmen im Gastgewerbe immer noch nicht an die Gesetze. Es mangelt an Grundlagen wie der vorbildlichen Vorgehensweise und häufig ist das erforderliche Wissen einfach nicht bekannt und/oder verfügbar. Arbeitnehmende, deren grundlegende Rechte nicht geschützt sind, wirken sich aber nicht nur negativ auf Ihr Restaurant, sondern auch auf die umliegende Gemeinde aus. Die Effizienz eines Restaurants, die Lebensmittelqualität und der Gesamterfolg Ihres Betriebs hängen im hohen Maße von engagiertem Personal ab.</p>

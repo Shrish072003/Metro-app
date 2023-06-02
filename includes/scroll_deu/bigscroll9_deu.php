@@ -209,37 +209,40 @@
             <div class="slider2">
               <div class="item">
                 <div class="inner-item">
-                    <h3>HIRE LOCAL EMPLOYEES AND BE INCLUSIVE</h3>
+                    <h3>Stellen Sie Personal aus der Umgebung ein und seien Sie inklusiv</h3>
                     <img src='../../assets/images/safe_food/s-18.svg' />
                     <button class="modal-changed24 read-more-btn">
-                  Read more
+                    WEITERLESEN
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>SOURCE SEASONAL PRODUCTS LOCALLY</h3>
-                    <img src="../../assets/images/safe_food/s-10.svg" />
+                    <h3>Kaufen Sie Ihre saisonalen
+Produkte vor Ort</h3>
+                    <img src="../../assets/images/safe_food/s-19.svg" />
                   <button class="modal-changed9 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                <h3>CONTRIBUTE TO THE LOCAL COMMUNITY</h3>
+                <h3>Leisten Sie einen Beitrag
+für Ihre Region</h3>
                     <img src="../../assets/images/safe_food/s-17.svg" />
                   <button class="modal-changed8 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>CONTRIBUTE TO THE LOCAL COMMUNITY</h3>
+                    <h3>Leisten Sie einen Beitrag
+für Ihre Region</h3>
                     <img src="../../assets/images/safe_food/s-17.svg" />
                   <button class="modal-changed8 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -446,9 +449,10 @@
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Contribute to the local community</h4>
+        <h4>Leisten Sie einen Beitrag für Ihre Region
+</h4>
             <p>
-                Contribute to local activities and charitable projects such as street-festivals. Donate your surplus food. Collect money for charity or donate your employees` time to support local charities. Let your restaurant serve as a welcoming space outside busy hours, for those who need it, such as local charities and organisations. Create a welcoming space for parents with children, especially during the day.
+            Beteiligen Sie sich an lokalen Aktivitäten und Wohltätigkeitsprojekten, z. B. an Straßenfesten. Spenden Sie überschüssige Lebensmittel. Sammeln Sie Geld für wohltätige Zwecke oder stellen Sie Mitarbeitende zur Unterstützung lokaler Wohltätigkeitsorganisationen frei. Stellen Sie Ihr Restaurant auch außerhalb der Geschäftszeiten als Treffpunkt zur Verfügung z. B. für örtliche Wohlfahrtsverbände und Organisationen. Schaffen Sie besonders tagsüber einen ansprechenden Ort für Eltern mit Kindern.
             </p></div>
       </div>
     </div>
@@ -469,10 +473,9 @@
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Source seasonal products locally</h4>
+        <h4>Kaufen Sie Ihre saisonalen Produkte vor Ort</h4>
             <p>
-                Purchase your seasonal products locally and look for local specialties for your menu. Try to provide menu options that can accommodate different dietary preferences for your customers.
-            </p></div>
+            Beziehen Sie Ihre saisonalen Lebensmittel vor Ort und erweitern Sie Ihre Speisekarte um lokale Spezialitäten. Sorgen Sie dafür, dass Ihre Speisekarte die verschiedenen Ernährungsstile Ihrer Gäste berücksichtigt.            </p></div>
         
       </div>
     </div>
@@ -757,10 +760,11 @@
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Hire local employees and be inclusive</h4>
+        <h4>Stellen Sie Personal aus der Umgebung ein und seien Sie inklusiv
+</h4>
             <p>
-                Make it clear that you run an inclusive restaurant and that you do not tolerate discrimination whether it be employees or customers. When you are hiring, consider local employees, and people with different social backgrounds, cultures, and histories, including migrants.
-            </p></div>
+            Machen Sie deutlich, dass Sie ein inklusives Restaurant betreiben, in dem Diskriminierungen nicht geduldet werden, weder bei Mitarbeitenden noch bei Gästen. Berücksichtigen Sie bei der Anstellung von Mitarbeitenden aus der Umgebung unterschiedliche soziale Hintergründe und Kulturen, einschließlich von Migrantinnen und Migranten. </p>
+          </div>
       </div>
     </div>
   </div>

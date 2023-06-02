@@ -71,7 +71,6 @@
     background: none !important;
 }
 .section3-inner3 .left-content h3, .section3-inner .left-content h3 {
-    font-size: 25px !important;
     text-align: center;
 }
 .section-slider2 .inner-item button {
@@ -175,7 +174,7 @@
                 </div>
             </section>
             <section class="mobile_show">
-        <?php include "includes/scroll/scroll3.php"; ?>
+        <?php include "includes/scroll/scroll3_new.php"; ?>
         </section>
             <section class="desk_show">
                 <div class="section3-grid" id="option4" data-scrl="Benefits">

@@ -169,8 +169,10 @@
             </div>
         </section>
 
-
-        <section class="section3-grid no-print" id="option4" data-scrl="Vorteile">
+        <section class="mobile_show">
+        <?php include "includes/scroll_deu/scroll1_deu.php"; ?>
+        </section>
+        <section class="section3-grid no-print desk_show" id="option4" data-scrl="Vorteile">
             <ul>
                 <li>
                     <p class="font-size-30px">Vorteile</p>

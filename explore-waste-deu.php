@@ -271,9 +271,12 @@
                             </strong>
                         </p>
                         <div class="sw-holder">
+                        <section class="mobile_show">
+                        <?php include "includes/scroll_deu/bigscroll10_deu.php"; ?>
+    </section>
                             <!--<div class="sw-btn-prev-container"><div class="swiper-button-prev btn-y pbtn"></div></div>-->
 
-                            <div class="row">
+                            <div class="row desk_show">
                                 <div class="col-md-12 mb-5">
                                     <div class="pageSlider-container">
                                         <div class="pageSlider-container-inner">

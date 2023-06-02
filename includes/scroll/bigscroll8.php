@@ -245,8 +245,8 @@
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>TRAIN AND EMPOWER YOUR STAFF</h3>
-                    <img src="../../assets/images/safe_food/sf-4.svg" />
+                    <h3>KEEP IN TOUCH</h3>
+                    <img src="../../assets/images/safe_food/s-12.svg" />
                     <p>Connect regularly with your suppliers</p>
                   <!-- <button class="modal-changed8 read-more-btn">
                   Read more

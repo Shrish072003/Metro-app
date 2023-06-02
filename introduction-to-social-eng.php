@@ -72,7 +72,6 @@
     background: none !important;
 }
 .section3-inner3 .left-content h3, .section3-inner .left-content h3 {
-    font-size: 25px !important;
     text-align: center;
 }
 .section-slider2 .inner-item button {

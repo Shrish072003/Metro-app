@@ -85,13 +85,19 @@
     background: none !important;
 }
 .section3-inner3 .left-content h3, .section3-inner .left-content h3 {
-    font-size: 25px !important;
     text-align: center;
 }
 .section-slider2 .inner-item button {
     padding-top: 0;
     color: #000;
     font-size: 25px;
+}
+.read-wrap a {
+    color: #fff !important;
+}
+.read-wrap a:hover {
+    background-color: #fff;
+    color: #003b7e !important;
 }
     </style>
 </head>

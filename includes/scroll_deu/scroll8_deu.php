@@ -90,36 +90,35 @@
               <div class="item">
                 <div class="inner-item">
                     <div>
-                        <h3>Benefits
-</h3>
+                        <h3>Vorteile</h3>
                   </div>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle9">
-                  Reduced costs
+                  Kostensenkung
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle8">
-                  An opportunity to innovate menu
+                  Gelegenheit, für ungewöhnliche, neue Speisen-kreationen
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle10">
-                  Increased efficiency
+                  Effizienz-steigerung
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle12">
-                  Smooth regulatory compliance
+                  Einhaltung von Vorschriften
                   </button>
                 </div>
               </div>
@@ -127,7 +126,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle13">
-                  A good reputation
+                  Positives Image
                   </button>
                 </div>
               </div>
@@ -135,7 +134,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle14">
-                  A positive impact on local community
+                  Positiver Einfluss auf die Kommune
                   </button>
                 </div>
               </div>
@@ -143,7 +142,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle15">
-                  A reduction of impact on the local and global environment
+                  Geringere Auswirkungen auf die Umwelt
                   </button>
                 </div>
               </div>

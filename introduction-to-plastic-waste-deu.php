@@ -285,7 +285,11 @@
                 </div>
             </div>
         </section>
-        <section id="option4" data-scrl="Vorteile">
+
+        <section class="mobile_show">
+        <?php include "includes/scroll_deu/scroll3_deu.php"; ?>
+        </section>
+        <section class="desk_show" id="option4" data-scrl="Vorteile">
             <div class="section3-grid">
                 <ul>
                     <li>

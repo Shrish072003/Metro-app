@@ -130,9 +130,17 @@
     background-color: #dbdada;
     background-image: none !important;
 }
-nav2 {
+.nav2 {
     padding: 100px 0px 60px 0px !important;
 }
+@media screen and (max-width: 600px) {
+
+nav.navbar {
+			height: 60px;
+			margin-bottom: 0px;
+			position: relative;
+		}
+	}
 	</style>
 </head>
 
@@ -703,6 +711,9 @@ nav2 {
 			</div>
 		</div>
 	</div>
+	<section class="mobile_show">
+        <?php include "includes/scroll_deu/scrollmsr_deu.php"; ?>
+        </section>
 	<div id="myModal" class="modal">
 
 		<!-- Modal content -->

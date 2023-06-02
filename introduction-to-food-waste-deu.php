@@ -225,9 +225,11 @@ h1.banner_title {
                 </div>
             </div>
         </section>
+        <section class="mobile_show">
+        <?php include "includes/scroll_deu/scroll2_deu.php"; ?>
+        </section>
 
-
-        <section class="section3-grid" id="option4" data-scrl="Vorteile">
+        <section class="section3-grid desk_show" id="option4" data-scrl="Vorteile">
             <ul>
                 <li>
                     <p class="font-size-30px">Vorteile</p>
@@ -350,8 +352,8 @@ h1.banner_title {
         $(document).ready(function() {
             var cur_page_name = "Lebensmittelverluste";
             var cur_nav_link_id = "3";
-            var eng_page_path = "the-msr-chapter-guide-eng.php";
-            var deu_page_path = "the-msr-chapter-guide-deu.php";
+            var eng_page_path = "introduction-to-food-waste-eng.php";
+            var deu_page_path = "introduction-to-food-waste-deu.php";
             //manipulation
             pagemanipulation(cur_page_name, cur_nav_link_id, eng_page_path, deu_page_path);
             var menuIdVal = "2";
