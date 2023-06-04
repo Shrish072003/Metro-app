@@ -95,7 +95,9 @@
         <div class="page-3_stage">
             <section class="section1 mt-4" id="option1" data-scrl="Warum wir über Lebensmittelsicherheit sprechen müssen">
                 <div class="left-content col-md-6">
-                    <h3>Warum wir über Lebensmittelsicherheit<br>sprechen müssen</h3>
+                    <h3 style="
+    overflow-wrap: break-word;
+">Warum wir über Lebensmittelsicherheit<br>sprechen müssen</h3>
                 </div>
                 <div class="col-md-6">
                     <img src="./assets/images/safe_food/Asset 67.svg" class="px-4">
@@ -218,7 +220,9 @@
 
             <section class="section4 padr-60px" id="option6" data-scrl="Erste Schritte, wie Sie Lebensmittelsicherheit sicherstellen">
                 <div class="left-content noalign w60-per">
-                    <h3>KNOW-HOW –<br>ERSTE SCHRITTE, WIE SIE<br>LEBENSMITTELSICHERHEIT SICHERSTELLEN</h3>
+                    <h3 style="
+    overflow-wrap: break-word;
+">KNOW-HOW –<br>ERSTE SCHRITTE, WIE SIE<br>LEBENSMITTELSICHERHEIT SICHERSTELLEN</h3>
                     <div class="img_class_down">
                     <img src="assets/images/safe_food/Asset 9.svg" class="img-fluid px-5 mobile_show">
                 </div>

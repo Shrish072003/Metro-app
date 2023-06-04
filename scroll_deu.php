@@ -130,9 +130,7 @@
 .collapsible__header {
     height: 100px !important;
 }
-.accor {
-    height: 100px !important;
-}
+
   </style>
 
 

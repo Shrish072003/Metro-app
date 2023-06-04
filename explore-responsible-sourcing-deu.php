@@ -1298,7 +1298,7 @@
 
 
 
-                <?php include "includes\scroll_deu\scroll_deu.php"; ?>
+                <?php include "scroll_deu.php"; ?>
 
                 <!--------Comprehensive Guide START------->
 
@@ -2271,6 +2271,7 @@
                 </div>
             </div>
         </section>
+        <iframe src="includes\scroll_deu\bigscroll11_deu.php" height="520px" class="mobile_show"></iframe>
 
 
         <!-----SLIDER START------>
@@ -2371,7 +2372,7 @@
 
 
 
-        <div class="row no-print">
+        <div class="row no-print desk_show">
             <div class="col-md-12" style="z-index: 0;">
                 <div class="pageSlider-container">
                     <div class="pageSlider-container-inner">

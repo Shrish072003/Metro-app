@@ -222,56 +222,59 @@ span.slimg-holder.socils_one {
             <div class="slider2">
               <div class="item">
                 <div class="inner-item">
-                    <h3>ANALYSE YOUR PURCHASES</h3>
+                    <h3>ÜBERPRÜFEN SIE
+IHRE EINKÄUFE</h3>
                     <img src='../../assets/images/resp_sourcing/purchase-box.svg' />
                     <button class="modal-toggle24 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>LOOK AT WHO SUPPLIES YOUR PRODUCTS</h3>
+                    <h3>ÜBERPRÜFEN SIE,
+WER IHRE PRODUKTE LIEFERT</h3>
                     <img src='../../assets/images/resp_sourcing/package-delivery.svg' />
                   <button class="modal-toggle9 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                <h3>MAKE THE ORIGIN OF YOUR PRODUCTS PUBLIC</h3>
+                <h3>MACHEN SIE DIE HERKUNFT
+IHRER PRODUKTE BEKANNT</h3>
                 <img src='../../assets/images/resp_sourcing/cow-milking.svg' />
                   <button class="modal-toggle8 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>ENGAGE YOUR STAFF</h3>
+                    <h3>BEZIEHEN SIE IHR PERSONAL EIN</h3>
                     <img src='../../assets/images/resp_sourcing/sliderimg4.svg' />
                   <button class="modal-toggle10 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>LOOK AT YOUR MOST COMMON INGREDIENTS AND SOURCE THEM MORE SUSTAINABLE</h3>
+                    <h3>SCHAUEN SIE SICH DIE ZUTATEN AN, DIE SIE AM HÄUFIGSTEN VERWENDEN UND KAUFEN SIE DIESE NACHHALTIG EIN</h3>
                     <img src='../../assets/images/resp_sourcing/sliderimg5.svg' />
                     <button class="modal-toggle11 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>USE THE COMPREHENSIVE GUIDE TO SUSTAINABLE PRODUCTS AND SCHEMES</h3>
+                    <h3>NUTZEN SIE DEN LEITFADEN FÜR NACHHALTIGE PRODUKTE</h3>
                     <img src='../../assets/images/resp_sourcing/sliderimg6.svg' />
                     <button class="modal-toggle12 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -284,7 +287,7 @@ span.slimg-holder.socils_one {
                                                                                             7
                                                                                         </span></div>
                   <button class="modal-toggle14 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div> -->
@@ -294,7 +297,7 @@ span.slimg-holder.socils_one {
                     <h3>Preservation</h3>
                     <img src="assets/images/safe_food/safe-7.svg" />
                   <button class="modal-toggle15 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -304,7 +307,7 @@ span.slimg-holder.socils_one {
                     <h3>Food allergies</h3>
                     <img src="assets/images/safe_food/safe-8.svg" />
                   <button class="modal-toggle16 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -314,7 +317,7 @@ span.slimg-holder.socils_one {
                     <h3>Waste</h3>
                     <img src="assets/images/safe_food/safe-9.svg" />
                   <button class="modal-toggle17 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -325,7 +328,7 @@ span.slimg-holder.socils_one {
                     <h3>Delivery and take-away</h3>
                     <img src="assets/images/safe_food/safe-12.svg" />
                   <button class="modal-toggle18 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -336,7 +339,7 @@ span.slimg-holder.socils_one {
                     <h3>Sub-contractors</h3>
                     <img src="assets/images/safe_food/safe-11.svg" />
                   <button class="modal-toggle19 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -347,7 +350,7 @@ span.slimg-holder.socils_one {
                     <h3>Accountability and documentation</h3>
                     <img src="assets/images/safe_food/safe-13.svg" />
                   <button class="modal-toggle20 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -358,7 +361,7 @@ span.slimg-holder.socils_one {
                     <h3>Independent check</h3>
                     <img src="assets/images/safe_food/safe-14.svg" />
                   <button class="modal-toggle21 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -369,7 +372,7 @@ span.slimg-holder.socils_one {
                     <h3>Dirty areas</h3>
                     <img src="assets/images/safe_food/sf-5.svg" />
                   <button class="modal-toggle22 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div> -->
@@ -380,7 +383,7 @@ span.slimg-holder.socils_one {
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle23 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -391,7 +394,7 @@ span.slimg-holder.socils_one {
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle24 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -402,7 +405,7 @@ span.slimg-holder.socils_one {
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle25 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -413,7 +416,7 @@ span.slimg-holder.socils_one {
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle26 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -424,7 +427,7 @@ span.slimg-holder.socils_one {
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle27 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div>
@@ -435,7 +438,7 @@ span.slimg-holder.socils_one {
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
                   <button class="modal-toggle28 read-more-btn">
-                  Read more
+                  WEITERLESEN
                   </button>
                 </div>
               </div> -->
@@ -463,18 +466,10 @@ span.slimg-holder.socils_one {
 
         <div class="modal-content1 flexi-cont"> 
         <h4>
-                Make the origin of your products public
+        Machen Sie die Herkunft Ihrer Produkte bekannt
             </h4>
             <p>
-                Some suppliers will use codes to show that they can track their products. Sometimes this is done
-                digitally and can be
-                available on an app. Ask if you can display this information on your menu so customers can scan it e.g. via a QR-Code. Ask
-                if your supplier
-                has a website or social media page where you can find updates from their site and can also encourage
-                your customers to
-                find out more. You don’t have to have information on every ingredient. Making a start and being open and
-                transparent to
-                your customers is what they increasingly expect.
+            Einige Lieferanten verwenden Codes, um zu zeigen, dass sie den Ursprung ihrer Produkte nachverfolgen können. Manchmal geschieht dies digital über eine App. Fragen Sie Ihre Lieferanten, ob Sie diese Informationen mit einem QR-Code auf Ihrer Speisekarte ausweisen können, damit Ihre Gäste sich genauer informieren können. Erkundigen Sie sich, ob Ihr Lieferant eine Website hat oder die sozialen Medien nutzt, auf der Sie aktuelle Informationen finden und auf die Sie ebenfalls Ihre Gäste verweisen können, falls diese mehr darüber erfahren möchten. Sie müssen nicht zu jedem Produkt Informationen bereitstellen. Ihre Gäste erwarten aber, dass Sie offen und transparent sind.
             </p> </div>
       </div>
     </div>
@@ -496,32 +491,26 @@ span.slimg-holder.socils_one {
 
         <div class="modal-content1 flexi-cont"> 
         <h4>
-                Look at who supplies your products
+                Überprüfen Sie, wer Ihre Produkte liefert
             </h4>
             <p class="justify1">
-                Get to know your suppliers and if possible, visit them to learn about their production
-                methods. Consider
-                asking
-                questions such as:
+                Lernen Sie Ihre Lieferanten kennen, und wenn möglich, besuchen Sie sie, um sich über ihre Produktionsmethoden zu informieren. Stellen Sie Fragen wie z. B.:
             </p>
             <ul>
                 <li>
-                    How are your animals raised? For example, indoors or outdoors, how much time do they spend indoors?
-                    How much space do
-                    they have in their stables or boxes?
+                    Um welche Form der Tierhaltung handelt es sich (Stall, Käfig, Freiland)? Wie viel Zeit verbringen die Tiere drinnen? Wie viel Platz haben die Tiere im Käfig?
                 </li>
-                <li>What are your animals fed? For example, grass or uncertified soy?</li>
+                <li>Womit werden die Tiere gefüttert? Beispielsweise mit Gras oder Soja, was nicht zertifiziert ist?</li>
                 <li>
-                    How are your fruit and vegetables protected against pests? For example, using natural methods or
-                    chemical pesticides?
+                    Wie wird Ihr Obst und Gemüse vor Schädlingen geschützt? Mit natürlichen Methoden oder mit chemischen Pestiziden?
                 </li>
-                <li>Is your fish farmed or caught?</li>
-                <li>What is the species of the fish you sell?</li>
-                <li>Where was your fish caught?</li>
-                <li>Does your fish have certification or accreditation?</li>
-                <li>Is your palm oil and soy from sources that have not led to deforestation?</li>
-                <li>How do your suppliers trace their products?</li>
-                <li>What information can your suppliers make available to you?</li>
+                <li>Wird der Fisch gezüchtet oder gefangen?</li>
+                <li>Um welche Fischart handelt es sich bei dem verkauften Fisch?</li>
+                <li>Wo wurde der Fisch gefangen?</li>
+                <li>Verfügt der Fisch über ein Qualitätssiegel oder Auszeichnung?</li>
+                <li>Wurden bei der Herstellung des verwendeten Palmöls und Sojas die Wälder geschützt?</li>
+                <li>Wie verfolgen Ihre Lieferanten ihre Produkte zurück?</li>
+                <li>Welche Informationen können Ihre Lieferanten zur Verfügung stellen?</li>
             </ul></div>
         
       </div>
@@ -809,17 +798,10 @@ span.slimg-holder.socils_one {
 
         <div class="modal-content1 flexi-cont">
         <h4>
-                Analyze your purchases
+        Überprüfen Sie Ihre Einkäufe
             </h4>
             <p>
-                Look at your main ingredients. Do you know how sustainable they are? Focusing on the ingredients that are
-                most important
-                to your business is an effective way to start. Sustainable products meet at least one of these
-                characteristics: they
-                are local and/or regional, seasonal, organic, fairly traded, animal welfare assured, sourced
-                responsibly,
-                nutritious, create less waste, contribute to biodiversity, have minimal carbon footprint and minimal
-                water footprint.
+            Schauen Sie sich Ihre wichtigsten Zutaten an. Wissen Sie, wie nachhaltig diese sind? Anfangs sollten Sie sich auf die Zutaten konzentrieren, die für Ihren Betrieb am wichtigsten sind. Nachhaltige Produkte erfüllen mindestens eines der folgenden Merkmale: Sie sind lokal und/oder regional, saisonal, ökologisch, fair gehandelt, aus artgerechter Tierhaltung, aus verantwortungsvoller Fischerei, nährstoffreich, verursachen weniger Abfall, tragen zur Artenvielfalt bei, haben einen minimalen Kohlenstoff- und Wasserverbrauch.
             </p>
         </div>
       </div>
@@ -841,13 +823,10 @@ span.slimg-holder.socils_one {
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Engage your staff</h4>
+        <h4>Beziehen Sie Ihr Personal ein
+</h4>
             <p>
-                Involve your staff from the beginning and explain why you are doing this. Explain the different ways to
-                source
-                sustainably, for example, local, regional, and seasonal. Use visual reminders, for example, posters of
-                seasonal
-                calendars in the office or the kitchen.
+            Beziehen Sie Ihre Mitarbeitenden von Anfang an mit ein und erklären Sie, warum Sie dies tun. Erläutern Sie die verschiedenen Möglichkeiten eines verantwortungsbewussten Einkaufs, z. B. lokal, regional, saisonal. Verwenden Sie visuelle Erinnerungshilfen, z. B. Poster mit saisonalen Kalendern im Büro oder in der Küche.
             </p>
         </div>
       </div>
@@ -869,29 +848,23 @@ span.slimg-holder.socils_one {
 
         <div class="modal-content1 flexi-cont">
         <h4>
-                Look at your most common ingredients and source them most sustainable
+                Schauen Sie sich die Zutaten an, die Sie am häufigsten verwenden und kaufen Sie diese nachhaltig ein
             </h4>
             <p>
-                Sourcing sustainably is a complex topic, and changes on short notice can be hard to make. Looking at your
-                most common
-                ingredients, there are some simple ways to make a start:
+                Der verantwortungsbewusste Einkauf ist ein komplexes Thema und kurzfristige Änderungen können herausfordernd sein. Bei den Zutaten, die Sie am häufigsten verwenden, gibt es einige Maßnahmen, mit denen Sie starten können:
             </p>
             <ul>
                 <li>
-                    Celebrate local and seasonal - switch the products which are easy to replace, for example, locally
-                    grown vegetables when
-                    in season
-                </li>
-                <li>Introduce organic products</li>
+                    Setzen Sie auf <a href="https://www.metro.de/nachhaltigkeit/nachhaltiges-sortiment/regional" target="_blank">lokale und saisonale Produkte</a>. Wechseln Sie zu Produkten, die leicht auszutauschen sind, z. B. saisonales Gemüse aus lokalem Anbau </li>
+                <li>Führen Sie <a href="https://www.metro.de/produktwelten/bio-produkte" target="_blank">Bio-Produkte</a> ein</li>
                 <li>
-                    Introduce certified products, for example, Fairtrade coffee, MSC or ASC certified fish, organic meat
+                    Führen Sie zertifizierte Produkte ein, z. B. Fairtrade-Kaffee, MSC- oder ASC-zertifizierten Fisch, Bio-Fleisch
                 </li>
-                <li>Ensure your eggs are from free range hens</li>
-                <li>Replace endangered fish with an alternative. The MSC has an interactive guide</li>
-                <li>Replace plastic disposable products with alternatives</li>
+                <li>Stellen Sie sicher, dass Ihre Eier von Hühnern aus Freilandhaltung stammen</li>
+                <li>Ersetzen Sie gefährdeten Fisch durch eine Alternative. Der MSC bietet Ihnen dazu einen interaktiven Leitfaden.</li>
+                <li>Ersetzen Sie Einwegprodukte aus Plastik durch <a href="https://prospekte.metro.de/plastikverbot/page/1?_ga=2.3470128.1274588778.1664883760-408353168.1663146057" target="_blank">Alternativen</a></li>
                 <li>
-                    Replace products with high sugar, salt and trans-fat content with more nutritious and healthy
-                    alternatives
+                    Ersetzen Sie Produkte mit hohem Zucker-, Salz- und Transfettgehalt durch nährstoffreiche und gesunde Alternativen
                 </li>
             </ul>
          </div>
@@ -916,12 +889,11 @@ span.slimg-holder.socils_one {
         <div class="modal-content1 flexi-cont more-text">
           <div> 
           <h4>
-                Use the comprehensive guide to sustainable products and schemes
+          Nutzen Sie den Leitfaden für nachhaltige Produkte
+
             </h4>
             <p>
-                Check out for more detailed information our comprehensive guide on sustainable products and our overview
-                of schemes. Use
-                them as additional information for specific questions of your employees or customers.
+            Ausführlichere Informationen finden Sie in unserem Leitfaden für nachhaltige Produkte und in unserer Übersicht der Qualitätssiegel. Nutzen Sie diese als zusätzliche Information für Fragen Ihres Personals oder Ihrer Gäste.
             </p>
 
           </div>

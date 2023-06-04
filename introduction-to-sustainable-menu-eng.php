@@ -270,7 +270,7 @@
                     <a href="explore-sustainable-menu-eng.php" class="read-more" target="_self">Read More</a>
                 </div>
             </div>
-            <img class="right-img-back disable-mobile desk_show" src="assets/images/know-svg.svg" />
+            <!-- <img class="right-img-back disable-mobile desk_show" src="assets/images/know-svg.svg" /> -->
             <img class="mobile_show" style="
     transform: rotate(3.142rad);
 " src="assets/images/know-svg.svg" />

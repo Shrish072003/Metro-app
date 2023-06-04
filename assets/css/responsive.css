@@ -70,9 +70,12 @@
          /* text-align: center; */
          display: grid;
      }
-     .section-slider-center h3, .top-content h3 {
+      .top-content h3 {
          text-transform: capitalize;
          font-size: 30px !important;
+     }
+     .section-slider-center h3{
+         font-size: 25px !important;
      }
      .grid--what {
          display: flex;

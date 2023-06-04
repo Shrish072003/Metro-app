@@ -159,7 +159,7 @@
     background-color: #003b7e !important;
     height: 40px !important;
     font-size: 18px !important;
-    width: 160px;
+    width: 180px;
     color: #fff !important;
     padding-top: 10px !important;
 }
@@ -183,6 +183,12 @@
 .modal-wrapper1 {
     height: 70% !important;
 }
+h3{
+    overflow-wrap: break-word;
+}
+.section-slider-center h3 {
+    font-size: 25px !important;
+}
   </style>
 <section class="section-slider1 section-slider2 no-print"><div class="section-slider-center text-center"><div class="wrap" style="z-index: 0;">
 
@@ -201,7 +207,7 @@
                     <h3>VERMEIDEN
 SIE EINWEGPLASTIK</h3>
                     <img src='assets/images/safe_food/pw-2.svg' />
-                    <button class="modal-toggle18 read-more-btn">
+                    <button class="modal-toggle9 read-more-btn">
                   WEITERLESEN
                   </button>
                 </div>
@@ -209,8 +215,8 @@ SIE EINWEGPLASTIK</h3>
               <div class="item">
                 <div class="inner-item">
                     <h3>ERWÄGEN SIE ERMÄSSIGUNGE FÜR GÄSTE, DIE IHRE EIGENEN BEHÄLTER ZUM MITNEHMEN VON SPEISEN MITBRINGEN</h3>
-                    <img src="assets/images/safe_food/pw-4.svg" />
-                  <button class="modal-toggle9 read-more-btn">
+                    <img style="max-height: 50px !important;" src="assets/images/safe_food/pw-4.svg" />
+                  <button class="modal-toggle18 read-more-btn">
                   WEITERLESEN
                   </button>
                 </div>
@@ -236,8 +242,10 @@ OB SIE BESTECK BENÖTIGEN</h3>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>VERWENDEN SIE MEHRWEG- ODER PFANDVERPACKUNGEN SOWIE MEHRWEG-PLASTIKBEHÄLTER</h3>
-                    <img src="assets/images/safe_food/pw-7.svg" />
+                    <h3 style="
+    overflow-wrap: break-word;
+">VERWENDEN SIE MEHRWEG- ODER PFANDVERPACKUNGEN SOWIE MEHRWEG-PLASTIKBEHÄLTER</h3>
+                    <img style="max-height: 50px !important;"src="assets/images/safe_food/pw-7.svg" />
                   <button class="modal-toggle12 read-more-btn">
                   WEITERLESEN
                   </button>
@@ -258,7 +266,7 @@ OB SIE BESTECK BENÖTIGEN</h3>
                 <div class="inner-item">
                     <h3>NEHMEN SIE AN REFILL-AKTIONEN TEIL</h3>
                     <img src="assets/images/safe_food/pw-9.svg" />
-                  <button class="modal-toggle14 read-more-btn">
+                  <button class="modal-toggle15 read-more-btn">
                   WEITERLESEN
                   </button>
                 </div>
@@ -268,7 +276,7 @@ OB SIE BESTECK BENÖTIGEN</h3>
                 <div class="inner-item">
                     <h3>LEGEN SIE WERT AUF NACHHALTIG VERPACKTE PRODUKTE</h3>
                     <img src="assets/images/safe_food/pw-10.svg" />
-                  <button class="modal-toggle15 read-more-btn">
+                  <button class="modal-toggle14 read-more-btn">
                   WEITERLESEN
                   </button>
                 </div>
@@ -328,11 +336,10 @@ NUTZUNG VON PLASTIKFOLIE</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Erwägen Sie Ermäßigungen für Gäste, die ihre eigenen Behälter zum Mitnehmen von Speisen mitbringen
+        <h4>Fragen Sie Ihre Gäste, ob Sie Besteck benötigen
             </h4>
             <p>
-                Ermutigen Sie Ihre Gäste, ihre eigenen Behälter für Speisen und Getränke To-Go mitzubringen. Stellen Sie sicher, dass die Hygienevorschriften eingehalten werden, indem Sie z. B. das Befüllen eines Lebensmittelbehälters oder eines Kaffeebechers nicht in dem Bereich vornehmen, in dem Sie Lebensmittel zubereiten.
-            </p>
+            Bevor Sie Ihren Gästen Besteck (Messer, Gabel, Löffel, Rührer, Stäbchen) aus Plastik mitgeben, fragen Sie sie, ob sie sie wirklich benötigen.            </p>
 
         </div>
       </div>
@@ -354,10 +361,10 @@ NUTZUNG VON PLASTIKFOLIE</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Verzichten Sie auf Plastikstrohhalme</h4>
+        <h4>Vermeiden Sie Einwegplastik
+</h4>
             <p>
-                Überlegen Sie, ob Sie einige Utensilien wirklich brauchen oder ob sie nur aus Gewohnheit da sind. Versuchen Sie, keine Strohhalme mehr anzubieten, es sei denn, Ihre Gäste fragen ausdrücklich danach.
-            </p>
+            Sie können Einwegplastik vermeiden, indem Sie Ihre Gäste auffordern, ihre eigenen Behälter zur Mitnahme von Speisen mitzubringen. Kaufen Sie Produkte, die nachhaltig verpackt sind.            </p>
         </div>
         
       </div>
@@ -381,10 +388,10 @@ NUTZUNG VON PLASTIKFOLIE</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Verwenden Sie Mehrweg- oder Pfandverpackungen sowie Mehrweg-Plastikbehälter </h4>
+        <h4>Nutzen Sie die lokale Kunststoffsammlung und -entsorgung
+ </h4>
             <p>
-                Um Plastikmüll zu vermeiden, sollten Sie, wo immer möglich Mehrwegverpackungen verwenden, z. B. Wasserflaschen aus Glas, Mehrweg-Plastikbehälter oder Pfandbehälter.
-
+            Ihr örtlicher Großhändler bietet Sammel- und Entsorgungsdienste für Kunststoffabfälle an, die Sie in Anspruch nehmen sollten, damit die Kunststoffe ordnungsgemäß recycelt werden können.
             </p>
 </div>
       </div>
@@ -407,11 +414,11 @@ NUTZUNG VON PLASTIKFOLIE</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Nutzen Sie die lokale Kunststoffsammlung und -entsorgung</h4>
+        <h4>Legen Sie Wert auf nachhaltig verpackte Produkte
+
+</h4>
             <p>
-                Ihr örtlicher Großhändler bietet Sammel- und Entsorgungsdienste für Kunststoffabfälle an, die Sie in Anspruch nehmen sollten, damit die Kunststoffe ordnungsgemäß recycelt werden können.
-            </p>
-        </div>
+            Kaufen Sie Produkte, die nachhaltig verpackt sind. Das beinhaltet Verpackungen ohne PVC, PVDC und EPS. Damit können Sie auch Ihre Entsorgungskosten senken.        </div>
       </div>
     </div>
   </div>
@@ -456,10 +463,10 @@ NUTZUNG VON PLASTIKFOLIE</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Legen Sie Wert auf nachhaltig verpackte Produkte</h4>
+        <h4>Beziehen Sie Ihr Personal ein
+</h4>
             <p>
-                Kaufen Sie Produkte, die nachhaltig verpackt sind. Das beinhaltet Verpackungen ohne PVC, PVDC und EPS. Damit können Sie auch Ihre Entsorgungskosten senken.
-            </p>
+            Die Verwendung von Plastik ist eng mit unseren Gewohnheiten verbunden. Daher ist es wichtig, Ihren Mitarbeitenden die Notwendigkeit und den Nutzen eines geringeren Plastikverbrauchs zu vermitteln. Beziehen Sie sie in regelmäßige Besprechungen zur Vermeidung von Plastikabfall mit ein. Bringen Sie Schilder an gut sichtbaren Stellen im Restaurant an, um alle an die neuen Regeln zu erinnern und lassen Sie sie wissen, dass der Beitrag jedes Einzelnen benötigt und geschätzt wird.            </p>
         </div>
       </div>
     </div>
@@ -481,16 +488,16 @@ NUTZUNG VON PLASTIKFOLIE</h3>
       </button>
       <div class="modal-body1">
         <div class="modal-content1 flexi-cont">
-        <h4>Purchase sustainable packaged products</h4>
+        <h4>Vermeiden Sie die Nutzung von Plastikfolie
+</h4>
             <p>
-                Buy products that are packaged sustainably. This means simple packaging without PVC, PVDC and EPS. This might also lower your disposal costs.
-            </p>
+            Reduzieren Sie nach Möglichkeit und im Einklang mit den Hygienevorschriften die Nutzung von Plastikfolien. Verwenden Sie stattdessen wiederverwendbare Behälter oder Wachspapier.            </p>
         </div>
       </div>
     </div>
   </div>
 
-  <div class="introdiv-modal">
+  <div class="introdiv-modal1">
     <div class="modal-overlay1 modal-toggle18"></div>
     <div class="modal-wrapper1 modal-transition1">
       <button class="modal-close1 modal-toggle18">
@@ -505,15 +512,14 @@ NUTZUNG VON PLASTIKFOLIE</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Vermeiden Sie Einwegplastik </h4>
+        <h4>Erwägen Sie Ermäßigungen für Gäste, die ihre eigenen Behälter zum Mitnehmen von Speisen mitbringen </h4>
             <p>
-                Sie können Einwegplastik vermeiden, indem Sie Ihre Gäste auffordern, ihre eigenen Behälter zur Mitnahme von Speisen mitzubringen. Kaufen Sie Produkte, die nachhaltig verpackt sind.
-            </p>
+            Ermutigen Sie Ihre Gäste, ihre eigenen Behälter für Speisen und Getränke To-Go mitzubringen. Stellen Sie sicher, dass die Hygienevorschriften eingehalten werden, indem Sie z. B. das Befüllen eines Lebensmittelbehälters oder eines Kaffeebechers nicht in dem Bereich vornehmen, in dem Sie Lebensmittel zubereiten.            </p>
         </div>
       </div>
     </div>
   </div>
-  <div class="introdiv-modal">
+  <div class="introdiv-modal2">
     <div class="modal-overlay1 modal-toggle19"></div>
     <div class="modal-wrapper1 modal-transition1">
       <button class="modal-close1 modal-toggle19">
@@ -553,10 +559,10 @@ NUTZUNG VON PLASTIKFOLIE</h3>
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4>Fragen Sie Ihre Gäste, ob Sie Besteck benötigen</h4>
+        <h4>Bieten Sie Leitungswasser an
+</h4>
             <p>
-                Bevor Sie Ihren Gästen Besteck (Messer, Gabel, Löffel, Rührer, Stäbchen) aus Plastik mitgeben, fragen Sie sie, ob sie sie wirklich benötigen.
-            </p>
+            Wenn die Wasserqualität es zulässt, sollten Sie Ihren Gästen Leitungswasser anbieten.            </p>
         </div>
       </div>
     </div>
@@ -602,10 +608,10 @@ NUTZUNG VON PLASTIKFOLIE</h3>
 
         <div class="modal-content1 flexi-cont more-text">
           <div>
-          <h4>Bieten Sie Leitungswasser an</h4>
+          <h4>Verwenden Sie Mehrweg- oder Pfandverpackungen sowie Mehrweg-Plastikbehälter
+</h4>
             <p>
-                Wenn die Wasserqualität es zulässt, sollten Sie Ihren Gästen Leitungswasser anbieten.
-
+            Um Plastikmüll zu vermeiden, sollten Sie, wo immer möglich Mehrwegverpackungen verwenden, z. B. Wasserflaschen aus Glas, Mehrweg-Plastikbehälter oder Pfandbehälter.
             </p>
           </div>
         </div>
@@ -855,10 +861,10 @@ NUTZUNG VON PLASTIKFOLIE</h3>
 
       $('.modal-toggle18').on('click', function(e) {
         e.preventDefault();
-        $('.introdiv-modal').toggleClass('is-visible');
+        $('.introdiv-modal1').toggleClass('is-visible');
       });
       $('.modal-toggle19').on('click', function(e) {
         e.preventDefault();
-        $('.introdiv-modal').toggleClass('is-visible');
+        $('.introdiv-modal2').toggleClass('is-visible');
       });
     </script>

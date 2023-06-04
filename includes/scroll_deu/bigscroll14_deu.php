@@ -129,6 +129,14 @@
 
     width: 180px !important;
 }
+
+@media screen and (max-width: 600px) {
+
+.h18r {
+height: auto !important;
+}
+
+}
   </style>
 <section class="section-slider1 section-slider2 no-print"><div class="section-slider-center text-center"><div class="wrap" style="z-index: 0;">
 

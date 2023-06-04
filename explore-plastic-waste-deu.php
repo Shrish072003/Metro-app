@@ -233,7 +233,9 @@
                 <!-- <button class="read-more-btn" href="#" id="myBtn" onclick="expand-next('#more')">WEITERLESEN</button> -->
                 <button class="read-more-btn" id="myBtn_cust" href="#clickTohide" target="#more">WEITERLESEN</button>
             </div>
-            <div class="right-content no-print desk_show">
+            <div style="
+    width: 500%;
+" class="right-content no-print desk_show">
                 <img src="./assets/images/plastic-waste/Asset 1.svg">
             </div>
         </section>

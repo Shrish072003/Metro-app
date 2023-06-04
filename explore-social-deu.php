@@ -505,10 +505,10 @@
                     <div class="container-fluid">
                         <p class="text-center"><img src="./assets/images/safe_food/s-new.svg" style="width: 30rem;margin-top: -15rem;"></p>
                         <h3 class="wayT0Title" style="color:#000;margin-top: 0;">Die 7 Grundrechte</h3>
-                        <section class="mobile_show1">
+                        <section class="mobile_show">
 
 
-<?php include "includes\scroll_deu\bigscroll6_deu.php"; ?>
+<?php include "bigscroll6_deu.php"; ?>
 </section>
 
 
@@ -743,7 +743,7 @@
           <div class="row">
             <div class="col-md-3 offset-md-1">
                 <div class="three-step_img">
-                    <img src="assets/images/safe_food/Asset 9.png" class="img-fluid">
+                    <img src="assets/images/safe_food/s-7.svg" class="img-fluid">
                 </div>
             </div>
             <div class="col-md-6 offset-md-1">

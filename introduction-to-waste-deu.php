@@ -84,7 +84,7 @@
 .section4 .mt-1{
     margin-top: 0px !important;
 }
-.left-content {
+.section3-inner .left-content {
     padding-left: 20px !important;
     padding-right: 20px !important;
 }

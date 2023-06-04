@@ -80,6 +80,9 @@
     .page-3_stage.page-4_stage {
       background-color: white;
     }
+    .slick-slide .inner-item h3 {
+    text-transform: capitalize !important;
+}
   </style>
   
 

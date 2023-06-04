@@ -127,6 +127,20 @@
     font-size: 25px !important;
     text-align: center;
 }
+/* .section4 {
+    padding: 40px 30px;
+    flex-direction: column-reverse;
+} */
+.section4 {
+    padding: 0px 0px !important;
+    flex-direction: column;
+}
+.section4 .left-content{
+    padding: 40px 30px;
+    flex-direction: column;
+}
+
+
 }
     </style>
 </head>
@@ -272,6 +286,10 @@
 
 
                 <section class="section4" id="option6" data-scrl="Mit einfachen Schritten zur nachhaltigen Speisekarte">
+                <img class="mobile_show" style="
+    transform: rotate(3.142rad);
+    margin-top: 40px;
+" src="assets/images/know-svg.svg" />
                     <div class="left-content">
                         <h3>MIT EINFACHEN SCHRITTEN ZUR NACHHALTIGEN SPEISEKARTE </h3>
                         <p>Es ist einfach, Ihre Nachhaltigkeitsphilosophie auf Ihrem Speiseplan widerzuspiegeln. Die folgenden Schritte können Ihnen dabei helfen.
@@ -292,10 +310,10 @@
                             <a href="explore-sustainable-menu-deu.php" class="read-more" target="_self">Weiterlesen</a>
                         </div>
                     </div>
-                    <img class="right-img-back disable-mobile mobile_show" src="assets/images/know-svg.svg">
-                    <div class="right-content desk_show">
-                        <img src="assets/images/know-svg.svg" />
-                    </div>
+                    
+            <div class="right-content desk_show">
+                <img src="assets/images/know-svg.svg" />
+            </div>
                 </section>
 
             </div>

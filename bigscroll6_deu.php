@@ -1,5 +1,4 @@
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
   <link rel="stylesheet" href="../../assets/prev/css/page2_style.css">
   <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
   <script src="../../assets/prev/jquery/custom.js"></script>
@@ -78,7 +77,6 @@
     }
 
     .section1 {
-      margin-top: 4rem;
       background-color: white;
     }
 
@@ -124,18 +122,22 @@
 .custom__select select {
     color: #ffe500;
     padding-left: 4px;
-    margin-top: 2px !important;
 }
 .slick-slide img {
     display: block !important;
     width: auto;
-    max-height: 250px !important;
+    max-height: 150px !important;
     object-fit: contain !important;
-
+}
+.section-slider2 .inner-item button {
+    padding-top: 0;
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 50px;
 }
 .section-slider1 {
     margin-top: auto;
-  
 }
 .footer-wrap {
     position: relative !important;
@@ -173,30 +175,63 @@
     font-size: 18px;
     color: #fff;
 }
-.inner-item button {
-    width: 180px !important;
+.slick-slide{
+  background-image:none !important;
 }
-.modal-body1{
-overflow-wrap: anywhere;
+.modal-wrapper1 {
+    height: 70% !important;
 }
+.slider2 .item.slick-slide {
+    width: 250px !important;
+}
+.section-slider-center h3, .top-content h3 {
+    text-transform: capitalize;}
+
+.social_slde span.slimg-holder {
+    top: 0rem !important;
+}
+span.slimg-holder.socils_one {
+    padding: 6px 19px;
+}
+.section-slider1 {
+        border-top: 1px solid #fff;
+        background: none !important;
+        margin-bottom: 50px;
+    }
+    .modal-content1 p{
+      padding: 0px 0px 0px 0px !important;
+    }
+    .inner-item button{
+      width:180px !important;
+    }
   </style>
 <section class="section-slider1 section-slider2 no-print">
+
         <div class="section-slider-center text-center">
           <div class="wrap" style="z-index: 0;">
             <div class="slider2">
               <div class="item">
                 <div class="inner-item">
-                    <div>
-                    <img src="assets\images\the-msr-chapter\msr_main.png" />
-                  </div>
+                    <h3 style="
+    overflow-wrap: break-word;
+">Versammlungsfreiheit und die Achtung des Rechts auf Tarifverhandlungen</h3>
+                    <div class="sl-image sl-image-1 plastic_waste_slider1 social_slde text-center">
+                                                                                        <span class="slimg-holder socils_one" style="padding: 6px 24px;">
+                                                                                            1
+                                                                                        </span>
+                                                                                    </div>
+                    <button class="modal-toggle24 read-more-btn">
+                  Weiterlesen
+                  </button>
                 </div>
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3 style="
-    overflow-wrap: break-word;
-">verantwortungsbewusst Einkaufen</h3>
-                    <img src="assets\images\the-msr-chapter\msr_1.png" />
+                    <h3>Abschaffung jeglicher Form von Zwangs- oder Pflichtarbeit, einschließlich disziplinarischer Maßnahmen</h3>
+                    <div class="sl-image sl-image-1 plastic_waste_slider1 social_slde text-center">
+                                                                                        <span class="slimg-holder socils_one">
+                                                                                            2
+                                                                                        </span></div>
                   <button class="modal-toggle9 read-more-btn">
                   Weiterlesen
                   </button>
@@ -204,10 +239,11 @@ overflow-wrap: anywhere;
               </div>
               <div class="item">
                 <div class="inner-item">
-                <h3 style="
-    overflow-wrap: break-word;
-">Lebensmittelsicherheit</h3>
-                    <img src="assets\images\the-msr-chapter\msr_2.png" />
+                <h3>Keine Kinderarbeit (und Berücksichtigung der Bedürfnisse junger Arbeitnehmenden)</h3>
+                <div class="sl-image sl-image-1 plastic_waste_slider1 social_slde text-center">
+                                                                                        <span class="slimg-holder socils_one">
+                                                                                            3
+                                                                                        </span></div>
                   <button class="modal-toggle8 read-more-btn">
                   Weiterlesen
                   </button>
@@ -215,8 +251,11 @@ overflow-wrap: anywhere;
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>Energie</h3>
-                    <img src="assets\images\the-msr-chapter\msr_3.png" />
+                    <h3>Keine Diskriminierung in Beschäftigung und Beruf</h3>
+                    <div class="sl-image sl-image-1 plastic_waste_slider1 social_slde text-center">
+                                                                                        <span class="slimg-holder socils_one">
+                                                                                            4
+                                                                                        </span></div>
                   <button class="modal-toggle10 read-more-btn">
                   Weiterlesen
                   </button>
@@ -224,8 +263,11 @@ overflow-wrap: anywhere;
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>Abfall</h3>
-                    <img src="assets\images\the-msr-chapter\msr_4.png" />
+                    <h3>Faire Entlohnung</h3>
+                    <div class="sl-image sl-image-1 plastic_waste_slider1 social_slde text-center">
+                                                                                        <span class="slimg-holder socils_one">
+                                                                                            5
+                                                                                        </span></div>
                   <button class="modal-toggle12 read-more-btn">
                   Weiterlesen
                   </button>
@@ -234,8 +276,11 @@ overflow-wrap: anywhere;
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Plastikmüll </h3>
-                    <img src="assets\images\the-msr-chapter\msr_5.png" />
+                    <h3>Faire Arbeitszeiten</h3>
+                    <div class="sl-image sl-image-1 plastic_waste_slider1 social_slde text-center">
+                                                                                        <span class="slimg-holder socils_one">
+                                                                                            6
+                                                                                        </span></div>
                   <button class="modal-toggle13 read-more-btn">
                   Weiterlesen
                   </button>
@@ -244,22 +289,21 @@ overflow-wrap: anywhere;
 
               <div class="item">
                 <div class="inner-item">
-                    <h3 style="
-    overflow-wrap: break-word;
-">Lebensmittelabfälle </h3>
-                    <img src="assets\images\the-msr-chapter\msr_6.png" />
+                    <h3>Gesundheit und Sicherheit</h3>
+                    <div class="sl-image sl-image-1 plastic_waste_slider1 social_slde text-center">
+                                                                                        <span class="slimg-holder socils_one">
+                                                                                            7
+                                                                                        </span></div>
                   <button class="modal-toggle14 read-more-btn">
                   Weiterlesen
                   </button>
                 </div>
               </div>
 
-              <div class="item">
+              <!-- <div class="item">
                 <div class="inner-item">
-                    <h3 style="
-    overflow-wrap: break-word;
-">Nachhaltigen Speisekarte</h3>
-                    <img src="assets\images\the-msr-chapter\msr_7.png" />
+                    <h3>Preservation</h3>
+                    <img src="assets/images/safe_food/safe-7.svg" />
                   <button class="modal-toggle15 read-more-btn">
                   Weiterlesen
                   </button>
@@ -268,8 +312,8 @@ overflow-wrap: anywhere;
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Gemeinschaft</h3>
-                    <img src="assets\images\the-msr-chapter\msr_8.png" />
+                    <h3>Food allergies</h3>
+                    <img src="assets/images/safe_food/safe-8.svg" />
                   <button class="modal-toggle16 read-more-btn">
                   Weiterlesen
                   </button>
@@ -278,8 +322,8 @@ overflow-wrap: anywhere;
 
               <div class="item">
                 <div class="inner-item">
-                    <h3>Wasser</h3>
-                    <img src="assets\images\the-msr-chapter\msr_9.png" />
+                    <h3>Waste</h3>
+                    <img src="assets/images/safe_food/safe-9.svg" />
                   <button class="modal-toggle17 read-more-btn">
                   Weiterlesen
                   </button>
@@ -287,11 +331,121 @@ overflow-wrap: anywhere;
               </div>
 
 
-              <!-- <div class="item">
+              <div class="item">
+                <div class="inner-item">
+                    <h3>Delivery and take-away</h3>
+                    <img src="assets/images/safe_food/safe-12.svg" />
+                  <button class="modal-toggle18 read-more-btn">
+                  Weiterlesen
+                  </button>
+                </div>
+              </div>
+
+
+              <div class="item">
+                <div class="inner-item">
+                    <h3>Sub-contractors</h3>
+                    <img src="assets/images/safe_food/safe-11.svg" />
+                  <button class="modal-toggle19 read-more-btn">
+                  Weiterlesen
+                  </button>
+                </div>
+              </div>
+
+
+              <div class="item">
+                <div class="inner-item">
+                    <h3>Accountability and documentation</h3>
+                    <img src="assets/images/safe_food/safe-13.svg" />
+                  <button class="modal-toggle20 read-more-btn">
+                  Weiterlesen
+                  </button>
+                </div>
+              </div>
+
+
+              <div class="item">
+                <div class="inner-item">
+                    <h3>Independent check</h3>
+                    <img src="assets/images/safe_food/safe-14.svg" />
+                  <button class="modal-toggle21 read-more-btn">
+                  Weiterlesen
+                  </button>
+                </div>
+              </div>
+
+
+              <div class="item">
+                <div class="inner-item">
+                    <h3>Dirty areas</h3>
+                    <img src="assets/images/safe_food/sf-5.svg" />
+                  <button class="modal-toggle22 read-more-btn">
+                  Weiterlesen
+                  </button>
+                </div>
+              </div> -->
+
+<!-- 
+              <div class="item">
                 <div class="inner-item">
                     <h3>Responsible Sourcing</h3>
                     <img src="assets\images\the-msr-chapter\msr_10.png" />
-                  <button class="modal-toggle18 read-more-btn">
+                  <button class="modal-toggle23 read-more-btn">
+                  Weiterlesen
+                  </button>
+                </div>
+              </div>
+
+
+              <div class="item">
+                <div class="inner-item">
+                    <h3>Responsible Sourcing</h3>
+                    <img src="assets\images\the-msr-chapter\msr_10.png" />
+                  <button class="modal-toggle24 read-more-btn">
+                  Weiterlesen
+                  </button>
+                </div>
+              </div>
+
+
+              <div class="item">
+                <div class="inner-item">
+                    <h3>Responsible Sourcing</h3>
+                    <img src="assets\images\the-msr-chapter\msr_10.png" />
+                  <button class="modal-toggle25 read-more-btn">
+                  Weiterlesen
+                  </button>
+                </div>
+              </div>
+
+
+              <div class="item">
+                <div class="inner-item">
+                    <h3>Responsible Sourcing</h3>
+                    <img src="assets\images\the-msr-chapter\msr_10.png" />
+                  <button class="modal-toggle26 read-more-btn">
+                  Weiterlesen
+                  </button>
+                </div>
+              </div>
+
+
+              <div class="item">
+                <div class="inner-item">
+                    <h3>Responsible Sourcing</h3>
+                    <img src="assets\images\the-msr-chapter\msr_10.png" />
+                  <button class="modal-toggle27 read-more-btn">
+                  Weiterlesen
+                  </button>
+                </div>
+              </div>
+
+
+              <div class="item">
+                <div class="inner-item">
+                    <h3>Responsible Sourcing</h3>
+                    <img src="assets\images\the-msr-chapter\msr_10.png" />
+                  <button class="modal-toggle28 read-more-btn">
                   Weiterlesen
                   </button>
                 </div>
@@ -318,13 +472,8 @@ overflow-wrap: anywhere;
       </button>
       <div class="modal-body1">
 
-        <div class="modal-content1 flexi-cont">
-          <h4>Lassen Sie uns über Lebensmittelsicherheit sprechen</h4>
-          <img src="assets\images\the-msr-chapter\msr_2.png" />
-          <p>Bei jedem nachhaltigen Gastronomiebetrieb geht es darum, effizient mit Ressourcen umzugehen, Abfall zu minimieren und Menschen dazu zu bringen, produktiv zu arbeiten - was die Bedeutung guter Hygienemaßnahmen einschließt. Sicheres Essen ist die Grundlage eines nachhaltigen Restaurants.</p>
-					<a class="read-more-btn" href="introduction-to-safe-food-eng.php">
-        MEHR ERFAHREN
-</a>
+        <div class="modal-content1 flexi-cont"> 
+            <p>Die Internationale Arbeitsorganisation (ILO) hat das allgemeine Mindestalter für die Zulassung zur Beschäftigung oder Arbeit auf 15 Jahre festgelegt (bzw. 13 Jahre für geringfügige Arbeit). Bevor jemand angestellt werden kann, muss nach dem Alter gefragt werden. Zudem muss eine Kopie des Reisepasses oder des Personalausweises in der Personalakte aufbewahrt werden.</p>
         </div>
       </div>
     </div>
@@ -344,16 +493,9 @@ overflow-wrap: anywhere;
       </button>
       <div class="modal-body1">
 
-        <div class="modal-content1 flexi-cont">
-          <h4>
-          Wie man Produkte verantwortungsbewusst einkauft
-
-          </h4>
-          <img src="assets\images\the-msr-chapter\msr_1.png" />
-          <p>Regionalität ist lange kein Trend mehr. Immer mehr Menschen interessieren sich dafür, woher ihre Lebensmittel kommen. Durch Lebensmittel aus der Region können lange Transportwege vermieden werden. Gäste fordern regionale, saisonale und nachhaltigere Alternativen, auch wenn sie auswärts essen. Durch die sorgfältige Auswahl der von Ihnen angebotenen Produkte können Sie auf die wachsenden Bedürfnisse Ihrer Gäste eingehen und einen positiven Einfluss auf die Umwelt ausüben. Als Restaurantbetreibende mit sorgfältig ausgewählten Gerichten in der Speisekarte, die auch auf nachhaltige Lebensmittel achten, können Sie einen Mehrwert bieten und sich von der Konkurrenz abheben.</p>
-					<a class="read-more-btn" href="introduction-to-responsible-sourcing-eng.php">
-        MEHR ERFAHREN
-</a>
+        <div class="modal-content1 flexi-cont"> 
+            <p>
+            Arbeitnehmende dürfen jederzeit ihren Arbeitsplatz verlassen. Es darf kein Teil des Gehalts, der Sozialleistungen, des Eigentums oder der Dokumente eines Mitarbeitenden einbehalten werden, um eine Person zur Weiterarbeit zu zwingen. Zudem dürfen keine Überstunden erzwungen werden, um eine bereitgestellte Gegenleistung zu kompensieren.</p>
         </div>
         
       </div>
@@ -377,12 +519,8 @@ overflow-wrap: anywhere;
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-          <h4>Die Bedeutung von Plastikabfällen in der Gastronomie</h4>
-          <img src="assets/prev/images/L2-02.svg" />
-          <p>Plastikprodukte und -verpackungen spielen eine wichtige Rolle für die Hygiene in der Gastronomie. Sie schützen Lebensmittel, gewährleisten Lebensmittelsicherheit und verbessern die Haltbarkeit. Doch sowohl die Herstellung als auch die Entsorgung von Kunststoff- und Einwegverpackungen erfordert Ressourcen und hat negative Auswirkungen auf die Umwelt – insbesondere auf unsere Ozeane. Deshalb müssen wir alle Anstrengungen unternehmen, um Plastikmüll zu reduzieren. </p>
-        <a class="read-more-btn" href="introduction-to-plastic-waste-eng.php">
-        MEHR ERFAHREN
-</a></div>
+            <p>Es gilt eine maximale Wochenarbeitszeit von 48 Stunden, die in Ausnahmefällen durch Überstunden um 12 Stunden pro Woche erhöht werden kann. Dazwischen muss für ausreichend Freizeit gesorgt sein.</p>
+</div>
       </div>
     </div>
   </div>
@@ -402,13 +540,9 @@ overflow-wrap: anywhere;
       </button>
       <div class="modal-body1">
 
-        <div class="modal-content1 flexi-cont">
-          <h4>Warum wir Lebensmittelabfälle reduzieren müssen</h4>
-          <img src="assets/prev/images/L2-06.svg" />
-          <p>Die Boston Consulting Group (BCG) geht davon aus, dass die Menge an weggeworfenen Lebensmitteln bis 2030 weltweit 2,1 Milliarden Tonnen erreichen wird. Doch das ist wertvolle Nahrung, die Sie mit Ihrer Zeit, Ihrem Fachwissen, mit Wärme, Wasser und Energie geschaffen haben. Sie werfen also buchstäblich Geld zum Fenster hinaus. Ihr Restaurant kann profitabler sein, indem Sie Lebensmittelabfälle in Ihrem Betrieb reduzieren. Dies können Sie beispielsweise durch die Abgabe an gemeinnützige Organisationen, bedarfsgerechte Planung sowie die richtige Lagerung von Lebensmitteln erreichen.</p>
-          <a class="read-more-btn" href="introduction-to-food-waste-eng.php">
-        MEHR ERFAHREN
-</a>
+        <div class="modal-content1 flexi-cont"> 
+            <p>
+            Mitarbeitende müssen bei Bedarf mit einer effektiven persönlichen Schutzkleidung (PSA) ausgestattet sein und darin geschult werden, ihre Arbeit sicher auszuführen.</p>
         </div>
       </div>
     </div>
@@ -429,12 +563,10 @@ overflow-wrap: anywhere;
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-          <h4>Die Bedeutung einer nachhaltigen Speisekarte</h4>
-          <img src="assets/prev/images/L2-07.svg" />
-          <p>Wie oft wurden Sie schon nach vegetarischen Alternativen gefragt oder wo das Fleisch herkommt? Nutzen Sie die Chance und zeigen Sie bereits in Ihrer Speisekarte, dass Sie an einer hochwertigen Lebensmittelauswahl arbeiten, die besser ist für die Gesundheit Ihrer Gäste und den Planeten. Indem Sie nachhaltige Gerichte in Ihrer (Online-) Speisekarte ausweisen, können Sie Ihr Engagement für mehr Nachhaltigkeit unter Beweis stellen und neue Kunden gewinnen. </p>
-          <a class="read-more-btn" href="introduction-to-sustainable-menu-eng.php">
-        MEHR ERFAHREN
-</a>
+        <h4>Preservation</h4>
+            <p>
+                Preservation extends the life of food. Correct freezing keeps food safe. When food is too hot and enters the freezer, it uses additional energy to cool down. It can also cause localised spots of warming on frozen or chilled foods already in the freezer which in turn lead to the growth of unwanted bacteria. When freezing is done safely, it can help prevent wastage of unused food. It can also be a way to use local foods that are out of season. Fermentation, when done safely, extends shelf life and creates a delicious and healthy product out of simple ingredients such as pickled vegetables. Needless to say, the products should be labelled and the shelf life indicated clearly.
+            </p>
         </div>
       </div>
     </div>
@@ -456,12 +588,11 @@ overflow-wrap: anywhere;
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-          <h4>Warum sich die Gastronomie gesellschaftlich engagieren muss</h4>
-          <img src="assets/prev/images/L2-09.svg" />
-          <p>Essen und Trinken bringt die Menschen zusammen. Bei sozial engagierten Unternehmen geht es darum, eine aktive Rolle in Ihrer Gemeinde zu übernehmen und das Wohlergehen Ihrer Mitarbeitenden und Lieferanten zu gewährleisten. Wenn Ihre Mitarbeitenden gut behandelt werden und Sie und Ihre Lieferanten verantwortungsbewusst handeln, sind die positiven Auswirkungen auf Ihren Geschäftsbetrieb nicht nur in Ihrem Restaurant, sondern auch in Ihrer lokalen Gemeinde zu spüren.</p>
-          <a class="read-more-btn" href="introduction-to-social-eng.php">
-        MEHR ERFAHREN
-</a></div>
+        <h4>Food allergies</h4>
+            <p>
+                In many countries, customers must have access to the full list of existing allergens in restaurant dishes. Allergen management is a highly challenging area for restaurants especially if the staff turnover is high – this can negatively impact knowledge transfer. A simple menu is the cornerstone of a sustainable restaurant, and it makes managing allergen listings easier. However, when you change your menu seasonally, be sure to indicate this to your customers and staff. When meals are made from scratch, you can be sure what the ingredients are and whether they have any allergens in them, which should be made known to the customers. Reputable suppliers will list the allergens on their products.
+            </p>
+        </div>
       </div>
     </div>
   </div>
@@ -482,18 +613,16 @@ overflow-wrap: anywhere;
       </button>
       <div class="modal-body1">
         <div class="modal-content1 flexi-cont">
-          <h4>Wie Sie in Ihrem Restaurant Wasser sparen können</h4>
-          <img src="assets/prev/images/L2-01.svg" />
-          <p>Wasser ist unabdingbar für Ihr Restaurant. Ohne Wasser gibt es kein Essen. Und um Lebensmittel in köstliche Gerichte zu verwandeln, benötigen Sie große Mengen Wasser in Ihrem Geschäftsbetrieb – angefangen beim Kochen und Dämpfen bis hin zum Waschen und Desinfizieren. Aber Wasser ist kostbar. Metropolen von Spanien bis Indien sind bereits mit Wasserknappheit konfrontiert. Indem Sie Wasser sparen, sparen Sie Geld und zeigen, dass Sie verantwortungsbewusst handeln. Ohne Wasser gibt es kein Essen und keine Getränke. </p>
-          <a class="read-more-btn" href="introduction-to-water-eng.php">
-        MEHR ERFAHREN
-</a>
+        <h4>Waste</h4>
+            <p>
+                How you manage unused food and the remains of meals is an important consideration. For example, depending on how it was used, unused bread can be reused in a different meal in the form of breadcrumbs or could be composted, or thrown away. How you deal with this means different considerations on food safety as well as the amount of waste you generate.
+            </p>
         </div>
       </div>
     </div>
   </div>
 
-  <div class="introdiv-modal">
+  <div class="introdiv-modal18">
     <div class="modal-overlay1 modal-toggle18"></div>
     <div class="modal-wrapper1 modal-transition1">
       <button class="modal-close1 modal-toggle18">
@@ -508,16 +637,151 @@ overflow-wrap: anywhere;
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-          <h4>
-            Introduce diverse grains
-          </h4>
-          <p>Use ancient varieties of grains such as teff or those that are common to your region.
-          </p>
+        <h4>Delivery and take-away</h4>
+            <p>
+                Especially since the outbreak of COVID 19, food delivery and take-away has picked up momentum. Strong containers that keep food free of contamination and are easy to dispose of, are needed. Compostable containers are a good alternative and if you can use a returnable container scheme, check how the containers are cleaned.
+            </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="introdiv-modal19">
+    <div class="modal-overlay1 modal-toggle19"></div>
+    <div class="modal-wrapper1 modal-transition1">
+      <button class="modal-close1 modal-toggle19">
+        <svg class="icon-close icon" viewBox="0 0 32 32">
+          <use xlink:href="#icon-close">
+            <g id="icon-close">
+              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
+            </g>
+          </use>
+        </svg>
+      </button>
+      <div class="modal-body1">
+
+        <div class="modal-content1 flexi-cont">
+        <h4>Sub-contractors</h4>
+            <p>
+                Usually, subcontractors look after ancillary tasks such as delivery and pest control. They must ensure that their practices do not endanger the safety of food. Delivery drivers, for example, must ensure food is transported at the right temperature at the right time. Pest control subcontractors must ensure that the placement of their devices and chemicals used do not pose a risk of contamination in your kitchen. When your subcontractors are aware of your requirements, they may have ideas to offer. Some pest subcontractors are changing the way they catch pests to limit the use of harmful chemicals in the environment.
+            </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="introdiv-modal20">
+    <div class="modal-overlay1 modal-toggle20"></div>
+    <div class="modal-wrapper1 modal-transition1">
+      <button class="modal-close1 modal-toggle20">
+        <svg class="icon-close icon" viewBox="0 0 32 32">
+          <use xlink:href="#icon-close">
+            <g id="icon-close">
+              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
+            </g>
+          </use>
+        </svg>
+      </button>
+      <div class="modal-body1">
+
+        <div class="modal-content1 flexi-cont">
+        <h4>Accountability and documentation</h4>
+            <p>
+                As a restaurant manager, you are responsible for the overall supervision of your FSMS (food safety management system). The FSMS needs to be documented and this means keeping up-to-date and accurate records. This also means doing checks - you or a responsible member of staff on your behalf - conducts the opening and closing checks, any on-top checks, and ensures that “prove it” documentation (such as cleaning and training records) are completed. When you have a system already established to manage food safety, it is easier to include checks necessary in other sustainability aspects. Recording the status of a new process and monitoring its progress is another part of managing sustainability, for example, energy usage.
+            </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="introdiv-modal21">
+    <div class="modal-overlay1 modal-toggle21"></div>
+    <div class="modal-wrapper1 modal-transition1">
+      <button class="modal-close1 modal-toggle21">
+        <svg class="icon-close icon" viewBox="0 0 32 32">
+          <use xlink:href="#icon-close">
+            <g id="icon-close">
+              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
+            </g>
+          </use>
+        </svg>
+      </button>
+      <div class="modal-body1">
+
+        <div class="modal-content1 flexi-cont">
+        <h4>Independent check</h4>
+            <p>
+                To verify that your food safety system is working, you might want to have it checked independently. There are professional service providers, who can tailor inspection and analysis programs for your premises. Having this external input is a way for you to improve, and an endorsement that your food safety management is working plus an additional assurance you can give to your guests. Similar services exist in sustainability management although these are not as common. Ask your local authority or wholesaler for their recommendations.
+            </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="introdiv-modal22">
+    <div class="modal-overlay1 modal-toggle22"></div>
+    <div class="modal-wrapper1 modal-transition1">
+      <button class="modal-close1 modal-toggle22">
+        <svg class="icon-close icon" viewBox="0 0 32 32">
+          <use xlink:href="#icon-close">
+            <g id="icon-close">
+              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
+            </g>
+          </use>
+        </svg>
+      </button>
+      <div class="modal-body1">
+
+        <div class="modal-content1 flexi-cont">
+        <h4>Dirty areas</h4>
+            <p>
+                Areas for washing up, garbage bins or vegetable processing should be separated from clean areas. It helps to manage the flow of waste and ensure the correct waste is recycled or reused. For example, clean rinse water can be used to water your garden if you have one.
+            </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="introdiv-modal23">
+    <div class="modal-overlay1 modal-toggle23"></div>
+    <div class="modal-wrapper1 modal-transition1">
+      <button class="modal-close1 modal-toggle23">
+        <svg class="icon-close icon" viewBox="0 0 32 32">
+          <use xlink:href="#icon-close">
+            <g id="icon-close">
+              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
+            </g>
+          </use>
+        </svg>
+      </button>
+      <div class="modal-body1">
+
+        <div class="modal-content1 flexi-cont">
+        <h4>Cleaning </h4>
+            <p> A professional cleaning program that is specific to your premises, uses the right chemicals with the correct dosage, and suitable for the correct equipment, not only gets things clean but also prevents damage to your local environment from excessive chemicals which add to your costs. Taking a step further, you might consider environmentally- friendly cleaning chemicals. When you clean as you go, you prevent a build-up of waste and reduce the risk of contaminating clean areas by overflowing bins, for instance. Clearly labelled containers in a separated area make it easier to recycle or reuse waste.
+
+            </p>
         </div>
       </div>
     </div>
   </div>
 
+  <div class="introdiv-modal24">
+    <div class="modal-overlay1 modal-toggle24"></div>
+    <div class="modal-wrapper1 modal-transition1">
+      <button class="modal-close1 modal-toggle24">
+        <svg class="icon-close icon" viewBox="0 0 32 32">
+          <use xlink:href="#icon-close">
+            <g id="icon-close">
+              <path class="path1" d="M31.708 25.708c-0-0-0-0-0-0l-9.708-9.708 9.708-9.708c0-0 0-0 0-0 0.105-0.105 0.18-0.227 0.229-0.357 0.133-0.356 0.057-0.771-0.229-1.057l-4.586-4.586c-0.286-0.286-0.702-0.361-1.057-0.229-0.13 0.048-0.252 0.124-0.357 0.228 0 0-0 0-0 0l-9.708 9.708-9.708-9.708c-0-0-0-0-0-0-0.105-0.104-0.227-0.18-0.357-0.228-0.356-0.133-0.771-0.057-1.057 0.229l-4.586 4.586c-0.286 0.286-0.361 0.702-0.229 1.057 0.049 0.13 0.124 0.252 0.229 0.357 0 0 0 0 0 0l9.708 9.708-9.708 9.708c-0 0-0 0-0 0-0.104 0.105-0.18 0.227-0.229 0.357-0.133 0.355-0.057 0.771 0.229 1.057l4.586 4.586c0.286 0.286 0.702 0.361 1.057 0.229 0.13-0.049 0.252-0.124 0.357-0.229 0-0 0-0 0-0l9.708-9.708 9.708 9.708c0 0 0 0 0 0 0.105 0.105 0.227 0.18 0.357 0.229 0.356 0.133 0.771 0.057 1.057-0.229l4.586-4.586c0.286-0.286 0.362-0.702 0.229-1.057-0.049-0.13-0.124-0.252-0.229-0.357z"></path>
+            </g>
+          </use>
+        </svg>
+      </button>
+      <div class="modal-body1">
+
+        <div class="modal-content1 flexi-cont">
+            <p>
+            Arbeitnehmende, die einer Gewerkschaft beitreten, dürfen nicht aufgrund ihrer Mitgliedschaft diskriminiert oder entlassen werden.</p>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <div class=" intro-modal">
     <div class="modal-overlay1 modal-toggle10"></div>
@@ -534,14 +798,9 @@ overflow-wrap: anywhere;
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-          <h4>
-          Wie man weniger Energie verbraucht und Kosten spart
-          </h4>
-          <img src="assets/prev/images/L2-03.svg" />
-          <p>Sowohl um eine warme und gemütliche Atmosphäre zu schaffen als auch für die Zubereitung köstlicher Mahlzeiten wird in der Gastronomie in der Regel viel Strom und Wärme benötigt. Durch steigende Energiekosten belastet dies jedoch zunehmend mehr Ihr Budget. Gleichzeitig wächst die Aufmerksamkeit Ihrer Gäste für Umweltfragen. Nachhaltiger zu werden, wird daher nicht nur dazu beitragen, den Planeten zu schützen, sondern hilft Ihnen auch Geld zu sparen.</p>
-					<a class="read-more-btn" href="introduction-to-energy-eng.php">
-        MEHR ERFAHREN
-</a></div>
+            <p>
+            Entscheidungen über Neueinstellungen, Löhne, Beförderungen, Schulungen, Disziplinarmaßnahmen, Pensionierungen und Kündigungen müssen stets auf objektiven Kriterien beruhen und dürfen nicht mit direkten oder indirekten Diskriminierungen verbunden sein. Gleichzeitig gilt, dass gleiche Arbeit am gleichen Standort auch gleich bezahlt werden muss. Das bedeutet, dass alle Mitarbeitenden entsprechend ihrer Fähigkeiten gleichbehandelt werden und nicht aufgrund ihres Geschlechts, Alters, ihrer ethnischen Zugehörigkeit, sexueller Orientierung oder körperlichen Fähigkeiten beurteilt werden.</p>
+        </div>
       </div>
     </div>
   </div>
@@ -585,14 +844,9 @@ overflow-wrap: anywhere;
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont more-text">
-          <div>
-            <h4>Das Problem mit dem Abfall
-            </h4>
-            <img src="assets/prev/images/L2-04.svg" />
+          <div> 
             <p>
-            Abfall ist ein Problem – ein Problem, das wir selbst schaffen. Abfall beansprucht Platz und kostet Geld, wenn er nicht richtig gemanagt wird. Außerdem schadet er der Umwelt und unserer Gesundheit. Als Gastronomen können Sie wirklich etwas bewirken, indem Sie Müll vermeiden, sorgfältig sortieren und entsorgen. Abfälle können an vielen Stellen vermieden werden, wie beispielsweise durch das Nutzen von Mehrwegsystemen. Dies senkt Ihre Kosten und verbessert Ihren Ruf bei Gästen und in Ihrer Gemeinde vor Ort.
-            </p>
-            <a class="read-more-btn" href="introduction-to-waste-eng.php">MEHR ERFAHREN</a>
+            Ihre Mitarbeitenden müssen offizielle Verträge und Lohnabrechnungen erhalten, regelmäßig bezahlt werden und mindestens den (gesetzlichen) Mindestlohn verdienen. Es ist wichtig, einen Lohn zu zahlen, der existenzsichernd ist und ein menschenwürdiges Leben ermöglicht. Überstunden müssen bezahlt werden.</p>
 
           </div>
         </div>
@@ -842,6 +1096,30 @@ overflow-wrap: anywhere;
 
       $('.modal-toggle18').on('click', function(e) {
         e.preventDefault();
-        $('.introdiv-modal').toggleClass('is-visible');
+        $('.introdiv-modal18').toggleClass('is-visible');
+      });
+      $('.modal-toggle19').on('click', function(e) {
+        e.preventDefault();
+        $('.introdiv-modal19').toggleClass('is-visible');
+      });
+      $('.modal-toggle20').on('click', function(e) {
+        e.preventDefault();
+        $('.introdiv-modal20').toggleClass('is-visible');
+      });
+      $('.modal-toggle21').on('click', function(e) {
+        e.preventDefault();
+        $('.introdiv-modal21').toggleClass('is-visible');
+      });
+      $('.modal-toggle22').on('click', function(e) {
+        e.preventDefault();
+        $('.introdiv-modal22').toggleClass('is-visible');
+      });
+      $('.modal-toggle23').on('click', function(e) {
+        e.preventDefault();
+        $('.introdiv-modal23').toggleClass('is-visible');
+      });
+      $('.modal-toggle24').on('click', function(e) {
+        e.preventDefault();
+        $('.introdiv-modal24').toggleClass('is-visible');
       });
     </script>

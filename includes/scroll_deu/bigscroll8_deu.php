@@ -252,7 +252,7 @@
               <div class="item">
                 <div class="inner-item">
                     <h3>Bleiben Sie in Kontakt</h3>
-                    <img src="../../assets/images/safe_food/sf-4.svg" />
+                    <img src="../../assets/images/safe_food/s-12.svg" />
                     <p>Treten Sie regelmäßig mit Ihren Lieferanten in Kontakt.
 </p>
                   <!-- <button class="modal-changed8 read-more-btn">

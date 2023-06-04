@@ -157,7 +157,6 @@
     padding-top: 10px !important;
 }
 .section-slider-center h3, .top-content h3 {
-    font-size: 32px;
     padding: 0px 0 10px !important;
 }
 .modal-content1 img{
@@ -178,10 +177,10 @@
 }
 .section-slider-center h3 {
         text-transform: capitalize;
-        font-size: 20px !important;
+        font-size: 25px !important;
     }
     .read-more-btn {
-    width: 170px !important;
+    width: 180px !important;
 }
   </style>
 <section class="section-slider1 section-slider2 no-print">

@@ -140,6 +140,10 @@ nav.navbar {
 			margin-bottom: 0px;
 			position: relative;
 		}
+		.section-slider1 {
+    margin-top: auto;
+    padding-top: 100px;
+}
 	}
 	</style>
 </head>

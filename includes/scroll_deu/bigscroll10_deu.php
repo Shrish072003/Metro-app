@@ -211,6 +211,9 @@ span.slimg-holder.socils_one {
     .inner-item button {
     width: 180px !important;
 }
+h3{
+    overflow-wrap: break-word;
+}
   </style>
 <section class="section-slider1 section-slider2 no-print">
 
@@ -267,7 +270,7 @@ dass Ihr bestehendes Abfallmanagementsystem richtig genutzt wird</h3>
               <div class="item">
                 <div class="inner-item">
                     <h3>Für Einwegartikel aus Kunststoff, z. B. Produkte zum Mitnehmen, Plastikrührstäbchen und Verpackungen aus Kunststoff, schauen Sie sich diese Hinweise an</h3>
-                    <img src='assets/images/safe_food/wl13.svg' style="max-height: 100px !important;"/>
+                    <img src='assets/images/safe_food/wl13.svg' style="max-height: 50px !important;"/>
                     <a href="introduction-to-plastic-waste-deu.php" target="_blank"><button class="read-more-btn" >
                     WEITERLESEN
                   </button></a>

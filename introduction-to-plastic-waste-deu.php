@@ -137,12 +137,20 @@
             <div class="container-full">
                 <div class="row">
                     <div class="col-md-6 mt-2">
-                        <h3 class="mt-12 px-5 h3v">
+                        <h3 style="
+    overflow-wrap: break-word;
+" class="mt-12 px-5 h3v">
                             <span class="nowrap1">
                                 Die Bedeutung von
                             </span><br>
-                            <span class="nowrap1">
+                            <span class="nowrap1 desk_show">
                                 Plastik in der Gastronomie
+                            </span>
+                            <span class="nowrap1 mobile_show">
+                                Plastik in der
+                            </span>
+                            <span class="nowrap1 mobile_show">
+                            Gastronomie
                             </span>
 
                         </h3>

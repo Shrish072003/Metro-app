@@ -135,6 +135,7 @@
 }
 .h18r {
     min-height: auto !important;
+    height: auto !important;
 }
 .mb6r {
     margin-bottom: 0rem !important;
@@ -145,6 +146,12 @@
 .mb-3 {
     margin-bottom: 1rem !important;
     margin-top: -6.5rem !important;
+}
+.section-slider-center h3{
+    font-size: 25px !important;
+}
+.h18r {
+    height: auto !important;
 }
 
      }
@@ -237,8 +244,11 @@
                                     <div class="ybtext">
                                         39% der HoReCa-Kundinnen und Kunden (in 23 Ländern) sind der Meinung, dass die Verringerung des Energie- und Wasserverbrauchs eines der wichtigsten Themen ist, mit denen sie sich in ihrem Betrieb beschäftigen müssen. Während 59% angaben, dass sie dies aus Gründen des Umweltschutzes tun, war für 23% die Kostenreduzierung ausschlaggebend.*
                                     </div>
+                                    <div class="box-note-1 mobile_show">
+                                    *METRO Sustainability Survey 2019 &nbsp;
                                 </div>
-                                <div class="box-note-1">
+                                </div>
+                                <div class="box-note-1 desk_show">
                                     *METRO Sustainability Survey 2019 &nbsp;
                                 </div>
                             </div>
@@ -252,8 +262,11 @@
                                     <div class="ybtext">
                                         39% der Kundinnen und Kunden wollen die Energie- und Wasserverschwendung in ihren eigenen Betrieben in den Griff bekommen.*
                                     </div>
+                                    <div class="box-note-1 mobile_show">
+                                    *METRO Sustainability Survey 2019 &nbsp;
                                 </div>
-                                <div class="box-note-1">
+                                </div>
+                                <div class="box-note-1 desk_show">
                                     *METRO Sustainability Survey 2019 &nbsp;
                                 </div>
                             </div>

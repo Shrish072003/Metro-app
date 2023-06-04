@@ -631,7 +631,7 @@ Wenn gut geschulte und informierte Mitarbeitende an der Einrichtung eines Lebens
                     </p>
                     <p class="mt-0">
                         <strong> Sehen Sie sich die folgenden Schritte zur Schaffung einer gemeinsamen Kultur der Lebensmittelsicherheit an:</strong>
-                    <iframe src="includes/scroll_deu/bigscroll13_deu.php" height="400px" class="mobile_show"></iframe></p>
+                    <iframe src="includes/scroll_deu/bigscroll13_deu.php" height="450px" class="mobile_show"></iframe></p>
                 </div>
             </div>
         </div>
