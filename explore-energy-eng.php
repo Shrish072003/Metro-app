@@ -947,7 +947,7 @@
                         <h4>
                             Share this page
                         </h4>
-                        <a href="" id="fb-share-button" class="sharebtn"><i class="fa fa-facebook"></i></a>
+                        <a href="" id="fb-share-button" class="sharebtn" target="_blank" onclick="shareOnFacebook()"><i class="fa fa-facebook"></i></a>
                         <a href="" id="tw-share-button" class="sharebtn"><i class="fa fa-twitter"></i></a>
                         <a href="" id="ld-share-button" class="sharebtn"><i class="fa fa-linkedin"></i></a>
                         <a href="mailto:?subject=Hey, this page has a great content!&body=" id="mail-share-button" class="sharebtn"><i class="fa fa-envelope"></i></a>
@@ -1181,6 +1181,19 @@
             });
             return false;
         });
+    </script>
+    <script>
+        function shareOnFacebook() {
+  // Get the current page URL
+  var currentURL = window.location.href;
+
+  // Construct the Facebook share URL
+  var facebookShareURL = 'https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(currentURL);
+
+  // Open the Facebook sharing dialog
+  window.open(facebookShareURL, '_blank');
+}
+
     </script>
 </body>
 
