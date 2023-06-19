@@ -124,20 +124,30 @@
                     <div class="col-md-6 border-right">
                         <div class="didyouknow_2culumn">
                             <img src="assets/images/safe_food/s2.svg" class="px-4" style="width: 24rem;">
-                            <h4>often there are no HR practitioners<br>
+                            <h4 class="desk_show">often there are no HR practitioners<br>
                                 in the businesses of the hospitality and<br>
                                 food industry to support an employee or prevent<br>
+                                e.g. (unintended) violations of their basic rights</h4>
+                            <h4 class="mobile_show">often there are no HR practitioners
+                                in the businesses of the hospitality and
+                                food industry to support an employee or prevent
                                 e.g. (unintended) violations of their basic rights</h4>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="didyouknow_2culumn">
                             <img src="assets/images/safe_food/s3.svg" class="px-4 dis_img2">
-                            <h4>underpaid and abused workers are<br>
+                            <h4 class="desk_show">underpaid and abused workers are<br>
                                 unfortunately commonplace in the hospitality<br>
                                 and food industry, especially in terms of<br>
                                 physical working conditions, working hours,<br>
                                 safety, or contractual matters such as working on<br>
+                                a temporary or seasonal basis</h4>
+                            <h4 class="mobile_show">underpaid and abused workers are
+                                unfortunately commonplace in the hospitality
+                                and food industry, especially in terms of
+                                physical working conditions, working hours,
+                                safety, or contractual matters such as working on
                                 a temporary or seasonal basis</h4>
                         </div>
                     </div>

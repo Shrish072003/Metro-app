@@ -66,15 +66,21 @@
      }
      @media screen and (max-width: 600px) {
      .footer-wrap {
-    margin-top: 330% !important;
+    /* margin-top: 330% !important; */
 }
      }
+     @media screen and (max-width: 400px) {
+   .video-contain{
+     margin-top:110px !important;  
+    }
+}
     </style>
 </head>
 
 <body class="popup-exists page-animation1">
     <?php include "includes/header-deu.php"; ?>
 
+    <section class="video-contain">
     <div class="wrapper">
         <div class="overlay"><span class="close_btn">
                 <button class="article__close"></button>
@@ -112,6 +118,10 @@
                 </div>
             </div>
         </div>
+
+</section>
+
+
         <?php include "includes/footer-eng.php"; ?>
     </div>
 

@@ -28,7 +28,6 @@
     }
 
     .nodeco {
-      color: white !important;
       text-decoration: none !important;
     }
 
@@ -83,6 +82,9 @@
     .slick-slide .inner-item h3 {
     text-transform: capitalize !important;
 }
+.nodeco{
+        color: #0d6efd !important;
+    }
   </style>
   
 
@@ -101,7 +103,7 @@
               <div class="item">
                 <div class="inner-item">
                   <button class="modal-toggle9">
-                  Less waste, lower costs
+                  Less waste, <br>lower costs
                   </button>
                 </div>
               </div>

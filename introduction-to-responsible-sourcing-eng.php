@@ -250,7 +250,7 @@
 
             <section class="section4" id="option6" data-scrl="Steps to source responsibly">
                 <div class="left-content noalign w60-per p60a">
-                    <h3>KNOW HOW – STEPS<br>TO SOURCE RESPONSIBLY</h3>
+                    <h3>KNOW HOW–STEPS<br> TO SOURCE RESPONSIBLY</h3>
                     <div class=" mr-4 p60b mobile_show">
                     <a href="https://www.metro.de/" target="_blank">
                         <img src="assets/images/resp_sourcing/baskets.svg" class="img-fluid" />

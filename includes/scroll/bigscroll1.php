@@ -193,7 +193,7 @@
               </div>
               <div class="item">
                 <div class="inner-item">
-                    <h3>Store fruits and vegetables the right way</h3>
+                    <h3>Store fruits and vegetables. IN THE RIGHT WAY</h3>
                     <img src="assets/images/safe_food/fw-3.svg" />
                   <button class="modal-toggle9 read-more-btn">
                   Read more
@@ -449,8 +449,9 @@
 
                         </ul>
                     </div>
-
+                  
                     <div class="col-md-6">
+                    <br><br>
                         <h6><strong>Front of house food waste</strong></h6>
                         <ul>
                             <li> Monitor portion sizes to check if you should change the quantity depending how much food waste you have per customer </li>

@@ -498,7 +498,7 @@ nav.navbar {
 										</a>
 									</li>
 									<li>
-										<a href="https://www.instagram.com/metro_deutschland/ " target="_blank">
+										<a href="https://www.instagram.com/metro_mpulse/" target="_blank">
 											<i class="fa fa-instagram"></i>
 										</a>
 									</li>

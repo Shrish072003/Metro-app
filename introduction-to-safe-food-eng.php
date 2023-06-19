@@ -117,7 +117,8 @@
                             <div class="col-md-6 border-top border-right">
                                 <div class="didyouknow_2culumn">
                                     <img src="assets/images/safe_food/Asset 4.svg" class="px-4">
-                                    <h4>the World Health Organization estimates that <br>almost <strong style="font-size: 22px;">1 in 10 people</strong> is sickened by <br>eating food processed or prepared by others. <br>This sickness is called foodborne disease and is <br>caused by dangerous microorganisms <br>and/or toxic chemicals </h4>
+                                    <h4 class="desk_show">the World Health Organization estimates that <br>almost <strong style="font-size: 22px;">1 in 10 people</strong> is sickened by <br>eating food processed or prepared by others. <br>This sickness is called foodborne disease and is <br>caused by dangerous microorganisms <br>and/or toxic chemicals </h4>
+                                    <h4 class="mobile_show">the World Health Organization estimates that almost <strong style="font-size: 22px;">1 in 10 people</strong> is sickened by eating food processed or prepared by others. This sickness is called foodborne disease and is caused by dangerous microorganisms and/or toxic chemicals </h4>
                                 </div>
                             </div>
                             <div class="col-md-6 border-top">
@@ -220,7 +221,7 @@
 
             <section class="section4 padr-60px" id="option6" data-scrl="Steps to ensure safe food">
                 <div class="left-content noalign w60-per">
-                    <h3><a href="explore-safe-food-eng.php" target="_self">KNOW HOW – STEPS TO<br>ENSURE SAFE FOOD</a></h3>
+                    <h3><a href="explore-safe-food-eng.php" target="_self">KNOW HOW–STEPS TO<br>  ENSURE SAFE FOOD</a></h3>
                     <div class="img_class_down">
                     <img src="assets/images/safe_food/Asset 9.svg" class="img-fluid px-5 mobile_show">
                 </div>

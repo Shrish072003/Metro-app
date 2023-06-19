@@ -139,7 +139,8 @@
                     <div class="col-md-6 border-right">
                         <div class="didyouknow_2culumn">
                             <img src="assets/images/safe_food/en-4.svg" class="px-4">
-                            <h4>compact fluorescent bulbs and lamps (CFL)<br>use <strong>75%</strong> less energy than incandescent bulbs<br>and last 10 times longer (which can save you<br>a noticeable amount of money)</h4>
+                            <h4 class="desk_show">compact fluorescent bulbs and lamps (CFL)<br>use <strong>75%</strong> less energy than incandescent bulbs<br>and last 10 times longer (which can save you<br>a noticeable amount of money)</h4>
+                            <h4 class="mobile_show">compact fluorescent bulbs and lamps (CFL) use <strong>75%</strong> less energy than incandescent bulbs and last 10 times longer (which can save you a noticeable amount of money)</h4>
                         </div>
                     </div>
                     <div class="col-md-6">

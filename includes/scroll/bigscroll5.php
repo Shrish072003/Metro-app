@@ -669,10 +669,10 @@ body {
           </use>
         </svg>
       </button>
-      <div class="modal-body1">
+      <div class="modal-body1" >
 
         <div class="modal-content1 flexi-cont">
-        <h4>Accountability and documentation</h4>
+        <h4 style="font-size: 22px;">Accountability and documentation</h4>
             <p>
                 As a restaurant manager, you are responsible for the overall supervision of your FSMS (food safety management system). The FSMS needs to be documented and this means keeping up-to-date and accurate records. This also means doing checks - you or a responsible member of staff on your behalf - conducts the opening and closing checks, any on-top checks, and ensures that “prove it” documentation (such as cleaning and training records) are completed. When you have a system already established to manage food safety, it is easier to include checks necessary in other sustainability aspects. Recording the status of a new process and monitoring its progress is another part of managing sustainability, for example, energy usage.
             </p>
@@ -767,7 +767,7 @@ body {
         <div class="modal-content1 flexi-cont">
         <h4>Purchasing</h4>
             <p>
-                A reputable supplier will have food safety covered. You can check this by asking for their certificate or inspection report carried out by their local or national authority, an accredited third-party independent inspector, or for a certificate from a Global Food Safety Initiative (GFSI) benchmarked scheme. Your FSMS requires you to keep a list of suppliers. This can also help you keep track of how they are performing concerning sustainability activities like <a target="_blank" href="introduction-to-responsible-sourcing-eng.php">responsible sourcing</a>. When you require your suppliers to have food safety standards, it also encourages their own efficiency and waste management. That way you can help suppliers to improve their processes which can mean they gain additional business and become economically sustainable.
+                A reputable supplier will have food safety covered. You can check this by asking for their certificate or inspection report carried out by their local or national authority, an accredited third-party independent inspector, or for a certificate from a Global Food Safety Initiative (GFSI) benchmarked scheme. Your FSMS requires you to keep a list of suppliers. This can also help you keep track of how they are performing concerning sustainability activities like <a target="_blank" href="../../introduction-to-responsible-sourcing-eng.php">responsible sourcing</a>. When you require your suppliers to have food safety standards, it also encourages their own efficiency and waste management. That way you can help suppliers to improve their processes which can mean they gain additional business and become economically sustainable.
             </p>
         </div>
       </div>

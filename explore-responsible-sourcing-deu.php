@@ -1309,7 +1309,12 @@
                         <div class="row">
                             <div class="col-md-12 mt-2 mb-2 mx-1 my-1 text-center">
                                 <h3 class="section-heading-blue" style="text-transform:none!important ;">Der umfassende Leitfaden für nachhaltige Produkte</h3>
-                                <p>
+                                <p style="mobile_show">
+                                    <strong>
+                                        Es ist nicht immer einfach herauszufinden, wann ein Produkt nachhaltig ist. Die Definitionen können je nach Perspektive und Überzeugung von Personen oder Organisationen stark voneinander abweichen. Folgende Merkmale eignen sich als Leitfaden, da nachhaltige Produkte mindestens eines dieser Merkmale aufweisen:
+                                    </strong>
+                                </p>
+                                <p style="desk_show">
                                     <strong>
                                         Es ist nicht immer einfach herauszufinden, wann ein Produkt nachhaltig ist.<br>Die Definitionen können je nach Perspektive und Überzeugung von Personen oder Organisationen stark voneinander abweichen.<br>Folgende Merkmale eignen sich als Leitfaden, da nachhaltige Produkte mindestens eines dieser Merkmale aufweisen:
                                     </strong>
@@ -2986,10 +2991,10 @@
                     <h4>
                         Teile diese Seite
                     </h4>
-                    <a href="" id="fb-share-button" class="sharebtn"><i class="fa fa-facebook"></i></a>
-                    <a href="" id="tw-share-button" class="sharebtn"><i class="fa fa-twitter"></i></a>
-                    <a href="" id="ld-share-button" class="sharebtn"><i class="fa fa-linkedin"></i></a>
-                    <a href="" id="mail-share-button" class="sharebtn"><i class="fa fa-envelope"></i></a>
+                    <a id="fb-share-button" class="sharebtn" onclick="shareOnFacebook()"><i class="fa fa-facebook"></i></a>
+                        <a id="tw-share-button" class="sharebtn" onclick="shareOnTwitter()"><i class="fa fa-twitter"></i></a>
+                        <a id="ld-share-button" class="sharebtn" onclick="shareOnLinkedIn()"><i class="fa fa-linkedin"></i></a>
+                        <a id="mail-share-button" class="sharebtn" onclick="shareViaEmail()"><i class="fa fa-envelope"></i></a>
                 </div>
             </div>
         </div>
@@ -3539,6 +3544,73 @@
             });
             return false;
         });
+    </script>
+    <script>
+        function shareOnFacebook() {
+  // Get the current page URL
+  var currentURL = window.location.href;
+
+  // Construct the Facebook share URL
+  var facebookShareURL = 'https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(currentURL);
+
+  // Open the Facebook sharing dialog
+  window.open(facebookShareURL, '_blank');
+}
+
+function shareOnTwitter() {
+  // Get the current page URL
+  var currentURL = window.location.href;
+
+  // Construct the Twitter share URL
+  var twitterShareURL = 'https://twitter.com/intent/tweet?url=' + encodeURIComponent(currentURL);
+
+  // Open the Twitter sharing dialog
+  window.open(twitterShareURL, '_blank');
+}
+
+
+function shareOnLinkedIn() {
+  // Get the current page URL
+  var currentURL = window.location.href;
+
+  // Construct the share content
+  var shareContent = 'Check out this link: ' + currentURL;
+
+  // Encode the share content
+  var encodedShareContent = encodeURIComponent(shareContent);
+
+  // Construct the LinkedIn share deeplink URL
+  var linkedInDeeplinkURL = 'linkedin://shareArticle?mini=true&url=' + encodedShareContent;
+
+  // Attempt to open the LinkedIn app
+  window.location.href = linkedInDeeplinkURL;
+
+  // Fallback for opening the LinkedIn website
+  setTimeout(function() {
+    window.open('https://www.linkedin.com/sharing/share-offsite/?url=' + encodedShareContent, '_blank');
+  }, 500);
+}
+
+
+
+function shareViaEmail() {
+  // Get the current page URL
+  var currentURL = window.location.href;
+
+  // Construct the email subject
+  var emailSubject = 'Check out this link';
+
+  // Construct the email body
+  var emailBody = 'I found this interesting link and wanted to share it with you:\n\n' + currentURL;
+
+  // Construct the mailto link
+  var mailtoLink = 'mailto:?subject=' + encodeURIComponent(emailSubject) + '&body=' + encodeURIComponent(emailBody);
+
+  // Open the email client
+  window.open(mailtoLink, '_blank');
+}
+
+
     </script>
 </body>
 

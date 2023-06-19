@@ -467,7 +467,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.instagram.com/metro_deutschland/ " target="_blank">
+                    <a href="https://www.instagram.com/metro_mpulse/ " target="_blank">
                       <i class="fa fa-instagram"></i>
                     </a>
                   </li>
@@ -528,7 +528,7 @@
       <section class="section-simple no-print" id="option2" data-scrl="Simple ways to create a sustainable menu">
         <div class="section-simple-way text-center">
           <h3>Simple ways to create a Sustainable Menu</h3>
-          <p>As restaurateur there are many ways how to make your menu sustainable. But as individual communities have different ideas of whatconstitutesa sustainable plate, you can employ the following steps according to yourlocation and customers.</p>
+          <p>As restaurateur there are many ways how to make your menu sustainable. But as individual communities have different ideas of what constitutes a sustainable plate, you can employ the following steps according to your location and customers.</p>
         </div>
       </section>
       <section class="section-slider1 section-slider2 no-print">
@@ -730,10 +730,10 @@
           <p>Around the world, we get our protein from different sources including plants, meat, and fish. The problem is that protein from most industrially farmed animal sources is bad for the environment owing to the methane emissions (which are converted to carbon dioxide), the abuse of water, and contamination of soil and water courses. Animal welfare is frequently ignored.<span id="dots"></span>
             <br><br>
             <span id="more1">Farmed fish also has environmental impacts, such as water pollution and the release of diseases to wild fish. In turn, the number of wild fish is steadily decreasing and becoming contaminated with microplastics.
-              <br><br>
+            <br style="display: block;"><br style="display: block;">
               Consumers are ever more aware of the impact that their eating has on the environment. How we eat protein now and the way we will eat protein in the future is frequently a subject of attention in the news and on social media. You can be innovative in this space and show your customers how you really have a handle on a major sustainability topic through your menu. Additionally, customers are increasingly prepared to pay more for responsibly sourced protein.
-              <br><br>
-              Fortunately, there are many solutions that you can choose to include conscious proteins into your sustainable menu. When you choose a conscious protein approach you will have a key element of your sustainable menu established and you will create a positive impact on the health of our planet.
+              <br style="display: block;"><br style="display: block;">
+              Fortunately, there are many solutions that you can choose to include conscious proteins into your sustainable menu. When you choose a conscious protein approach you will have a key element of your sustainable menu established and you will create a positive impact on the health of our planet
             </span>
           </p>
           <button class="read-more-btn" id="myBtn1">Read more</button>
@@ -759,12 +759,12 @@
               <h5>Conscious <br> protein</h5>
               <p id="more3">Conscious protein describes an approach which is based on consuming a diverse source of sustainable protein and the awareness of people in their eating habits. Conscious proteins include, for instance conventional, proteins obtained from animals that were raised to high welfare standards as well as alternative protein from plant sources.
                 <br>
-                <br><b> Animal proteins</b> are from meat and fish raised responsibly. It includes products like eggs and milk.Animal proteins that come from responsibly raised meat or fish means high welfare, fed with sustainable feed and in the case of ruminants grazed on pasture, responsible use of water, assured welfare, responsible use of animal treatments for example antibiotics, a positive impact on biodiversity for example by using heritage breeds, traceable and workers’ rights are assured.
+                <br><b><strong style="font-size: larger;">Animal proteins <strong></strong></strong></b> are from meat and fish raised responsibly. It includes products like eggs and milk.Animal proteins that come from responsibly raised meat or fish means high welfare, fed with sustainable feed and in the case of ruminants grazed on pasture, responsible use of water, assured welfare, responsible use of animal treatments for example antibiotics, a positive impact on biodiversity for example by using heritage breeds, traceable and workers’ rights are assured.
                 <br><br>
-                <b> Plant proteins</b> are whole ingredients which include beans, grains, pulses, nuts, chickpeas, ancient grains such as quinoa and minimally processed ingredients such as tofu, tempeh and seitan. Produced responsibly means, for example, that responsible tofu would be from soy beans grown on non-deforested land and responsible nuts would be grown in orchards where water is managed responsibly.
+                <b> <strong style="font-size: larger;">Plant proteins <strong></strong></strong></b> are whole ingredients which include beans, grains, pulses, nuts, chickpeas, ancient grains such as quinoa and minimally processed ingredients such as tofu, tempeh and seitan. Produced responsibly means, for example, that responsible tofu would be from soy beans grown on non-deforested land and responsible nuts would be grown in orchards where water is managed responsibly.
                 <br><br>
 
-                <b>Alternative proteins</b> are either not commonly eaten or are completely new, being produced with novel (new) technologies and ingredients. Exciting work is underway around the world to reproduce meat in laboratories. There is some way to go before it can be considered completely sustainable due to for example the energy required to produce the proteins. The cost remains prohibitive and for some people lab meat is a taboo. Meanwhile it is worth keeping a close eye on developments as this field of research is changing rapidly. In East Asia, for example, fish has been successfully reproduced and marketed. Produced responsibly means, for example, responsible pea protein would be from peas grown on non-deforested land.
+                <b><strong style="font-size: larger;">Alternative proteins <strong></strong></strong></b> are either not commonly eaten or are completely new, being produced with novel (new) technologies and ingredients. Exciting work is underway around the world to reproduce meat in laboratories. There is some way to go before it can be considered completely sustainable due to for example the energy required to produce the proteins. The cost remains prohibitive and for some people lab meat is a taboo. Meanwhile it is worth keeping a close eye on developments as this field of research is changing rapidly. In East Asia, for example, fish has been successfully reproduced and marketed. Produced responsibly means, for example, responsible pea protein would be from peas grown on non-deforested land.
               </p>
               <button class="read-more-btn" id="myBtn3">Read more</button>
             </div>
@@ -790,7 +790,6 @@
         </div>
         <div class="mid-highlight container ">
         <div class="circle-setting-mobile">
-            <img src="assets/prev/images/circle-icon.svg" />
             
           </div>
           <ul>
@@ -1107,10 +1106,10 @@
                 <h4>
                     Share this page
                 </h4>
-                <a href="" id="fb-share-button" class="sharebtn"><i class="fa fa-facebook"></i></a>
-                <a href="" id="tw-share-button" class="sharebtn"><i class="fa fa-twitter"></i></a>
-                <a href="" id="ld-share-button" class="sharebtn"><i class="fa fa-linkedin"></i></a>
-                <a href="mailto:?subject=Hey, this page has a great content!&body=" id="mail-share-button" class="sharebtn"><i class="fa fa-envelope"></i></a>
+                <a id="fb-share-button" class="sharebtn" onclick="shareOnFacebook()"><i class="fa fa-facebook"></i></a>
+                        <a id="tw-share-button" class="sharebtn" onclick="shareOnTwitter()"><i class="fa fa-twitter"></i></a>
+                        <a id="ld-share-button" class="sharebtn" onclick="shareOnLinkedIn()"><i class="fa fa-linkedin"></i></a>
+                        <a id="mail-share-button" class="sharebtn" onclick="shareViaEmail()"><i class="fa fa-envelope"></i></a>
             </div>
         </div>
       </div>
@@ -1829,7 +1828,7 @@
         nextArrow: '<button class="slick-next"> > </button>',
 
         //         responsive: [                        
-        //             {
+        //             
         //               breakpoint: 576,
         //               settings: {
         //                 centerMode: false,
@@ -2087,7 +2086,73 @@
     <script src="assets/js/likeshare-eng.js"></script>
 
 
-      
+    <script>
+        function shareOnFacebook() {
+  // Get the current page URL
+  var currentURL = window.location.href;
+
+  // Construct the Facebook share URL
+  var facebookShareURL = 'https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(currentURL);
+
+  // Open the Facebook sharing dialog
+  window.open(facebookShareURL, '_blank');
+}
+
+function shareOnTwitter() {
+  // Get the current page URL
+  var currentURL = window.location.href;
+
+  // Construct the Twitter share URL
+  var twitterShareURL = 'https://twitter.com/intent/tweet?url=' + encodeURIComponent(currentURL);
+
+  // Open the Twitter sharing dialog
+  window.open(twitterShareURL, '_blank');
+}
+
+
+function shareOnLinkedIn() {
+  // Get the current page URL
+  var currentURL = window.location.href;
+
+  // Construct the share content
+  var shareContent = 'Check out this link: ' + currentURL;
+
+  // Encode the share content
+  var encodedShareContent = encodeURIComponent(shareContent);
+
+  // Construct the LinkedIn share deeplink URL
+  var linkedInDeeplinkURL = 'linkedin://shareArticle?mini=true&url=' + encodedShareContent;
+
+  // Attempt to open the LinkedIn app
+  window.location.href = linkedInDeeplinkURL;
+
+  // Fallback for opening the LinkedIn website
+  setTimeout(function() {
+    window.open('https://www.linkedin.com/sharing/share-offsite/?url=' + encodedShareContent, '_blank');
+  }, 500);
+}
+
+
+
+function shareViaEmail() {
+  // Get the current page URL
+  var currentURL = window.location.href;
+
+  // Construct the email subject
+  var emailSubject = 'Check out this link';
+
+  // Construct the email body
+  var emailBody = 'I found this interesting link and wanted to share it with you:\n\n' + currentURL;
+
+  // Construct the mailto link
+  var mailtoLink = 'mailto:?subject=' + encodeURIComponent(emailSubject) + '&body=' + encodeURIComponent(emailBody);
+
+  // Open the email client
+  window.open(mailtoLink, '_blank');
+}
+
+
+    </script>
 
 
 </body>

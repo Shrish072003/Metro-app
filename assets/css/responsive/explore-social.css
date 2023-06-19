@@ -113,4 +113,7 @@
         border-top: 1px solid #fff;
         background: none !important;
     }
+    .three-step_para ol, ul {
+        padding-left: revert !important;
+    }
 }

@@ -114,10 +114,12 @@
                     <div class="col-md-6 offset-md-3">
                         <div class="didyouknow_2culumn" style="margin-top: -70px;">
                             <img src="assets/images/safe_food/w2.svg" class="px-4">
-                            <h4>electronic products should never be disposed of<br>
+                            <h4 class="desk_show">electronic products should never be disposed of<br>
                                 in the rubbish bin, especially those subject to<br>
                                 Waste of Electrical and Electronic Equipment (WEEE)<br>
                                 regulations, such as batteries, bulbs, etc.</h4>
+                        
+                            <h4 class="mobile_show">electronic products should never be disposed of in the rubbish bin, especially those subject to Waste of Electrical and Electronic Equipment (WEEE) regulations, such as batteries, bulbs, etc.</h4>
                         </div>
                     </div>
 

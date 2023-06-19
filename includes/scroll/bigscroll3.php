@@ -189,7 +189,7 @@
 <div class="section-div">
                     <div class="container-fluid">
                         <h3 class="wayT0Title">Simple ways to save energy</h3>
-                        <p class="disc">As a restaurateur, there are many ways to save energy in your restaurant.<br>There are some actions you can implement straight away. This is how you can start:</p>
+                        <p class="disc">As a restaurateur, there are many ways to save energy in your restaurant.</p>
                        </div>
                 </div>
                 
@@ -245,7 +245,7 @@
               <div class="item">
                 <div class="inner-item">
                     <h3>Use returnable deposit packaging and returnable plastic carrier packaging</h3>
-                    <img style="height:25px;" src="assets/images/safe_food/pw-7.svg" />
+                    <img src="assets/images/safe_food/pw-7.svg" />
                   <button class="modal-toggle13 read-more-btn">
                   Read more
                   </button>
@@ -334,8 +334,8 @@
       <div class="modal-body1">
 
         <div class="modal-content1 flexi-cont">
-        <h4> Check your refrigerator </h4>
-            <p>If the seals on your refrigerator are not kept clean and tight, the fridge has to work harder to stay cool, as warm air can get in. Also, ensure that the fans of your refrigerator are not obstructed and that the cooling and ventilation slots behind stand-alone refrigerators and freezers are not obstructed.</p>
+        <h4> Give discounts for people who bring their own takeaway containers </h4>
+            <p>Encourage your customers to bring their own containers for takeaway food and drinks and consider giving an incentive like a discount. Ensure that hygiene rules are in place, for example, filling a food container or coffee cup away from the food preparation area.</p>
 
         </div>
       </div>

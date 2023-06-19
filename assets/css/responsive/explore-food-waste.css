@@ -242,6 +242,14 @@
         margin-left: 10px !important;
     margin-right: 10px !important;
     }
+
+    .box-note-1 {
+        font-size: 10px !important;
+        float: right;
+        text-transform: uppercase;
+        font-weight: 600;
+    }
+
 }
 
 @media screen and (min-width: 800px){

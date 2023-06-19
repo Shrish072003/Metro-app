@@ -127,6 +127,28 @@
 .slick-slide{
   background-image:none !important;
 }
+.bktextn strong{
+  color:#000 !important;
+}
+.picon-container {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: #ffe500;
+    text-align: center;
+    margin-top: 0rem !important;
+    margin-left: -68%;
+    position: absolute;
+}
+.picon-container>img {
+    width: 25px;
+    margin-top: 9px;
+}
+.anyyimgdiv{
+  max-width:70% !important;
+  margin-left: 7%;
+}
+
   </style>
 
 
@@ -139,14 +161,21 @@
                     <div class="row">
                         <div class="col-md-12 mt-2 mb-4 mx-1 my-1 text-center no-print">
                             <h3 class="section-heading-blue">The Comprehensive Guide to Sustainable Products </h3>
-                            <p class="">
+                            <p class="desk_show">
                                 <strong>
                                     It is not always easy to know what a sustainable product is and the definitions can
-                                    be different depending on<br>the perspectives and beliefs of the person or organisation
-                                    looking at it. You can use the following characteristics<br>as a guide, because
+                                    be different depending on<br style="desk_show">the perspectives and beliefs of the person or organisation
+                                    looking at it. You can use the following characteristics<br style="desk_show"> as a guide, because
                                     sustainable products have at least one of these characteristics.
                                 </strong>
                             </p>
+                            <p class="mobile_show">
+                                <strong>
+                                    It is not always easy to know what a sustainable product is and the definitions can
+                                    be different depending on the perspectives and beliefs of the person or organisation
+                                    looking at it. You can use the following characteristics as a guide, because
+                                    sustainable products have at least one of these characteristics.
+                                </strong>
                         </div>
                     </div>
                     </div>
@@ -154,7 +183,12 @@
 
     <ul>
           <li class="accordian3 accor">
-            <div class="collapsible__header">Local and Regional Products</div>
+            <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-location-marker.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">Local and Regional Products
+          </div></section>
             <div class="collapsible__content">
                                         <!-- Local and Seasonal Products 1 -->
                                         <div class="container conx">
@@ -195,12 +229,12 @@
                                                         local/regional infrastructure and economy.
                                                     </p>
                                            
-                                                <div class="col-md-12 mt-2 mb-2 yellow-block">
-                                                    <h5><strong>Why is it important to buy locally?</strong></h5>
+                                                <div class="col-md-12 mt-2 mb-2 yellow-block bktextn">
+                                                    <h5 style="color: #000 !important;";><strong>Why is it important to buy locally?</strong></h5>
                                                     <div class="col-md-8 offset-md-2 mt-2 mb-2">
                                                     <img src="assets/images/resp_sourcing/fruit-seller-with-cap.svg" class="img-fluid seller-cap">
 </div>
-                                                    <p class="justify1">
+                                                    <p class="justify1" style="color: #000 !important;";>
                                                         
                                                         Buying local is a responsible act that creates a sense of
                                                         proximity,
@@ -219,7 +253,7 @@
                                                         produced, you can establish an
                                                         identity with the region which helps to win loyal customers.
                                                     </p>
-                                                    <p class="justify1">
+                                                    <p style="color: #000 !important;"; class="justify1">
                                                         Naturally, some products will not be available in all
                                                         localities, for example, mangoes in Germany.
                                                         Although, when produce is available locally it should be
@@ -235,7 +269,12 @@
                                     </li>
 
           <li class="accordian2 accor">
-            <div class="collapsible__header">Seasonal Products</div>
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-fruits.svg" class="img-fluid" style="width: 38px;">
+          </div>
+          <div class="anyyimgdiv">Seasonal Products
+          </div></section>
             <div class="collapsible__content">
             <div class="container conx">
                                             <div class="row">
@@ -258,9 +297,9 @@
                                                         are linked to the season or time of the year.
                                                     </p>
                                            
-                                                <div class="col-md-12 mt-5 mb-2 yellow-block">
-                                                    <h5><strong>Why is it important to buy seasonal products?</strong></h5>
-                                                    <p class="justify1">
+                                                <div class="col-md-12 mt-5 mb-2 yellow-block bktextn">
+                                                    <h5 style="color: #000 !important;";><strong>Why is it important to buy seasonal products?</strong></h5>
+                                                    <p style="color: #000 !important;"; class="justify1">
                                                         <img src="assets/images/resp_sourcing/fruid-bowl.svg" class="img-fluid fruit-bowl">
                                                         The arrival of new season produce generates a real excitement and
                                                         expectation of tastes to come. You can demonstrate how in touch
@@ -271,7 +310,7 @@
                                                         usually taste better. New season produce is fresher due to reduced time in storage and transport
                                                         and you can actively support your local growers by sourcing from them in season.
                                                     </p>
-                                                    <p class="justify1">
+                                                    <p style="color: #000 !important;"; class="justify1">
                                                         Of course, some products will not be available in season, for example, strawberries in winter in
                                                         Poland, but when produce is available in season, it should be prioritized wherever it makes sense.
                                                         Check out the Seasonal Calendar for further information.
@@ -281,12 +320,16 @@
 </div>
           </li>
           <li class="accordian3 accor">
-            <div class="collapsible__header">Organic</div>
-            <div class="collapsible__content">
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-flower.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">Organic
+          </div></section>            <div class="collapsible__content">
             <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
-                                                        <div class="msr-img-holder-inner3 mt-4">
+                                                <div class="msr-img-holder-inner3 mt-4">
                                               <img src="assets/images/resp_sourcing/organic-farming.svg" class="img-fluid org-farming">
 </div>
                                                     <p class="justify1">                                                        
@@ -317,12 +360,14 @@
                                                     </p>
                                                
 
-                                                <div class="col-md-12 mt-2 mb-2 yellow-block">
-                                                    <h5>
+                                                <div class="col-md-12 mt-2 mb-2 yellow-block bktextn">
+                                                    <h5 style="color: #000 !important;";>
                                                         <strong>Why is it important to buy organic products?</strong>
                                                     </h5>
-                                                    <p class="justify1">
+                                                    <p class="justify1" style="color: #000 !important;";>
+                                                    <div class="msr-img-holder-inner3 mt-4">
                                                         <img src="assets/images/resp_sourcing/organic-products.svg" class="img-fluid fruit-bowl">
+</div>
                                                         There are several advantages when you buy organic products. For
                                                         example, organic farming means a reduced impact on the
                                                         environment and better treatment of animals. Organic farms tend
@@ -341,7 +386,7 @@
                                                         chance of contamination
                                                         by bacteria that cause food poisoning.
                                                     </p>
-                                                    <p class="justify">
+                                                    <p class="justify" style="color: #000 !important;";>
                                                         The opposite of organic agriculture is intensive agriculture.
                                                         This
                                                         can cause soil erosion, chemical
@@ -357,8 +402,12 @@
 </div>
           </li>
           <li class="accordian2 accor">
-            <div class="collapsible__header">Ethically traded</div>
-            <div class="collapsible__content"><div class="container conx">
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-env.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">Ethically traded
+          </div></section>            <div class="collapsible__content"><div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
                                                         <div class="msr-img-holder-inner3 mt-4">
@@ -373,9 +422,9 @@
                                                         checked regularly to make sure they continue to comply.
                                                     </p>
                                                 
-                                                <div class="col-md-12 mt-2 mb-2 yellow-block">
-                                                    <h5><strong>Why is it important to source ethically?</strong></h5>
-                                                    <p class="justify1">
+                                                <div class="col-md-12 mt-2 mb-2 yellow-block bktextn">
+                                                    <h5 style="color: #000 !important;";><strong>Why is it important to source ethically?</strong></h5>
+                                                    <p style="color: #000 !important;"; class="justify1">
                                                         <img src="assets/images/resp_sourcing/fruit-seller-dollar.svg" class="img-fluid fruit-bowl">
                                                         Many farmers do not receive a fair price for what they produce.
                                                         Ethical trading ensures that farmers receive a fair price for
@@ -392,8 +441,12 @@
 
           </li>
           <li class="accordian3 accor">
-            <div class="collapsible__header">Animal welfare</div>
-            <div class="collapsible__content"> <div class="container conx">
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-animal.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv" >Animal welfare
+          </div></section>            <div class="collapsible__content"> <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
                                                         <div class="msr-img-holder-inner3 mt-4">
@@ -418,14 +471,14 @@
                                                         behaviour.
                                                     </p>
                                                 </div>
-                                                <div class="col-md-12 mt-2 mb-2 yellow-block">
-                                                    <h5>
+                                                <div class="col-md-12 mt-2 mb-2 yellow-block bktextn">
+                                                    <h5 style="color: #000 !important;";>
                                                         <strong>
-                                                            Why is it important to source products where<br>
+                                                            Why is it important to source products whereD
                                                             animal welfare is respected?
                                                         </strong>
                                                     </h5>
-                                                    <p class="justify1">
+                                                    <p style="color: #000 !important;"; class="justify1">
                                                         <img src="assets/images/resp_sourcing/hen-egg-basket.svg" class="img-fluid hen-egg">
                                                         Despite being sentient creatures, billions of animals are raised
                                                         in
@@ -444,7 +497,7 @@
                                                         be
                                                         used for their meat.
                                                     </p>
-                                                    <p class="justify1">
+                                                    <p style="color: #000 !important;"; class="justify1">
                                                         Animals are able to display their natural behaviour which
                                                         results in
                                                         reduced stress. In fact, when
@@ -461,8 +514,12 @@
 </div>
           </li>
           <li class="accordian2 accor">
-            <div class="collapsible__header">Responsibly sourced fish and seafood</div>
-            <div class="collapsible__content"> <div class="container conx">
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-fish.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">Responsibly sourced fish and seafood
+          </div></section>            <div class="collapsible__content"> <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
                                                         <div class="msr-img-holder-inner3 mt-4">
@@ -510,13 +567,16 @@
                                                         fish is also free of harmful antibiotic and medicine residues.
                                                     </p>
                                                 </div>
-                                                <div class="col-md-12 mt-2 mb-2 yellow-block">
+                                                <div class="col-md-12 mt-2 mb-2 yellow-block bktextn">
                                                     <div class="row">
                                                         <div class="col-md-8">
-                                                            <h5>
+                                                            <h5 style="color: #000 !important;";>
                                                                 <strong>Why is it important to buy sustainable fish?</strong>
                                                             </h5>
-                                                            <p class="justify1">
+                                                            <div class="msr-img-holder-inner3 mt-4">
+                                                                    <img src="assets/images/resp_sourcing/sea-food.svg" class="img-fluid">
+                                                                </div>
+                                                            <p style="color: #000 !important;"; class="justify1">
 
                                                                 Overfishing and exploitation of fish stocks is a serious
                                                                 problem,
@@ -535,14 +595,7 @@
                                                                 The <a href="https://www.metro.de/nachhaltigkeit/lieferkette-rueckverfolgbarkeit/pro-trace" target="_blank">traceability</a> of products is a very important part of sourcing fish sustainably. A robust traceability system means that fish doesn’t come from illegal fishing, the exact catching area is known and the way it is produced is clear. If sustainability guidelines are followed, for both wild caught and farmed fish, the fishermen work in a safe environment and are compensated adequately. The environment is carefully managed and the local communities are supported.
                                                             </p>
                                                         </div>
-                                                        <div class="col-md-4">
-                                                            <div class="msr-img-holder4">
-                                                                <div class="msr-img-holder-inner4">
-                                                                    <img src="assets/images/resp_sourcing/sea-food.svg" class="img-fluid">
-                                                                </div>
-                                                            </div>
-
-                                                        </div>
+                                                       
                                                     </div>
 
 
@@ -554,8 +607,13 @@
 </div>
           </li>
           <li class="accordian3 accor">
-            <div class="collapsible__header"> Nutritious food</div>
-            <div class="collapsible__content"> <div class="container conx">
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-fruits-in-plate.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">
+Nutritious food
+          </div></section>            <div class="collapsible__content"> <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
                                                         <div class="msr-img-holder-inner3 mt-4">
@@ -575,13 +633,16 @@
                                                     </p>
                                                 </div>
 
-                                                <div class="col-md-12 mt-0 mb-2 yellow-block minus--">
+                                                <div class="col-md-12 mt-0 mb-2 yellow-block bktextn minus--">
                                                     <div class="row">
                                                         <div class="col-md-8">
-                                                            <h5>
+                                                            <h5 style="color: #000 !important;";>
                                                                 <strong>Why is it important to source nutritious food?</strong>
                                                             </h5>
-                                                            <p class="justify1 mt-2">
+                                                            <div class="msr-img-holder-inner3 mt-4">
+                                                            <img src="assets/images/resp_sourcing/salad-bowl.svg" class="salad-bowl">
+                                                        </div>
+                                                            <p style="color: #000 !important;"; class="justify1 mt-2">
                                                                 We are what we eat! Nutritious food keeps us healthy, and
                                                                 ensures
                                                                 infants and children develop properly. Generally speaking, we
@@ -596,9 +657,7 @@
                                                                 longer.
                                                             </p>
                                                         </div>
-                                                        <div class="col-md-4">
-                                                            <img src="assets/images/resp_sourcing/salad-bowl.svg" class="salad-bowl">
-                                                        </div>
+                                                           
                                                     </div>
 
                                                 </div>
@@ -608,8 +667,12 @@
 </div>
           </li>
           <li class="accordian2 accor">
-            <div class="collapsible__header">No waste</div>
-            <div class="collapsible__content">
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-bin.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">No waste
+          </div></section>            <div class="collapsible__content">
             <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
@@ -626,30 +689,33 @@
                                                         uncommon parts going to waste.
                                                     </p>
                                                 
-
-                                                            <h5>
-                                                                <strong>
-                                                                    Why is it important to source food that
-                                                                    does not create waste?
-                                                                </strong>
-                                                            </h5>
-                                                            <p class="justify1 mt-2">
-
-                                                                About one-third of all the food produced in the world goes
+                                                    <div class="col-md-12 mt-0 mb-2 yellow-block bktextn minus--">
+                                                    <div class="row">
+                                                        <div class="col-md-8">
+                                                            <h5 style="color: #000 !important;";>
+                                                            
+                                                                <strong>Why is it important to source food that
+                                                                    does not create waste?</strong>
+                                                            </h5><div class="msr-img-holder-inner3 mt-4">
+                                                            <img src="assets/images/resp_sourcing/garbage.svg" class="salad-bowl">
+                                                        </div>
+                                                            <p style="color: #000 !important;"; class="justify1 mt-2">
+                                                            About one-third of all the food produced in the world goes
                                                                 to waste. When we waste food, we also waste all the energy
                                                                 and water it takes to grow, harvest, transport, and package
                                                                 it. That´s why about 11 per cent of all the greenhouse gas
                                                                 emissions that come from the food system could be
                                                                 reduced if we stop wasting food.
                                                             </p>
-                                                            <div class="read-wrap">
+                                                            <div class="read-wrap" style="display:block; margin:auto !important; ">
                                                                 <a href="introduction-to-food-waste-eng.php" class="read-more" target="_blank">Read More</a>
                                                             </div>
-                                                                    <img src="assets/images/resp_sourcing/garbage.svg" class="bbht">
-                                                                
+                                                        </div>
+                                                           
+                                                    </div>
 
-</div>
-</div>
+                                                </div>
+                                                            
 
                                                 </div>
                                             </div>
@@ -658,8 +724,12 @@
 </div>
           </li>
           <li class="accordian3 accor">
-            <div class="collapsible__header">Food that contributes to biodiversity</div>
-            <div class="collapsible__content"> <div class="container conx">
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-bee.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">Food that contributes to biodiversity
+          </div></section>            <div class="collapsible__content"> <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
                                                         <div class="msr-img-holder-inner3 mt-4">
@@ -692,16 +762,22 @@
 
                                             </div>
                                             <div class="row">
-                                                <div class="col-md-12 yellow-block nojustify1">
+                                                <div class="col-md-12 yellow-block bktextn nojustify1">
                                                     <div class="row">
                                                         <div class="col-md-8">
-                                                            <h5>
+                                                            <h5 style="color: #000 !important;";>
                                                                 <strong>
                                                                     Why is it important to source food that contributes
                                                                     to biodiversity?
                                                                 </strong>
                                                             </h5>
-                                                            <p class="justify1">
+
+
+                                                            <div class="msr-img-holder-inner3 mt-4">
+                                                            <img src="assets/images/resp_sourcing/save-earth.svg" class="img-fluid etemp1 mt-2">
+                                                        </div>
+                                                                </div>
+                                                            <p style="color: #000 !important;"; class="justify1">
 
                                                                 As humans our mental well-being is better when we are part
                                                                 of an environment that has a healthy and balanced
@@ -711,7 +787,7 @@
                                                                 over a relatively short period of time.
 
                                                             </p>
-                                                            <p class="justify1">
+                                                            <p  style="color: #000 !important;"; class="justify1">
                                                                 Around 1 million animal species are threatened with extinction –
                                                                 more than ever before in human
                                                                 history. This goes hand in hand with wildlife population
@@ -728,14 +804,7 @@
                                                                 and require a higher use of medicines.
                                                             </p>
                                                         </div>
-                                                        <div class="col-md-4">
-                                                            <div class="msr-img-holder6">
-                                                                <div class="msr-img-holder-inner6">
-                                                                    <img src="assets/images/resp_sourcing/save-earth.svg" class="save-earth sve2">
-                                                                </div>
-                                                            </div>
-
-                                                        </div>
+                                                        
                                                     </div>
 
                                                 </div>
@@ -746,8 +815,12 @@
 </div>
           </li>
           <li class="accordian2 accor">
-            <div class="collapsible__header">Products that do not cause deforestation</div>
-            <div class="collapsible__content"> <div class="container conx">
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-trees.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">Products that do not cause deforestation
+          </div></section>            <div class="collapsible__content"> <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
                                                         <div class="msr-img-holder-inner3 mt-4">
@@ -767,14 +840,17 @@
                                                         soaps.
                                                     </p>
                                                 </div>
-                                                <div class="col-md-12 mt-2 mb-2 yellow-block">
+                                                <div class="col-md-12 mt-2 mb-2 yellow-block bktextn">
                                                     <div class="row">
                                                         <div class="col-md-8">
-                                                            <h5>
+                                                            <h5 style="color: #000 !important;";>
                                                                 <strong>Why is it important to source products that<br> do not
                                                                     cause deforestation?</strong>
                                                             </h5>
-                                                            <p class="justify1">
+                                                            <div class="msr-img-holder-inner3 mt-4">
+                                                            <img src="assets/images/resp_sourcing/trees-mountain.svg" class="img-fluid hen-egg mt-3">
+                                                        </div>
+                                                            <p style="color: #000 !important;"; class="justify1">
 
                                                                 One of the drivers of climate change is deforestation – the loss
                                                                 of natural forest and vegetation as a result of the conversion
@@ -787,9 +863,7 @@
                                                                 living space and livelihood for many people.
                                                             </p>
                                                         </div>
-                                                        <div class="col-md-4">
-                                                            <img src="assets/images/resp_sourcing/trees-mountain.svg" class="img-fluid hen-egg mt-3">
-                                                        </div>
+                                                            
                                                     </div>
 
 
@@ -800,8 +874,12 @@
                                     </li>
           </li>
           <li class="accordian3 accor">
-            <div class="collapsible__header">Packaging with less environmental impact</div>
-            <div class="collapsible__content"> <div class="container conx">
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-packet.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">Packaging with less environmental impact
+          </div></section>            <div class="collapsible__content"> <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
                                                         <div class="msr-img-holder-inner3 mt-4">
@@ -861,16 +939,20 @@
                                                 </div>
 
 
-                                                <div class="col-md-12 mt-2 mb-2 yellow-block">
+                                                <div class="col-md-12 mt-2 mb-2 yellow-block bktextn">
                                                     <div class="row">
                                                         <div class="col-md-8">
-                                                            <h5>
-                                                                <strong>
+                                                            <h5 style="color: #000 !important;";>
+                                                                <strong >
                                                                     Why is it important to source packaging that has<br>
                                                                     less environmental impact?
                                                                 </strong>
                                                             </h5>
-                                                            <p class="justify1">
+
+                                                            <div class="msr-img-holder-inner3 mt-4">
+                                                                <img src="assets/images/resp_sourcing/food-pack.svg" class="">
+                                                                </div>
+                                                            <p style="color: #000 !important;"; class="justify1">
                                                                 When packaging is used unnecessarily and dispensed of in the
                                                                 wrong way it can cause harm to the environment. The production
                                                                 and disposal of conventional plastic and single-use packaging
@@ -882,13 +964,13 @@
                                                                 when not disposed of properly can also attract fines and waste
                                                                 collection costs.
                                                             </p>
-                                                            <h6 class="">
+                                                            <h6 style="color: #000 !important;"; class="">
                                                                 <strong>
                                                                     Here are some examples of how long some products need to
                                                                     break down in a landfill
                                                                 </strong>
                                                             </h6>
-                                                            <p class="justify1 mt-4">
+                                                            <p style="color: #000 !important;"; class="justify1 mt-4">
                                                                 <strong>Compostable packaging</strong> decomposes into natural elements which are
                                                                 rich in nutrients and
                                                                 good for the environment within a certain period of time. Home
@@ -902,16 +984,11 @@
                                                             </p>
                                                         </div>
                                                         <div class="col-md-4">
-                                                            <div class="msr-img-holder9">
-                                                                <div class="msr-img-holder-inner9">
-                                                                    <img src="assets/images/resp_sourcing/food-pack.svg" class="">
-                                                                </div>
-                                                            </div>
-                                                        </div>
+                                                        
                                                         <div class="col-md-12">
 
 
-                                                            <p class="justify1 mt-2">
+                                                            <p style="color: #000 !important;"; class="justify1 mt-2">
                                                                 <strong>Industrial compostable packaging</strong> needs to be collected and
                                                                 properly
                                                                 treated in a specific facility. It will completely
@@ -937,8 +1014,12 @@
 </div>
           </li>
           <li class="accordian3 accor">
-            <div class="collapsible__header">Food with minimal carbon footprintO</div>
-            <div class="collapsible__content"> <div class="container conx">
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-carbon-footprint.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">Food with minimal carbon footprint
+          </div></section>            <div class="collapsible__content"> <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
                                                         <div class="msr-img-holder-inner3 mt-4">
@@ -959,16 +1040,19 @@
                                                         the natural carbon cycle.
                                                     </p>
                                                 </div>
-                                                <div class="col-md-12 mt-2 mb-2 yellow-block">
+                                                <div class="col-md-12 mt-2 mb-2 yellow-block bktextn">
                                                     <div class="row">
                                                         <div class="col-md-8">
-                                                            <h5>
+                                                            <h5 style="color: #000 !important;";>
                                                                 <strong>
                                                                     Why is it important to source food with a <br>
                                                                     minimal carbon footprint?
                                                                 </strong>
                                                             </h5>
-                                                            <p class="justify1">
+                                                            <div class="msr-img-holder-inner3 mt-4">
+                                                            <img src="assets/images/resp_sourcing/earth-temperature.svg" class="et2">
+                                                        </div>
+                                                            <p style="color: #000 !important;"; class="justify1">
 
                                                                 Carbon emissions contribute to climate change. And climate
                                                                 change is already having a serious negative impact on wildlife,
@@ -981,10 +1065,7 @@
                                                                 that
                                                                 produce.
                                                             </p>
-                                                        </div>
-                                                        <div class="col-md-4">
-                                                            <img src="assets/images/resp_sourcing/earth-temperature.svg" class="et2">
-                                                        </div>
+                                                        </div>                                                            
                                                     </div>
 
 
@@ -997,8 +1078,12 @@
                                                         </div>
           </li>
           <li class="accordian2 accor">
-            <div class="collapsible__header">Food with minimal water footprint</div>
-            <div class="collapsible__content"> <div class="container conx">
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-water-drop.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">Food with minimal water footprint
+          </div></section>            <div class="collapsible__content"> <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
                                                         <div class="msr-img-holder-inner3 mt-4">
@@ -1012,24 +1097,25 @@
                                                         during all processing stages of that food’s production.
                                                     </p>
                                                 </div>
-                                                <div class="col-md-12 mt-2 mb-2 yellow-block">
+                                                <div class="col-md-12 mt-2 mb-2 yellow-block bktextn">
 
 
-                                                    <h5>
+                                                    <h5 style="color: #000 !important;";>
                                                         <strong>
                                                             Why is it important to source food with a minimal
                                                             water footprint?
                                                         </strong>
                                                     </h5>
+                                                    <div class="msr-img-holder-inner3 mt-4">
+                                                    <img src="assets/images/resp_sourcing/tap-water-drop.svg" class="img-fluid etemp1 mt-2">
+                                                        </div>
                                                     <div class="row">
                                                         <div class="col-md-8">
-                                                            <p class="justify1">
+                                                            <p style="color: #000 !important;"; class="justify1">
                                                                 Freshwater is a scarce resource, and it is becoming more and more polluted and depleted in many areas, for example, rivers that run dry and wildlife that is endangered because of contaminated water. If we can avoid depleting this precious resource, we can avoid conflicts and the risk of consuming polluted water in both our water and food supplies.
                                                             </p>
                                                         </div>
-                                                        <div class="col-md-4">
-                                                            <img src="assets/images/resp_sourcing/tap-water-drop.svg" class="img-fluid etemp1 mt-2">
-                                                        </div>
+                                                           
 
 
                             </div>

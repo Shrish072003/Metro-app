@@ -282,7 +282,8 @@
                     <div class="col-md-6">
                         <div class="row">
                             <div class="col-md-12">
-                                <h3 class="know-how-heading">KNOW HOW - STEPS TO<br>SAVE WATER</h3>
+                                <h3 class="know-how-heading desk_show">KNOW HOW - STEPS TO<br>SAVE WATER</h3>
+                                <h3 class="know-how-heading mobile_show">KNOW HOW - STEPS TO SAVE WATER</h3>
                                 <div class="col-md-6  mobile_show">
                         <img src="assets/images/water/lower-water-drops.svg" class="img-fluid know-more-img" />
                     </div>

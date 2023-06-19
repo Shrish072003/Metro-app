@@ -252,7 +252,7 @@
 
             <section class="section4 padr-60px w90-per" style="width: 100%;" id="option6" data-scrl="Erste Schritte, wie Sie verantwortungsbewusst einkaufen">
                 <div class="left-content noalign w60-per">
-                    <h3>KNOW-HOW –<br>ERSTE SCHRITTE, WIE SIE<br>VERANTWORTUNGSBEWUSST EINKAUFEN</h3>
+                    <h3>KNOW-HOW –<br>ERSTE SCHRITTE, WIE SIE<br> VERANTWORTUNGSBEWUSST EINKAUFEN</h3>
                     <div class=" mr-4 p60b mobile_show">
                     <a href="https://www.metro.de/" target="_blank">
                         <img src="assets/images/resp_sourcing/baskets.svg" class="img-fluid">

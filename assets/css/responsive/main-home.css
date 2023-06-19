@@ -1,7 +1,7 @@
 @media screen and (max-width: 600px) {
 .article__title--strong {
     padding: 10px 30px !important;
-    margin-top: 230px !important;
+    margin-top: 0px !important;
 }
 .main-img-metro{
     width: 760px !important;
@@ -17,7 +17,7 @@
     display: none;
 }
 .footer-wrap {
-    margin-top: 550px;
+    margin-top: 400px;
 }
 
 }

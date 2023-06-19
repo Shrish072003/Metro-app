@@ -3,6 +3,8 @@
      width: 100%;
      overflow-x: hidden;
     }
+    
+    
     p {
         font-size: 14px !important;
         font-weight: bolder !important;
@@ -70,6 +72,7 @@
          /* text-align: center; */
          display: grid;
      }
+
       .top-content h3 {
          text-transform: capitalize;
          font-size: 30px !important;
@@ -233,6 +236,13 @@
      .circle-setting{
          display: none;
      }
+
+
+
+
+     /* .bktextn h5, p{
+        color: #000 !important;
+     } */
     
  
  

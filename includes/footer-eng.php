@@ -79,27 +79,27 @@
     <div class="footer-socials">
       <ul>
         <li>
-          <a href="#">
+          <a href="https://www.facebook.com/HOSPITALITY.digitaI">
             <i class="fa fa-facebook"></i>
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="https://www.youtube.com/channel/UC2brHBSYKtfntfWbruAcfFw">
             <i class="fa fa-youtube-play"></i>
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="https://www.instagram.com/metro_mpulse/">
             <i class="fa fa-instagram"></i>
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="https://www.linkedin.com/company/metro-ag/">
             <i class="fa fa-linkedin"></i>
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="https://twitter.com/METRO_News">
             <i class="fa fa-twitter"></i>
           </a>
         </li>

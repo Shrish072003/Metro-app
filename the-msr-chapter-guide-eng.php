@@ -62,7 +62,7 @@
 			position: absolute !important;
 			padding-top: 0px;
 			padding-bottom: 0px;
-			height: 100px;
+			height: auto;
 		}.custom__select:before{
             background:#ffe500;
         }
@@ -431,7 +431,7 @@
 										</a>
 									</li>
 									<li>
-										<a href="https://www.instagram.com/metro_deutschland/ " target="_blank">
+										<a href="https://www.instagram.com/metro_mpulse/" target="_blank">
 											<i class="fa fa-instagram"></i>
 										</a>
 									</li>

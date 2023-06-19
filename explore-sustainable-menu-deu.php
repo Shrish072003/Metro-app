@@ -488,7 +488,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.instagram.com/metro_deutschland/ " target="_blank">
+                                        <a href="https://www.instagram.com/metro_mpulse/ " target="_blank">
                                             <i class="fa fa-instagram"></i>
                                         </a>
                                     </li>
@@ -726,9 +726,9 @@
                     <p>Überall auf der Welt beziehen wir unseren Eiweißbedarf aus Pflanzen, Fleisch und Fisch. Das Problem ist, dass Eiweiß aus industrieller Landwirtschaft oftmals schlecht für die Umwelt ist und durch Methanemissionen (die in Kohlenstoffdioxid umgewandelt werden) Wasser und Böden belastet. Das Tierwohl wird häufig missachtet. <span id="dots"></span>
                         <br><br>
                         <span id="more1">Auch die Fischzucht hat Auswirkungen auf die Umwelt, z. B. durch Wasserverschmutzung und die Übertragung von Krankheiten auf Wildfische. Gleichzeitig nehmen die Wildfischbestände stetig ab und die Tiere sind schädlichem Mikroplastik ausgesetzt.
-                            <br><br>
+                        <br style="display: block;"><br style="display: block;">
                             Verbraucherinnen und Verbraucher sind sich immer mehr dieser Auswirkungen bewusst. Wie wir uns heute und in Zukunft ernähren, ist häufig ein Thema in den Nachrichten und sozialen Medien. Sie können in diesem Bereich innovativ sein und Ihren Gästen durch Ihr Speisenangebot zeigen, wie Sie ein großes Nachhaltigkeitsthema wirklich im Griff haben. Darüber hinaus sind Verbraucherinnen und Verbraucher zunehmend bereit, mehr für eine verantwortungsbewusste Ernährung zu bezahlen.
-                            <br><br>
+                            <br style="display: block;"><br style="display: block;">
                             Glücklicherweise gibt es viele Lösungen, wie Sie Ihre Speisekarte nachhaltiger gestalten können. Wenn Sie sich für ökologisch produzierte Proteine entscheiden, haben Sie ein wesentliches Merkmal Ihres nachhaltigen Speisenangebots festgelegt, was sich positiv auf die Gesundheit Ihrer Gäste und unseres Planeten auswirkt.
                         </span>
                     </p>
@@ -757,12 +757,12 @@
                             <h5>Bewusster Konsum <br> von Proteinen</h5>
                             <p id="more3">Der bewusste Konsum von Proteinen umfasst einen Ansatz, der auf dem Verzehr vielfältiger nachhaltiger Proteinquellen beruht. Der Verzehr von unterschiedlichen Proteinarten beinhaltet beispielsweise konventionelles Eiweiß aus artgerechter Tierhaltung wie auch alternatives Eiweiß aus pflanzlichen Quellen.
                                 <br>
-                                <br><b>Tierische Proteine </b> sollten von Fleisch und Fisch aus nachhaltiger Haltung stammen. Dazu gehören auch Produkte wie Eier und Milch. Tierische Proteine, die aus verantwortungsvoller Tierhaltung stammen, sind gekennzeichnet durch hohes Tierwohl, nachhaltiges Futter und im Falle von Wiederkäuern, offener Weidehaltung. Weitere Kriterien für den bewussten Konsum von Proteinen sind: Verantwortungsvolle Wassernutzung, gesicherte artgerechte Haltung der Tiere, verantwortungsvoller Einsatz von Medikamenten (z. B. Antibiotika), Wahrung der biologischen Vielfalt (z. B. durch die Haltung traditioneller Rassen), Rückverfolgbarkeit der Lebensmittel und die Gewährleistung von Arbeitnehmerrechten.
+                                <br><b><strong style="font-size: larger;">Tierische Proteine <strong></strong></strong> </b> sollten von Fleisch und Fisch aus nachhaltiger Haltung stammen. Dazu gehören auch Produkte wie Eier und Milch. Tierische Proteine, die aus verantwortungsvoller Tierhaltung stammen, sind gekennzeichnet durch hohes Tierwohl, nachhaltiges Futter und im Falle von Wiederkäuern, offener Weidehaltung. Weitere Kriterien für den bewussten Konsum von Proteinen sind: Verantwortungsvolle Wassernutzung, gesicherte artgerechte Haltung der Tiere, verantwortungsvoller Einsatz von Medikamenten (z. B. Antibiotika), Wahrung der biologischen Vielfalt (z. B. durch die Haltung traditioneller Rassen), Rückverfolgbarkeit der Lebensmittel und die Gewährleistung von Arbeitnehmerrechten.
                                 <br><br>
-                                <b> Pflanzliche Proteine </b> sind nährstoffreiche Lebensmittel wie Bohnen, Getreide, Hülsenfrüchte, Nüsse, Kichererbsen, traditionelle Pseudogetreidesorten wie Quinoa und gering verarbeitete Zutaten wie Tofu, Tempeh und Seitan. Eine nachhaltige Lebensmittelproduktion zeichnet sich dadurch aus, dass Tofu aus Sojabohnen produziert wird, die auf Flächen angebaut werden, die nicht abgeholzt wurden und dass Nüsse in Obstplantagen geerntet werden, in denen verantwortungsvoll mit Wasser umgegangen wird.
+                                <b><strong style="font-size: larger;">Pflanzliche Proteine <strong></strong></strong>  </b> sind nährstoffreiche Lebensmittel wie Bohnen, Getreide, Hülsenfrüchte, Nüsse, Kichererbsen, traditionelle Pseudogetreidesorten wie Quinoa und gering verarbeitete Zutaten wie Tofu, Tempeh und Seitan. Eine nachhaltige Lebensmittelproduktion zeichnet sich dadurch aus, dass Tofu aus Sojabohnen produziert wird, die auf Flächen angebaut werden, die nicht abgeholzt wurden und dass Nüsse in Obstplantagen geerntet werden, in denen verantwortungsvoll mit Wasser umgegangen wird.
                                 <br><br>
 
-                                <b>Alternative Proteine </b> werden entweder nur selten verzehrt oder sind völlig neu und werden mit neuartigen Technologien und Zutaten hergestellt. Weltweit wird beispielsweise an spannenden Fleischersatzprodukten geforscht. Allerdings ist es noch ein weiter Weg, bis die Produktion alternativer Proteine als hinreichend nachhaltig angesehen werden kann, z. B. wegen des für die Proteinherstellung erforderlichen Energieverbrauchs. Die Kosten dafür sind nach wie vor sehr hoch und für manche Menschen ist Laborfleisch ein Tabu. Es lohnt sich, diese Entwicklungen genau zu verfolgen, da sich das Forschungsgebiet schnell verändert. In Ostasien zum Beispiel werden Fischersatzprodukte bereits erfolgreich produziert und vermarktet.
+                                <b><strong style="font-size: larger;">Alternative Proteine <strong></strong></strong> </b> werden entweder nur selten verzehrt oder sind völlig neu und werden mit neuartigen Technologien und Zutaten hergestellt. Weltweit wird beispielsweise an spannenden Fleischersatzprodukten geforscht. Allerdings ist es noch ein weiter Weg, bis die Produktion alternativer Proteine als hinreichend nachhaltig angesehen werden kann, z. B. wegen des für die Proteinherstellung erforderlichen Energieverbrauchs. Die Kosten dafür sind nach wie vor sehr hoch und für manche Menschen ist Laborfleisch ein Tabu. Es lohnt sich, diese Entwicklungen genau zu verfolgen, da sich das Forschungsgebiet schnell verändert. In Ostasien zum Beispiel werden Fischersatzprodukte bereits erfolgreich produziert und vermarktet.
                             </p>
                             <button class="read-more-btn" id="myBtn3">WEITERLESEN</button>
                         </div>
@@ -1183,10 +1183,10 @@
                         <h4>
                             Teile diese Seite
                         </h4>
-                        <a href="" id="fb-share-button" class="sharebtn"><i class="fa fa-facebook"></i></a>
-                        <a href="" id="tw-share-button" class="sharebtn"><i class="fa fa-twitter"></i></a>
-                        <a href="" id="ld-share-button" class="sharebtn"><i class="fa fa-linkedin"></i></a>
-                        <a href="" id="mail-share-button" class="sharebtn"><i class="fa fa-envelope"></i></a>
+                        <a id="fb-share-button" class="sharebtn" onclick="shareOnFacebook()"><i class="fa fa-facebook"></i></a>
+                        <a id="tw-share-button" class="sharebtn" onclick="shareOnTwitter()"><i class="fa fa-twitter"></i></a>
+                        <a id="ld-share-button" class="sharebtn" onclick="shareOnLinkedIn()"><i class="fa fa-linkedin"></i></a>
+                        <a id="mail-share-button" class="sharebtn" onclick="shareViaEmail()"><i class="fa fa-envelope"></i></a>
                     </div>
                 </div>
             </div>
@@ -2494,7 +2494,73 @@
         <script src="assets/js/common.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
         <script src="assets/js/pageparams.js"></script>
+        <script>
+        function shareOnFacebook() {
+  // Get the current page URL
+  var currentURL = window.location.href;
 
+  // Construct the Facebook share URL
+  var facebookShareURL = 'https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(currentURL);
+
+  // Open the Facebook sharing dialog
+  window.open(facebookShareURL, '_blank');
+}
+
+function shareOnTwitter() {
+  // Get the current page URL
+  var currentURL = window.location.href;
+
+  // Construct the Twitter share URL
+  var twitterShareURL = 'https://twitter.com/intent/tweet?url=' + encodeURIComponent(currentURL);
+
+  // Open the Twitter sharing dialog
+  window.open(twitterShareURL, '_blank');
+}
+
+
+function shareOnLinkedIn() {
+  // Get the current page URL
+  var currentURL = window.location.href;
+
+  // Construct the share content
+  var shareContent = 'Check out this link: ' + currentURL;
+
+  // Encode the share content
+  var encodedShareContent = encodeURIComponent(shareContent);
+
+  // Construct the LinkedIn share deeplink URL
+  var linkedInDeeplinkURL = 'linkedin://shareArticle?mini=true&url=' + encodedShareContent;
+
+  // Attempt to open the LinkedIn app
+  window.location.href = linkedInDeeplinkURL;
+
+  // Fallback for opening the LinkedIn website
+  setTimeout(function() {
+    window.open('https://www.linkedin.com/sharing/share-offsite/?url=' + encodedShareContent, '_blank');
+  }, 500);
+}
+
+
+
+function shareViaEmail() {
+  // Get the current page URL
+  var currentURL = window.location.href;
+
+  // Construct the email subject
+  var emailSubject = 'Check out this link';
+
+  // Construct the email body
+  var emailBody = 'I found this interesting link and wanted to share it with you:\n\n' + currentURL;
+
+  // Construct the mailto link
+  var mailtoLink = 'mailto:?subject=' + encodeURIComponent(emailSubject) + '&body=' + encodeURIComponent(emailBody);
+
+  // Open the email client
+  window.open(mailtoLink, '_blank');
+}
+
+
+    </script>
 </body>
 
 

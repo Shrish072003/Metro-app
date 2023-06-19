@@ -564,14 +564,18 @@
                     <div class="col-md-6 border-right">
                         <div class="didyouknow_2culumn">
                             <img src="assets/images/safe_food/l3-3.svg" class="px-4">
-                            <h4>an area larger than China and<br> <strong>1 /4 </strong>of the world’s fresh water supply <br>is used to grow food that is never eaten </h4>
-                        </div>
+                            <h4 class="desk_show">an area larger than China and<br> <strong>1 /4 </strong>of the world’s fresh water supply <br>is used to grow food that is never eaten </h4>
+                            <h4 class="mobile_show">an area larger than China and <strong>1/4 </strong>of the world’s fresh water supply is used to grow food that is never eaten </h4>
+
+                          </div>
                     </div>
                     <div class="col-md-6">
                         <div class="didyouknow_2culumn">
                             <img src="assets/images/safe_food/l3-4.svg" class="px-4 dis_img2" style="width: 60%;">
-                            <h4><strong>36% </strong>of HoReCa customers (globally) think <br>that reducing food waste is one of the most <br>important issues to deal with in their business </h4>
-                        </div>
+                            <h4 class="desk_show"><strong>36% </strong>of HoReCa customers (globally) think <br>that reducing food waste is one of the most <br>important issues to deal with in their business </h4>
+                            <h4 class="mobile_show"><strong>36% </strong>of HoReCa customers (globally) think that reducing food waste is one of the most important issues to deal with in their business </h4>
+
+                          </div>
                     </div>
                 </div>
             </div>

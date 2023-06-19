@@ -63,13 +63,18 @@
     }
         .search-btn{    margin-right: -16px;
      }
+     @media screen and (max-width: 400px) {
+   .video-contain{
+     margin-top:210px !important;  
+    }
+}
     </style>
 </head>
 
 <body class="popup-exists page-animation1">
   <?php include "includes/header-eng.php"; ?>
 
-
+<section class="video-contain">
   <div class="wrapper">
     <div class="overlay"><span class="close_btn">
         <button class="article__close"></button>
@@ -77,7 +82,7 @@
     <div class="artcle-top-wrap">
       <div class="artcle-top-header">
         <header class="article__header">
-          <h1 class="article__title--strong"><span>Welcome to the</span> METRO <br> My Sustainable Restaurant</h1>
+          <h1 class="article__title--strong"><br><br><span>Welcome to the</span> METRO <br> My Sustainable Restaurant</h1>
         </header>
 
       </div>
@@ -108,7 +113,7 @@
       </div>
     </div>
   </div>
-
+    </section>
 
 
   <?php include "includes/footer-eng.php"; ?>
