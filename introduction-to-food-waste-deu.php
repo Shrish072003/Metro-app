@@ -196,13 +196,15 @@ h1.banner_title {
                     <div class="col-md-6 border-right">
                         <div class="didyouknow_2culumn">
                             <img src="./assets/images/safe_food/l3-3.svg" class="px-4">
-                            <h4>eine Fläche größer als China und <br><strong>1/4</strong> der weltweiten Süßwasservorräte <br>für den Anbau von Lebensmitteln genutzt wird, <br>die niemals gegessen werden</h4>
+                            <h4 class="desk_show">eine Fläche größer als China und <br><strong>1/4</strong> der weltweiten Süßwasservorräte <br>für den Anbau von Lebensmitteln genutzt wird, <br>die niemals gegessen werden</h4>
+                            <h4 class="mobile_show">eine Fläche größer als China und <strong>1/4</strong> der weltweiten Süßwasservorräte für den Anbau von Lebensmitteln genutzt wird, die niemals gegessen werden</h4>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="didyouknow_2culumn">
                             <img src="./assets/images/safe_food/l3-4.svg" class="px-4 dis_img2" style="width: 60%;">
-                            <h4><strong>36 %</strong> der HoReCa-Kundinnen & Kunden (weltweit)<br> der Meinung sind, dass die Verringerung von<br> Lebensmittelabfällen eines der wichtigsten Themen ist, <br>mit denen sie sich in ihren Betrieben beschäftigen müssen</h4>
+                            <h4 class="desk_show"><strong>36 %</strong> der HoReCa-Kundinnen & Kunden (weltweit)<br> der Meinung sind, dass die Verringerung von<br> Lebensmittelabfällen eines der wichtigsten Themen ist, <br>mit denen sie sich in ihren Betrieben beschäftigen müssen</h4>
+                            <h4 class="mobile_show"><strong>36%</strong> der HoReCa-Kundinnen & Kunden (weltweit) der Meinung sind, dass die Verringerung von Lebensmittelabfällen eines der wichtigsten Themen ist, mit denen sie sich in ihren Betrieben beschäftigen müssen</h4>
                         </div>
                     </div>
                 </div>

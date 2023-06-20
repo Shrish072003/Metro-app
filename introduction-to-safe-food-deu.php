@@ -119,13 +119,15 @@
                             <div class="col-md-6 border-top border-right">
                                 <div class="didyouknow_2culumn">
                                     <img src="./assets/images/safe_food/Asset 4.svg" class="px-4">
-                                    <h4>die Weltgesundheitsorganisation schätzt,<br>dass fast jeder zehnte Mensch durch den Verzehr<br>von Lebensmitteln, die von anderen verarbeitet<br>oder zubereitet wurden, erkrankt? Lebensmittelvergiftungen<br>dieser Art werden durch gefährliche Mikroorganismen<br>und/oder giftige Chemikalien verursacht.</h4>
+                                    <h4 class="desk_show">die Weltgesundheitsorganisation schätzt,<br>dass fast jeder zehnte Mensch durch den Verzehr<br>von Lebensmitteln, die von anderen verarbeitet<br>oder zubereitet wurden, erkrankt? Lebensmittelvergiftungen<br>dieser Art werden durch gefährliche Mikroorganismen<br>und/oder giftige Chemikalien verursacht.</h4>
+                                    <h4 class="mobile_show">die Weltgesundheitsorganisation schätzt, dass fast jeder zehnte Mensch durch den Verzehr von Lebensmitteln, die von anderen verarbeitet oder zubereitet wurden, erkrankt? Lebensmittelvergiftungen dieser Art werden durch gefährliche Mikroorganismen und/oder giftige Chemikalien verursacht.</h4>
                                 </div>
                             </div>
                             <div class="col-md-6 border-top">
                                 <div class="didyouknow_2culumn">
                                     <img src="./assets/images/safe_food/Asset 5.svg" class="px-4 dis_img2">
-                                    <h4>nicht ausgewiesene Allergene in<br>Lebensmitteln schwere Krankheiten verursachen<br>können, die in Industrieländern immer<br>häufiger auftreten?</h4>
+                                    <h4 class="desk_show">nicht ausgewiesene Allergene in<br>Lebensmitteln schwere Krankheiten verursachen<br>können, die in Industrieländern immer<br>häufiger auftreten?</h4>
+                                    <h4 class="mobile_show">nicht ausgewiesene Allergene in Lebensmitteln schwere Krankheiten verursachen können, die in Industrieländern immer häufiger auftreten?</h4>
                                 </div>
                             </div>
                         </div>

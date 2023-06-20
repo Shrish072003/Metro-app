@@ -639,9 +639,7 @@
             <section class="plastic-waste_productRecycle no-print energy_page_img mobile_show">
                 <div class="container">
                     <div class="row">
-                    <div class="plastic-wasteStepImg">
-                            <img src="assets/images/safe_food/eng-p.svg">
-                        </div>
+                    
                         <div class="col-md-4">
                             <div class="plastic-wasteStep">
                             <h2>01</h2>

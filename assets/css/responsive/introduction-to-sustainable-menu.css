@@ -13,7 +13,9 @@
     .section4 .left-content ul{
         text-align: left;
     }
-    
+    p.circlgraph-text{
+        text-align: left !important;
+    }
     
 }
 .read-wrap a {

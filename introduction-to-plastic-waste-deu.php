@@ -122,6 +122,9 @@
     flex-direction: column;
     padding: 0 30px;
 }
+.nodeco{
+    color:#003b7e !important; ;
+}
 
 
 }
@@ -364,7 +367,7 @@
                         <p class="theme-p">
 
 
-                            Analysieren Sie Ihren Plastikverbrauch. Prüfen Sie, wie Sie Plastik verwenden und entsorgen. Ein erster Check hilft, Einwegplastik zu vermeiden, indem Sie z. B. in Plastik verpackte Lebensmittel oder Plastikeinwegflaschen aus dem Angebot nehmen. Seit Juli 2021 sind viele<a href="https://www.mpulse.de/de/grenzenbewegen/wie-meistert-man-die-plastikflut" class="nodeco" target="_blank"> Einwegplastikartikel</a> in der EU verboten und weitere Gesetze werden folgen. In Deutschland werden Gastronomiebetriebe ab dem 1.1.2023 verpflichtet, neben Einwegbehältern auch wiederverwendbare Behältnisse für Speisen und Getränke zum Mitnehmen anzubieten. Gastronomiebetreibende müssen <a href="https://www.mpulse.de/de/sortiment/wie-ver-packen-wir-das-nachhaltig" class="nodeco" target="_blank">Alternativen</a> verwenden, die wiederverwendbar, recyclebar und kompostierbar sind, z. B. Teller aus pflanzlichen Materialien wie Bagasse. Darüber hinaus können Sie auch fortgeschrittene Maßnahmen einführen:
+                            Analysieren Sie Ihren Plastikverbrauch. Prüfen Sie, wie Sie Plastik verwenden und entsorgen. Ein erster Check hilft, Einwegplastik zu vermeiden, indem Sie z. B. in Plastik verpackte Lebensmittel oder Plastikeinwegflaschen aus dem Angebot nehmen. Seit Juli 2021 sind viele<a href="https://www.mpulse.de/de/grenzenbewegen/wie-meistert-man-die-plastikflut" class=" mobile-color" target="_blank"> Einwegplastikartikel</a> in der EU verboten und weitere Gesetze werden folgen. In Deutschland werden Gastronomiebetriebe ab dem 1.1.2023 verpflichtet, neben Einwegbehältern auch wiederverwendbare Behältnisse für Speisen und Getränke zum Mitnehmen anzubieten. Gastronomiebetreibende müssen <a href="https://www.mpulse.de/de/sortiment/wie-ver-packen-wir-das-nachhaltig" class=" mobile-color" target="_blank">Alternativen</a> verwenden, die wiederverwendbar, recyclebar und kompostierbar sind, z. B. Teller aus pflanzlichen Materialien wie Bagasse. Darüber hinaus können Sie auch fortgeschrittene Maßnahmen einführen:
 
                         </p>
                         <strong>

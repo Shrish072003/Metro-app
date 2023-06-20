@@ -130,7 +130,27 @@
 .collapsible__header {
     height: 100px !important;
 }
-
+.bktextn strong{
+  color:#000 !important;
+}
+.picon-container {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: #ffe500;
+    text-align: center;
+    margin-top: 0rem !important;
+    margin-left: -68%;
+    position: absolute;
+}
+.picon-container>img {
+    width: 25px;
+    margin-top: 9px;
+}
+.anyyimgdiv{
+  max-width:70% !important;
+  margin-left: 7%;
+}
   </style>
 
 
@@ -156,7 +176,13 @@
 
     <ul>
           <li class="accordian3 accor">
-            <div class="collapsible__header">Lokale und regionale Produkte</div>
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-location-marker.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">Lokale und regionale Produkte
+          </div></section>
+            <!-- <div class="collapsible__header">Lokale und regionale Produkte</div> -->
             <div class="collapsible__content">
                                         <!-- Local and Seasonal Products 1 -->
                                         <div class="container conx">
@@ -173,16 +199,16 @@
                                                     </p>
                                            
                                                 <div class="col-md-12 mt-2 mb-2 yellow-block">
-                                                    <h5><strong>Warum ist es wichtig, lokal einzukaufen?
+                                                    <h5 style="color: #000 !important;"><strong style="color: #000 !important;">Warum ist es wichtig, lokal einzukaufen?
 </strong></h5>
                                                     <div class="col-md-8 offset-md-2 mt-2 mb-2">
                                                     <img src="assets/images/resp_sourcing/fruit-seller-with-cap.svg" class="img-fluid seller-cap">
 </div>
-                                                    <p class="justify1">
+                                                    <p class="justify1" style="color: #000 !important;">
                                                         
                                                     Der Kauf von Produkten aus der Region ist ein verantwortungsbewusster Akt, den sie in Ihrer Speisekarte ausweisen können und der ein Gefühl der Nähe zu Ihren Gästen schafft. Dadurch unterstützen Sie Ihre Gemeinde und Region finanziell, wodurch Sie den Bauern finanzielle Sicherheit geben. Je nach Produkt, kann das zu einer geringeren CO2-Bilanz führen, da die Lebensmittel weniger Kilometer zurückgelegt haben. Und in manchen Fällen wird auch Verpackungsmüll eingespart. Darüber hinaus können Sie sich dadurch von Ihren Mitbewerbern abheben, was zu Ihrem positiven Ruf beiträgt. Indem Sie eine enge Verbindung zu der Art und Weise, wie Lebensmittel produziert werden, herstellen, können Sie sich besser mit Ihrer Region identifizieren, was dazu beiträgt, treue Gäste zu gewinnen.
                                                     </p>
-                                                    <p class="justify1">
+                                                    <p class="justify1" style="color: #000 !important;">
                                                     Natürlich sind einige Produkte nicht an allen Orten verfügbar, wie z. B. Mangos, aber wenn ein Produkt vor Ort verfügbar ist, sollte es auch dort eingekauft werden, sofern dies sinnvoll ist.
                                                     </p>
                                                 </div>
@@ -194,7 +220,12 @@
                                     </li>
 
           <li class="accordian2 accor">
-            <div class="collapsible__header">Saisonale Produkte</div>
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-fruits.svg" class="img-fluid" style="width: 38px;">
+          </div>
+          <div class="anyyimgdiv">Saisonale Produkte
+          </div></section>
             <div class="collapsible__content">
             <div class="container conx">
                                             <div class="row">
@@ -211,13 +242,13 @@
                                                     </p>
                                            
                                                 <div class="col-md-12 mt-5 mb-2 yellow-block">
-                                                    <h5><strong>Warum ist es wichtig, saisonale Produkte einzukaufen?
+                                                    <h5><strong style="color: #000 !important;">Warum ist es wichtig, saisonale Produkte einzukaufen?
 </strong></h5>
-                                                    <p class="justify1">
+                                                    <p class="justify1" style="color: #000 !important;">
                                                         <img src="assets/images/resp_sourcing/fruid-bowl.svg" class="img-fluid fruit-bowl">
                                                         Saisonale Produkte wecken die Vorfreude auf eine bestimmte Jahreszeit. Viele Gäste warten mit Spannung auf saisonale Angebote, die es beispielsweise nur zur Spargelernte oder kurz vor Weihnachten gibt. Wenn Sie Ihre Speisekarte saisonal ausrichten, hat dies viele Vorteile. Es ist eine gute Gelegenheit, Ihr Unternehmen zu vermarkten und neue Gäste anzuziehen. Zudem können saisonale Lebensmittel preiswerter sein. Gleichzeitig schmecken Produkte der Saison deutlich besser und sind frischer, da sie weniger Zeit für Lagerung und Transport benötigen. Insgesamt können Sie Ihre lokalen Erzeugerbetriebe aktiv unterstützen, indem Sie sich von ihnen während der Saison beliefern lassen.
                                                     </p>
-                                                    <p class="justify1">
+                                                    <p class="justify1" style="color: #000 !important;">
                                                     Natürlich sind dadurch einige Produkte nicht ganzjährig verfügbar. Aber wenn sie innerhalb der Saison verfügbar sind, sollten sie immer bevorzugt werden. Weitere Informationen finden Sie im Saisonkalender.
                                                     </p>
                                         </div>
@@ -225,7 +256,12 @@
 </div>
           </li>
           <li class="accordian3 accor">
-            <div class="collapsible__header">Bio-Produkte</div>
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-flower.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">Bio-Produkte
+          </div></section>  
             <div class="collapsible__content">
             <div class="container conx">
                                             <div class="row">
@@ -247,13 +283,13 @@
 
                                                 <div class="col-md-12 mt-2 mb-2 yellow-block">
                                                     <h5>
-                                                        <strong>Warum ist es wichtig, Bio-Produkte zu kaufen?</strong>
+                                                        <strong style="color: #000 !important;">Warum ist es wichtig, Bio-Produkte zu kaufen?</strong>
                                                     </h5>
-                                                    <p class="justify1">
+                                                    <p class="justify1" style="color: #000 !important;">
                                                         <img src="assets/images/resp_sourcing/organic-products.svg" class="img-fluid fruit-bowl">
                                                         Der Kauf von Bio-Produkten hat mehrere Vorteile. So geht beispielsweise mit dem ökologischen Landbau eine geringere Belastung für die Umwelt und eine bessere Tierhaltung einher. Bio-Betriebe verzeichnen eine größere Vielfalt an Wildtieren wie z. B. Schmetterlinge und schützen dadurch die Artenvielfalt. In einigen Fällen sind Bio-Produkte besser als die konventionelle Alternative. So enthält Fleisch von Rindern, die auf Weiden grasen können, etwa 50 % mehr Omega-3-Fettsäuren als nicht ökologisch erzeugtes Rindfleisch. Eier von Hühnern aus ökologischer Haltung haben ein geringeres Risiko der Kontamination mit Bakterien, die Lebensmittelvergiftungen verursachen.
                                                     </p>
-                                                    <p class="justify">
+                                                    <p class="justify" style="color: #000 !important;">
                                                     Das Gegenteil der ökologischen Landwirtschaft ist die intensive Landwirtschaft. Dies kann zu Bodenerosion und dem Abfluss von Chemikalien in natürliche Wassersysteme führen und dazu, dass Unkraut und Insekten gegen Herbizide und Pestizide resistent werden. In der ökologischen Landwirtschaft werden keine synthetischen oder erdölbasierten Pestizide oder Düngemittel eingesetzt.
                                                     </p>
 </div>                    
@@ -261,7 +297,12 @@
 </div>
           </li>
           <li class="accordian2 accor">
-            <div class="collapsible__header">Faire Produkte</div>
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-env.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">Faire Produkte
+          </div></section>
             <div class="collapsible__content"><div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
@@ -274,8 +315,8 @@
                                                     </p>
                                                 
                                                 <div class="col-md-12 mt-2 mb-2 yellow-block">
-                                                    <h5><strong>Warum ist es wichtig, auf fair produzierte Produkte zu achten?</strong></h5>
-                                                    <p class="justify1">
+                                                    <h5><strong style="color: #000 !important;">Warum ist es wichtig, auf fair produzierte Produkte zu achten?</strong></h5>
+                                                    <p class="justify1" style="color: #000 !important;">
                                                         <img src="assets/images/resp_sourcing/fruit-seller-dollar.svg" class="img-fluid fruit-bowl">
                                                         Viele Landwirtschaftsbetreibende erhalten keinen fairen Preis für ihre Erzeugnisse. Der Handel mit fair produzierten Produkten sorgt dafür, dass dieses Problem bekämpft wird. Die Arbeiter erhalten einen angemessenen Lohn, haben das Recht auf Tarifverhandlungen und arbeiten unter sicheren Bedingungen. Faire Produkte sind oft teurer als herkömmliche Produkte, aber ein Teil der Einnahmen wird in die Verbesserung der Erntequalität investiert. Dadurch ist die Produktion effizienter und die Bäume gesünder. Das kann sich direkt auf den Geschmack von Produkten wie Kaffee, Schokolade und Tee auswirken.
                                                     </p>
@@ -285,7 +326,12 @@
 
           </li>
           <li class="accordian3 accor">
-            <div class="collapsible__header">Tierwohl</div>
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-animal.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv" >Tierwohl
+          </div></section>  
             <div class="collapsible__content"> <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
@@ -302,16 +348,15 @@
                                                 </div>
                                                 <div class="col-md-12 mt-2 mb-2 yellow-block">
                                                     <h5>
-                                                        <strong>
-                                                        Warum ist es wichtig, Produkte einzukaufen,
-bei denen auf das Tierwohl geachtet wird?
+                                                        <strong style="color: #000 !important;">
+                                                        Warum ist es wichtig, Produkte einzukaufen, bei denen auf das Tierwohl geachtet wird?
                                                         </strong>
                                                     </h5>
-                                                    <p class="justify1">
+                                                    <p class="justify1" style="color: #000 !important;">
                                                         <img src="assets/images/resp_sourcing/hen-egg-basket.svg" class="img-fluid hen-egg">
                                                         Obwohl Tiere Gefühle empfinden, werden Milliarden von ihnen in überfüllten, Massentierhaltungen gehalten. Aufgrund der intensiven Haltung werden Antibiotika oft routinemäßig eingesetzt. Wenn die Abfälle aus solchen Betrieben nicht ordnungsgemäß behandelt werden, kann dies auch Auswirkungen auf die umliegende Natur und die Gemeinden haben. Die Bedingungen in vielen Massentierhaltungsbetrieben kann außerdem auch das Wohlbefinden der Tiere beeinträchtigen. Rassen, die für die Intensivhaltung verwendet werden, nehmen schneller an Gewicht zu, wodurch z. B. im Falle von Hühnern ihre Knochen schwächer werden, weshalb diese leicht brechen können. Daraus resultiert auch, dass viele Tiere nicht mehr für die Produktion von Fleisch genutzt werden können.
                                                     </p>
-                                                    <p class="justify1">
+                                                    <p class="justify1" style="color: #000 !important;">
                                                     Tiere, die mehr Raum für Bewegung haben, können ihr natürliches Verhalten ausleben, was zu weniger Stress führt. Wenn die Tiere sich frei bewegen können, stärkt das ihre Muskeln und führt zu einer besseren Fleischqualität. Das Fleisch von Tieren, die unter stressfreien Bedingungen geschlachtet werden, hat einen besseren Geschmack und eine bessere Konsistenz. Und Eier von Hühnern, die im Freien gehalten werden, haben ein geringeres Risiko einer Kontamination mit Salmonellen, die Lebensmittelvergiftungen verursachen können.
 
 
@@ -322,7 +367,12 @@ bei denen auf das Tierwohl geachtet wird?
 </div>
           </li>
           <li class="accordian2 accor">
-            <div class="collapsible__header">Fisch und Meeresfrüchte aus nachhaltiger Zucht</div>
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-fish.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">Fisch und Meeresfrüchte aus nachhaltiger Zucht
+          </div></section> 
             <div class="collapsible__content"> <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
@@ -341,23 +391,20 @@ bei denen auf das Tierwohl geachtet wird?
                                                     <div class="row">
                                                         <div class="col-md-8">
                                                             <h5>
-                                                                <strong>Wieso ist es wichtig, nachhaltigen Fisch einzukaufen?
+                                                                <strong style="color: #000 !important;">Wieso ist es wichtig, nachhaltigen Fisch einzukaufen?
 </strong>
                                                             </h5>
-                                                            <p class="justify1">
-
-                                                            Überfischung und Ausbeutung der Fischbestände sind ein ernstes Problem. Schätzungen zufolge sind an manchen Orten bereits 90 % der Fischbestände entweder überfischt oder an ihrer Kapazitätsgrenze. Dies hat Auswirkungen auf den Lebensunterhalt der Menschen, die von der Fischerei abhängig sind. Durch den Kauf von nachhaltigem Fisch können Gastronomiebetreibende dazu beitragen, die Fischbestände für künftige Generationen zu erhalten. Wenn wir weiterhin Fisch nicht nachhaltig fangen, wird es bald keinen bezahlbaren Fisch mehr geben. Die verbleibenden Fischbestände würden sich als Luxusprodukt etablieren und nur noch zu deutlich höherem Preisen erhältlich sein.
-                                                            Die  <a href="https://www.metro.de/nachhaltigkeit/lieferkette-rueckverfolgbarkeit/pro-trace" target="_blank">Rückverfolgbarkeit</a> von Produkten ist ein sehr wichtiger Bestandteil der nachhaltigen Fischbeschaffung. Ein solides Rückverfolgbarkeitssystem überprüft das Fanggebiet und die Art und Weise, wie der Fisch gefangen wurde. Zudem wird geprüft, ob der Fisch aus illegalem Fischfang stammt. Wenn die nachhaltigen Richtlinien eingehalten wurden, arbeiten Fischer sowohl bei gefangenem als auch bei gezüchtetem Fisch in einem sicheren Umfeld und werden angemessen entlohnt. Auf diese Weise wird die Umwelt respektvoll behandelt und die lokalen Gemeinden werden unterstützt.
-                                                            </p>
-                                                        </div>
-                                                        <div class="col-md-4">
-                                                            <div class="msr-img-holder4">
-                                                                <div class="msr-img-holder-inner4">
+                                                            <div class="msr-img-holder-inner3 mt-4">
                                                                     <img src="assets/images/resp_sourcing/sea-food.svg" class="img-fluid">
                                                                 </div>
-                                                            </div>
+                                                            <p class="justify1" style="color: #000 !important;">
 
+                                                            Überfischung und Ausbeutung der Fischbestände sind ein ernstes Problem. Schätzungen zufolge sind an manchen Orten bereits 90 % der Fischbestände entweder überfischt oder an ihrer Kapazitätsgrenze. Dies hat Auswirkungen auf den Lebensunterhalt der Menschen, die von der Fischerei abhängig sind. Durch den Kauf von nachhaltigem Fisch können Gastronomiebetreibende dazu beitragen, die Fischbestände für künftige Generationen zu erhalten. Wenn wir weiterhin Fisch nicht nachhaltig fangen, wird es bald keinen bezahlbaren Fisch mehr geben. Die verbleibenden Fischbestände würden sich als Luxusprodukt etablieren und nur noch zu deutlich höherem Preisen erhältlich sein.
+                                                            Die  <a style="color: var(--bs-link-color); !important;" href="https://www.metro.de/nachhaltigkeit/lieferkette-rueckverfolgbarkeit/pro-trace" target="_blank">Rückverfolgbarkeit</a> von Produkten ist ein sehr wichtiger Bestandteil der nachhaltigen Fischbeschaffung. Ein solides Rückverfolgbarkeitssystem überprüft das Fanggebiet und die Art und Weise, wie der Fisch gefangen wurde. Zudem wird geprüft, ob der Fisch aus illegalem Fischfang stammt. Wenn die nachhaltigen Richtlinien eingehalten wurden, arbeiten Fischer sowohl bei gefangenem als auch bei gezüchtetem Fisch in einem sicheren Umfeld und werden angemessen entlohnt. Auf diese Weise wird die Umwelt respektvoll behandelt und die lokalen Gemeinden werden unterstützt.
+                                                            </p>
                                                         </div>
+
+
                                                     </div>
 
 
@@ -369,7 +416,13 @@ bei denen auf das Tierwohl geachtet wird?
 </div>
           </li>
           <li class="accordian3 accor">
-            <div class="collapsible__header"> Nährstoffreiche Lebensmittel</div>
+            <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-fruits-in-plate.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">
+          Nährstoffreiche Lebensmittel
+          </div></section>
             <div class="collapsible__content"> <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
@@ -387,15 +440,17 @@ bei denen auf das Tierwohl geachtet wird?
                                                     <div class="row">
                                                         <div class="col-md-8">
                                                             <h5>
-                                                                <strong>Warum ist es wichtig, nährstoffreiche Lebensmittel einzukaufen?</strong>
+                                                                <strong style="color: #000 !important;">Warum ist es wichtig, nährstoffreiche Lebensmittel einzukaufen?</strong>
                                                             </h5>
-                                                            <p class="justify1 mt-2">
+                                                            <div class="msr-img-holder-inner3 mt-4">
+                                                              <img src="assets/images/resp_sourcing/salad-bowl.svg" class="salad-bowl">
+                                                        </div>
+
+                                                            <p class="justify1 mt-2" style="color: #000 !important;">
                                                             Wir sind, was wir essen! Eine gute Ernährung hält uns gesund und sorgt dafür, dass sich Säuglinge und Kinder gesund entwickeln. In der Regel sind Menschen darauf bedacht, eine schlechte Ernährung zu vermeiden, denn diese kann sowohl Unterernährung wie auch Übergewicht (z. B. Diabetes) verursachen. Ein gesunder Mensch ist leistungsfähiger, hat ein stärkeres Immunsystem, eine sicherere Schwangerschaft und Geburt, ein geringeres Krankheitsrisiko und er lebt länger.
                                                             </p>
                                                         </div>
-                                                        <div class="col-md-4">
-                                                            <img src="assets/images/resp_sourcing/salad-bowl.svg" class="salad-bowl">
-                                                        </div>
+                                                            
                                                     </div>
 
                                                 </div>
@@ -405,21 +460,46 @@ bei denen auf das Tierwohl geachtet wird?
 </div>
           </li>
           <li class="accordian2 accor">
-            <div class="collapsible__header">Kein Abfall </div>
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-bin.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">Kein Abfall
+          </div></section> 
             <div class="collapsible__content">
             <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
                                                         <div class="msr-img-holder-inner3 mt-4">
             <img src="assets/images/resp_sourcing/bin-waste.svg" class="bin-waste">
-                                      
-                                                <div class="col-md-7">
+            <div class="col-md-6">
                                                     <p class="justify1">
-                                                    Lebensmittelverschwendung kann vermieden werden, wenn Produktionsressourcen effizient genutzt werden und alles, was für den menschlichen Verzehr geeignet ist, verwendet wird. So können beispielsweise Obst und Gemüse, die optische Makel aufweisen, für Soßen oder Eintöpfe verwendet werden. Auch die Nutzung aller Teile eines Tieres (von der Nase bis zum Schwanz) verhindert, dass Teile, die üblicherweise nicht auf unseren Speisekarten stehen, verschwendet werden.
-                                                    </p>
-                                                
 
+                                                    Lebensmittelverschwendung kann vermieden werden, wenn Produktionsressourcen effizient genutzt werden und alles, was für den menschlichen Verzehr geeignet ist, verwendet wird. So können beispielsweise Obst und Gemüse, die optische Makel aufweisen, für Soßen oder Eintöpfe verwendet werden. Auch die Nutzung aller Teile eines Tieres (von der Nase bis zum Schwanz) verhindert, dass Teile, die üblicherweise nicht auf unseren Speisekarten stehen, verschwendet werden.
+</p>
+                                                </div>
+                                      
+                                               
+                                                    <div class="col-md-12 mt-0 mb-2 yellow-block minus--">
+                                                    <div class="row">
+                                                        <div class="col-md-8">
                                                             <h5>
+                                                                <strong style="color: #000 !important;">Warum ist es wichtig, Lebensmittel einzukaufen, die keine Abfälle verursachen?</strong>
+                                                            </h5>
+                                                            <div class="msr-img-holder-inner3 mt-4">
+                                                              <img src="assets/images/resp_sourcing/garbage.svg" class="salad-bowl">
+                                                        </div>
+
+                                                            <p class="justify1 mt-2" style="color: #000 !important;">
+                                                            Etwa ein Drittel aller weltweit produzierten Lebensmittel landet im Abfall. Wenn wir Lebensmittel verschwenden, vergeuden wir auch die Energie und das Wasser, die für den Anbau, die Ernte, den Transport und die Verpackung der Lebensmittel erforderlich sind. Deshalb könnten etwa 11 % aller Treibhausgasemissionen, die durch die Produktion von Lebensmitteln entstehen, reduziert werden, wenn wir die Verschwendung von Lebensmitteln verhindern würden.                                                            </p>
+                                                        </div>
+                                                        <div class="read-wrap">
+                                                                <a href="introduction-to-food-waste-deu.php" style="width: 80%; display: block; margin-left: auto; margin-right: auto;" class="read-more" target="_blank">WEITERLESEN</a>
+                                                            </div>
+                                                            
+                                                    </div>                                                
+
+                                                            <!-- <h5>
                                                                 <strong>
                                                                 Warum ist es wichtig, Lebensmittel einzukaufen, die keine Abfälle verursachen?
                                                                 </strong>
@@ -433,7 +513,7 @@ bei denen auf das Tierwohl geachtet wird?
                                                             <div class="read-wrap">
                                                                 <a href="introduction-to-food-waste-deu.php" style="width:17px;" class="read-more" target="_blank">WEITERLESEN</a>
                                                             </div>
-                                                                    <img src="assets/images/resp_sourcing/garbage.svg" class="bbht">
+                                                                    <img src="assets/images/resp_sourcing/garbage.svg" class="bbht"> -->
                                                                 
 
 </div>
@@ -446,7 +526,12 @@ bei denen auf das Tierwohl geachtet wird?
 </div>
           </li>
           <li class="accordian3 accor">
-            <div class="collapsible__header">Lebensmittel, die zur biologischen Vielfalt beitragen</div>
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-bee.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">Lebensmittel, die zur biologischen Vielfalt beitragen
+          </div></section> 
             <div class="collapsible__content"> <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
@@ -468,26 +553,22 @@ bei denen auf das Tierwohl geachtet wird?
                                                     <div class="row">
                                                         <div class="col-md-8">
                                                             <h5>
-                                                                <strong>
+                                                                <strong style="color: #000 !important;">
                                                                 Warum ist es wichtig, Lebensmittel einzukaufen, die zur Artenvielfalt beitragen?
                                                                 </strong>
                                                             </h5>
-                                                            <p class="justify1">
+                                                            <div class="msr-img-holder-inner3 mt-4">
+                                                             <img src="assets/images/resp_sourcing/save-earth.svg" class="save-earth ">
+                                                                </div>
+                                                            <p class="justify1" style="color: #000 !important;">
                                                             Wir Menschen fühlen uns psychisch wohler, wenn wir Teil einer Umwelt sind, die eine gesunde und ausgewogene biologische Vielfalt aufweist. Leider haben die Abholzung von Wäldern, die Intensivierung der Landwirtschaft und der Klimawandel zu einem Rückgang der Artenvielfalt geführt. Dies hat in relativ kurzer Zeit zu einem massiven Verlust von Arten geführt.
 
                                                             </p>
-                                                            <p class="justify1">
+                                                            <p class="justify1" style="color: #000 !important;">
                                                             Rund eine Million Tierarten sind vom Aussterben bedroht – mehr als je zuvor in der Geschichte der Menschheit. Dies geht einher mit dem Rückgang der Tierpopulationen, dem Verlust von Lebensräumen und der Erschöpfung der natürlichen Ressourcen, auf die wir für unsere Lebensgrundlage und unsere wirtschaftliche Entwicklung angewiesen sind. Wir müssen überdenken, wie wir die natürlichen Ressourcen nutzen, den Druck verringern und den Ökosystemen die Möglichkeit geben, sich zu erholen. Außerdem sind Nutzpflanzen und Tiere, denen es an biologischer Vielfalt mangelt, anfälliger für Krankheiten und benötigen mehr Medikamente.
                                                             </p>
                                                         </div>
-                                                        <div class="col-md-4">
-                                                            <div class="msr-img-holder6">
-                                                                <div class="msr-img-holder-inner6">
-                                                                    <img src="assets/images/resp_sourcing/save-earth.svg" class="save-earth sve2">
-                                                                </div>
-                                                            </div>
-
-                                                        </div>
+                                                       
                                                     </div>
 
                                                 </div>
@@ -498,7 +579,12 @@ bei denen auf das Tierwohl geachtet wird?
 </div>
           </li>
           <li class="accordian2 accor">
-            <div class="collapsible__header">Produkte, die nicht zu einer Abholzung von Wäldern beitragen</div>
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-trees.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">Produkte, die nicht zu einer Abholzung von Wäldern beitragen
+          </div></section>  
             <div class="collapsible__content"> <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
@@ -514,27 +600,32 @@ bei denen auf das Tierwohl geachtet wird?
                                                     <div class="row">
                                                         <div class="col-md-8">
                                                             <h5>
-                                                                <strong>Warum ist es wichtig, Produkte einzukaufen, die nicht dazu beitragen, dass Wälder abgeholzt werden?</strong>
+                                                                <strong style="color: #000 !important;">Warum ist es wichtig, Produkte einzukaufen, die nicht dazu beitragen, dass Wälder abgeholzt werden?</strong>
                                                             </h5>
-                                                            <p class="justify1">
+                                                            <div class="col-md-4">
+                                                            <img src="assets/images/resp_sourcing/trees-mountain.svg" class="img-fluid hen-egg mt-3">
+                                                        </div>
+                                                            <p class="justify1" style="color: #000 !important;">
 
                                                             Eine der Ursachen des Klimawandels ist die Entwaldung – also der Verlust natürlicher Wälder und seiner Vegetation infolge der Umwandlung von Wäldern in landwirtschaftliche Nutzfläche oder Urbanisierung. Es ist wichtig, unsere Wälder zu schützen, denn sie entziehen der Atmosphäre auf natürlichem Weg Kohlendioxid. Wälder sind darüber hinaus der natürliche Lebensraum für viele Pflanzen- und Tierarten und tragen so zur Erhaltung einer gesunden Artenvielfalt bei. Sie schaffen Lebensraum für viele Lebewesen und sind die Lebensgrundlage für viele Menschen.
                                                             </p>
                                                         </div>
-                                                        <div class="col-md-4">
-                                                            <img src="assets/images/resp_sourcing/trees-mountain.svg" class="img-fluid hen-egg mt-3">
-                                                        </div>
+                                                        
                                                     </div>
 
 
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="spacer"></div>
                                     </li>
           </li>
           <li class="accordian3 accor">
-            <div class="collapsible__header">Verpackungen, die die Umwelt weniger belasten </div>
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-packet.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">Verpackungen, die die Umwelt weniger belasten
+          </div></section>   
             <div class="collapsible__content"> <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
@@ -570,36 +661,33 @@ bei denen auf das Tierwohl geachtet wird?
                                                     <div class="row">
                                                         <div class="col-md-8">
                                                             <h5>
-                                                                <strong>
+                                                                <strong style="color: #000 !important;">
                                                                 Warum ist es wichtig, Verpackungen zu verwenden, die die Umwelt weniger belasten?
 
                                                                 </strong>
                                                             </h5>
-                                                            <p class="justify1">
+                                                            <div class="msr-img-holder-inner3 mt-4">
+                                                            <img src="assets/images/resp_sourcing/food-pack.svg" class="">
+                                                                </div>
+                                                            <p class="justify1" style="color: #000 !important;">
                                                             Wenn Verpackungen unnötig verwendet und falsch entsorgt werden, schaden sie der Umwelt. Die Herstellung und Entsorgung herkömmlicher Kunststoff- und Einwegverpackungen erfordert Ressourcen (z. B. fossile Brennstoffe) und dies hat negative Auswirkungen auf die Umwelt. Machen wir uns bewusst: jede Minute landet eine LKW-Ladung Plastik in unseren Ozeanen! Andere Materialien wie Pappe und Holz können, wenn sie nicht ordnungsgemäß entsorgt werden, ebenfalls Kosten durch Bußgelder oder die Müllentsorgung verursachen.
                                                             </p>
-                                                            <h6 class="">
-                                                                <strong>
+                                                            <h6 class="" style="color: #000 !important;">
+                                                                <strong style="color: #000 !important;">
                                                                 Hier sind einige Beispiele dafür, wie lange manche Produkte auf einer Deponie lagern, bis sie vollständig abgebaut sind.
 
                                                                 </strong>
                                                             </h6>
-                                                            <p class="justify1 mt-4">
-                                                                <strong>Kompostierbare Verpackungen</strong> zersetzen sich innerhalb eines bestimmten Zeitraums in natürliche, nährstoffreiche und umweltverträgliche Bestandteile. Verpackungen, die im eigenen Garten kompostiert werden, kompostieren sich gemäß der europäischen Norm EN 13432 bei einer Umgebungstemperatur von 20 - 30 °C innerhalb von 52 Wochen. Das bedeutet, dass sie solche Verpackungen zusammen mit Ihren Obst- und Gemüseschalen in Ihre Komposttonne werfen können.
+                                                            <p class="justify1 mt-4" style="color: #000 !important;">
+                                                                <strong style="color: #000 !important;">Kompostierbare Verpackungen</strong> zersetzen sich innerhalb eines bestimmten Zeitraums in natürliche, nährstoffreiche und umweltverträgliche Bestandteile. Verpackungen, die im eigenen Garten kompostiert werden, kompostieren sich gemäß der europäischen Norm EN 13432 bei einer Umgebungstemperatur von 20 - 30 °C innerhalb von 52 Wochen. Das bedeutet, dass sie solche Verpackungen zusammen mit Ihren Obst- und Gemüseschalen in Ihre Komposttonne werfen können.
                                                             </p>
                                                         </div>
-                                                        <div class="col-md-4">
-                                                            <div class="msr-img-holder9">
-                                                                <div class="msr-img-holder-inner9">
-                                                                    <img src="assets/images/resp_sourcing/food-pack.svg" class="">
-                                                                </div>
-                                                            </div>
-                                                        </div>
+                                                  
                                                         <div class="col-md-12">
 
 
-                                                            <p class="justify1 mt-2">
-                                                                <strong>Industriell kompostierbare Verpackungen</strong> müssen in einer speziellen Anlage gesammelt und ordnungsgemäß behandelt werden. Aufgrund der spezifischen Bedingungen (50 bis 70 °C) können sie gemäß der europäischen Norm EN 13432 innerhalb von 12 Wochen vollständig abgebaut werden. Werden andere Abfälle in eine Recyclingtonne gegeben, verunreinigen sie die restlichen Bestandteile, so dass diese nicht mehr recycelt und wiederverwendet werden können. Auf Mülldeponien oder in der heimischen Komposttonne kann der Müll nicht biologisch abgebaut werden. Und wenn sie im Meer landen, zerfallen sie ähnlich wie herkömmlicher Kunststoff in mikroskopisch kleine Teile, halten sich jahrzehntelang und stellen eine Gefahr für das Leben im Meer dar.
+                                                            <p class="justify1 mt-2" style="color: #000 !important;">
+                                                                <strong style="color: #000 !important;">Industriell kompostierbare Verpackungen</strong> müssen in einer speziellen Anlage gesammelt und ordnungsgemäß behandelt werden. Aufgrund der spezifischen Bedingungen (50 bis 70 °C) können sie gemäß der europäischen Norm EN 13432 innerhalb von 12 Wochen vollständig abgebaut werden. Werden andere Abfälle in eine Recyclingtonne gegeben, verunreinigen sie die restlichen Bestandteile, so dass diese nicht mehr recycelt und wiederverwendet werden können. Auf Mülldeponien oder in der heimischen Komposttonne kann der Müll nicht biologisch abgebaut werden. Und wenn sie im Meer landen, zerfallen sie ähnlich wie herkömmlicher Kunststoff in mikroskopisch kleine Teile, halten sich jahrzehntelang und stellen eine Gefahr für das Leben im Meer dar.
 
                                                             </p>
                                                         </div>
@@ -610,7 +698,12 @@ bei denen auf das Tierwohl geachtet wird?
 </div>
           </li>
           <li class="accordian3 accor">
-            <div class="collapsible__header">Lebensmittel mit einem geringen CO2-Fußabdruck </div>
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-carbon-footprint.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">Lebensmittel mit einem geringen CO2-Fußabdruck
+          </div></section> 
             <div class="collapsible__content"> <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
@@ -626,17 +719,17 @@ bei denen auf das Tierwohl geachtet wird?
                                                     <div class="row">
                                                         <div class="col-md-8">
                                                             <h5>
-                                                                <strong>
+                                                                <strong style="color: #000 !important;">
                                                                 Warum ist es wichtig, Lebensmittel mit einem geringen CO2-Fußabdruck einzukaufen?
                                                                 </strong>
-                                                            </h5>
-                                                            <p class="justify1">
+                                                            </h5><div class="col-md-4">
+                                                            <img src="assets/images/resp_sourcing/earth-temperature.svg" class="et2">
+                                                        </div>
+                                                            <p class="justify1" style="color: #000 !important;">
                                                             Kohlenstoffemissionen tragen zum Klimawandel bei. Dieser hat bereits ernsthafte negative Auswirkungen auf die Tier- und Pflanzenwelt, die Gewässer, die Ozeane und die Wirtschaft in verschiedenen Regionen der Erde. Wenn wir die Kohlenstoffemissionen deutlich reduzieren, haben wir gute Chancen, eine Klimakrise zu verhindern. Emissionen verursachen darüber hinaus auch für die Erzeugenden Kosten, zum Beispiel durch den Kraftstoff, der für den Antrieb von landwirtschaftlichen Geräten verwendet wird. Diese Kosten werden letztendlich auf die Konsumentinnen und Konsumenten der Produkte abgewälzt.
                                                             </p>
                                                         </div>
-                                                        <div class="col-md-4">
-                                                            <img src="assets/images/resp_sourcing/earth-temperature.svg" class="et2">
-                                                        </div>
+                                                        
                                                     </div>
 
 
@@ -649,7 +742,12 @@ bei denen auf das Tierwohl geachtet wird?
                                                         </div>
           </li>
           <li class="accordian2 accor">
-            <div class="collapsible__header">Lebensmittel mit einem geringen Wasserverbrauch</div>
+          <section class="collapsible__header">
+          <div class="picon-container picon-1">
+          <img src="assets/images/resp_sourcing/icon-sm-water-drop.svg" class="img-fluid">
+          </div>
+          <div class="anyyimgdiv">Lebensmittel mit einem geringen Wasserverbrauch
+          </div></section>  
             <div class="collapsible__content"> <div class="container conx">
                                             <div class="row">
                                                 <div class="col-md-8 offset-md-2 mt-2 mb-2">
@@ -665,19 +763,19 @@ bei denen auf das Tierwohl geachtet wird?
 
 
                                                     <h5>
-                                                        <strong>
+                                                        <strong style="color: #000 !important;">
                                                         Warum ist es wichtig, Lebensmittel mit einem geringen Wasserverbrauch einzukaufen?
                                                         </strong>
-                                                    </h5>
+                                                    </h5><div class="col-md-4">
+                                                            <img src="assets/images/resp_sourcing/tap-water-drop.svg" class="img-fluid etemp1 mt-2">
+                                                        </div>
                                                     <div class="row">
                                                         <div class="col-md-8">
-                                                            <p class="justify1">
+                                                            <p class="justify1" style="color: #000 !important;">
                                                             Trinkwasser ist eine knappe Ressource, die in vielen Gebieten immer stärker verschmutzt und ausgebeutet wird, z. B. durch Flüsse, die austrocknen, und wildlebende Tiere, die aufgrund von verschmutztem Wasser gefährdet sind. Wenn es uns gelingt, die Ausbeutung dieser kostbaren Ressource anzugehen, können wir Konflikte und das Risiko von verschmutztem Wasser in unserer Wasser- und Lebensmittelversorgung vermeiden.
 </p>
                                                         </div>
-                                                        <div class="col-md-4">
-                                                            <img src="assets/images/resp_sourcing/tap-water-drop.svg" class="img-fluid etemp1 mt-2">
-                                                        </div>
+                                                        
 
 
                             </div>

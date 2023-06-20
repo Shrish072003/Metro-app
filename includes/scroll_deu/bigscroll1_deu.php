@@ -464,7 +464,7 @@ SIE IHR PERSONAL EIN</h3>
                         <li>Sorgen Sie für Ordnung in Ihrem Vorratsraum. Sie sollten immer wissen, was verbraucht werden muss, damit Sie nicht mehr bestellen, als wirklich nötig ist.</li>
                         <li>Überprüfen Sie Ihren Bestand regelmäßig, um die gekauften Mengen und die Menge der verschwendeten Lebensmittel zu vergleichen.
                         </li>
-                        <li>Versuchen Sie, bislang nicht verwendete Teile von Lebensmitteln zu nutzen, z. B. mit Hilfe von <a href="https://www.mpulse.de/de/gastronomie/food-trends-fuer-die-gastronomie" target="_blank"> Zero-Waste-Rezepten.</a>
+                        <li>Versuchen Sie, bislang nicht verwendete Teile von Lebensmitteln zu nutzen, z. B. mit Hilfe von <a href="https://www.mpulse.de/en/movinggoods/nose-to-tail-vergessene-delikatessen" target="_blank"> Zero-Waste-Rezepten.</a>
                         </li>
                         <li> Bedenken Sie, dass Lebensmittelreste (die nicht von Tieren stammen) als Tierfutter gespendet werden können, z. B. an ein örtliches Tierheim oder einen Zoo.
                         </li>

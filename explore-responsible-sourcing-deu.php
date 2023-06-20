@@ -2702,7 +2702,6 @@
                 <div class="row">
                 <div class="col-md-12 mb-2 mt-2">
                         <!---middle row-->
-                        <img src="assets/images/resp_sourcing/advance-ways.svg" class="img-fluid" />
                     </div>
                     <div class="col-md-12 mb-2">
                         <!---top row-->

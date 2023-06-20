@@ -132,8 +132,10 @@
                     <div class="col-md-6 border-right">
                         <div class="didyouknow_2culumn">
                             <img src="./assets/images/safe_food/w3.3.svg" class="px-4" style="width: 24rem;">
-                            <h4>gebrauchtes Speiseöl niemals in den<br>
+                            <h4 class="desk_show">gebrauchtes Speiseöl niemals in den<br>
                                 Abfluss gekippt werden sollte, da es zu schweren<br>Verstopfungen in der Umgebung führt</h4>
+                            <h4 class="mobile_show">gebrauchtes Speiseöl niemals in den
+                                Abfluss gekippt werden sollte, da es zu schweren Verstopfungen in der Umgebung führt</h4>
                         </div>
                     </div>
                     <div class="col-md-6">

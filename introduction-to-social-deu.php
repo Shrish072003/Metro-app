@@ -84,6 +84,14 @@
     background-color: #dbdada;
     background-image: none !important;
 }
+
+@media screen and (max-width: 600px) {
+
+
+.didyouknow_2culumn h4 {
+    line-height: 24px !important;
+}
+}
      </style>
 </head>
 

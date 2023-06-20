@@ -444,7 +444,7 @@
                             <li> At the end of the service, allow your staff to eat the surplus food or take it home</li>
                             <li>Donate your surplus ingredients if you can´t use them</li>
                             <li> Recycle and / or upcycle waste where possible</li>
-                            <li>Learn to <a href="https://www.mpulse.de/en/movinggoods/nose-to-tail-vergessene-delicatessen" target="_blank"> cook with unwanted parts</a> of meat, fish, fruit and vegetables</li>
+                            <li>Learn to <a href="https://www.mpulse.de/de/warenbewegen/nose-to-tail-vergessene-delikatessen-erobern-die-restaurants" target="_blank"> cook with unwanted parts</a> of meat, fish, fruit and vegetables</li>
 
 
                         </ul>
