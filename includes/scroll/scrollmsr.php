@@ -138,7 +138,7 @@
     padding-top:100px;
 }
 .footer-wrap {
-    position: absolute !important;
+    margin-top: 0px !important;
 }
 .inner-item {
     background-color: #ffffff;

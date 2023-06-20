@@ -139,6 +139,7 @@
 }
 .footer-wrap {
     position: relative !important;
+    height: auto;
 }
 .inner-item {
     background-color: #ffffff;

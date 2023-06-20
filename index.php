@@ -54,6 +54,9 @@
   <link rel="stylesheet" href="assets\css\responsive\main-home.css">
   <!--current page url-->
   <style>
+    .section5{
+      display: none !important;
+    }
     .custom__select:before{
             background:#ffe500;
         }
@@ -65,8 +68,11 @@
      }
      @media screen and (max-width: 400px) {
    .video-contain{
-     margin-top:210px !important;  
+     margin-top:110px !important;  
     }
+    .footer-wrap {
+    margin-top: 470px;
+}
 }
     </style>
 </head>

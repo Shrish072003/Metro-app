@@ -73,6 +73,9 @@
    .video-contain{
      margin-top:110px !important;  
     }
+    .footer-wrap {
+    margin-top: 470px;
+}
 }
     </style>
 </head>
